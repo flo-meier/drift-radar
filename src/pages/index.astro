@@ -510,6 +510,89 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
+  <section class="section peec-family-section" data-tab="overview">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Where Drift Radar sits</div>
+          <h2>The Peec slash-command family, with one new instrument</h2>
+        </div>
+      </div>
+      <p class="dek" style="margin-top: 8px;">
+        Peec already ships three slash-commands for marketing teams. Drift Radar adds the prompt-level lens neither of them cover. Different instruments, same dashboard.
+      </p>
+
+      <div class="peec-family-table-wrap">
+        <table class="peec-family-table">
+          <thead>
+            <tr>
+              <th class="peec-family-dim"></th>
+              <th><span class="mono">/peec_engine_scorecard</span><br /><span class="peec-family-sub">Find Your AI Model Blind Spot</span></th>
+              <th><span class="mono">/peec_campaign_tracker</span><br /><span class="peec-family-sub">Measure AI Sentiment Shift</span></th>
+              <th><span class="mono">/peec_weekly_briefing</span><br /><span class="peec-family-sub">Weekly AI Visibility Brief</span></th>
+              <th class="peec-family-us"><span class="mono">peec_drift_radar</span><br /><span class="peec-family-sub">Cross-model divergence + brand silence</span></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="peec-family-dim">Core question</td>
+              <td>Which <em>model</em> is weakest for me?</td>
+              <td>Did this <em>campaign</em> shift sentiment?</td>
+              <td>What moved <em>this week</em>?</td>
+              <td class="peec-family-us">Which <em>prompts</em> break my narrative across engines?</td>
+            </tr>
+            <tr>
+              <td class="peec-family-dim">Granularity</td>
+              <td>Brand-level aggregate (one score per model)</td>
+              <td>Brand-level, two time windows</td>
+              <td>Brand-level + top 5 movers</td>
+              <td class="peec-family-us">Prompt-level (N = all tracked prompts)</td>
+            </tr>
+            <tr>
+              <td class="peec-family-dim">Default cadence</td>
+              <td>On-demand</td>
+              <td>On-demand (start/end dates)</td>
+              <td>Weekly</td>
+              <td class="peec-family-us">Weekly, plus on-demand rerun</td>
+            </tr>
+            <tr>
+              <td class="peec-family-dim">Primary output</td>
+              <td>Diagnostic report + 3–5 source recommendations</td>
+              <td>Side-by-side comparison · Sheets + Slack</td>
+              <td>Notion weekly brief + Slack summary</td>
+              <td class="peec-family-us">Heatmap + Wilson-CI + N prompt-level content briefs (MD / PDF / WXR)</td>
+            </tr>
+            <tr>
+              <td class="peec-family-dim">Statistical floor</td>
+              <td>30-day averages</td>
+              <td>Before / after deltas</td>
+              <td>Week-over-week deltas</td>
+              <td class="peec-family-us">Wilson 95 % CI per cell – honest at N = 3 chats</td>
+            </tr>
+            <tr>
+              <td class="peec-family-dim">Action field</td>
+              <td>Digital PR · domain authority</td>
+              <td>Campaign attribution</td>
+              <td>Executive briefing</td>
+              <td class="peec-family-us">Content / narrative strategy · per-prompt briefs</td>
+            </tr>
+            <tr>
+              <td class="peec-family-dim">Status</td>
+              <td><span class="peec-family-pill">Shipped by Peec</span></td>
+              <td><span class="peec-family-pill">Shipped by Peec</span></td>
+              <td><span class="peec-family-pill">Shipped by Peec</span></td>
+              <td class="peec-family-us"><span class="peec-family-pill peec-family-pill-new">Proposed · this challenge</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p class="caption peec-family-footer">
+        A team running all four gets: on-demand <em>engine scorecard</em> for source strategy, on-demand <em>campaign tracker</em> at launch, weekly <em>briefing</em> for Monday standups – and <em>Drift Radar</em> weekly for content triage at the prompt level. The spec for <code class="mono">peec_drift_radar</code> lives in <a href="https://github.com/flo-meier/drift-radar/blob/main/slash_commands/peec_drift_radar.md" target="_blank" rel="noopener">slash_commands/peec_drift_radar.md</a> in the repo – ready to ship as a native Peec prompt.
+      </p>
+    </div>
+  </section>
+
   <section class="section source-overview-section" data-tab="overview">
     <div class="container">
       <div class="section-header-editorial">
@@ -2179,6 +2262,23 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .stack-map-list strong { color: var(--ink); font-weight: 600; }
   .stack-map-list .mono { font-family: var(--mono); color: var(--ink-mute); font-size: 12px; padding: 0 2px; }
   .stack-map-list code { font-family: var(--mono); font-size: 11.5px; background: var(--bg-alt); padding: 1px 5px; border: 1px solid var(--rule); color: var(--ink); }
+
+  /* Peec family comparison table */
+  .peec-family-section { background: var(--bg-alt); padding: 96px 0; }
+  .peec-family-table-wrap { margin-top: 40px; overflow-x: auto; }
+  .peec-family-table { width: 100%; min-width: 960px; border-collapse: collapse; background: var(--bg); border: 1px solid var(--rule-strong); }
+  .peec-family-table th, .peec-family-table td { padding: 14px 18px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--rule); font-size: 13.5px; line-height: 1.5; }
+  .peec-family-table thead th { background: var(--bg-alt); border-bottom: 2px solid var(--ink); font-family: var(--sans); font-weight: 600; font-size: 13px; color: var(--ink); }
+  .peec-family-table thead th .mono { font-family: var(--mono); font-weight: 700; font-size: 13px; color: var(--ink); letter-spacing: 0; }
+  .peec-family-table thead th.peec-family-us { background: var(--drift-soft); border-bottom: 2px solid var(--drift); }
+  .peec-family-table thead th.peec-family-us .mono { color: var(--drift); }
+  .peec-family-sub { font-family: var(--serif); font-style: italic; font-size: 12px; font-weight: 400; color: var(--ink-mute); display: block; margin-top: 4px; letter-spacing: 0; }
+  .peec-family-dim { font-family: var(--sans); font-size: 11px; font-weight: 600; color: var(--ink-mute); letter-spacing: 0.06em; text-transform: uppercase; width: 140px; background: var(--bg-alt); }
+  .peec-family-table td.peec-family-us { background: var(--drift-soft); border-left: 2px solid var(--drift); color: var(--ink); font-weight: 500; }
+  .peec-family-pill { display: inline-block; font-family: var(--sans); font-size: 11px; font-weight: 500; padding: 3px 9px; background: var(--bg-alt); color: var(--ink-mute); letter-spacing: 0.04em; text-transform: uppercase; border: 1px solid var(--rule-strong); }
+  .peec-family-pill-new { background: var(--drift); color: var(--bg); border-color: var(--drift); }
+  .peec-family-footer { margin-top: 24px; font-size: 14px; max-width: 900px; }
+  .peec-family-footer code { font-family: var(--mono); font-size: 12.5px; background: var(--bg); padding: 2px 6px; border: 1px solid var(--rule); color: var(--ink); }
   .cross-property { font-family: var(--mono); font-size: 11px; color: var(--ink-mute); margin-left: auto; letter-spacing: 0.02em; }
   .cross-totals { display: flex; gap: 32px; margin: 20px 0 28px; padding: 16px 22px; background: var(--bg-alt); border: 1px solid var(--rule); flex-wrap: wrap; }
   .cross-total { display: flex; flex-direction: column; gap: 3px; min-width: 180px; }
