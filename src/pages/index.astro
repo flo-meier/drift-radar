@@ -689,6 +689,47 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         </div>
       </div>
 
+      <div class="legend-box">
+        <div class="legend-title">How to read a row</div>
+        <div class="legend-grid">
+          <div class="legend-item">
+            <span class="legend-swatch legend-swatch-drift"></span>
+            <div>
+              <strong>Drift score</strong>
+              <span>0.00 = all engines agree · <strong>{'>'} 0.30</strong> flagged »drifting« · 1.00 = full disagreement</span>
+            </div>
+          </div>
+          <div class="legend-item">
+            <span class="legend-swatch legend-swatch-bar"></span>
+            <div>
+              <strong>Bar length</strong>
+              <span>own-brand visibility for that engine (0–100 %). »–« = no brand mention captured.</span>
+            </div>
+          </div>
+          <div class="legend-item">
+            <span class="legend-swatch legend-swatch-ownonly"></span>
+            <div>
+              <strong>Own-only silence</strong>
+              <span>competitors are cited, you are not. Content priority: close the narrative gap.</span>
+            </div>
+          </div>
+          <div class="legend-item">
+            <span class="legend-swatch legend-swatch-fullsilence"></span>
+            <div>
+              <strong>Full silence</strong>
+              <span>no brand cited by anyone. First-mover real estate: nobody owns this answer yet.</span>
+            </div>
+          </div>
+          <div class="legend-item">
+            <span class="legend-swatch legend-swatch-deepdive">▸</span>
+            <div>
+              <strong>Deep-dive link</strong>
+              <span>click »Deep dive →« or any row with the chevron marker to jump to the full narrative comparison.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <nav class="heatmap-filter" aria-label="Filter heatmap">
         <span class="eyebrow heatmap-filter-label">Filter</span>
         <button type="button" class="filter-btn is-active" data-filter="all">All <span class="filter-count mono">{heatmapRows.length}</span></button>
@@ -778,6 +819,40 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <p class="caption" style="margin-top: 12px; max-width: 720px;">
             Five maximum-drift prompts, literal model outputs side by side. One engine places {own_brand} first, another recommends a competitor, a third invents brands that do not exist, a fourth answers in pure substance mode and never names anyone.
           </p>
+        </div>
+      </div>
+
+      <div class="legend-box legend-box-dd">
+        <div class="legend-title">How to read a deep dive</div>
+        <div class="legend-grid legend-grid-dd">
+          <div class="legend-item">
+            <span class="legend-swatch legend-swatch-drift">0.91</span>
+            <div>
+              <strong>Divergence score</strong>
+              <span>0.7 × range(visibility) + 0.3 × clamp(CV, 0, 2) / 2. Above 0.30 is »narrative is breaking«, above 0.60 is »three different stories«.</span>
+            </div>
+          </div>
+          <div class="legend-item">
+            <span class="legend-swatch legend-swatch-ci">├─┤</span>
+            <div>
+              <strong>Wilson 95 % CI bar</strong>
+              <span>honest visibility range for N = 3 chats. A thin bar means the signal is certain; a bar spanning 0–0.56 means »could be anything between zero and majority«.</span>
+            </div>
+          </div>
+          <div class="legend-item">
+            <span class="legend-swatch legend-swatch-silent">0 %</span>
+            <div>
+              <strong>Column with 0 %</strong>
+              <span>the engine simply did not mention the brand in the sampled chat. Not »wrong« – absent.</span>
+            </div>
+          </div>
+          <div class="legend-item">
+            <span class="legend-swatch legend-swatch-hero">100 %</span>
+            <div>
+              <strong>Column with high %</strong>
+              <span>the engine placed the brand prominently. Combined with a 0 % peer column, it is the divergence pattern at a glance.</span>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -2398,6 +2473,27 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .filter-btn.is-active .filter-count { color: var(--bg); opacity: 0.85; background: rgba(247, 244, 238, 0.18); padding: 2px 6px; }
   .filter-count { font-size: 11px; color: var(--ink-mute); font-weight: 600; padding: 2px 6px; background: var(--bg-alt); transition: background 140ms ease; }
   .filter-btn:hover .filter-count { background: var(--bg-alt); }
+
+  /* Legend box – shared across heatmap + deep-dive sections */
+  .legend-box { margin: 36px 0 32px; background: var(--bg-alt); border: 1px solid var(--rule); padding: 20px 24px 16px; }
+  .legend-box-dd { margin-bottom: 48px; }
+  .legend-title { font-family: var(--sans); font-size: 11px; font-weight: 600; color: var(--ink-mute); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 14px; }
+  .legend-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px 28px; }
+  .legend-grid-dd { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+  .legend-item { display: flex; gap: 12px; align-items: flex-start; font-size: 13px; line-height: 1.45; }
+  .legend-item strong { display: block; color: var(--ink); font-size: 13px; font-weight: 600; margin-bottom: 2px; }
+  .legend-item span { color: var(--ink-soft); font-size: 12.5px; }
+  .legend-swatch { flex-shrink: 0; width: 36px; height: 22px; display: inline-flex; align-items: center; justify-content: center; font-family: var(--mono); font-weight: 700; font-size: 11px; border: 1px solid var(--rule-strong); background: var(--bg); color: var(--ink); }
+  .legend-swatch-drift { background: var(--bg); color: var(--drift); border-color: var(--drift); }
+  .legend-swatch-bar { background: linear-gradient(to right, var(--drift) 60%, var(--bg-deep) 60%); border-color: var(--rule-strong); color: transparent; }
+  .legend-swatch-ownonly { background: var(--competitor-soft); border-color: var(--competitor); color: var(--competitor); font-style: italic; }
+  .legend-swatch-ownonly::before { content: 'own-only'; font-size: 9px; font-weight: 600; letter-spacing: 0.04em; }
+  .legend-swatch-fullsilence { background: var(--bg-deep); border-color: var(--ink-mute); color: var(--ink-mute); }
+  .legend-swatch-fullsilence::before { content: 'silent'; font-size: 9px; font-weight: 600; letter-spacing: 0.04em; }
+  .legend-swatch-deepdive { background: var(--drift); color: var(--bg); border-color: var(--drift); font-size: 13px; }
+  .legend-swatch-ci { background: var(--bg); border-color: var(--ink-mute); color: var(--ink); font-size: 10px; letter-spacing: -0.05em; }
+  .legend-swatch-silent { background: var(--bg-deep); color: var(--ink-mute); border-color: var(--rule-strong); }
+  .legend-swatch-hero { background: var(--own); color: var(--bg); border-color: var(--own); }
 
   .heatmap-row.has-deepdive { cursor: pointer; position: relative; }
   .heatmap-row.has-deepdive::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: transparent; transition: background 140ms ease; }
