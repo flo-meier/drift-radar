@@ -56,6 +56,20 @@ const ga4PropertyName = ga4Payload?.property_name || '';
 const ga4Totals = ga4Payload?.totals || {};
 const ga4MaxRisk = Math.max(1, ...ga4Top.map((r: any) => r.revenue_at_risk || 0));
 
+const ahrefsPayload = (crossRefs as any).ahrefs;
+const ahrefsTop = (ahrefsPayload && ahrefsPayload.top_opportunity) || [];
+const ahrefsSource = ahrefsPayload?.source || 'demo';
+const ahrefsNote = ahrefsPayload?.note || '';
+const ahrefsCoverage = ahrefsPayload?.coverage || {};
+const ahrefsMaxOpp = Math.max(0.01, ...ahrefsTop.map((r: any) => r.opportunity_score || 0));
+
+function shortUrl(url: string, max = 52): string {
+  if (!url) return '';
+  let trimmed = url.replace(/^https?:\/\//, '').replace(/^www\./, '');
+  if (trimmed.length > max) trimmed = trimmed.slice(0, max - 1) + '…';
+  return trimmed;
+}
+
 function euro(n: number): string {
   return '€' + Math.round(n).toLocaleString('en-US');
 }
@@ -1539,6 +1553,56 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           Connect a property: add <code>GA4_SERVICE_ACCOUNT_JSON</code> and <code>GA4_PROPERTY_ID</code> to the repo secrets. The connector stub lives at <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/ga4.py" target="_blank" rel="noopener">pipeline/connectors/ga4.py</a>. Once connected, click estimates can be refined by joining live GSC impressions × SISTRIX CTR curves per position – turning »demo« into »grounded-estimate« without ever training on the brand directly.
         </p>
       </div>
+
+      <div class="cross-block">
+        <div class="cross-head">
+          <h3 class="serif">Drift × Ahrefs</h3>
+          <span class={`cross-badge cross-badge-${ahrefsSource}`}>{ahrefsSource === 'demo' ? 'partial demo data' : ahrefsSource}</span>
+          {ahrefsCoverage.prompts_with_live_url && <span class="cross-property mono">{ahrefsCoverage.prompts_with_live_url} / {ahrefsCoverage.prompts_total} prompts · live top-ranking URLs</span>}
+        </div>
+        <p class="caption cross-note">{ahrefsNote}</p>
+        <div class="cross-tagline">
+          <strong>How to read »opportunity«:</strong> high divergence means the three AI engines already disagree – there is narrative space for your version. Low keyword difficulty means no SEO fortress is guarding the keyword. <em>Both together</em> = cheapest place to kip the story.<br/><br/>
+          <span class="mono cross-formula">opportunity = divergence × (100 − KD) / 100</span>
+        </div>
+
+        <div class="cross-table-wrap">
+          <table class="cross-table">
+            <thead>
+              <tr>
+                <th class="mono">#</th>
+                <th>Prompt</th>
+                <th class="mono">Div.</th>
+                <th class="mono">KD</th>
+                <th class="mono">Vol./mo</th>
+                <th class="mono">BL</th>
+                <th>Today's top-ranking URL</th>
+                <th class="mono">Opp.</th>
+              </tr>
+            </thead>
+            <tbody>
+              {ahrefsTop.map((row: any, idx: number) => (
+                <tr>
+                  <td class="mono">{idx + 1}</td>
+                  <td><span class="cross-prompt">»{row.prompt_text}«</span></td>
+                  <td class="mono">{row.divergence_score.toFixed(2)}</td>
+                  <td class="mono">{row.keyword_difficulty}</td>
+                  <td class="mono">{row.monthly_search_volume.toLocaleString('en-US')}</td>
+                  <td class="mono">{row.backlinks_to_url.toLocaleString('en-US')}</td>
+                  <td><a class="cross-url" href={row.top_ranking_url} target="_blank" rel="noopener">{shortUrl(row.top_ranking_url)} ↗</a></td>
+                  <td class="mono cross-priority">
+                    <span class="priority-bar-wrap"><span class="priority-bar priority-bar-opp" style={`width: ${(row.opportunity_score / ahrefsMaxOpp) * 100}%`}></span></span>
+                    <span>{row.opportunity_score.toFixed(2)}</span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="caption cross-howto">
+          Connect a property: add <code>AHREFS_API_KEY</code> to the repo secrets. Stub: <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/ahrefs.py" target="_blank" rel="noopener">pipeline/connectors/ahrefs.py</a>. The ranking URLs are already live – harvested by Peec MCP itself from <code>get_domain_report</code> with the gap filter.
+        </p>
+      </div>
     </div>
   </section>
 
@@ -2050,6 +2114,10 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .priority-bar-wrap { display: inline-block; vertical-align: middle; width: 64px; height: 8px; background: var(--bg-deep); margin-right: 8px; }
   .priority-bar { display: block; height: 100%; background: var(--drift); }
   .priority-bar-risk { background: var(--warn); }
+  .priority-bar-opp { background: var(--own); }
+  .cross-url { font-family: var(--mono); font-size: 12px; color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule-strong); }
+  .cross-url:hover { border-bottom-color: var(--drift); color: var(--drift); text-decoration: none; }
+  .cross-formula { display: inline-block; margin-top: 4px; background: var(--bg); padding: 3px 8px; border: 1px solid var(--rule); color: var(--ink); font-size: 12px; }
   .cross-property { font-family: var(--mono); font-size: 11px; color: var(--ink-mute); margin-left: auto; letter-spacing: 0.02em; }
   .cross-totals { display: flex; gap: 32px; margin: 20px 0 28px; padding: 16px 22px; background: var(--bg-alt); border: 1px solid var(--rule); flex-wrap: wrap; }
   .cross-total { display: flex; flex-direction: column; gap: 3px; min-width: 180px; }
