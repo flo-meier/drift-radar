@@ -310,7 +310,36 @@ function buildLinearDescription(p: any): string {
   const visMap = p.visibility_by_model || {};
   const tc = (p.top_competitors || []).slice(0, 3).map((c: any) => `${c.brand_name} (${Math.round(c.max_visibility * 100)}%)`).join(', ');
   const visLines = active_models.map((m: any) => `- ${m.name}: ${Math.round((visMap[m.id] ?? 0) * 100)}%`).join('\n');
-  return `Drift Radar flagged this prompt as own-only silence. Competitors are cited, ${own_brand} is not.
+  const silence = p.silence_type;
+  let headline: string;
+  let actions: string[];
+  if (silence === 'own_only') {
+    headline = `Drift Radar flagged this prompt as own-only silence. Competitors are cited, ${own_brand} is not.`;
+    actions = [
+      'Audit top source domains cited by the winning engines',
+      'Publish or update a head-to-head comparison page',
+      'Add schema.org/Product markup with competitor-equivalent spec fields',
+      'Re-measure after 2 weeks',
+    ];
+  } else if (silence === 'full') {
+    headline = `Drift Radar flagged this prompt as full silence. No tracked brand owns the answer across any engine.`;
+    actions = [
+      'Draft a category-explainer page that answers the prompt on-page',
+      'Add it to the editorial queue as a Q&A with schema.org/FAQPage markup',
+      'Pitch the explainer to one editorial outlet the engines already cite for the category',
+      'Re-measure after 2 weeks',
+    ];
+  } else {
+    headline = `Drift Radar flagged this prompt for high narrative divergence (score ${p.divergence_score.toFixed(2)}). Engines disagree on who the brand is.`;
+    actions = [
+      'Identify which engine carries the brand and which does not',
+      'Stabilise the weak engine: update product pages, fix structured data, close the citation gap',
+      'Publish one head-to-head comparison targeting the divergent claim',
+      'Re-measure after 2 weeks',
+    ];
+  }
+  const actionLines = actions.map((a) => `- [ ] ${a}`).join('\n');
+  return `${headline}
 
 Prompt: »${p.prompt_text}«
 Topic: ${p.topic || '-'}
@@ -323,10 +352,7 @@ ${visLines}
 Cited instead: ${tc}
 
 Action:
-- [ ] Audit top source domains cited by the winning engines
-- [ ] Publish or update a head-to-head comparison page
-- [ ] Add schema.org/Product markup with competitor-equivalent spec fields
-- [ ] Re-measure after 2 weeks
+${actionLines}
 
 Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar #BuiltWithPeec`;
 }
@@ -391,7 +417,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
       </a>
       <div class="tab-nav-tabs">
         <button type="button" class="tab-nav-btn" data-tab="overview">Overview</button>
-        <button type="button" class="tab-nav-btn" data-tab="heatmap">Heatmap <span class="tab-badge mono">{summary.total_prompts}</span></button>
+        <button type="button" class="tab-nav-btn" data-tab="heatmap">Heatmap</button>
         <button type="button" class="tab-nav-btn" data-tab="deepdives">Deep dives <span class="tab-badge mono">{deepDives.length}</span></button>
         <button type="button" class="tab-nav-btn" data-tab="exports">Export kit <span class="tab-badge mono">9</span></button>
         <button type="button" class="tab-nav-btn" data-tab="stack">Stack</button>
@@ -907,6 +933,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
               const barWidth = Math.max(v * 100, v > 0 ? 3 : 0);
               return (
                 <div class="heatmap-cell heatmap-bar-cell">
+                  <span class="heatmap-bar-engine">{m.name}</span>
                   <div class="heatmap-bar-track">
                     {v > 0 && (
                       <div class="heatmap-bar-fill" style={`width: ${barWidth}%`}></div>
@@ -991,8 +1018,8 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         </div>
       </div>
 
-      {deepDives.map((p: any) => (
-        <article class="deepdive" id={`deepdive-${p.prompt_id}`}>
+      {deepDives.map((p: any, ddIdx: number) => (
+        <article class="deepdive" id={`deepdive-${p.prompt_id}`} data-dd-index={ddIdx}>
           <header class="deepdive-header">
             <div
               class="deepdive-score-block"
@@ -1013,8 +1040,16 @@ function sumCounts(counts: Record<string, number> | undefined): number {
                   <span class="deepdive-meta-item"><span class="eyebrow">Tags</span><span>{p.tag_names.join(' · ')}</span></span>
                 )}
               </div>
+              {ddIdx > 0 && (
+                <button type="button" class="deepdive-mobile-toggle" data-dd-toggle aria-expanded="false">
+                  <span class="deepdive-mobile-toggle-label">Tap to expand</span>
+                  <span class="deepdive-mobile-toggle-chev" aria-hidden="true">↓</span>
+                </button>
+              )}
             </div>
           </header>
+
+          <div class="deepdive-body">
 
           {(p.search_queries?.length > 0 || p.shopping_queries?.length > 0) && (
             <div class="search-intent-block">
@@ -1337,6 +1372,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
                 </div>
               );
             })}
+          </div>
           </div>
         </article>
       ))}
@@ -2332,6 +2368,31 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
         if (tab) window.location.hash = '#' + tab;
       });
 
+      // Mobile deep-dive expand: click the Tap-to-expand button or expand via hash
+      document.addEventListener('click', function(ev) {
+        var toggle = ev.target && ev.target.closest && ev.target.closest('[data-dd-toggle]');
+        if (!toggle) return;
+        var article = toggle.closest('.deepdive');
+        if (!article) return;
+        var expanded = article.classList.toggle('is-expanded');
+        toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+        if (expanded) {
+          setTimeout(function () { article.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 40);
+        }
+      });
+      function expandDeepdiveFromHash() {
+        var h = (window.location.hash || '').replace('#', '');
+        if (h.indexOf('deepdive-') !== 0) return;
+        var target = document.getElementById(h);
+        if (target && target.classList.contains('deepdive')) {
+          target.classList.add('is-expanded');
+          var toggle = target.querySelector('[data-dd-toggle]');
+          if (toggle) toggle.setAttribute('aria-expanded', 'true');
+        }
+      }
+      expandDeepdiveFromHash();
+      window.addEventListener('hashchange', expandDeepdiveFromHash);
+
       var toast = document.getElementById('share-toast');
       var toastTimer = null;
       var isMac = /Mac|iPhone|iPad|iPod/.test(navigator.platform || navigator.userAgent || '');
@@ -2668,8 +2729,12 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .scan-strip-link { font-family: var(--sans); font-size: 12px; font-weight: 500; color: var(--drift); text-decoration: none; border-bottom: 1px solid transparent; padding-bottom: 1px; transition: border-color 120ms ease; }
   .scan-strip-link:hover { border-bottom-color: var(--drift); text-decoration: none; }
   @media (max-width: 760px) {
-    .scan-strip-inner { gap: 18px; }
-    .scan-strip-actions { margin-left: 0; flex-wrap: wrap; }
+    .scan-strip .container { padding: 0 20px; }
+    .scan-strip-inner { gap: 8px 18px; padding: 12px 0 14px; flex-direction: column; align-items: stretch; }
+    .scan-strip-item { flex-wrap: wrap; }
+    .scan-strip-actions { margin-left: 0; width: 100%; flex-wrap: wrap; gap: 12px 16px; margin-top: 4px; }
+    .scan-strip-trigger { padding: 10px 18px; font-size: 13px; min-height: 40px; flex: 1 1 auto; }
+    .scan-strip-link { font-size: 13px; }
   }
 
   /* Tab visibility rules — scope to section/header elements so tab-buttons stay visible */
@@ -2968,7 +3033,50 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .has-competitors .heatmap-bar-fill { background: var(--drift); }
   .heatmap-row.is-full-silence .heatmap-bar-fill { background: var(--ink-mute); }
   .heatmap-bar-val { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: 0.02em; }
+  .heatmap-bar-engine { display: none; }
   .heatmap-prompt { flex-direction: column; align-items: flex-start; gap: 6px; padding: 18px 20px; }
+
+  @media (max-width: 720px) {
+    .heatmap-head { display: none; }
+    .heatmap-row {
+      grid-template-columns: 56px 1fr;
+      grid-template-areas:
+        "score prompt"
+        "bar1 bar1"
+        "bar2 bar2"
+        "bar3 bar3";
+      row-gap: 2px;
+      padding-bottom: 14px;
+    }
+    .heatmap-row > .heatmap-score { grid-area: score; padding: 14px 6px 4px 16px; justify-content: flex-start; font-size: 15px; }
+    .heatmap-row > .heatmap-prompt { grid-area: prompt; padding: 14px 16px 4px 0; }
+    .heatmap-row > .heatmap-bar-cell:nth-child(2) { grid-area: bar1; }
+    .heatmap-row > .heatmap-bar-cell:nth-child(3) { grid-area: bar2; }
+    .heatmap-row > .heatmap-bar-cell:nth-child(4) { grid-area: bar3; }
+    .heatmap-row .heatmap-bar-cell {
+      flex-direction: row;
+      align-items: center;
+      gap: 10px;
+      padding: 2px 16px 2px 16px;
+      min-height: 22px;
+    }
+    .heatmap-row .heatmap-bar-engine {
+      display: inline-block;
+      font-family: var(--sans);
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--ink-soft);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      min-width: 88px;
+      flex-shrink: 0;
+    }
+    .heatmap-row .heatmap-bar-track { flex: 1; }
+    .heatmap-row .heatmap-bar-val { min-width: 36px; text-align: right; flex-shrink: 0; }
+    .prompt-text { font-size: 15px; }
+    .prompt-meta { font-size: 11px; }
+  }
+
   .prompt-text { font-family: var(--serif); font-size: 17px; line-height: 1.35; color: var(--ink); }
   .prompt-meta { font-family: var(--sans); font-size: 12px; color: var(--ink-mute); letter-spacing: 0.02em; }
   .prompt-meta em { color: var(--ink-soft); }
@@ -2979,6 +3087,36 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .deepdive:last-of-type { border-bottom: 1px solid var(--ink); }
   .deepdive-header { display: grid; grid-template-columns: 300px 1fr; gap: 40px; margin-bottom: 40px; align-items: start; }
   @media (max-width: 900px) { .deepdive-header { grid-template-columns: 1fr; gap: 16px; } }
+  .deepdive-mobile-toggle { display: none; }
+  @media (max-width: 720px) {
+    .deepdive-mobile-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      margin-top: 18px;
+      padding: 10px 16px;
+      font-family: var(--sans);
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--ink);
+      background: var(--bg-alt);
+      border: 1px solid var(--rule-strong);
+      cursor: pointer;
+      transition: background 120ms ease, color 120ms ease;
+    }
+    .deepdive-mobile-toggle:hover { background: var(--drift-soft); }
+    .deepdive-mobile-toggle-chev { transition: transform 160ms ease; }
+    .deepdive.is-expanded .deepdive-mobile-toggle-chev { transform: rotate(180deg); }
+    .deepdive.is-expanded .deepdive-mobile-toggle-label::before { content: 'Collapse'; }
+    .deepdive.is-expanded .deepdive-mobile-toggle-label { font-size: 0; }
+    .deepdive.is-expanded .deepdive-mobile-toggle-label::before { font-size: 12px; }
+    /* Collapse non-first deep-dive bodies by default on mobile */
+    .deepdive[data-dd-index]:not([data-dd-index="0"]):not(.is-expanded) .deepdive-body { display: none; }
+    .deepdive[data-dd-index]:not([data-dd-index="0"]):not(.is-expanded) { padding: 28px 0; }
+    .deepdive[data-dd-index]:not([data-dd-index="0"]):not(.is-expanded) .deepdive-header { margin-bottom: 0; }
+  }
   .deepdive-score-block { padding-top: 4px; }
   .deepdive-score-block .typo-number { font-size: clamp(72px, 8.4vw, 108px); line-height: 0.92; }
   .deepdive-prompt { font-style: italic; font-size: clamp(24px, 3vw, 32px); line-height: 1.3; font-weight: 500; }
