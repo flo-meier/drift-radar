@@ -2551,9 +2551,9 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .source-label { font-weight: 500; color: var(--ink); }
   .source-pct { font-size: 13px; color: var(--ink-soft); font-weight: 600; }
 
-  .source-overview-punchline { display: grid; grid-template-columns: 240px 1fr; gap: 40px; align-items: center; padding: 32px 0 0; border-top: 1px solid var(--rule); margin-top: 8px; }
+  .source-overview-punchline { display: grid; grid-template-columns: auto 1fr; gap: 56px; align-items: center; padding: 32px 0 0; border-top: 1px solid var(--rule); margin-top: 8px; }
   @media (max-width: 900px) { .source-overview-punchline { grid-template-columns: 1fr; gap: 16px; } }
-  .source-punchline-num { font-family: var(--mono); font-weight: 700; font-size: clamp(72px, 10vw, 128px); line-height: 0.95; color: var(--drift); letter-spacing: -0.03em; }
+  .source-punchline-num { font-family: var(--mono); font-weight: 700; font-size: clamp(64px, 7.5vw, 104px); line-height: 0.95; color: var(--drift); letter-spacing: -0.03em; white-space: nowrap; }
   .source-punchline-unit { font-size: 0.4em; color: var(--ink-soft); margin-left: 6px; }
   .source-punchline-copy { font-size: 16px; line-height: 1.55; }
   .source-punchline-copy .serif { font-size: 20px; }
@@ -3017,6 +3017,9 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .masthead { padding: 40px 0 60px; padding-bottom: calc(60px + 70px); /* room for sticky bar */ }
 
   /* Sticky export bar — fixed bottom, always visible */
+  /* Leave room for the fixed export bar at the bottom of the page. */
+  body { padding-bottom: 68px; }
+  @media (max-width: 700px) { body { padding-bottom: 60px; } }
   .sticky-export-bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 90; background: var(--ink); color: var(--bg); border-top: 1px solid var(--ink); box-shadow: 0 -6px 24px rgba(26, 22, 20, 0.12); }
   .sticky-export-inner { max-width: 1400px; margin: 0 auto; padding: 12px 32px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
   .sticky-export-label { color: rgba(247, 244, 238, 0.6); letter-spacing: 0.12em; margin-right: 8px; }
