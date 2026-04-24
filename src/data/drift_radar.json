@@ -422,79 +422,7 @@
           }
         ],
         "total_retrieved": 5.170000000000002
-      },
-      "gap_urls": [
-        {
-          "url": "https://facebook.com/MarstallPferdefutter/videos/-empfindlicher-magen-nerv%C3%B6ses-pferd-unser-gastro-m%C3%BCsli-bietet-die-perfekte-f%C3%BCtte/938385081784838",
-          "classification": "PRODUCT_PAGE",
-          "title": null,
-          "citation_count": 3,
-          "retrieval_count": 2,
-          "citation_rate": 1.5
-        },
-        {
-          "url": "https://amazon.de/-/en/Stomach-Kit-1-5-Irritation-Grain-Free/dp/B09BZM2HL8",
-          "classification": "OTHER",
-          "title": "Magen Kit (1,5 kg - Pellet) - zur Unterstützung von Pferden mit Magenproblemen, Magengeschwüren oder Magenschleimhautreizungen \\| pelletiert, getreidefrei, ohne Zuckerzusatz \\| : Amazon.de: Haustier",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://amazon.de/-/en/Gastric-Supplement-Irritation-Bufferes-Pellets/dp/B07X4WZ72K",
-          "classification": "PRODUCT_PAGE",
-          "title": "Equine 74 Gastric - Supplement für Pferde, Ponys mit Magenschleimhautreizung, Kolik oder Magengeschwür, puffert Magensäure (Pellets, 20kg) : Amazon.de: Gewerbe, Industrie & Wissenschaft",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://equine74.com/de/blog/fuetterung-von-pferden-mit-magengeschwueren",
-          "classification": "HOW_TO_GUIDE",
-          "title": "Fütterung von Pferden mit Magengeschwüren",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://marstall.de/gastro/20kg",
-          "classification": "PRODUCT_PAGE",
-          "title": "Gastro - Getreidefreies Magen-Müsli für Pferde",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0,
-          "excerpt": "marstall Gastro wurde nach aktuellen wissenschaftlichen Erkenntnissen für Pferde mit empfindlichem Magen oder Magenproblemen konzipiert. Darüber hinaus profitieren auch nervöse und dünne Pferde von der getreidefreien, Magensäure puffernden und gleichzeitig optimal verwertbaren Rezeptur. Das melassefreie Müsli ist sehr schmackhaft, da Pferde mit Magenproblemen oft mäkelig sind. Dank Allgäuer Heufasern und weichen Timothee-Häckseln besitzt Gastro einen hohen Strukturgehalt. Das regt die Kautätigkeit an und fördert so die Bildung von Speichel, der zusammen mit dem zugesetzten Bikarbonat die Magensäure puffert.",
-          "angle": "Marstall's product page wins because it leads with mechanism (bicarbonate buffers acid, Timothee structure triggers saliva) before the buy-button. Peec ranks this as the reference product page for gastric category – an explicit citation target.",
-          "url_classification": "PRODUCT_PAGE"
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "magenpellets pferd empfindlich magen"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "magenpellets pferd empfindlich magen",
-          "products": [
-            "Atcom Gastro Sensitive Comp",
-            "iWEST Magnoguard",
-            "Lexa Gastro Akut",
-            "MASTERHORSE MAGEN-PERFEKT Pellets",
-            "NAF GastriVet Pellets"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6",
@@ -673,19 +601,7 @@
             "google-ai-overview-scraper": []
           }
         }
-      },
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce",
@@ -803,33 +719,7 @@
           }
         ],
         "total_retrieved": 3.299999999999999
-      },
-      "gap_urls": [
-        {
-          "url": "https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Sehnen-Gelenke",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter für gesunde Gelenke online kaufen | HippoSport ®",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "natürliche Gelenkpulver Pferd natürliche Gelenkpellets Pferd Empfehlungen"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
@@ -1008,19 +898,7 @@
             "google-ai-overview-scraper": []
           }
         }
-      },
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
@@ -1335,68 +1213,7 @@
           }
         ],
         "total_retrieved": 8.360000000000007
-      },
-      "gap_urls": [
-        {
-          "url": "https://pavo-futter.de/beratung/futterung-von-nervosen-dunnen-pferden",
-          "classification": "OTHER",
-          "title": "Nervöse und dünne Pferde mit dem richtigen Futter unterstützen",
-          "citation_count": 2,
-          "retrieval_count": 3,
-          "citation_rate": 0.67,
-          "excerpt": "Häufig erreicht uns in der Pavo Fütterungsberatung die Frage nach der richtigen Fütterung von nervösen und dünnen Pferden. Wichtig ist hierbei herauszufinden, warum oder worauf dein Pferd besonders nervös und unkonzentriert reagiert. Auf den entsprechenden Auslöser gilt es dann einzugehen. Auch ein angepasstes Futter oder Ergänzungsfuttermittel kann dein Pferd dabei unterstützen, seine innere Ruhe auf natürliche Weise wiederherzustellen. Auch die Fütterung kann einen bedeutenden Einfluss auf die Ausgeglichenheit deines Pferdes haben. Sowohl ein Mangel als auch ein Überschuss an Nährstoffen kann das Verhalten von Pferden verändern.",
-          "angle": "Pavo frames nervous horses as a diagnostic problem first (trigger, posture, feed imbalance) and only then recommends its product. The article ranks because it answers the symptom question before recommending anything.",
-          "url_classification": "HOW_TO_GUIDE"
-        },
-        {
-          "url": "https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Nervositaet",
-          "classification": "HOW_TO_GUIDE",
-          "title": "Futter für nervöse Pferde online kaufen  | HippoSport ®",
-          "citation_count": 1,
-          "retrieval_count": 2,
-          "citation_rate": 0.5
-        },
-        {
-          "url": "https://st-hippolyt.de/wissen/wissenwertes/fuetterungstipps-fuer-starke-nerven-beim-pferd",
-          "classification": "CATEGORY_PAGE",
-          "title": "Fütterungstipps für starke Nerven beim Pferd",
-          "citation_count": 0,
-          "retrieval_count": 2,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://madbarn.com/feed-types/calming-supplement",
-          "classification": "OTHER",
-          "title": "Calming Supplements for Horses - Nutrition Information | Equine Feed Database",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://madbarn.com/feeds/anti-stress-herbal-pellets-st-hippolyt",
-          "classification": "OTHER",
-          "title": "Anti-Stress Herbal Pellets (St.Hippolyt) - Equine Nutrition Analysis | Feed Bank",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "natürliche Nervenpellets Pferd Inhaltsstoffe beruhigung Pferd Ergänzungsfutter Vergleich Inhaltsstoffe magnesium tryptophan baldrian pferd pellets"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
@@ -1661,59 +1478,7 @@
           }
         ],
         "total_retrieved": 3.2099999999999995
-      },
-      "gap_urls": [
-        {
-          "url": "https://pferde-heilkunde.com/2025/08/06/zusatzfutter-gelenke-pferd-test",
-          "classification": "LISTICLE",
-          "title": "Zusatzfutter Gelenke Pferd: Test 2026 | Was hilft wirklich?",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0,
-          "excerpt": "Die Diagnose Arthrose trifft jeden Pferdebesitzer ins Mark. Plötzlich steht ein Wort im Raum, das nach Endgültigkeit klingt: Verschleiß, Schmerz, das Ende der gemeinsamen aktiven Zeit. Dieser Artikel ist Ihr wissenschaftlich fundierter und zugleich praxisnaher Kompass durch den Dschungel der Gelenk-Zusatzfutter. Wir entschlüsseln, was im Gelenk Ihres Pferdes wirklich passiert, bewerten die gängigsten Wirkstoffe auf Basis aktueller Studien und stellen Ihnen in einem klaren, vergleichbaren Test die sieben besten Produkte vor.",
-          "angle": "pferde-heilkunde.com is the editorial listicle engines cite for joint-supplement questions. The structure – anatomy, mechanism-of-action for each active ingredient, ranked test – is what LLMs extract as authoritative answer. To be cited here you need to be in the test panel; Peec flags this URL as a top-opportunity outreach target.",
-          "url_classification": "LISTICLE"
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "medium",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "beste Gelenkpellets Pferd Deutschland Bewertung Erfahrungen Gelenkpräparate Pferd MSM Glucosamin Chondroitin"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "gelenkpellets pferd deutschland"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "gelenkpellets pferd deutschland",
-          "products": [
-            "Gelenk Kit Pellets",
-            "Gelenk Kit Pellets (Glucosamin, Chondroitin, MSM)",
-            "GELENK PRO",
-            "GELENK PRO mit Teufelskralle",
-            "PharmaHorse Gelenk Pellets"
-          ]
-        },
-        {
-          "query": "joint pellets horse germany",
-          "products": [
-            "Equistro Artphyton",
-            "navalis arthral Horse Pellets",
-            "navalis arthral Pellets"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
@@ -1835,75 +1600,7 @@
           }
         ],
         "total_retrieved": 6.050000000000006
-      },
-      "gap_urls": [
-        {
-          "url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung/Hufrehe",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter für Hufrehe online kaufen",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://reiter-pferde.de/den-muskelaufbau-foerdern",
-          "classification": "ARTICLE",
-          "title": "Den Muskelaufbau fördern",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://tierarzt24.de/pferd-ergaenzungsfutter-gelenke",
-          "classification": "CATEGORY_PAGE",
-          "title": "Ergänzungsfuttermittel für die Gelenke von Pferden \\| Tierarzt24.de",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://stallbedarf24.de/pferd/pferdefutter/zusatzfutter/arthrose",
-          "classification": "CATEGORY_PAGE",
-          "title": "Zusatzfutter bei Arthrose Deiner Pferde kaufen | Stallbedarf24",
-          "citation_count": 0,
-          "retrieval_count": 2,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://tierischefreude.de/shop/arthrogreen-horse-2-kg",
-          "classification": "OTHER",
-          "title": "ArthroGreen Horse 2 kg - Natürliche Gelenkunterstützung für vitale Pferde",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "medium",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "Gelenkunterstützung Pferd Ergänzungsfutter"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "gelenkunterstützung pferd ergänzungsfutter",
-          "products": [
-            "Equine America Cortaflex HA Regular Powder",
-            "HIPPOSPORT Gelenk-Kräutercocktail",
-            "MASTERHORSE Repar G",
-            "NutriScience ArthriAid Omega HA"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_e107b87d-d16a-46cd-a7cd-97643c2eecea",
@@ -1947,19 +1644,7 @@
       "mean_visibility": 0.11,
       "own_silence": false,
       "silence_type": null,
-      "top_competitors": [],
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      "top_competitors": []
     },
     {
       "prompt_id": "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba",
@@ -2072,45 +1757,7 @@
           }
         ],
         "total_retrieved": 1.7
-      },
-      "gap_urls": [
-        {
-          "url": "https://stallbedarf24.de/st.hippolyt-ricelein-pellets",
-          "classification": "PRODUCT_PAGE",
-          "title": "ST.HIPPOLYT® RICELEIN – stärke- und zuckerarm für dein Pferd!",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "medium",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "Gelenkpellets Pferd ohne Zucker"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "gelenkpellets pferd ohne zucker",
-          "products": [
-            "Equidrol Gelenke Fit Pellets",
-            "Equidrol Gelenke Fit Pellets 1,5 kg",
-            "Gelenk-Tuning Pellets 1,5 kg",
-            "Pferdegold Gelenke Pellets",
-            "Pferdegold Gelenke Pellets 1,5 kg",
-            "PharmaHorse Gelenk Pellets 3 kg"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c",
@@ -2232,53 +1879,7 @@
           }
         ],
         "total_retrieved": 5.7200000000000015
-      },
-      "gap_urls": [
-        {
-          "url": "https://pavo-futter.de/beratung/die-10-wichtigsten-inhaltsstoffe-im-erganzungsfutter-fur-pferde",
-          "classification": "OTHER",
-          "title": "Inhaltsstoffe im Ergänzungsfutter – Diese 10 sind wichtig | Pavo",
-          "citation_count": 0,
-          "retrieval_count": 2,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://cavallo.de/medizin/welches-mineralfutter-fuer-welches-pferd",
-          "classification": "ARTICLE",
-          "title": "Welches Mineralfutter für welches Pferd?",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://pferdefutter.de/de/zusatzfutter-supplemente",
-          "classification": "CATEGORY_PAGE",
-          "title": "Ausgewählte Supplemente für dein Pferd",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "natürliche Nahrungsergänzungsmittel für Pferde empfehlenswert"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "natural supplements for horses beneficial which ones herbs vitamins horses"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933",
@@ -2425,69 +2026,7 @@
           }
         ],
         "total_retrieved": 4.51
-      },
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "very low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "magenpellets ohne zuckerzusatz"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Magenpellets ohne Zuckerzusatz Pferd"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Magenpellets ohne Zuckerzusatz"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "magenpellets ohne zuckerzusatz",
-          "products": [
-            "HAWLIK TriProtect Gastrointestinal",
-            "MagenWohl Kräuterpellets",
-            "Robert Franz Magen & Darm Pellets"
-          ]
-        },
-        {
-          "query": "magengeschwür pellet pferd ohne zucker",
-          "products": [
-            "Magen Kit Pellets",
-            "Magenwohl Kräuterpellets",
-            "NAF Gastrivet Pellets"
-          ]
-        },
-        {
-          "query": "magenpellets ohne zuckerzusatz pferd",
-          "products": [
-            "Equine 74 Gastric Pellets"
-          ]
-        },
-        {
-          "query": "magenpellets ohne zuckerzusatz",
-          "products": [
-            "Robert Franz Magen & Darm Pellets"
-          ]
-        },
-        {
-          "query": "zuckerfreie magenpellets",
-          "products": [
-            "Doppelherz Säure-Basen Balance Direct Pellets",
-            "Magenwohl Kräuterpellets",
-            "NAF Gastrivet Pellets"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f",
@@ -2611,36 +2150,7 @@
           }
         ],
         "total_retrieved": 4.51
-      },
-      "gap_urls": [
-        {
-          "url": "https://pferdefuttershop.de/Pferdefutter/Misch-Ergaenzungsfutter/Pellets",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pellets für Pferde bequem online kaufen",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Sehnen-Gelenke",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter für gesunde Gelenke online kaufen | HippoSport ®",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "very low",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
@@ -2838,60 +2348,7 @@
           }
         ],
         "total_retrieved": 4.839999999999999
-      },
-      "gap_urls": [
-        {
-          "url": "https://pferdefutter.de",
-          "classification": "HOMEPAGE",
-          "title": "Futter für dein Pferd bestellen",
-          "citation_count": 1,
-          "retrieval_count": 3,
-          "citation_rate": 0.33
-        },
-        {
-          "url": "https://pferdefuttershop.de/Marken",
-          "classification": "CATEGORY_PAGE",
-          "title": "Top Pferdefutter Marken hier entdecken",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pavo-futter.de",
-          "classification": "HOMEPAGE",
-          "title": "Pferdefutter von Pavo - für die Gesundheit deines Pferdes!",
-          "citation_count": 0,
-          "retrieval_count": 2,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://pferdefutter-koros.de",
-          "classification": "HOMEPAGE",
-          "title": "Hochwertiges Pferdefutter von KOROS: Natürliche Ernährung für gesunde Pferde",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://stroeh.de/shop/Pferdefutter/Misch-Ergaenzungsfuttermittel/Getreidefrei/Pferdgerecht-Futter-Natur-15-kg",
-          "classification": "PRODUCT_PAGE",
-          "title": "Pferdgerecht Futter Natur 15 kg",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "medium",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_9f26a21e-b794-4afa-965f-82573e3aafdd",
@@ -2988,19 +2445,7 @@
             }
           ]
         }
-      ],
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      ]
     },
     {
       "prompt_id": "pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f",
@@ -3120,28 +2565,7 @@
           }
         ],
         "total_retrieved": 4.179999999999999
-      },
-      "gap_urls": [
-        {
-          "url": "https://pavo-futter.de/glucosamine-wenn-gelenke-und-sehnen-bei-pferden-probleme-machen",
-          "classification": "HOW_TO_GUIDE",
-          "title": "Glucosamine für bewegliche und gesunde Gelenke von Pferden",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f",
@@ -3312,67 +2736,7 @@
           }
         ],
         "total_retrieved": 5.17
-      },
-      "gap_urls": [
-        {
-          "url": "https://havenspferdefutter.at",
-          "classification": "HOMEPAGE",
-          "title": "HAVENS Pferdefutter Österreich – HAVENS Robert Metzlar",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://lawau.at/en/products/agrobs-alpengrun-musli-getreidefrei-15kg",
-          "classification": "OTHER",
-          "title": "Agrobs AlpenGrün Muesli, grain-free, 15kg – Lawau Tierbedarf",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://amazon.de/mypferdefutter-Gr%C3%BCnhafer-Cobs-ohne-Zus%C3%A4tze/dp/B09XLD4D34",
-          "classification": "OTHER",
-          "title": "mypferdefutter Grünhafer Cobs ohne Zusätze - 20kg - 100% Natur PUR ohne Zusätze und Melasse - rohfaserreich, stärkearm und getreidefreie - besonders schmackhaftes Pferdefutter : Amazon.de: Haustier",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "Pferdefutter mit natürlichen Inhaltsstoffen Österreich Pferdefutter natürliche Inhaltsstoffe"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "natural horse feed Austria natural ingredients horse feed Austria"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "natural horse feed austria natural ingredients",
-          "products": [
-            "Agrobs Naturmineral",
-            "Annimally Mineralfutter Organisch",
-            "EquiGreen Natural Vital Pellets",
-            "EWALIA Natur Pur Mash",
-            "HBD's Futter Vitalo Pferdefutter",
-            "Pavo Nature's Best",
-            "Pegus Natural Wiesencobs Pferdefutter",
-            "Ströh Einklang Vollwertpellets"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4",
@@ -3513,75 +2877,7 @@
           }
         ],
         "total_retrieved": 5.720000000000003
-      },
-      "gap_urls": [
-        {
-          "url": "https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Huf",
-          "classification": "CATEGORY_PAGE",
-          "title": "Biotin und mehr - Zusatzfutter für gesunde Hufe kaufen",
-          "citation_count": 3,
-          "retrieval_count": 3,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://ipet.ch/apotheke/pferde/hufpflege",
-          "classification": "OTHER",
-          "title": "Pflegeartikel & Nahrungsergänzungen für gesunde Pferdehufe online kaufen | iPet.ch",
-          "citation_count": 1,
-          "retrieval_count": 2,
-          "citation_rate": 0.5
-        },
-        {
-          "url": "https://reitsport.ch/pferdefutter/ergaenzungsfutter/haare-hufe-haut",
-          "classification": "OTHER",
-          "title": "Pferdefutter für Haare, Hufe und Haut - Ergänzungsfutter bei reitsport.ch",
-          "citation_count": 0,
-          "retrieval_count": 2,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://fundis-reitsport.ch/pflege-stall-futter/ergaenzungsfuttermittel/anwendungsbereiche/hufe-haut-fell/18386/naf-biotin-plus-hufe-ergaenzungsfuttermittel",
-          "classification": "OTHER",
-          "title": "NAF Biotin Plus, Hufe, Ergänzungsfuttermittel",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "Ergänzungsmittel für Hufe in der Schweiz erhältlich Pferde Huf Supplement Schweiz"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Hoof supplements available in Switzerland for horses hoof health supplements Switzerland"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "hoof supplements for horses available switzerland",
-          "products": [
-            "Audevard Hoof Biotine 1 kg",
-            "Equine America Super Hoof Pellet",
-            "Horse First Hoof First",
-            "Intibio DBS Hoof Supply 1750 g",
-            "Kevin Bacon's Hoof Formula",
-            "NutriLabs Hoof Support Pellets 3 kg",
-            "NutriScience Farrier’s Choice 1.2 kg",
-            "St.Hippolyt Biotin Hoof Mixture"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5",
@@ -3705,74 +3001,7 @@
           }
         ],
         "total_retrieved": 5.609999999999999
-      },
-      "gap_urls": [
-        {
-          "url": "https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Huf",
-          "classification": "CATEGORY_PAGE",
-          "title": "Biotin und mehr - Zusatzfutter für gesunde Hufe kaufen",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pavo-futter.de/beratung/die-10-wichtigsten-inhaltsstoffe-im-erganzungsfutter-fur-pferde",
-          "classification": "LISTICLE",
-          "title": "Inhaltsstoffe im Ergänzungsfutter – Diese 10 sind wichtig | Pavo",
-          "citation_count": 0,
-          "retrieval_count": 3,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://hipposport.de/Pferdefutter-Mineralfutter",
-          "classification": "OTHER",
-          "title": "Mineralfutter für Pferde online kaufen  | HippoSport ®",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://pavo-futter.de/pferdefutter/allround/pavo-vital",
-          "classification": "PRODUCT_PAGE",
-          "title": "Pavo Vital",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "natürliches Ergänzungsfutter Pferd Mineralfutter"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "bio pferdefutter ergänzung",
-          "products": [
-            "Bio Pferde-Bokashi Ergänzungsfutter",
-            "HorseCare Bio Ergänzungsfutter flüssig"
-          ]
-        },
-        {
-          "query": "natürliches ergänzungsfutter pferd mineralfutter",
-          "products": [
-            "Equigreen MicroMineral plus",
-            "Laurel Nature Premium Minerals",
-            "PERNATURAM EquiBasal",
-            "Wilde Wiese Mineral Kräuterie"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_22b8e498-4894-4fe3-b560-df45dca80819",
@@ -3828,19 +3057,7 @@
             }
           ]
         }
-      ],
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "very low",
-      "search_queries": [],
-      "shopping_queries": []
+      ]
     },
     {
       "prompt_id": "pr_3b705cc9-5167-44e0-83c3-d105b97744ad",
@@ -4015,77 +3232,7 @@
           }
         ],
         "total_retrieved": 6.429999999999999
-      },
-      "gap_urls": [
-        {
-          "url": "https://idealo.de/preisvergleich/ProductCategory/25956.html",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter (2026) zum Bestpreis \\| idealo.de",
-          "citation_count": 7,
-          "retrieval_count": 3,
-          "citation_rate": 2.33
-        },
-        {
-          "url": "https://kaaloon.de/futtermittel-fuer-pferde",
-          "classification": "COMPARISON",
-          "title": "Futtermittel für Pferde günstig kaufen » ab 13,90 €",
-          "citation_count": 4,
-          "retrieval_count": 2,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://idealo.de/preisvergleich/ProductCategory/25956F106980893.html",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter (2026) zum Bestpreis \\| idealo.de",
-          "citation_count": 0,
-          "retrieval_count": 3,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://idealo.de/preisvergleich/ProductCategory/25956F101320646.html",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter (2026) zum Bestpreis \\| idealo.de",
-          "citation_count": 0,
-          "retrieval_count": 2,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://hawobe.de/pferdefutter-test",
-          "classification": "OTHER",
-          "title": "Pferdefutter",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferdefutter deutschland preis leistung analyse"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter Pferdefutter Deutschland Preis Leistung"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "horse feed made in Germany cost quality horse feed Germany pricing horse feed analysis"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Pferdefutter Deutschland Preis Leistung Vergleich"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
@@ -4221,48 +3368,7 @@
           }
         ],
         "total_retrieved": 1.7
-      },
-      "gap_urls": [
-        {
-          "url": "https://stallbedarf24.de/st.hippolyt-ricelein-pellets",
-          "classification": "PRODUCT_PAGE",
-          "title": "ST.HIPPOLYT® RICELEIN – stärke- und zuckerarm für dein Pferd!",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "magenpellets pferd ohne zucker"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "horse gastric pellets sugar free",
-          "products": [
-            "Equine 74 Gastric Pellets",
-            "NAF GastriVet Pellets"
-          ]
-        },
-        {
-          "query": "magenpellets pferd ohne zucker",
-          "products": [
-            "MASTERHORSE Magen-Perfekt Pellets",
-            "Nobel Stomac Pellets"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad",
@@ -4388,69 +3494,7 @@
           }
         ],
         "total_retrieved": 11.330000000000007
-      },
-      "gap_urls": [
-        {
-          "url": "https://pavo-futter.de/beratung/wie-erganzungsfutter-die-pferdegesundheit-unterstutzen-kann",
-          "classification": "OTHER",
-          "title": "Ergänzungsfutter zur Unterstützung der Pferdegesundheit | Pavo",
-          "citation_count": 2,
-          "retrieval_count": 3,
-          "citation_rate": 0.67
-        },
-        {
-          "url": "https://pferdekumpel.de/ernaehrung/zusatzfutter-fuer-die-hufe-von-pferden",
-          "classification": "OTHER",
-          "title": "Gesundes Zusatzfutter für die Hufe von Pferden – Auf welche Inhaltsstoffe sollte man achten?",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://ehorses.de/magazin/produkttest/unsere-tester-berichten-pavo-biotinforte-fuer-starke-hufe-gesundes-fell",
-          "classification": "ARTICLE",
-          "title": "Unsere Tester berichten: Pavo BiotinForte für starke Hufe & gesundes Fell",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://animondo.de/blogs/hest/top-6-bedst-i-test-tilskud-til-bedre-hove",
-          "classification": "LISTICLE",
-          "title": "Top 6 Testsieger: Nahrungsergänzungsmittel für bessere Hufe!",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung",
-          "classification": "PRODUCT_PAGE",
-          "title": "Spezialfutter für Pferde | Bei besonderen Ansprüchen",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "medium",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferd hufe fell supplement biotin zink studie wirksamkeit"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Ergänzungsmittel Pferd Hufe Fell Wirksamkeit Biotin Zink MSM Vergleich Studie Pferde Nahrungsergänzung"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83",
@@ -4532,19 +3576,7 @@
             }
           ]
         }
-      ],
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      ]
     },
     {
       "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
@@ -4720,90 +3752,7 @@
           }
         ],
         "total_retrieved": 7.700000000000007
-      },
-      "gap_urls": [
-        {
-          "url": "https://marstall.de/gastro/20kg",
-          "classification": "PRODUCT_PAGE",
-          "title": "Gastro - Getreidefreies Magen-Müsli für Pferde",
-          "citation_count": 3,
-          "retrieval_count": 2,
-          "citation_rate": 1.5,
-          "excerpt": "marstall Gastro wurde nach aktuellen wissenschaftlichen Erkenntnissen für Pferde mit empfindlichem Magen oder Magenproblemen konzipiert. Darüber hinaus profitieren auch nervöse und dünne Pferde von der getreidefreien, Magensäure puffernden und gleichzeitig optimal verwertbaren Rezeptur. Das melassefreie Müsli ist sehr schmackhaft, da Pferde mit Magenproblemen oft mäkelig sind. Dank Allgäuer Heufasern und weichen Timothee-Häckseln besitzt Gastro einen hohen Strukturgehalt. Das regt die Kautätigkeit an und fördert so die Bildung von Speichel, der zusammen mit dem zugesetzten Bikarbonat die Magensäure puffert.",
-          "angle": "Marstall's product page wins because it leads with mechanism (bicarbonate buffers acid, Timothee structure triggers saliva) before the buy-button. Peec ranks this as the reference product page for gastric category – an explicit citation target.",
-          "url_classification": "PRODUCT_PAGE"
-        },
-        {
-          "url": "https://stroeh.de/shop/Pferdefutter/Misch-Ergaenzungsfuttermittel/Mash/DERBY-Gastro-Mash-12-5-kg-Sack",
-          "classification": "OTHER",
-          "title": "DERBY Gastro-Mash 12,5 kg",
-          "citation_count": 3,
-          "retrieval_count": 1,
-          "citation_rate": 3
-        },
-        {
-          "url": "https://huebner-landmarkt.de/tierbedarf/pferdefutter",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter - Landmarkt Hübner",
-          "citation_count": 2,
-          "retrieval_count": 2,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pferdefutter.de/de/magen-darm-pferd-futter",
-          "classification": "CATEGORY_PAGE",
-          "title": "Futter für Magen & Darm deines Pferdes",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://stroeh.de/shop/Pferdefutter/Misch-Ergaenzungsfuttermittel/Getreidefrei/Marstall-Gastro-Muesli-20-kg",
-          "classification": "PRODUCT_PAGE",
-          "title": "Marstall Gastro 20 kg",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "in Deutschland hergestelltes Magenfutter für Pferd Pferdefutter Magenfutter Deutschland"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "German made equine gastric feed for horses German products gastric supplement horse feed Germany"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferdefutter magen deutschland hergestellt mash pferd magenfutter"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "equine gastric feed made in germany for horses",
-          "products": [
-            "Atcom Gastric Plus",
-            "Equine 74 Ergänzungsfutter Gastric",
-            "Equine 74 Gastric (Pulver)",
-            "Equipur – gastral 25 kg",
-            "EQUIPUR‑gastral (klein)",
-            "Höveler Pur Gastro",
-            "Lexa Gastro Akut",
-            "marstall Gastro‑Müsli"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_e229fc63-4622-49a9-99d3-65436ec2ee19",
@@ -4847,19 +3796,7 @@
       "mean_visibility": 0,
       "own_silence": true,
       "silence_type": "full",
-      "top_competitors": [],
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "medium",
-      "search_queries": [],
-      "shopping_queries": []
+      "top_competitors": []
     },
     {
       "prompt_id": "pr_e2f64483-3123-48e4-aaee-b034f609647d",
@@ -4977,19 +3914,7 @@
           }
         ],
         "total_retrieved": 3.19
-      },
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_40c01f10-5541-49c6-90be-fec89294d3c5",
@@ -5060,19 +3985,7 @@
             }
           ]
         }
-      ],
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      ]
     },
     {
       "prompt_id": "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df",
@@ -5116,19 +4029,7 @@
       "mean_visibility": 0,
       "own_silence": true,
       "silence_type": "full",
-      "top_competitors": [],
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      "top_competitors": []
     },
     {
       "prompt_id": "pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e",
@@ -5324,69 +4225,7 @@
           }
         ],
         "total_retrieved": 5.720000000000003
-      },
-      "gap_urls": [
-        {
-          "url": "https://reitsport.ch/pferdefutter/kraftfutter-raufutter/melassefrei",
-          "classification": "OTHER",
-          "title": "Hochwertiges Pferdefutter ohne Melasse - Reitsport.ch",
-          "citation_count": 2,
-          "retrieval_count": 3,
-          "citation_rate": 0.67
-        },
-        {
-          "url": "https://equusvitalis.ch/de-CH/futtermittel/getreidefrei",
-          "classification": "CATEGORY_PAGE",
-          "title": "Getreidefreies Müsli für Pferde - EquusVitalis Onlineshop",
-          "citation_count": 1,
-          "retrieval_count": 3,
-          "citation_rate": 0.33
-        },
-        {
-          "url": "https://landi.swiss/de-CH/cooperative/landi-zola/content/pferdefutter-und-pferdekompetenz",
-          "classification": "PROFILE",
-          "title": "Pferdefutter & Pferdekompetenz",
-          "citation_count": 1,
-          "retrieval_count": 2,
-          "citation_rate": 0.5
-        },
-        {
-          "url": "https://pferdefuttershop.de/Pferdefutter/Eigenschaften/Low-Carb-zuckerreduziert",
-          "classification": "CATEGORY_PAGE",
-          "title": "Low Carb Pferdefutter | Zuckerreduziert | Top-Auswahl",
-          "citation_count": 1,
-          "retrieval_count": 2,
-          "citation_rate": 0.5
-        },
-        {
-          "url": "https://cavale-schweiz.ch/product?deukavallo-getreidefrei-21=",
-          "classification": "PRODUCT_PAGE",
-          "title": "Deukavallo Getreidefrei 21 kg - Cavale Schweiz",
-          "citation_count": 1,
-          "retrieval_count": 2,
-          "citation_rate": 0.5
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "medium",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "gesundes Pferdefutter ohne Zucker Schweiz Pferdefutter zuckerfrei"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "where to find healthy sugar free horse feed in Switzerland horse feed sugar-free Switzerland"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01",
@@ -5554,52 +4393,7 @@
           }
         ],
         "total_retrieved": 1.7000000000000002
-      },
-      "gap_urls": [
-        {
-          "url": "https://equidrome.com/pferd/pferdefutter-zusatzfutter/zusatzfutter",
-          "classification": "OTHER",
-          "title": "Zusatzfutter - Pferdefutter & Zusatzfutter - Pferd",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://equusvitalis.de/zusatzfutter",
-          "classification": "CATEGORY_PAGE",
-          "title": "Zusatzfutter für dein Pferd - EquusVitalis Onlineshop",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "gesundes pferdefutter deutschland zusatzfutter pferd"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "gesundes pferdefutter deutschland zusatzfutter pferd",
-          "products": [
-            "Agrobs Weidemineral-Cobs",
-            "Lexa Allgäuwiesen Mash",
-            "Marstall Force",
-            "Pavo WeightLift",
-            "St. Hippolyt Equigard Müsli"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_919e94f2-5a66-46fd-b425-6ae88721d518",
@@ -5739,40 +4533,7 @@
           }
         ],
         "total_retrieved": 1.8699999999999997
-      },
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferd magen unterstützung niederlande"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "horse gastric supplement netherlands",
-          "products": [
-            "Equine 74 Gastric",
-            "Lexa Gastro Akut",
-            "Pavo GastriCover"
-          ]
-        },
-        {
-          "query": "pferd magen unterstützung niederlande",
-          "products": [
-            "HorseFlex Magen Balance",
-            "Synovium Gastrosafe"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a",
@@ -5900,69 +4661,7 @@
           }
         ],
         "total_retrieved": 11.79
-      },
-      "gap_urls": [
-        {
-          "url": "https://equitana.com/essen/de-de/blog/gesundheit/fuetterung-fuer-freizeitpferde.html",
-          "classification": "ARTICLE",
-          "title": "Das richtige Pferdefutter - 7 wichtige Grundsätze",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Huf",
-          "classification": "CATEGORY_PAGE",
-          "title": "Biotin und mehr - Zusatzfutter für gesunde Hufe kaufen",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung",
-          "classification": "PRODUCT_PAGE",
-          "title": "Spezialfutter für Pferde | Bei besonderen Ansprüchen",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pavo-futter.de/duenne-pferde",
-          "classification": "OTHER",
-          "title": "Auch dein Pferd kann leicht an Gewicht zunehmen",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pavo-futter.de/beratung/die-10-wichtigsten-inhaltsstoffe-im-erganzungsfutter-fur-pferde",
-          "classification": "OTHER",
-          "title": "Inhaltsstoffe im Ergänzungsfutter – Diese 10 sind wichtig | Pavo",
-          "citation_count": 0,
-          "retrieval_count": 2,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "natürliche Nahrungsergänzungsmittel für Pferde empfehlenswert"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "natural supplements for horses benefits and recommendations"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_ebe654e5-8567-4eaa-b981-b302228a7121",
@@ -6088,44 +4787,7 @@
           }
         ],
         "total_retrieved": 4.510000000000001
-      },
-      "gap_urls": [
-        {
-          "url": "https://pavo-futter.de/beratung/die-10-wichtigsten-inhaltsstoffe-im-erganzungsfutter-fur-pferde",
-          "classification": "LISTICLE",
-          "title": "Inhaltsstoffe im Ergänzungsfutter – Diese 10 sind wichtig | Pavo",
-          "citation_count": 0,
-          "retrieval_count": 2,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://aut.pavo.net/beratung/rohstoffe-im-pferdefutter",
-          "classification": "OTHER",
-          "title": "Welche Rohstoffe im Pferdefutter enthalten sein können | Pavo",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://pferdefuttershop.de/Pferdefutter/Eigenschaften/Proteinreich",
-          "classification": "CATEGORY_PAGE",
-          "title": "Proteinreiches Pferdefutter | Für Muskelaufbau & Zucht",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_ad86aab8-1689-4374-b2eb-816d091ee9ad",
@@ -6240,50 +4902,7 @@
           }
         ],
         "total_retrieved": 1.8699999999999997
-      },
-      "gap_urls": [
-        {
-          "url": "https://equiva.com/ratgeber/pferdefuetterung/mineralfutter-und-ergaenzungsfutter",
-          "classification": "OTHER",
-          "title": "EQUIVA Onlineshop",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferdefutter natürlich mineralfutter pferd"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "heucobs pferd",
-          "products": [
-            "Pre Alpin Wiesencobs BIO 20 kg"
-          ]
-        },
-        {
-          "query": "pferdefutter natürlich mineralfutter pferd",
-          "products": [
-            "Brennnessel Ergänzungsfutter",
-            "Brennnessel Ergänzungsfutter für Pferde",
-            "Himalaya Salzleckstein",
-            "Himalaya Salzleckstein für Pferde",
-            "Mineral Horse Food mit Biotin & Zink"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744",
@@ -6421,55 +5040,7 @@
           }
         ],
         "total_retrieved": 1.53
-      },
-      "gap_urls": [
-        {
-          "url": "https://pavo-futter.de/pferdefutter/allround/pavo-vital",
-          "classification": "PRODUCT_PAGE",
-          "title": "Pavo Vital",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "natürliches ergänzungsfutter pferd mineralfutter pferd"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "leinsamen pferd",
-          "products": [
-            "St. Hippolyt LinuStar",
-            "Urkraft Leinsam Granulat"
-          ]
-        },
-        {
-          "query": "msm pferd",
-          "products": [
-            "Krauterie MSM Pulver",
-            "PharmaHorse Glucosamine & MSM"
-          ]
-        },
-        {
-          "query": "natürliches ergänzungsfutter pferd mineralfutter pferd",
-          "products": [
-            "Equigreen MicroMineral Plus",
-            "Pavo Vital Mineralfutter"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592",
@@ -6591,78 +5162,7 @@
           }
         ],
         "total_retrieved": 4.950000000000002
-      },
-      "gap_urls": [
-        {
-          "url": "https://pferdefuttershop.de/Pferdefutter/Eigenschaften/Getreidefrei/Pellets",
-          "classification": "CATEGORY_PAGE",
-          "title": "Getreidefreie Pellets für Pferde hier bestellen",
-          "citation_count": 2,
-          "retrieval_count": 2,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pferdefuttershop.de/Pferdefutter/Misch-Ergaenzungsfutter/Pellets",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pellets für Pferde bequem online kaufen",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://pferdhundkatz.com/fuer-pferde/st.-hippolyt",
-          "classification": "OTHER",
-          "title": "St. Hippolyt",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://amazon.de/discountfutter-shop-Pferde-Tuning-Pellets-Muskelaufbau-ausdauer/dp/B086BG1SLJ",
-          "classification": "PRODUCT_PAGE",
-          "title": "Pferde Tuning Pellets I GMO - glutenfrei, fördert den Muskelaufbau, reichhaltig an Spirulina, Carnitin, Vitamin E, Lysin, Omega 3, hochwertige Aminosäuren für Ihr Pferd : Amazon.de: Haustier",
-          "citation_count": 0,
-          "retrieval_count": 2,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://karker-muehle.de/futtermittel/pferd/pferdefutter.html",
-          "classification": "OTHER",
-          "title": "Pferdefutter - Karker Mühle",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferde pelletes natürlich pferdefutter pelletes"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "pferde pelletes natürlich pferdefutter pelletes",
-          "products": [
-            "Agrobs Alpengrün Pellet",
-            "Equine America Lamigard Advanced Care Pellets",
-            "Lamigard Advanced Care",
-            "PerNaturam Hunsrücker ProteinPellets",
-            "PerNaturam ProteinPellets",
-            "Supravit Grascobs Pellets",
-            "WiesenGold Bio-Esparsette Pellets"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa",
@@ -6819,104 +5319,7 @@
           }
         ],
         "total_retrieved": 8.949999999999998
-      },
-      "gap_urls": [
-        {
-          "url": "https://pavo-futter.de/beratung/die-10-wichtigsten-inhaltsstoffe-im-erganzungsfutter-fur-pferde",
-          "classification": "OTHER",
-          "title": "Inhaltsstoffe im Ergänzungsfutter – Diese 10 sind wichtig | Pavo",
-          "citation_count": 3,
-          "retrieval_count": 1,
-          "citation_rate": 3
-        },
-        {
-          "url": "https://madbarn.com/feed-types/vitamin",
-          "classification": "OTHER",
-          "title": "Vitamin Supplements for Horses - Nutrition Information | Equine Feed Database",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://dochorse.de/erganzungsfutter/pferde/mineralfutter.html",
-          "classification": "CATEGORY_PAGE",
-          "title": "Mineralfutter Pferd | Vollständige Vitamin- & Mineralstoffergänzung - DocHorse",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://horze.eu/supplements-for-horses",
-          "classification": "LISTICLE",
-          "title": "Supplements for Horses - Targeted Support for Joints, Hooves and Vitality",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://pavo-futter.de/beratung/mineralfutter-fur-pferde-wichtig-zur-erhaltung-der-gesundheit",
-          "classification": "OTHER",
-          "title": "Mineralfutter für Pferde: wichtig für Gesundheit | Pavo",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "medium",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "gute Vitamine für Pferde Vitamine Pferd Pferde Vitamine Ergänzung Pferd"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Best vitamins for horses nutritional supplements for horses vitamins what supplements horses need"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Vitamine für Pferd gute Vitamine Pferd"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "best vitamins for horses equine supplements vitamins horses"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "vitamins for horses supplements best vitamins for horses",
-          "products": [
-            "Biotin Pro 3000 Unika",
-            "Dodson & Horrell Daily Vitamins & Minerals",
-            "EQUIPUR zinc forte",
-            "Equital Multivitamin Liquid 1000ml",
-            "Equivite Original 3kg",
-            "FarnamHorse Health Vita E & Selenium Crumbles",
-            "Naf General Purpose Supplement",
-            "Pha Vitamin B Komplex Liquid f.Pferde"
-          ]
-        },
-        {
-          "query": "vitamins for horses equine supplements vitamins",
-          "products": [
-            "Dodson & Horrell Daily Vitamins & Minerals",
-            "Equivite Original 3kg",
-            "NAF Vitamin E, Selenium and Lysine",
-            "Redmond Daily Red Fortified",
-            "Ultracruz Equine Natural Vitamin E Plus",
-            "UltraCruz Equine Vitamin B-1",
-            "UltraCruz Equine Vitamin C",
-            "VetVital Viequo 100%"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8",
@@ -7075,24 +5478,7 @@
           }
         ],
         "total_retrieved": 1.7000000000000002
-      },
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "Pellets für gestresste Pferde Deutschland beruhigende Pferde Ergänzungsfutter Pellets Inhaltsstoffe Magnesium Tryptophan"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_a513316a-939f-4130-a4e6-e5361bba66f4",
@@ -7264,83 +5650,7 @@
           }
         ],
         "total_retrieved": 3.229999999999999
-      },
-      "gap_urls": [
-        {
-          "url": "https://amazon.de/Pferdefutter-50-100-EUR-Pferdebedarf/s?c=ts&keywords=Pferdefutter&rh=n%3A470840031%2Cp_36%3A450921031&ts_id=470840031",
-          "classification": "OTHER",
-          "title": "Amazon.de : Pferdefutter",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://idealo.de/preisvergleich/ProductCategory/25956.html",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter (2026) zum Bestpreis \\| idealo.de",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://pferdefuttershop.de/Pferdefutter/Eigenschaften/Bi.-Pferdefutter",
-          "classification": "CATEGORY_PAGE",
-          "title": "Unbehandeltes Pferdefutter günstig online kaufen",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://amazon.de/-/en/gp/bestsellers/pet-supplies/470840031",
-          "classification": "CATEGORY_PAGE",
-          "title": "The most popular items in Horse Food",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://baywa.de/de/tierhaltung/futtermittel/pferd/c-sh_bp_9037345",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter kaufen | Versandkostenfrei | BayWa Shop",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "hochwertiges Pferdefutter natürliche Inhaltsstoffe unter 50 Euro"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "best natural horse feed under 50 EUR quality horse feed ingredients"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "natural horse feed under 50 euro",
-          "products": [
-            "Agrobs AlpenGrün Müsli",
-            "agrobs Alps Green Mash",
-            "Agrobs Naturmineral",
-            "EquiGreen Natural Vital Pellets",
-            "Höveler ReforminPlus",
-            "Pavo Nature's Best",
-            "SPEED NaturPUR Balance",
-            "Tocks Pferdefutter Heu Cobs 25 kg"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f",
@@ -7476,60 +5786,7 @@
           }
         ],
         "total_retrieved": 4.3999999999999995
-      },
-      "gap_urls": [
-        {
-          "url": "https://pavo-futter.de/beratung/energie-im-futter-fuer-freizeitpferde",
-          "classification": "ARTICLE",
-          "title": "Freizeitpferde bedarfsgerecht füttern | Pavo",
-          "citation_count": 2,
-          "retrieval_count": 2,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pferdefuttershop.de/Pferdefutter/Getreide-Einzelfutter",
-          "classification": "CATEGORY_PAGE",
-          "title": "Einzelfuttermittel für Pferde online kaufen | Individuell füttern",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung/Gelenke-Knochen-Sehnen",
-          "classification": "CATEGORY_PAGE",
-          "title": "Zusatzfutter zum Knochenaufbau beim Pferd online kaufen",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://hipposport.de/Pferdefutter-Kraftfutter-Getreidefreies-Pferdefutter",
-          "classification": "OTHER",
-          "title": "Getreidefreies Pferdefutter günstig kaufen bei HippoSport®",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        },
-        {
-          "url": "https://pavo-futter.de/beratung/naturliches-fressverhalten-des-pferdes",
-          "classification": "OTHER",
-          "title": "Natürliches Fressverhalten fördert Pferdegesundheit | Pavo",
-          "citation_count": 1,
-          "retrieval_count": 1,
-          "citation_rate": 1
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_1a61366f-4ec1-46f7-b5c8-949393e84550",
@@ -7653,24 +5910,7 @@
           }
         ],
         "total_retrieved": 7.480000000000002
-      },
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "natürliche Inhaltsstoffe Magenpellets Pferd Wirkung Kamille Leinsamen Pferd Magen"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f",
@@ -7817,65 +6057,7 @@
           }
         ],
         "total_retrieved": 2.0399999999999996
-      },
-      "gap_urls": [
-        {
-          "url": "https://equifarm.de/Marstall-Vito-Das-Getreidefreie-Muesli-Pferdefutter-20-Kg",
-          "classification": "PRODUCT_PAGE",
-          "title": "Marstall Vito - Das Getreidefreie Müsli - Pferdefutter - 20 Kg, 32,60 €",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://reiter-guide.de/ratgeber/pferdefutter/zusatzfutter/pferdefutter-ohne-zucker",
-          "classification": "LISTICLE",
-          "title": "Pferdefutter Ohne Zucker – Die 15 besten Produkte im Vergleich",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://prima-tierfutter.de/ratgeber/futter/pferdefutter/pferdefutter-ohne-zucker-und-getreide",
-          "classification": "OTHER",
-          "title": "Pferdefutter ohne Zucker und Getreide – Die 16 besten Produkte im Vergleich & Angebote - aktualisiert: April 2026",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferdefutter ohne zucker"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "natürliches pferdefutter zusatz",
-          "products": [
-            "HorseFlex Natürliches Multivitamin",
-            "Lexa Moorpulver flüssig"
-          ]
-        },
-        {
-          "query": "pferdefutter ohne zucker",
-          "products": [
-            "Billy's Mineral ZERO",
-            "marstall Bergwiesen-Mash",
-            "StaehrLLETS Heucobs"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_0b9644fb-0bec-4847-b388-b12ea14991da",
@@ -8022,91 +6204,7 @@
           }
         ],
         "total_retrieved": 8.580000000000007
-      },
-      "gap_urls": [
-        {
-          "url": "https://madbarn.com/feed-types/gut-supplement",
-          "classification": "OTHER",
-          "title": "Gut Supplements for Horses - Nutrition Information | Equine Feed Database",
-          "citation_count": 3,
-          "retrieval_count": 1,
-          "citation_rate": 3
-        },
-        {
-          "url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung/Durchfall-Koliken-Kotwasser",
-          "classification": "CATEGORY_PAGE",
-          "title": "Pferdefutter gegen Kotwasser, Durchfall & Kolliken",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://noeltgen.de/lexa-gastro-akut-ergaenzungsfutter-fuer-magenempfindliche-pferde.html",
-          "classification": "OTHER",
-          "title": "Lexa Gastro Akut - Ergänzungsfutter für magenempfindliche Pferde \\| Magen & Darm \\| Ergänzungs- & Zusatzfutter \\| Pferdefutter \\| Pferd & Pony \\| Tierbedarf \\| NÖLTGEN",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://aut.pavo.net/beratung",
-          "classification": "HOW_TO_GUIDE",
-          "title": "Artikel übersicht | Pavo",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://equine74.com/blog/which-feed-for-stomach-sensitive-horses",
-          "classification": "ARTICLE",
-          "title": "Which feed for stomach-sensitive horses?",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "Zusammensetzung Pferd Magen Darm Ergänzungsfutter Probiotika Lecithin Inhaltsstoffe"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde was sind typische Inhaltsstoffe Sportpferd Magen Darm Ergänzung Futtermittel"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "compare composition of gastrointestinal supplement feeds for sensitive sport horses typical ingredients horse gut supplements"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "typical ingredients in horse gut health supplements equine digestive supplement ingredients probiotics prebiotics herbs calcium carbonate glutamine pectin horse"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "Zusammensetzung NAF Daily Gut Health oder TRM GNF Pellets Inhaltsstoffe Magen-Darm Ergänzung Pferd NAF Daily Gut Health"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "magen darm pferd ergänzungsfutter sensibel pferd probiotika pferd",
-          "products": [
-            "equinova Digest Pro Powder",
-            "EQUIPUR digest plus",
-            "Mühldorfer Revitopur prebiotic",
-            "NAF Biotics"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b",
@@ -8150,19 +6248,7 @@
       "mean_visibility": 0,
       "own_silence": true,
       "silence_type": "full",
-      "top_competitors": [],
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      "top_competitors": []
     },
     {
       "prompt_id": "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e",
@@ -8326,44 +6412,7 @@
           }
         ],
         "total_retrieved": 3.959999999999999
-      },
-      "gap_urls": [
-        {
-          "url": "https://equusvitalis.ch/de-CH/pavo/nervcontrol",
-          "classification": "PRODUCT_PAGE",
-          "title": "NervControl 3 kg",
-          "citation_count": 1,
-          "retrieval_count": 3,
-          "citation_rate": 0.33
-        },
-        {
-          "url": "https://reitsport.ch/pferdefutter/ergaenzungsfutter/stress-nervositaet",
-          "classification": "OTHER",
-          "title": "Pferdefutter für Stress & Nervosität - Ergänzungsfutter bei Reitsport.ch",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://cavale-schweiz.ch/product?magnoflexal2=",
-          "classification": "OTHER",
-          "title": "IWEST Magnoquiet",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_76c76a27-2b6a-4e7c-9a05-7f270587a055",
@@ -8535,49 +6584,7 @@
           }
         ],
         "total_retrieved": 1.8699999999999997
-      },
-      "gap_urls": [
-        {
-          "url": "https://equiva.com/ratgeber/pferdefuetterung/mineralfutter-und-ergaenzungsfutter",
-          "classification": "OTHER",
-          "title": "EQUIVA Onlineshop",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://pferdefuttershop.de/Pferdefutter/Mineralien-Supplemente/Elektrolyte",
-          "classification": "CATEGORY_PAGE",
-          "title": "Elektrolyte für Pferde im Pferdefuttershop online kaufen",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://pavo-futter.de/beratung/die-10-wichtigsten-inhaltsstoffe-im-erganzungsfutter-fur-pferde",
-          "classification": "LISTICLE",
-          "title": "Inhaltsstoffe im Ergänzungsfutter – Diese 10 sind wichtig | Pavo",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "Ergänzungsfutter Pferd Mineralfutter Elektrolyte Pferd Beispiele beste Ergänzungsfutter Pferd"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_ae44d933-64c5-4032-a0a0-74999632519b",
@@ -8692,57 +6699,7 @@
           }
         ],
         "total_retrieved": 1.5299999999999998
-      },
-      "gap_urls": [
-        {
-          "url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung/Magen-Darm",
-          "classification": "CATEGORY_PAGE",
-          "title": "Magenfutter für Pferde online kaufen",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://muehldorfer-pferdefutter.de/pferdefutter/magen",
-          "classification": "HOW_TO_GUIDE",
-          "title": "Mühldorfer Futter für Pferde mit Magenproblemen \\| Mühldorfer",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferd magenfutter kräuter mash pferd magenprobleme"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "equine gastric supplement herbs",
-          "products": [
-            "Ewalia Magensaft I",
-            "GASTROPLUS Kräuter für Pferde",
-            "Stiefel Magenkräuter"
-          ]
-        },
-        {
-          "query": "pferd magenfutter kräuter mash pferd magenprobleme",
-          "products": [
-            "Josera Kraut & Rüben Mash",
-            "MAGENWOHL Kräuter für Pferde"
-          ]
-        }
-      ]
+      }
     },
     {
       "prompt_id": "pr_967a4253-01c0-4020-8087-e088910e9456",
@@ -8860,19 +6817,7 @@
           }
         ],
         "total_retrieved": 2.169999999999999
-      },
-      "gap_urls": [],
-      "tag_ids": [
-        "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "informational",
-        "non-branded"
-      ],
-      "volume_bucket": "very low",
-      "search_queries": [],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_052a6419-3a6e-49c5-9995-e2812de6cb50",
@@ -9031,33 +6976,7 @@
           }
         ],
         "total_retrieved": 1.1900000000000002
-      },
-      "gap_urls": [
-        {
-          "url": "https://pferdy.de/bio-pferdefutter",
-          "classification": "OTHER",
-          "title": "Bio Pferdefutter günstig kaufen - Die besten 10 Produkte",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "hochwertiges Pferdefutter natürliche Inhaltsstoffe beste Pferdefutter Deutschland ohne Getreide Pferdefutter bio Pferd"
-        }
-      ],
-      "shopping_queries": []
+      }
     },
     {
       "prompt_id": "pr_292a6b04-8dee-4ea2-969b-6a83c709753f",
@@ -9231,123 +7150,7 @@
           }
         ],
         "total_retrieved": 7.459999999999998
-      },
-      "gap_urls": [
-        {
-          "url": "https://stallbedarf24.de/pferd/pferdefutter/zuckerfrei-zuckerreduziert",
-          "classification": "CATEGORY_PAGE",
-          "title": "Zuckerfreies & zuckerreduziertes Pferdefutter | Stallbedarf24",
-          "citation_count": 3,
-          "retrieval_count": 1,
-          "citation_rate": 3
-        },
-        {
-          "url": "https://equifarm.de/Marstall-Force-Das-Mineralfutter-ohne-Getreide-Pferdefutter",
-          "classification": "OTHER",
-          "title": "Marstall Force - Das Mineralfutter ohne Getreide - Pferdefutter, 30,95 €",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://pferdefuttershop.de/Pferdefutter/Eigenschaften/Low-Carb-zuckerreduziert",
-          "classification": "CATEGORY_PAGE",
-          "title": "Low Carb Pferdefutter | Zuckerreduziert | Top-Auswahl",
-          "citation_count": 2,
-          "retrieval_count": 1,
-          "citation_rate": 2
-        },
-        {
-          "url": "https://futterscheune.shop/en/horse-feed/minerals-vitamins-trace-elements",
-          "classification": "OTHER",
-          "title": "Minerals, vitamins & trace elements",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        },
-        {
-          "url": "https://reiter-guide.de/ratgeber/pferdefutter/mineralfutter-pferd-ohne-melasse-und-getreide",
-          "classification": "OTHER",
-          "title": "Mineralfutter Pferd ohne Melasse Und Getreide – Die 15 besten Produkte im Vergleich",
-          "citation_count": 0,
-          "retrieval_count": 1,
-          "citation_rate": 0
-        }
-      ],
-      "tag_ids": [
-        "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-        "tg_511d8779-dca5-4610-a214-a204a56aa427"
-      ],
-      "tag_names": [
-        "transactional",
-        "non-branded"
-      ],
-      "volume_bucket": "low",
-      "search_queries": [
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferd mineralfutter ohne zucker"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "gesundes Ergänzungsfutter Pferd ohne Industriezucker Pferdefutter Ergänzung ohne Zucker"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "healthy horse supplements without industrial sugar what to feed horses supplements no sugar"
-        },
-        {
-          "model": "chatgpt-scraper",
-          "query": "pferd ergänzungsfutter ohne zucker natürlich getreidefrei mineralfutter pferd ohne melasse empfehlung"
-        }
-      ],
-      "shopping_queries": [
-        {
-          "query": "horse supplement sugar free",
-          "products": [
-            "Atcom PSSM Vital"
-          ]
-        },
-        {
-          "query": "pferd mineralfutter ohne zucker",
-          "products": [
-            "Billy's Mineral ZERO",
-            "iWEST Magnometabol",
-            "Marstall Force"
-          ]
-        },
-        {
-          "query": "horse supplements no sugar healthy horse supplement",
-          "products": [
-            "Alpurial Linseed Oil",
-            "Annimally Mineralfutter Organisch",
-            "Annimally Vitamin E / Selen & Lysin",
-            "EquiPower Magnesium Pulver",
-            "Glyx Mash",
-            "Mühldorfer Low Glycaemic Prebiotic",
-            "Pavo GrainFreeMash",
-            "Vitalbix Daily Complete"
-          ]
-        }
-      ]
-    }
-  ],
-  "tags": [
-    {
-      "id": "tg_511d8779-dca5-4610-a214-a204a56aa427",
-      "name": "non-branded"
-    },
-    {
-      "id": "tg_73cf496d-e44d-4570-876f-668075ce6926",
-      "name": "branded"
-    },
-    {
-      "id": "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
-      "name": "transactional"
-    },
-    {
-      "id": "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
-      "name": "informational"
+      }
     }
   ]
 }
