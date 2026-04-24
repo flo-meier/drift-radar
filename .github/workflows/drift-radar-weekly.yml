@@ -57,6 +57,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python export_downloads.py
 
+      - name: Export WordPress WXR (all drifting briefs as drafts)
+        working-directory: pipeline
+        run: python export_wordpress.py
+
       - name: Sync data to Astro src/
         working-directory: pipeline
         run: python sync_to_app.py

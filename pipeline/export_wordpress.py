@@ -1,0 +1,275 @@
+#!/usr/bin/env python3
+"""Export Drift Radar content briefs as WordPress WXR.
+
+Produces ../public/downloads/drift_radar_wordpress.wxr – every drifting or
+silent prompt becomes one draft post in the "Drift Radar" category, tagged
+with its silence type and the engines it is silent on. Post meta carries
+the Peec prompt_id + divergence score + volume bucket for later filtering.
+
+Import in WordPress via Tools → Import → WordPress. All posts land as
+drafts; an editor reviews them and hits publish.
+"""
+import html
+import json
+import re
+from datetime import datetime, timezone
+from pathlib import Path
+from xml.sax.saxutils import escape
+
+ROOT = Path(__file__).parent
+UI = ROOT / "data" / "ui" / "drift_radar.json"
+OUT = ROOT.parent / "public" / "downloads" / "drift_radar_wordpress.wxr"
+OUT.parent.mkdir(parents=True, exist_ok=True)
+
+SITE = "https://drift-radar.pages.dev"
+
+SILENCE_LABELS = {
+    "active": "Drifting",
+    "own_only": "Own-only silence (competitors cited, brand absent)",
+    "full": "Full silence (category silent across all engines)",
+}
+
+DIVERGENCE_THRESHOLD = 0.30
+
+
+def slugify(text, max_len=60):
+    s = re.sub(r"[^a-z0-9]+", "-", (text or "").lower())[:max_len].strip("-")
+    return s or "brief"
+
+
+def render_body_html(p, own, active_models):
+    engines = [(m["id"], m["name"]) for m in active_models]
+    silence = p.get("silence_type") or "active"
+    vb = p.get("visibility_by_model") or {}
+    lines = []
+
+    lines.append(
+        f"<p><em>Peec prompt:</em> <strong>»{html.escape(p['prompt_text'])}«</strong></p>"
+    )
+    lines.append(
+        f"<p><em>Divergence score:</em> {p.get('divergence_score', 0):.2f} "
+        f"&middot; <em>Status:</em> {html.escape(SILENCE_LABELS.get(silence, silence))}</p>"
+    )
+
+    if engines:
+        lines.append("<h2>Visibility by engine</h2>")
+        lines.append("<ul>")
+        for mid, mname in engines:
+            v = vb.get(mid, 0) or 0
+            pct = f"{v * 100:.1f}%"
+            state = "visible" if v > 0 else "silent"
+            lines.append(
+                f"<li><strong>{html.escape(mname)}:</strong> {pct} ({state})</li>"
+            )
+        lines.append("</ul>")
+
+    top = p.get("top_competitors") or []
+    if top:
+        lines.append("<h2>Top competitors cited instead</h2>")
+        lines.append("<ol>")
+        for c in top[:5]:
+            lines.append(
+                f"<li>{html.escape(c.get('brand_name', ''))} "
+                f"({(c.get('max_visibility') or 0) * 100:.0f}% peak visibility)</li>"
+            )
+        lines.append("</ol>")
+
+    sample = p.get("chat_sample") or {}
+    by_model = sample.get("by_model") or {}
+    if by_model:
+        lines.append("<h2>How each engine answers today</h2>")
+        for mid, mname in engines:
+            entry = by_model.get(mid) or {}
+            excerpt = entry.get("excerpt") or ""
+            if not excerpt:
+                lines.append(
+                    f"<h3>{html.escape(mname)}</h3>"
+                    f"<p><em>No brand mention captured in the sampled chat.</em></p>"
+                )
+                continue
+            lines.append(f"<h3>{html.escape(mname)}</h3>")
+            lines.append(f"<blockquote>{html.escape(excerpt)}</blockquote>")
+
+    gurls = p.get("gap_urls") or []
+    if gurls:
+        lines.append("<h2>Gap URLs – where competitors rank, you don't</h2>")
+        lines.append("<ul>")
+        for u in gurls[:5]:
+            url = u.get("url", "")
+            excerpt = u.get("excerpt", "")
+            tail = f" – {html.escape(excerpt)}" if excerpt else ""
+            lines.append(
+                f'<li><a href="{html.escape(url)}">{html.escape(url)}</a>{tail}</li>'
+            )
+        lines.append("</ul>")
+
+    lines.append("<h2>Content brief</h2>")
+    lines.append(
+        f"<p>Write an article that lets <strong>{html.escape(own)}</strong> show up "
+        "with a consistent narrative across ChatGPT, Gemini and AI Overview for this "
+        "prompt. The draft should:</p>"
+    )
+    lines.append("<ul>")
+    lines.append(
+        "<li>Name the brand explicitly and tie it directly to the category question above.</li>"
+    )
+    lines.append(
+        "<li>Cover the claims the three engines already agree on (see the Deep-Dive "
+        f"at <a href='{SITE}/#deepdive-{html.escape(p.get('prompt_id', ''))}'>"
+        f"{SITE}/#deepdive-{html.escape(p.get('prompt_id', ''))}</a>).</li>"
+    )
+    lines.append(
+        "<li>Include retrieval-friendly facts – ingredients, certifications, studies – so "
+        "the retrievers pick the page up across all three engines.</li>"
+    )
+    vb_bucket = p.get("volume_bucket") or "n/a"
+    topic = p.get("topic") or ""
+    lines.append(
+        f"<li>Search volume bucket: <code>{html.escape(str(vb_bucket))}</code>"
+        + (f" &middot; Topic: <code>{html.escape(topic)}</code>" if topic else "")
+        + "</li>"
+    )
+    lines.append("</ul>")
+
+    lines.append(
+        "<hr><p><small>Generated by "
+        f"<a href='{SITE}'>Drift Radar</a> &middot; Peec AI MCP &middot; "
+        f"Prompt ID <code>{html.escape(p.get('prompt_id', ''))}</code></small></p>"
+    )
+    return "\n".join(lines)
+
+
+def item_xml(p, own, active_models, idx, pub_date, post_date):
+    post_id = 1000 + idx
+    prompt_text = p.get("prompt_text", "")
+    title = f"Drift Radar · {prompt_text}"
+    slug = slugify(f"drift-{(p.get('prompt_id', '') or '').replace('pr_', '')}-{prompt_text}")
+    guid = f"{SITE}/?drift_radar_brief={post_id}"
+    silence = p.get("silence_type") or "active"
+
+    tags = [silence.replace("_", "-")]
+    vb = p.get("visibility_by_model") or {}
+    for m in active_models:
+        mid = m["id"]
+        mname = m["name"]
+        if (vb.get(mid, 0) or 0) == 0:
+            tags.append(f"silent-{mname.lower().replace(' ', '-')}")
+
+    body = render_body_html(p, own, active_models)
+
+    lines = []
+    a = lines.append
+    a("  <item>")
+    a(f"    <title>{escape(title)}</title>")
+    a(f"    <link>{SITE}/?p={post_id}</link>")
+    a(f"    <pubDate>{pub_date}</pubDate>")
+    a("    <dc:creator><![CDATA[drift-radar-bot]]></dc:creator>")
+    a(f'    <guid isPermaLink="false">{guid}</guid>')
+    a("    <description></description>")
+    a(f"    <content:encoded><![CDATA[{body}]]></content:encoded>")
+    a(
+        f"    <excerpt:encoded><![CDATA[Divergence "
+        f"{p.get('divergence_score', 0):.2f} · "
+        f"{SILENCE_LABELS.get(silence, silence)}]]></excerpt:encoded>"
+    )
+    a(f"    <wp:post_id>{post_id}</wp:post_id>")
+    a(f"    <wp:post_date><![CDATA[{post_date}]]></wp:post_date>")
+    a(f"    <wp:post_date_gmt><![CDATA[{post_date}]]></wp:post_date_gmt>")
+    a("    <wp:comment_status><![CDATA[closed]]></wp:comment_status>")
+    a("    <wp:ping_status><![CDATA[closed]]></wp:ping_status>")
+    a(f"    <wp:post_name><![CDATA[{slug}]]></wp:post_name>")
+    a("    <wp:status><![CDATA[draft]]></wp:status>")
+    a("    <wp:post_parent>0</wp:post_parent>")
+    a("    <wp:menu_order>0</wp:menu_order>")
+    a("    <wp:post_type><![CDATA[post]]></wp:post_type>")
+    a("    <wp:post_password><![CDATA[]]></wp:post_password>")
+    a("    <wp:is_sticky>0</wp:is_sticky>")
+    a('    <category domain="category" nicename="drift-radar"><![CDATA[Drift Radar]]></category>')
+    for tag in tags:
+        tag_slug = slugify(tag)
+        a(
+            f'    <category domain="post_tag" nicename="{tag_slug}">'
+            f"<![CDATA[{escape(tag)}]]></category>"
+        )
+    meta = [
+        ("drift_divergence_score", f"{p.get('divergence_score', 0):.3f}"),
+        ("drift_silence_type", silence),
+        ("drift_volume_bucket", p.get("volume_bucket") or ""),
+        ("drift_peec_prompt_id", p.get("prompt_id") or ""),
+        ("drift_topic", p.get("topic") or ""),
+    ]
+    for key, value in meta:
+        a("    <wp:postmeta>")
+        a(f"      <wp:meta_key><![CDATA[{key}]]></wp:meta_key>")
+        a(f"      <wp:meta_value><![CDATA[{value}]]></wp:meta_value>")
+        a("    </wp:postmeta>")
+    a("  </item>")
+    return "\n".join(lines)
+
+
+def build_wxr():
+    data = json.loads(UI.read_text(encoding="utf-8"))
+    own = data.get("own_brand", "")
+    active_models = data.get("active_models", [])
+    prompts = data.get("prompts", [])
+    eligible = [
+        p for p in prompts
+        if p.get("silence_type") in ("own_only", "full")
+        or p.get("divergence_score", 0) >= DIVERGENCE_THRESHOLD
+    ]
+
+    now = datetime.now(timezone.utc)
+    pub_date = now.strftime("%a, %d %b %Y %H:%M:%S +0000")
+    post_date = now.strftime("%Y-%m-%d %H:%M:%S")
+
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8" ?>',
+        '<rss version="2.0"',
+        '  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"',
+        '  xmlns:content="http://purl.org/rss/1.0/modules/content/"',
+        '  xmlns:wfw="http://wellformedweb.org/CommentAPI/"',
+        '  xmlns:dc="http://purl.org/dc/elements/1.1/"',
+        '  xmlns:wp="http://wordpress.org/export/1.2/">',
+        "<channel>",
+        f"  <title>Drift Radar – Content Briefs for {escape(own)}</title>",
+        f"  <link>{SITE}</link>",
+        "  <description>Drift Radar cross-model divergence + brand-silence briefs. "
+        "Import as drafts for editorial review.</description>",
+        f"  <pubDate>{pub_date}</pubDate>",
+        "  <language>en-US</language>",
+        "  <wp:wxr_version>1.2</wp:wxr_version>",
+        f"  <wp:base_site_url>{SITE}</wp:base_site_url>",
+        f"  <wp:base_blog_url>{SITE}</wp:base_blog_url>",
+        "  <wp:author>",
+        "    <wp:author_id>1</wp:author_id>",
+        "    <wp:author_login><![CDATA[drift-radar-bot]]></wp:author_login>",
+        "    <wp:author_email><![CDATA[noreply@drift-radar.pages.dev]]></wp:author_email>",
+        "    <wp:author_display_name><![CDATA[Drift Radar]]></wp:author_display_name>",
+        "    <wp:author_first_name><![CDATA[Drift]]></wp:author_first_name>",
+        "    <wp:author_last_name><![CDATA[Radar]]></wp:author_last_name>",
+        "  </wp:author>",
+        "  <wp:category>",
+        "    <wp:term_id>100</wp:term_id>",
+        "    <wp:category_nicename><![CDATA[drift-radar]]></wp:category_nicename>",
+        "    <wp:category_parent><![CDATA[]]></wp:category_parent>",
+        "    <wp:cat_name><![CDATA[Drift Radar]]></wp:cat_name>",
+        "    <wp:category_description><![CDATA[Drafts generated by Drift Radar – "
+        "cross-model divergence + brand-silence briefs.]]></wp:category_description>",
+        "  </wp:category>",
+    ]
+
+    for idx, p in enumerate(eligible, start=1):
+        parts.append(item_xml(p, own, active_models, idx, pub_date, post_date))
+
+    parts.append("</channel>")
+    parts.append("</rss>")
+    OUT.write_text("\n".join(parts), encoding="utf-8")
+    size_kb = OUT.stat().st_size / 1024
+    print(
+        f"wrote {OUT.relative_to(ROOT.parent)}: "
+        f"{len(eligible)} drafts, {size_kb:.1f} KB"
+    )
+
+
+if __name__ == "__main__":
+    build_wxr()
