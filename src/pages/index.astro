@@ -1445,6 +1445,51 @@ function sumCounts(counts: Record<string, number> | undefined): number {
       </div>
       <p class="dek">Drift Radar is not a silo. Peec data becomes actionable when it joins the signal your team already trusts – classical search, business impact, competitor context. Each block below pairs Peec prompts with an external source. Where a property is not connected, numbers are deterministic demo rows seeded from the prompt-ID; connect the source and live values replace them automatically.</p>
 
+      <div class="stack-map">
+        <div class="stack-map-col">
+          <div class="stack-map-head">
+            <span class="stack-map-dot stack-map-dot-built"></span>
+            <span class="stack-map-title">Built &amp; shipping today</span>
+          </div>
+          <ul class="stack-map-list">
+            <li><strong>Peec AI MCP</strong> <span class="mono">→</span> brand reports, chats, domain reports, search &amp; shopping queries, tags</li>
+            <li><strong>Astro + Cloudflare Pages</strong> <span class="mono">→</span> the public report you are reading</li>
+            <li><strong>GitHub Action</strong> <span class="mono">→</span> weekly cron + one-click rerun, commits fresh data to main</li>
+            <li><strong>WordPress WXR export</strong> <span class="mono">→</span> every drifting brief as a draft post, ready to import</li>
+            <li><strong>Slack webhook</strong> <span class="mono">→</span> digest posted to any incoming-webhook URL, client-side, no proxy</li>
+            <li><strong>Clipboard handoffs</strong> <span class="mono">→</span> Notion · Google Docs · Google Sheets · Linear · ChatGPT · Claude</li>
+            <li><strong>RSS / CSV / XLSX / PDF briefs</strong> <span class="mono">→</span> 8 downloadables regenerated every run</li>
+          </ul>
+        </div>
+
+        <div class="stack-map-col">
+          <div class="stack-map-head">
+            <span class="stack-map-dot stack-map-dot-stub"></span>
+            <span class="stack-map-title">Connectors ready · flip a secret to go live</span>
+          </div>
+          <ul class="stack-map-list">
+            <li><strong>Google Search Console</strong> <span class="mono">→</span> prompt × CTR × position priority – live as soon as <code>GSC_SERVICE_ACCOUNT_JSON</code> is set</li>
+            <li><strong>Google Analytics 4</strong> <span class="mono">→</span> revenue-at-risk per drifting prompt, from <code>GA4_PROPERTY_ID</code></li>
+            <li><strong>Ahrefs</strong> <span class="mono">→</span> keyword difficulty + backlink counts for today's top-ranking URL, from <code>AHREFS_API_KEY</code>. Real URLs already live – only the SEO numbers are demo</li>
+            <li><strong>Anthropic Claude Haiku</strong> <span class="mono">→</span> narrative claim extraction when <code>ANTHROPIC_API_KEY</code> is provided; pure mechanics without</li>
+          </ul>
+        </div>
+
+        <div class="stack-map-col">
+          <div class="stack-map-head">
+            <span class="stack-map-dot stack-map-dot-soon"></span>
+            <span class="stack-map-title">Next integrations · 1–2 h each</span>
+          </div>
+          <ul class="stack-map-list">
+            <li><strong>Notion MCP</strong> <span class="mono">→</span> upgrade the clipboard flow to real database-entry creation per brief</li>
+            <li><strong>Linear MCP</strong> <span class="mono">→</span> ship drifting briefs as tickets, not just prefilled-URL links</li>
+            <li><strong>Slack MCP</strong> <span class="mono">→</span> bidirectional – team asks »top-5 drifters since Tuesday?« in Slack, gets a live answer</li>
+            <li><strong>SISTRIX / SEMrush</strong> <span class="mono">→</span> CTR-by-position curves to turn GSC impressions into grounded click estimates</li>
+            <li><strong>Shopify / Shopware</strong> <span class="mono">→</span> per-SKU revenue mapping, sharper than generic GA4 revenue</li>
+          </ul>
+        </div>
+      </div>
+
       <div class="cross-block">
         <div class="cross-head">
           <h3 class="serif">Drift × Google Search Console</h3>
@@ -2118,6 +2163,22 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .cross-url { font-family: var(--mono); font-size: 12px; color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule-strong); }
   .cross-url:hover { border-bottom-color: var(--drift); color: var(--drift); text-decoration: none; }
   .cross-formula { display: inline-block; margin-top: 4px; background: var(--bg); padding: 3px 8px; border: 1px solid var(--rule); color: var(--ink); font-size: 12px; }
+
+  /* Stack architecture map */
+  .stack-map { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin: 40px 0 16px; }
+  @media (max-width: 960px) { .stack-map { grid-template-columns: 1fr; } }
+  .stack-map-col { border: 1px solid var(--rule); background: var(--bg); padding: 22px 22px 18px; }
+  .stack-map-head { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid var(--rule); }
+  .stack-map-dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+  .stack-map-dot-built { background: var(--own); }
+  .stack-map-dot-stub { background: var(--warn); border: 1px dashed var(--ink-mute); background: var(--bg-alt); }
+  .stack-map-dot-soon { background: var(--bg-deep); border: 1px dashed var(--ink-mute); }
+  .stack-map-title { font-family: var(--sans); font-size: 12px; font-weight: 600; color: var(--ink); letter-spacing: 0.04em; text-transform: uppercase; }
+  .stack-map-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 12px; }
+  .stack-map-list li { font-family: var(--sans); font-size: 13px; line-height: 1.5; color: var(--ink-soft); }
+  .stack-map-list strong { color: var(--ink); font-weight: 600; }
+  .stack-map-list .mono { font-family: var(--mono); color: var(--ink-mute); font-size: 12px; padding: 0 2px; }
+  .stack-map-list code { font-family: var(--mono); font-size: 11.5px; background: var(--bg-alt); padding: 1px 5px; border: 1px solid var(--rule); color: var(--ink); }
   .cross-property { font-family: var(--mono); font-size: 11px; color: var(--ink-mute); margin-left: auto; letter-spacing: 0.02em; }
   .cross-totals { display: flex; gap: 32px; margin: 20px 0 28px; padding: 16px 22px; background: var(--bg-alt); border: 1px solid var(--rule); flex-wrap: wrap; }
   .cross-total { display: flex; flex-direction: column; gap: 3px; min-width: 180px; }
