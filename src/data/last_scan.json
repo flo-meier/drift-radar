@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-04-24T08:00:00Z",
+  "source": "initial-commit",
+  "next_scheduled": "2026-04-26T02:00:00Z",
+  "workflow_url": "https://github.com/flo-meier/drift-radar/actions/workflows/drift-radar-weekly.yml",
+  "peec_api_key_present": false,
+  "date_range_days": 3
+}

@@ -61,11 +61,44 @@ jobs:
         working-directory: pipeline
         run: python sync_to_app.py
 
+      - name: Stamp last_scan.json
+        env:
+          KEY_PRESENT: ${{ secrets.PEEC_API_KEY != '' }}
+          TRIGGER: ${{ github.event_name }}
+          DATE_RANGE: ${{ github.event.inputs.date_range_days || '7' }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          WF_URL: ${{ github.server_url }}/${{ github.repository }}/actions/workflows/drift-radar-weekly.yml
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime, timedelta, timezone
+
+          now = datetime.now(timezone.utc).replace(microsecond=0)
+          # Next cron: next Sunday 02:00 UTC
+          days_ahead = (6 - now.weekday()) % 7
+          if days_ahead == 0 and now.hour >= 2:
+              days_ahead = 7
+          next_run = (now + timedelta(days=days_ahead)).replace(hour=2, minute=0, second=0)
+
+          payload = {
+              "timestamp": now.isoformat().replace("+00:00", "Z"),
+              "source": os.environ["TRIGGER"],
+              "next_scheduled": next_run.isoformat().replace("+00:00", "Z"),
+              "workflow_url": os.environ["WF_URL"],
+              "last_run_url": os.environ["RUN_URL"],
+              "peec_api_key_present": os.environ["KEY_PRESENT"] == "true",
+              "date_range_days": int(os.environ["DATE_RANGE"]),
+          }
+          with open("src/data/last_scan.json", "w", encoding="utf-8") as f:
+              json.dump(payload, f, indent=2)
+          print(json.dumps(payload, indent=2))
+          PY
+
       - name: Commit refreshed data (if changed)
         run: |
           git config user.name  "drift-radar-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add pipeline/data/ src/data/ public/downloads/
+          git add pipeline/data/ src/data/ public/downloads/ src/data/last_scan.json
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else

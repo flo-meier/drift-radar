@@ -4,6 +4,7 @@ import KeyVisual from '../components/KeyVisual.astro';
 import data from '../data/drift_radar.json';
 import peecActions from '../data/peec_actions.json';
 import trendByDate from '../data/trend_by_date.json';
+import lastScan from '../data/last_scan.json';
 
 const { project, own_brand, date_range, active_models, competitors, summary, prompts, source_overview, source_classifications } = data as any;
 const peecTopActions = (peecActions as any).top_actions || [];
@@ -26,6 +27,20 @@ const SOURCE_CLASS_LABELS: Record<string, string> = {
 };
 
 const modelOrder = active_models.map((m: any) => m.id);
+
+function formatScanDate(iso: string): string {
+  const d = new Date(iso);
+  const day = String(d.getUTCDate()).padStart(2, '0');
+  const month = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const hh = String(d.getUTCHours()).padStart(2, '0');
+  const mm = String(d.getUTCMinutes()).padStart(2, '0');
+  return `${d.getUTCFullYear()}-${month}-${day} ${hh}:${mm} UTC`;
+}
+const scanLastLabel = formatScanDate((lastScan as any).timestamp);
+const scanNextLabel = formatScanDate((lastScan as any).next_scheduled);
+const scanSource = (lastScan as any).source;
+const scanWorkflowUrl = (lastScan as any).workflow_url;
+const scanApiKeyPresent = (lastScan as any).peec_api_key_present;
 
 const sortedPrompts = [...prompts].sort((a: any, b: any) => b.divergence_score - a.divergence_score);
 const heatmapRows = sortedPrompts.slice(0, 20);
@@ -291,6 +306,24 @@ function sumCounts(counts: Record<string, number> | undefined): number {
       </div>
     </div>
   </nav>
+
+  <div class="scan-strip" role="status" aria-label="Scan freshness">
+    <div class="container">
+      <div class="scan-strip-inner">
+        <div class="scan-strip-item">
+          <span class="scan-strip-label">Last scan</span>
+          <span class="scan-strip-val mono">{scanLastLabel}</span>
+          <span class="scan-strip-sub mono">· {scanSource}{scanApiKeyPresent ? '' : ' (seed snapshot)'}</span>
+        </div>
+        <div class="scan-strip-item">
+          <span class="scan-strip-label">Next scheduled</span>
+          <span class="scan-strip-val mono">{scanNextLabel}</span>
+          <span class="scan-strip-sub mono">· weekly cron</span>
+        </div>
+        <a class="scan-strip-link" href={scanWorkflowUrl} target="_blank" rel="noopener">Re-run via GitHub Actions ↗</a>
+      </div>
+    </div>
+  </div>
 
   <header class="section hero" data-tab="overview">
     <div class="container">
@@ -1818,6 +1851,21 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .tab-nav-btn.is-active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
   .tab-nav-btn.is-active .tab-badge { color: var(--bg); opacity: 0.75; }
   .tab-badge { font-size: 11px; color: var(--ink-mute); font-weight: 500; padding: 0 4px; }
+
+  /* Scan-freshness strip – sits directly under the sticky tab-nav */
+  .scan-strip { background: var(--bg-alt); border-bottom: 1px solid var(--rule); }
+  .scan-strip .container { max-width: 1400px; padding: 0 32px; }
+  .scan-strip-inner { display: flex; align-items: baseline; gap: 36px; padding: 10px 0; flex-wrap: wrap; }
+  .scan-strip-item { display: inline-flex; align-items: baseline; gap: 8px; }
+  .scan-strip-label { font-family: var(--sans); font-size: 11px; font-weight: 500; color: var(--ink-mute); letter-spacing: 0.08em; text-transform: uppercase; }
+  .scan-strip-val { font-size: 12px; font-weight: 500; color: var(--ink); }
+  .scan-strip-sub { font-size: 11px; color: var(--ink-mute); font-weight: 400; }
+  .scan-strip-link { margin-left: auto; font-family: var(--sans); font-size: 12px; font-weight: 500; color: var(--drift); text-decoration: none; border-bottom: 1px solid transparent; padding-bottom: 1px; transition: border-color 120ms ease; }
+  .scan-strip-link:hover { border-bottom-color: var(--drift); text-decoration: none; }
+  @media (max-width: 760px) {
+    .scan-strip-inner { gap: 18px; }
+    .scan-strip-link { margin-left: 0; }
+  }
 
   /* Tab visibility rules — scope to section/header elements so tab-buttons stay visible */
   section[data-tab], header[data-tab] { display: none; }
