@@ -3,7 +3,7 @@
     "source": "demo",
     "property_url": null,
     "note": "Demo data seeded deterministically from Peec prompt_id. Set GSC_SERVICE_ACCOUNT_JSON and GSC_PROPERTY_URL in the repo Secrets to replace with live Google Search Console data.",
-    "generated_at": "2026-04-24T08:59:00.511275+00:00",
+    "generated_at": "2026-04-24T11:02:27.765387+00:00",
     "by_prompt": {
       "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": {
         "ctr": 0.056,
@@ -734,7 +734,7 @@
     "property_id": null,
     "property_name": "Pferdegold Shop (demo)",
     "note": "Demo data seeded deterministically from Peec prompt_id. Set GA4_SERVICE_ACCOUNT_JSON and GA4_PROPERTY_ID in the repo Secrets to replace with live Google Analytics 4 data.",
-    "generated_at": "2026-04-24T08:59:00.513085+00:00",
+    "generated_at": "2026-04-24T11:02:27.766027+00:00",
     "by_prompt": {
       "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": {
         "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
@@ -1468,7 +1468,7 @@
   "ahrefs": {
     "source": "demo",
     "note": "Top-ranking URLs are real – harvested by Peec MCP from data/raw/gap_urls_digested.json. Keyword difficulty, search volume and backlink counts are deterministic mock rows per (prompt, domain) pair. Set AHREFS_API_KEY to replace the metrics with live Ahrefs data.",
-    "generated_at": "2026-04-24T08:59:00.515626+00:00",
+    "generated_at": "2026-04-24T11:02:27.766985+00:00",
     "by_prompt": {
       "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": {
         "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
