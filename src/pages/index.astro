@@ -413,7 +413,10 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <span class="scan-strip-val mono">{scanNextLabel}</span>
           <span class="scan-strip-sub mono">· weekly cron</span>
         </div>
-        <a class="scan-strip-link" href={scanWorkflowUrl} target="_blank" rel="noopener">Re-run via GitHub Actions ↗</a>
+        <div class="scan-strip-actions">
+          <button type="button" id="scan-trigger-btn" class="scan-strip-trigger" data-trigger-url="https://drift-radar-trigger.florian-meier-meier.workers.dev/dispatch">Trigger run now</button>
+          <a class="scan-strip-link" href={scanWorkflowUrl} target="_blank" rel="noopener">View workflow history ↗</a>
+        </div>
       </div>
     </div>
   </div>
@@ -2475,6 +2478,57 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
         }
       });
 
+      // --- Scan-strip trigger button · jury-accessible workflow_dispatch via CF Worker ---
+      (function() {
+        var btn = document.getElementById('scan-trigger-btn');
+        if (!btn) return;
+        var originalText = btn.textContent;
+        var url = btn.getAttribute('data-trigger-url');
+        btn.addEventListener('click', function() {
+          if (btn.disabled) return;
+          btn.disabled = true;
+          btn.classList.remove('is-ok', 'is-err');
+          btn.textContent = 'Dispatching…';
+          fetch(url, {
+            method: 'POST',
+            headers: { 'content-type': 'application/json' },
+            body: '{}',
+          })
+            .then(function(r) { return r.json().then(function(j) { return { status: r.status, body: j }; }); })
+            .then(function(res) {
+              if (res.status === 200 && res.body && res.body.ok) {
+                btn.classList.add('is-ok');
+                btn.textContent = 'Dispatched ✓ – see history ↗';
+                showToast('Workflow dispatched. Run appears in the history tab in 5–10 s.');
+                // Open the runs page so the user can watch the fresh run show up.
+                if (res.body.runs_url) {
+                  setTimeout(function() { window.open(res.body.runs_url, '_blank', 'noopener'); }, 400);
+                }
+              } else if (res.status === 429) {
+                btn.classList.add('is-err');
+                btn.textContent = 'Wait ' + (res.body.retry_after_seconds || 60) + 's · try again';
+                showToast('Rate limited: wait ' + (res.body.retry_after_seconds || 60) + 's, then retry.');
+              } else {
+                btn.classList.add('is-err');
+                btn.textContent = 'Dispatch failed · retry';
+                showToast((res.body && res.body.error) ? res.body.error : 'Dispatch failed – see history for status.');
+              }
+            })
+            .catch(function(e) {
+              btn.classList.add('is-err');
+              btn.textContent = 'Network error · retry';
+              showToast('Network error reaching the trigger worker.');
+            })
+            .finally(function() {
+              setTimeout(function() {
+                btn.disabled = false;
+                btn.classList.remove('is-ok', 'is-err');
+                btn.textContent = originalText;
+              }, 6000);
+            });
+        });
+      })();
+
       // --- Radar sweep · hover tooltip + click scroll to deep dive ---
       (function() {
         var svg = document.querySelector('.radar-svg');
@@ -2605,11 +2659,17 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .scan-strip-label { font-family: var(--sans); font-size: 11px; font-weight: 500; color: var(--ink-mute); letter-spacing: 0.08em; text-transform: uppercase; }
   .scan-strip-val { font-size: 12px; font-weight: 500; color: var(--ink); }
   .scan-strip-sub { font-size: 11px; color: var(--ink-mute); font-weight: 400; }
-  .scan-strip-link { margin-left: auto; font-family: var(--sans); font-size: 12px; font-weight: 500; color: var(--drift); text-decoration: none; border-bottom: 1px solid transparent; padding-bottom: 1px; transition: border-color 120ms ease; }
+  .scan-strip-actions { margin-left: auto; display: inline-flex; align-items: center; gap: 16px; }
+  .scan-strip-trigger { font-family: var(--sans); font-size: 12px; font-weight: 600; color: var(--bg); background: var(--drift); border: 1px solid var(--drift); padding: 6px 14px; cursor: pointer; letter-spacing: 0.02em; transition: background 120ms ease, border-color 120ms ease, color 120ms ease; }
+  .scan-strip-trigger:hover:not(:disabled) { background: var(--ink); border-color: var(--ink); }
+  .scan-strip-trigger:disabled { opacity: 0.6; cursor: wait; }
+  .scan-strip-trigger.is-ok { background: var(--own); border-color: var(--own); }
+  .scan-strip-trigger.is-err { background: var(--bg); color: var(--drift); }
+  .scan-strip-link { font-family: var(--sans); font-size: 12px; font-weight: 500; color: var(--drift); text-decoration: none; border-bottom: 1px solid transparent; padding-bottom: 1px; transition: border-color 120ms ease; }
   .scan-strip-link:hover { border-bottom-color: var(--drift); text-decoration: none; }
   @media (max-width: 760px) {
     .scan-strip-inner { gap: 18px; }
-    .scan-strip-link { margin-left: 0; }
+    .scan-strip-actions { margin-left: 0; flex-wrap: wrap; }
   }
 
   /* Tab visibility rules — scope to section/header elements so tab-buttons stay visible */
