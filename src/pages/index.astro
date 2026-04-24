@@ -5,6 +5,7 @@ import data from '../data/drift_radar.json';
 import peecActions from '../data/peec_actions.json';
 import trendByDate from '../data/trend_by_date.json';
 import lastScan from '../data/last_scan.json';
+import crossRefs from '../data/cross_refs.json';
 
 const { project, own_brand, date_range, active_models, competitors, summary, prompts, source_overview, source_classifications } = data as any;
 const peecTopActions = (peecActions as any).top_actions || [];
@@ -41,6 +42,11 @@ const scanNextLabel = formatScanDate((lastScan as any).next_scheduled);
 const scanSource = (lastScan as any).source;
 const scanWorkflowUrl = (lastScan as any).workflow_url;
 const scanApiKeyPresent = (lastScan as any).peec_api_key_present;
+
+const gscPayload = (crossRefs as any).gsc;
+const gscTop = (gscPayload && gscPayload.top_priority) || [];
+const gscSource = gscPayload?.source || 'demo';
+const gscNote = gscPayload?.note || '';
 
 const sortedPrompts = [...prompts].sort((a: any, b: any) => b.divergence_score - a.divergence_score);
 const heatmapRows = sortedPrompts.slice(0, 20);
@@ -301,7 +307,8 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         <button type="button" class="tab-nav-btn" data-tab="overview">Overview</button>
         <button type="button" class="tab-nav-btn" data-tab="heatmap">Heatmap <span class="tab-badge mono">{summary.total_prompts}</span></button>
         <button type="button" class="tab-nav-btn" data-tab="deepdives">Deep dives <span class="tab-badge mono">{deepDives.length}</span></button>
-        <button type="button" class="tab-nav-btn" data-tab="exports">Export kit <span class="tab-badge mono">8</span></button>
+        <button type="button" class="tab-nav-btn" data-tab="exports">Export kit <span class="tab-badge mono">9</span></button>
+        <button type="button" class="tab-nav-btn" data-tab="stack">Stack</button>
         <button type="button" class="tab-nav-btn" data-tab="underhood">Under the hood</button>
       </div>
     </div>
@@ -1402,6 +1409,63 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
+  <section class="section stack-section" data-tab="stack">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">The stack around Drift Radar</div>
+          <h2>Cross-references from the systems content teams already run</h2>
+        </div>
+      </div>
+      <p class="dek">Drift Radar is not a silo. Peec data becomes actionable when it joins the signal your team already trusts – classical search, business impact, competitor context. Each block below pairs Peec prompts with an external source. Where a property is not connected, numbers are deterministic demo rows seeded from the prompt-ID; connect the source and live values replace them automatically.</p>
+
+      <div class="cross-block">
+        <div class="cross-head">
+          <h3 class="serif">Drift × Google Search Console</h3>
+          <span class={`cross-badge cross-badge-${gscSource}`}>{gscSource === 'demo' ? 'demo data' : gscSource}</span>
+        </div>
+        <p class="caption cross-note">{gscNote}</p>
+        <div class="cross-tagline">
+          <strong>Why join these signals:</strong> a prompt that is drifting <em>across AI engines</em> AND has weak classical Google CTR is a double-priority content target – the narrative is broken in both surfaces, and nobody is going to out-rank you first.
+        </div>
+        <div class="cross-table-wrap">
+          <table class="cross-table">
+            <thead>
+              <tr>
+                <th class="mono">#</th>
+                <th>Prompt</th>
+                <th class="mono">Divergence</th>
+                <th class="mono">GSC&nbsp;CTR</th>
+                <th class="mono">Pos.</th>
+                <th class="mono">Impr./mo</th>
+                <th class="mono">Priority</th>
+              </tr>
+            </thead>
+            <tbody>
+              {gscTop.map((row: any, idx: number) => (
+                <tr>
+                  <td class="mono">{idx + 1}</td>
+                  <td><span class="cross-prompt">»{row.prompt_text}«</span></td>
+                  <td class="mono">{row.divergence_score.toFixed(2)}</td>
+                  <td class="mono">{(row.ctr * 100).toFixed(1)}%</td>
+                  <td class="mono">{row.position.toFixed(1)}</td>
+                  <td class="mono">{row.impressions.toLocaleString('en-US')}</td>
+                  <td class="mono cross-priority">
+                    <span class="priority-bar-wrap"><span class="priority-bar" style={`width: ${row.priority_score * 100}%`}></span></span>
+                    <span>{row.priority_score.toFixed(2)}</span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="caption cross-howto">
+          Connect a property: add <code>GSC_SERVICE_ACCOUNT_JSON</code> and <code>GSC_PROPERTY_URL</code> to the repo secrets. The connector stub lives at <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/gsc.py" target="_blank" rel="noopener">pipeline/connectors/gsc.py</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+
   <section class="section methodology" data-tab="underhood">
     <div class="container">
       <div class="section-header-editorial">
@@ -1884,7 +1948,33 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   body.tab-heatmap   section[data-tab="heatmap"],
   body.tab-deepdives section[data-tab="deepdives"],
   body.tab-exports   section[data-tab="exports"],
+  body.tab-stack     section[data-tab="stack"],
   body.tab-underhood section[data-tab="underhood"] { display: block; }
+
+  /* Stack tab – cross-reference sections */
+  .stack-section { padding: 64px 0 96px; }
+  .cross-block { margin-top: 48px; border: 1px solid var(--rule); padding: 28px 32px 24px; background: var(--bg); }
+  .cross-block + .cross-block { margin-top: 32px; }
+  .cross-head { display: flex; align-items: baseline; gap: 16px; margin-bottom: 6px; flex-wrap: wrap; }
+  .cross-head h3 { margin: 0; font-size: 22px; }
+  .cross-badge { font-family: var(--sans); font-size: 11px; font-weight: 500; padding: 3px 9px; border-radius: 2px; letter-spacing: 0.06em; text-transform: uppercase; }
+  .cross-badge-demo { background: var(--bg-deep); color: var(--ink-mute); border: 1px dashed var(--rule-strong); }
+  .cross-badge-live { background: var(--own); color: var(--bg); }
+  .cross-badge-live-stub { background: var(--warn); color: var(--ink); }
+  .cross-note { margin: 4px 0 16px; font-size: 13.5px; max-width: 720px; }
+  .cross-tagline { font-family: var(--serif); font-style: italic; font-size: 16px; line-height: 1.55; color: var(--ink-soft); background: var(--bg-alt); padding: 16px 22px; border-left: 3px solid var(--drift); margin: 12px 0 24px; max-width: 820px; }
+  .cross-tagline strong { font-style: normal; color: var(--ink); font-weight: 600; }
+  .cross-table-wrap { overflow-x: auto; margin: 0 -8px; }
+  .cross-table { width: 100%; min-width: 760px; border-collapse: collapse; font-size: 13px; }
+  .cross-table th, .cross-table td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--rule); vertical-align: middle; }
+  .cross-table th { background: var(--bg-alt); font-family: var(--sans); font-weight: 600; font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-mute); border-bottom: 1px solid var(--rule-strong); }
+  .cross-table td.mono { font-family: var(--mono); font-size: 12.5px; font-weight: 500; }
+  .cross-prompt { font-family: var(--serif); font-style: italic; font-size: 13.5px; display: inline-block; max-width: 380px; line-height: 1.4; }
+  .cross-priority { white-space: nowrap; }
+  .priority-bar-wrap { display: inline-block; vertical-align: middle; width: 64px; height: 8px; background: var(--bg-deep); margin-right: 8px; }
+  .priority-bar { display: block; height: 100%; background: var(--drift); }
+  .cross-howto { margin-top: 18px; font-size: 13px; color: var(--ink-mute); }
+  .cross-howto code { font-family: var(--mono); font-size: 12px; background: var(--bg-alt); padding: 2px 6px; border: 1px solid var(--rule); color: var(--ink); }
 
   .hero { padding-top: 120px; padding-bottom: 96px; }
   .hero-layout { display: grid; grid-template-columns: 2fr 1fr; gap: 80px; align-items: start; }

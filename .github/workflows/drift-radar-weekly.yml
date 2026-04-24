@@ -61,6 +61,13 @@ jobs:
         working-directory: pipeline
         run: python export_wordpress.py
 
+      - name: Build cross-references (GSC / GA4 / Ahrefs)
+        working-directory: pipeline
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_PROPERTY_URL: ${{ secrets.GSC_PROPERTY_URL }}
+        run: python build_cross_refs.py
+
       - name: Sync data to Astro src/
         working-directory: pipeline
         run: python sync_to_app.py
