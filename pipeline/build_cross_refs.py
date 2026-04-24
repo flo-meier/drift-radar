@@ -13,7 +13,7 @@ This script calls each connector and writes the result to data/ui/cross_refs.jso
 import json
 from pathlib import Path
 
-from connectors import gsc
+from connectors import gsc, ga4
 
 ROOT = Path(__file__).parent
 UI = ROOT / "data" / "ui" / "drift_radar.json"
@@ -24,9 +24,13 @@ def main():
     data = json.loads(UI.read_text(encoding="utf-8"))
     prompts = data.get("prompts", [])
 
+    gsc_payload = gsc.fetch(prompts)
+    ga4_payload = ga4.fetch(prompts, gsc=gsc_payload)
+
     payload = {
-        "gsc": gsc.fetch(prompts),
-        # GA4 + Ahrefs connectors land here in waves 7 + 8.
+        "gsc": gsc_payload,
+        "ga4": ga4_payload,
+        # Ahrefs lands here in wave 8.
     }
 
     OUT.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")

@@ -48,6 +48,18 @@ const gscTop = (gscPayload && gscPayload.top_priority) || [];
 const gscSource = gscPayload?.source || 'demo';
 const gscNote = gscPayload?.note || '';
 
+const ga4Payload = (crossRefs as any).ga4;
+const ga4Top = (ga4Payload && ga4Payload.top_risk) || [];
+const ga4Source = ga4Payload?.source || 'demo';
+const ga4Note = ga4Payload?.note || '';
+const ga4PropertyName = ga4Payload?.property_name || '';
+const ga4Totals = ga4Payload?.totals || {};
+const ga4MaxRisk = Math.max(1, ...ga4Top.map((r: any) => r.revenue_at_risk || 0));
+
+function euro(n: number): string {
+  return '€' + Math.round(n).toLocaleString('en-US');
+}
+
 const sortedPrompts = [...prompts].sort((a: any, b: any) => b.divergence_score - a.divergence_score);
 const heatmapRows = sortedPrompts.slice(0, 20);
 const deepDives = sortedPrompts.filter((p: any) => p.chat_sample);
@@ -1463,6 +1475,70 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           Connect a property: add <code>GSC_SERVICE_ACCOUNT_JSON</code> and <code>GSC_PROPERTY_URL</code> to the repo secrets. The connector stub lives at <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/gsc.py" target="_blank" rel="noopener">pipeline/connectors/gsc.py</a>.
         </p>
       </div>
+
+      <div class="cross-block">
+        <div class="cross-head">
+          <h3 class="serif">Drift × Google Analytics 4</h3>
+          <span class={`cross-badge cross-badge-${ga4Source}`}>{ga4Source === 'demo' ? 'demo data' : ga4Source}</span>
+          {ga4PropertyName && <span class="cross-property mono">{ga4PropertyName}</span>}
+        </div>
+        <p class="caption cross-note">{ga4Note}</p>
+        <div class="cross-tagline">
+          <strong>Why join these signals:</strong> every drifting prompt has a monetary shadow. Click traffic already flowing is the floor of the revenue at risk; divergence and own-brand silence widen the gap competitors can take.
+        </div>
+
+        <div class="cross-totals">
+          <div class="cross-total">
+            <span class="cross-total-label">Revenue / month · total (demo)</span>
+            <span class="cross-total-val mono">{euro(ga4Totals.revenue_monthly_total || 0)}</span>
+          </div>
+          <div class="cross-total cross-total-risk">
+            <span class="cross-total-label">At risk · all drifting prompts</span>
+            <span class="cross-total-val mono">{euro(ga4Totals.revenue_at_risk_total || 0)}</span>
+          </div>
+          <div class="cross-total">
+            <span class="cross-total-label">Prompts &gt; €50 at risk</span>
+            <span class="cross-total-val mono">{ga4Totals.prompts_at_risk || 0} / {ga4Top.length > 0 ? (crossRefs as any).ga4.by_prompt ? Object.keys((crossRefs as any).ga4.by_prompt).length : 0 : 0}</span>
+          </div>
+        </div>
+
+        <div class="cross-table-wrap">
+          <table class="cross-table">
+            <thead>
+              <tr>
+                <th class="mono">#</th>
+                <th>Prompt</th>
+                <th class="mono">Divergence</th>
+                <th class="mono">Clicks/mo</th>
+                <th class="mono">CR</th>
+                <th class="mono">AOV</th>
+                <th class="mono">Revenue/mo</th>
+                <th class="mono">At risk</th>
+              </tr>
+            </thead>
+            <tbody>
+              {ga4Top.map((row: any, idx: number) => (
+                <tr>
+                  <td class="mono">{idx + 1}</td>
+                  <td><span class="cross-prompt">»{row.prompt_text}«</span></td>
+                  <td class="mono">{row.divergence_score.toFixed(2)}</td>
+                  <td class="mono">{row.clicks_monthly.toLocaleString('en-US')}</td>
+                  <td class="mono">{(row.conversion_rate * 100).toFixed(1)}%</td>
+                  <td class="mono">{euro(row.avg_order_value)}</td>
+                  <td class="mono">{euro(row.revenue_monthly)}</td>
+                  <td class="mono cross-priority">
+                    <span class="priority-bar-wrap"><span class="priority-bar priority-bar-risk" style={`width: ${(row.revenue_at_risk / ga4MaxRisk) * 100}%`}></span></span>
+                    <span>{euro(row.revenue_at_risk)}</span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="caption cross-howto">
+          Connect a property: add <code>GA4_SERVICE_ACCOUNT_JSON</code> and <code>GA4_PROPERTY_ID</code> to the repo secrets. The connector stub lives at <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/ga4.py" target="_blank" rel="noopener">pipeline/connectors/ga4.py</a>. Once connected, click estimates can be refined by joining live GSC impressions × SISTRIX CTR curves per position – turning »demo« into »grounded-estimate« without ever training on the brand directly.
+        </p>
+      </div>
     </div>
   </section>
 
@@ -1973,6 +2049,13 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .cross-priority { white-space: nowrap; }
   .priority-bar-wrap { display: inline-block; vertical-align: middle; width: 64px; height: 8px; background: var(--bg-deep); margin-right: 8px; }
   .priority-bar { display: block; height: 100%; background: var(--drift); }
+  .priority-bar-risk { background: var(--warn); }
+  .cross-property { font-family: var(--mono); font-size: 11px; color: var(--ink-mute); margin-left: auto; letter-spacing: 0.02em; }
+  .cross-totals { display: flex; gap: 32px; margin: 20px 0 28px; padding: 16px 22px; background: var(--bg-alt); border: 1px solid var(--rule); flex-wrap: wrap; }
+  .cross-total { display: flex; flex-direction: column; gap: 3px; min-width: 180px; }
+  .cross-total-label { font-family: var(--sans); font-size: 11px; color: var(--ink-mute); letter-spacing: 0.06em; text-transform: uppercase; font-weight: 500; }
+  .cross-total-val { font-size: 22px; font-weight: 700; color: var(--ink); letter-spacing: -0.02em; }
+  .cross-total-risk .cross-total-val { color: var(--drift); }
   .cross-howto { margin-top: 18px; font-size: 13px; color: var(--ink-mute); }
   .cross-howto code { font-family: var(--mono); font-size: 12px; background: var(--bg-alt); padding: 2px 6px; border: 1px solid var(--rule); color: var(--ink); }
 
