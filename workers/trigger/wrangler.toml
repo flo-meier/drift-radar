@@ -1,0 +1,10 @@
+name = "drift-radar-trigger"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+workers_dev = true
+
+# Secrets are not listed here. Set via:
+#   wrangler secret put GH_TOKEN
+# GH_TOKEN must be a fine-grained PAT with
+#   Repository: flo-meier/drift-radar
+#   Permissions · Actions: Read and write (only)
