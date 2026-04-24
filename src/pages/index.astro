@@ -394,7 +394,10 @@ function sumCounts(counts: Record<string, number> | undefined): number {
 
   <section class="section numbers-section" data-tab="overview">
     <div class="container">
-      <div class="kicker" style="margin-bottom: 56px;">The numbers</div>
+      <div class="kicker">The numbers</div>
+      <p class="dek" style="margin-top: 12px; margin-bottom: 56px; max-width: 780px;">
+        Four single-number moments that together describe the brand risk. Read top-to-bottom: how often is the brand absent altogether, how often does a competitor take the spot, how often do the engines contradict each other, what is the average noise floor. Every number comes from the {summary.total_prompts} prompts in the {date_range.start} → {date_range.end} window.
+      </p>
       <div class="numbers-list">
         <div class="number-moment">
           <div class="typo-number drift" style="font-size: clamp(120px, 16vw, 180px);">{summary.own_silence_percent}<span class="number-unit">%</span></div>
@@ -866,6 +869,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
               <div class="eyebrow">Divergence score</div>
               <div class="typo-number drift" style="margin-top: 4px;">{p.divergence_score.toFixed(2)}</div>
               <div class="drift-score-legend">range {p.range_visibility.toFixed(2)} · CV {p.cv_visibility.toFixed(2)}</div>
+              <div class="drift-score-reading mono">{p.divergence_score >= 0.80 ? 'three non-overlapping answers' : p.divergence_score >= 0.50 ? 'two versions compete' : p.divergence_score >= 0.30 ? 'narrative is drifting' : 'engines aligned'}</div>
             </div>
             <div class="deepdive-title">
               <h3 class="deepdive-prompt">»{p.prompt_text}«</h3>
@@ -1815,6 +1819,9 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         <div>
           <div class="kicker">Methodology</div>
           <h2>How the numbers are made</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            Five formal definitions, each paired with the exact variable in <code>drift_radar.json</code> that computes it. If a claim on any other tab looks surprising, the block below names the line that produced it.
+          </p>
         </div>
       </div>
       <div class="methodology-body">
@@ -2680,6 +2687,7 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .heatmap-score { cursor: help; }
   .deepdive-score-block { cursor: help; }
   .drift-score-legend { font-family: var(--mono); font-size: 11px; color: var(--ink-mute); letter-spacing: 0.02em; margin-top: 6px; }
+  .drift-score-reading { margin-top: 4px; font-size: 11px; color: var(--drift); font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; }
   .method-block code { background: var(--bg-alt); padding: 2px 5px; border: 1px solid var(--rule); font-size: 0.88em; white-space: nowrap; }
   .formula { font-family: var(--mono); font-size: 13px; padding: 12px 14px; background: var(--bg-alt); border-left: 2px solid var(--drift); color: var(--ink); white-space: pre-wrap; margin: 12px 0 0; overflow-x: auto; }
 
