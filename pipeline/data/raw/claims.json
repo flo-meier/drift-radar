@@ -1,0 +1,377 @@
+{
+  "model": "claude-haiku-4-5-20251001",
+  "by_chat_id": {
+    "ch_d5ff4691-99cf-535b-be43-94e51d849565": {
+      "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
+      "model_id": "google-ai-overview-scraper",
+      "claims": [
+        {
+          "text": "Pferdegold® Magen-Pellets supports sensitive horse stomachs",
+          "type": "brand",
+          "evidence": "speziell für sensible Pferdemägen entwickelt wurde, um die Schleimhaut zu unterstützen"
+        },
+        {
+          "text": "Quality pellets should be grain-free",
+          "type": "criterion",
+          "evidence": "hochwertige Pellets, die getreidefrei sind"
+        },
+        {
+          "text": "Quality pellets should contain low starch/sugar",
+          "type": "criterion",
+          "evidence": "wenig Stärke/Zucker enthalten"
+        },
+        {
+          "text": "Quality pellets buffer stomach acid",
+          "type": "function",
+          "evidence": "die Magensäure puffern"
+        },
+        {
+          "text": "Recommended for horses with stomach problems",
+          "type": "condition",
+          "evidence": "sensible Pferde mit Magenproblemen"
+        }
+      ]
+    },
+    "ch_b33ad490-77a1-5856-9294-7feed51b5afd": {
+      "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
+      "model_id": "gemini-scraper",
+      "claims": [
+        {
+          "text": "Höveler Pur.Gastro is a grain-free pellet",
+          "type": "brand",
+          "evidence": "Höveler Pur.Gastro – getreidefreies Pellet"
+        },
+        {
+          "text": "Marstall Gastro is a structure-rich muesli",
+          "type": "brand",
+          "evidence": "Marstall Gastro – strukturreiches Müsli"
+        },
+        {
+          "text": "Agrobs AlpenGrün Pellet recommended for sensitive horses",
+          "type": "brand",
+          "evidence": "Agrobs AlpenGrün Pellet"
+        },
+        {
+          "text": "St. Hippolyt Brandon Gastro supports stomach lining",
+          "type": "brand",
+          "evidence": "St. Hippolyt Brandon Gastro – speziell auf die Unterstützung der Magenschleimhaut"
+        },
+        {
+          "text": "Special stomach feed supports sensitive horse digestion",
+          "type": "function",
+          "evidence": "Spezielle Magenfutter für Pferde mit sensiblem Magen"
+        }
+      ]
+    },
+    "ch_4caa746e-984f-544a-b13b-215aad5bb2e9": {
+      "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
+      "model_id": "chatgpt-scraper",
+      "claims": [
+        {
+          "text": "Foran GASTRO Protect is a stomach pellet product",
+          "type": "brand",
+          "evidence": "Foran GASTRO Protect"
+        },
+        {
+          "text": "Farnam UlcerGard Pellets is a stomach pellet product",
+          "type": "brand",
+          "evidence": "Farnam UlcerGard Pellets"
+        },
+        {
+          "text": "AniForte MagenPellets Sensitive is a stomach pellet product",
+          "type": "brand",
+          "evidence": "AniForte MagenPellets Sensitive"
+        },
+        {
+          "text": "Kräuter MagenPellets von Kräuterhof is a stomach pellet",
+          "type": "brand",
+          "evidence": "Kräuter MagenPellets von Kräuterhof"
+        },
+        {
+          "text": "Stomach pellets should be stomach-friendly for sensitive horses",
+          "type": "criterion",
+          "evidence": "magenfreundlich sind"
+        }
+      ]
+    },
+    "ch_c3adfc63-bf60-5694-8506-bdead08688ba": {
+      "prompt_id": "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6",
+      "model_id": "gemini-scraper",
+      "claims": [
+        {
+          "text": "Pferdegold Gelenke is a joint support product",
+          "type": "brand",
+          "evidence": "Pferdegold Gelenke: Enthält MSM, Glucosamin und Kräuter"
+        },
+        {
+          "text": "Contains MSM for joint support",
+          "type": "substance",
+          "evidence": "Enthält MSM, Glucosamin und Kräuter"
+        },
+        {
+          "text": "Contains Glucosamin for joint support",
+          "type": "substance",
+          "evidence": "Enthält MSM, Glucosamin und Kräuter"
+        },
+        {
+          "text": "Made with natural ingredients like flaxseed and carrot",
+          "type": "criterion",
+          "evidence": "setzt aber primär auf natürliche Zutaten wie Leinsamen und Karotte"
+        },
+        {
+          "text": "Supports joint health in horses",
+          "type": "function",
+          "evidence": "Hochwertige Kombi-Präparate zur Gelenkunterstützung"
+        }
+      ]
+    },
+    "ch_ac671efe-d9fc-5adf-8258-c142c9f81676": {
+      "prompt_id": "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6",
+      "model_id": "chatgpt-scraper",
+      "claims": [
+        {
+          "text": "Fohlenhof Pferdefutter offers joint support",
+          "type": "brand",
+          "evidence": "Fohlenhof Pferdefutter"
+        },
+        {
+          "text": "Equine Nutritional Solutions offers joint support",
+          "type": "brand",
+          "evidence": "Equine Nutritional Solutions"
+        },
+        {
+          "text": "Pavo offers joint support",
+          "type": "brand",
+          "evidence": "Pavo"
+        },
+        {
+          "text": "These brands offer natural joint support",
+          "type": "criterion",
+          "evidence": "Marken, die natürliche Gelenkunterstützung ohne künstliche Aromen anbieten"
+        },
+        {
+          "text": "These brands contain no artificial flavors",
+          "type": "criterion",
+          "evidence": "ohne künstliche Aromen"
+        }
+      ]
+    },
+    "ch_1f4ff5a9-db03-5dc0-bd13-e768d3b20ce0": {
+      "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
+      "model_id": "chatgpt-scraper",
+      "claims": [
+        {
+          "text": "SanaNerv Nervenpellets contain Magnesium, Baldrian, Hopfen",
+          "type": "brand",
+          "evidence": "SanaNerv Nervenpellets (Magnesium, Baldrian, Hopfen, zuckerfrei)"
+        },
+        {
+          "text": "Cavalor Calm Down contains Magnesium and L-Tryptophan",
+          "type": "brand",
+          "evidence": "Cavalor Calm Down (Magnesium, L-Tryptophan, Kräuter)"
+        },
+        {
+          "text": "Pavo Calm & Relax contains Magnesium and herbs",
+          "type": "brand",
+          "evidence": "Pavo Calm & Relax (Magnesium, Kräuter, sehr geringer Zucker)"
+        },
+        {
+          "text": "Magnesium supports nervous horse health",
+          "type": "substance",
+          "evidence": "Wirkstoffe Magnesium, Tryptophan, pflanzliche Extrakte"
+        },
+        {
+          "text": "Baldrian and Passionsblume help stressed horses",
+          "type": "substance",
+          "evidence": "pflanzliche Extrakte (Baldrian, Passionsblume, Hopfen)"
+        }
+      ]
+    },
+    "ch_53bb4f8d-6864-5bf0-9c5e-cd5701ab4563": {
+      "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
+      "model_id": "gemini-scraper",
+      "claims": [
+        {
+          "text": "Krämer Nerven-Pellets »Innere Ruhe« contains Baldrian, Hopfen, Melisse, Kamille, Lavendel",
+          "type": "brand",
+          "evidence": "Krämer Nerven-Pellets »Innere Ruhe« – Baldrian, Hopfen, Melisse, Kamille, Lavendel"
+        },
+        {
+          "text": "Agrobs Magnesium Pur is getreide- and melassefrei",
+          "type": "brand",
+          "evidence": "Agrobs Magnesium Pur – Magnesium organisch/anorganisch plus Kräuter, getreide- und melassefrei"
+        },
+        {
+          "text": "Masterhorse Silence Pellets contains 40% Baldrianwurzel",
+          "type": "brand",
+          "evidence": "Masterhorse Silence Pellets – 40 % Baldrianwurzel, Hopfen, Melisse, Pfefferminze"
+        },
+        {
+          "text": "Discountfutter Nerven Kit contains Vitamin B12, Magnesium, L-Tryptophan",
+          "type": "brand",
+          "evidence": "Discountfutter Nerven Kit – Vitamin B12, Magnesium, L-Tryptophan"
+        },
+        {
+          "text": "Nerve pellets without industrial sugar for stressed horses available",
+          "type": "criterion",
+          "evidence": "mittlerweile eine gute Auswahl an Nervenpellets, die auf Melasse und Füllstoffe verzichten"
+        }
+      ]
+    },
+    "ch_0da3bd39-45ad-5a26-89a6-4eec2a8ef25d": {
+      "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
+      "model_id": "google-ai-overview-scraper",
+      "claims": [
+        {
+          "text": "Agrobs Magnesium Pur contains magnesium-citrate/glycinate/oxide",
+          "type": "brand",
+          "evidence": "Agrobs Magnesium Pur, Pferdegold): Magnesium-Citrat/Glycinat/Oxid"
+        },
+        {
+          "text": "NAF Magic contains valerian, lemon balm, hops, chamomile",
+          "type": "brand",
+          "evidence": "NAF Magic, Hilton Herbs): Baldrian, Melisse, Hopfen, Kamille"
+        },
+        {
+          "text": "Pavo BeChill combines tryptophan, magnesium, B-vitamins, passionflower",
+          "type": "brand",
+          "evidence": "Pavo BeChill, Synovium Calmingard): Tryptophan, Magnesium, B-Vitamine, Passionsblume"
+        },
+        {
+          "text": "Natural nerve pellets contain magnesium and L-tryptophan",
+          "type": "substance",
+          "evidence": "Magnesium, L-Tryptophan, B-Vitamine, beruhigende Kräuter"
+        },
+        {
+          "text": "Calming herbs include valerian, melisse, lavender, passionflower",
+          "type": "substance",
+          "evidence": "beruhigende Kräuter (Kamille, Melisse, Lavendel, Baldrian, Hopfen, Passionsblume)"
+        }
+      ]
+    },
+    "ch_1ccd3775-ea76-54d6-8b7e-b4f66b134539": {
+      "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
+      "model_id": "gemini-scraper",
+      "claims": [
+        {
+          "text": "Magnesium relaxes muscles and nervous system",
+          "type": "function",
+          "evidence": "Magnesium (entspannt Muskulatur und Nervensystem)"
+        },
+        {
+          "text": "L-Tryptophan is serotonin precursor promoting calmness",
+          "type": "function",
+          "evidence": "L-Tryptophan: Vorstufe von Serotonin, fördert innere Gelassenheit"
+        },
+        {
+          "text": "Vitamin B12 regenerates myelin sheath",
+          "type": "function",
+          "evidence": "Vitamin B12 (Regeneration der Myelinschicht)"
+        },
+        {
+          "text": "Valerian, hops, lemon balm calm horses",
+          "type": "substance",
+          "evidence": "Beruhigende Kräuter: Baldrian, Hopfen, Melisse"
+        },
+        {
+          "text": "Ashwagandha adaptogen helps stressed horses",
+          "type": "substance",
+          "evidence": "Ashwagandha (Adaptogen)"
+        }
+      ]
+    },
+    "ch_e7856ab2-d94c-54b0-8c94-287dd9153b15": {
+      "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
+      "model_id": "chatgpt-scraper",
+      "claims": [
+        {
+          "text": "Baldrian beruhigt ohne Sedierung",
+          "type": "substance",
+          "evidence": "Baldrian (beruhigend, nicht sedierend)"
+        },
+        {
+          "text": "Kamille wirkt entzündungshemmend und verdauungsfördernd",
+          "type": "substance",
+          "evidence": "Kamille (entzündungshemmend, verdauungsfördernd)"
+        },
+        {
+          "text": "L-Tryptophan ist Serotonin-Vorstufe für emotionales Gleichgewicht",
+          "type": "substance",
+          "evidence": "L-Tryptophan (Serotonin-Vorstufe, emotionales Gleichgewicht)"
+        },
+        {
+          "text": "Magnesium entspannt Muskeln und Nerven",
+          "type": "substance",
+          "evidence": "Magnesium (entspannt Muskeln und Nerven)"
+        },
+        {
+          "text": "Passionsblume reduziert Angst und Unruhe",
+          "type": "substance",
+          "evidence": "Passionsblume (Angst/Unruhe)"
+        }
+      ]
+    },
+    "ch_f64e930f-6a1c-5f10-881b-b6019e5a84f2": {
+      "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
+      "model_id": "gemini-scraper",
+      "claims": [
+        {
+          "text": "Pferdegold Gelenke contains green-lipped mussel, omega-3 and rosehip",
+          "type": "substance",
+          "evidence": "Kombination aus Grünlippmuschel, Omega-3-Fettsäuren und Hagebutte"
+        },
+        {
+          "text": "PharmaHorse Gelenk Pellets contains no unnecessary fillers or sugar",
+          "type": "criterion",
+          "evidence": "ohne unnötige Füllstoffe, Zucker oder Aromen"
+        },
+        {
+          "text": "Gelenk Premium is cost-effective for older horses",
+          "type": "function",
+          "evidence": "kosteneffiziente Basis für ältere Pferde"
+        },
+        {
+          "text": "NAF Superflex is renowned in sport horse segment",
+          "type": "brand",
+          "evidence": "renommierte Marke im Sportpferdebereich"
+        },
+        {
+          "text": "Pferdegold Gelenke is well-researched",
+          "type": "criterion",
+          "evidence": "gut erforscht"
+        }
+      ]
+    },
+    "ch_9212424b-a2df-5814-97a8-4e57fcf7f963": {
+      "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
+      "model_id": "chatgpt-scraper",
+      "claims": [
+        {
+          "text": "Gelenk Kit Pellets contains Glucosamin, Chondroitin, MSM",
+          "type": "brand",
+          "evidence": "Gelenk Kit Pellets (Glucosamin, Chondroitin, MSM)"
+        },
+        {
+          "text": "Gelenk Kit Pellets rated best-overall with 5.0",
+          "type": "brand",
+          "evidence": "Best-overall, Bewertung ~5.0"
+        },
+        {
+          "text": "navalis arthral Horse Pellets high-dosed for competition",
+          "type": "brand",
+          "evidence": "navalis arthral Horse Pellets – hochdosiert, Turnierbereich"
+        },
+        {
+          "text": "PharmaHorse Gelenk Pellets contains MSM, Glucosamin, Hyaluron",
+          "type": "substance",
+          "evidence": "MSM, Glucosamin, Hyaluron, Vitamin C"
+        },
+        {
+          "text": "GELENK PRO uses herbal ingredients like devil's claw",
+          "type": "substance",
+          "evidence": "GELENK PRO mit Teufelskralle – kräuterbasierte Alternative"
+        }
+      ]
+    }
+  }
+}

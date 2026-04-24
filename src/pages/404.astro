@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Drift Radar – not found">
+  <main class="notfound">
+    <div class="container">
+      <div class="notfound-eyebrow">404 · Page not found</div>
+      <h1 class="notfound-title">This prompt is not tracked by Drift Radar.</h1>
+      <p class="notfound-dek">
+        You followed a link that doesn't exist on this report. The live dashboard, the full content-brief library, the MCP manifest and the reproducible raw-data bundle all live on the start page.
+      </p>
+      <div class="notfound-actions">
+        <a class="notfound-btn notfound-btn-primary" href="/#overview">Open the dashboard</a>
+        <a class="notfound-btn" href="/#exports">Jump to exports</a>
+        <a class="notfound-btn" href="/downloads/executive_summary.pdf" download>Executive summary PDF</a>
+      </div>
+      <p class="notfound-foot">
+        Built on Peec AI MCP · Drift Radar for the Peec AI MCP Challenge 2026 · #BuiltWithPeec
+      </p>
+    </div>
+  </main>
+</Base>
+
+<style>
+  .notfound { padding: 120px 0 96px; min-height: 70vh; }
+  .notfound-eyebrow { font-family: var(--sans); font-size: 12px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--drift); margin-bottom: 24px; }
+  .notfound-title { font-family: var(--serif); font-size: clamp(38px, 6vw, 56px); line-height: 1.08; letter-spacing: -0.02em; font-weight: 700; margin: 0 0 24px; max-width: 900px; }
+  .notfound-dek { font-family: var(--serif); font-style: italic; font-size: 20px; line-height: 1.5; color: var(--ink-soft); max-width: 640px; margin: 0 0 40px; }
+  .notfound-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 56px; }
+  .notfound-btn { font-family: var(--sans); font-size: 13px; font-weight: 500; padding: 12px 20px; border: 1px solid var(--rule-strong); color: var(--ink); text-decoration: none; transition: border-color 120ms ease, background 120ms ease; background: var(--bg); }
+  .notfound-btn:hover { border-color: var(--ink); background: var(--bg-alt); text-decoration: none; }
+  .notfound-btn-primary { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .notfound-btn-primary:hover { background: var(--drift); border-color: var(--drift); color: var(--bg); }
+  .notfound-foot { font-family: var(--mono); font-size: 12px; color: var(--ink-mute); padding-top: 32px; border-top: 1px solid var(--rule); }
+</style>

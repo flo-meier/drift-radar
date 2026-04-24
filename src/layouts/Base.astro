@@ -1,0 +1,130 @@
+---
+interface Props { title?: string }
+const { title = 'Drift Radar' } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="A field report on how three AI engines describe the same brand – differently. Built on Peec MCP." />
+  <title>{title}</title>
+  <link rel="canonical" href="https://drift-radar.pages.dev/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Drift Radar" />
+  <meta property="og:title" content="Drift Radar – cross-model divergence & brand silence" />
+  <meta property="og:description" content="Three AI engines, one brand, three different answers. Drift Radar measures the gap on Peec AI MCP. #BuiltWithPeec" />
+  <meta property="og:url" content="https://drift-radar.pages.dev/" />
+  <meta property="og:image" content="https://drift-radar.pages.dev/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Drift Radar – cross-model divergence & brand silence" />
+  <meta name="twitter:description" content="Three AI engines, one brand, three different answers. 12.1× engine spread. Built on Peec MCP." />
+  <meta name="twitter:image" content="https://drift-radar.pages.dev/og-image.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,500&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style is:global>
+    :root {
+      --bg: #F7F4EE;
+      --bg-alt: #EDE8DC;
+      --bg-deep: #E4DDCD;
+      --ink: #1A1614;
+      --ink-soft: #4A413B;
+      --ink-mute: #8A7F75;
+      --rule: #D4CCBF;
+      --rule-strong: #B7AC9B;
+
+      --drift: #B84A2F;
+      --drift-soft: rgba(184, 74, 47, 0.08);
+      --own: #3E5C2E;
+      --own-soft: rgba(62, 92, 46, 0.08);
+      --competitor: #8B5A2B;
+      --competitor-soft: rgba(139, 90, 43, 0.08);
+      --warn: #C9A845;
+
+      --serif: 'Source Serif 4', 'Source Serif Pro', Georgia, serif;
+      --sans: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      --mono: 'JetBrains Mono', ui-monospace, Menlo, monospace;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: var(--sans);
+      font-size: 16px;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      text-rendering: optimizeLegibility;
+    }
+    h1, h2, h3, h4 {
+      font-family: var(--serif);
+      font-weight: 600;
+      margin: 0;
+      letter-spacing: -0.015em;
+      color: var(--ink);
+    }
+    h1 { font-size: clamp(48px, 8vw, 72px); line-height: 1.04; letter-spacing: -0.025em; font-weight: 700; }
+    h2 { font-size: clamp(30px, 4vw, 40px); line-height: 1.15; }
+    h3 { font-size: 22px; line-height: 1.3; }
+    p { margin: 0; color: var(--ink-soft); }
+    a { color: var(--ink); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: var(--rule-strong); transition: text-decoration-color 120ms ease; }
+    a:hover { text-decoration-color: var(--drift); }
+    em { font-style: italic; }
+    code, .mono { font-family: var(--mono); font-size: 0.92em; }
+    hr { border: none; border-top: 1px solid var(--rule); margin: 0; }
+
+    .serif { font-family: var(--serif); }
+    .mono { font-family: var(--mono); }
+    .italic { font-style: italic; }
+
+    .container { max-width: 1120px; margin: 0 auto; padding: 0 32px; }
+    .container-wide { max-width: 1360px; margin: 0 auto; padding: 0 32px; }
+    .section { padding: 96px 0; }
+    .section-tight { padding: 64px 0; }
+    .section + .section { border-top: 1px solid var(--rule); }
+
+    .kicker { font-family: var(--sans); font-size: 12px; font-weight: 500; color: var(--ink-mute); letter-spacing: 0.08em; text-transform: uppercase; }
+    .dek { font-family: var(--serif); font-style: italic; font-size: clamp(20px, 2.4vw, 26px); line-height: 1.4; color: var(--ink-soft); max-width: 780px; }
+    .byline { font-family: var(--mono); font-size: 13px; color: var(--ink-mute); margin-top: 24px; }
+    .byline strong { color: var(--ink); font-weight: 700; }
+    .caption { font-family: var(--serif); font-style: italic; font-size: 15px; color: var(--ink-mute); max-width: 640px; }
+    .sidenote { font-family: var(--serif); font-style: italic; font-size: 15px; color: var(--ink-soft); padding-left: 16px; border-left: 1px solid var(--rule-strong); }
+
+    .rule { display: block; height: 1px; background: var(--rule); border: none; margin: 0; }
+    .rule-strong { background: var(--rule-strong); }
+
+    .typo-number { font-family: var(--mono); font-weight: 700; color: var(--ink); line-height: 0.9; letter-spacing: -0.04em; }
+    .typo-number.drift { color: var(--drift); }
+    .typo-number.own { color: var(--own); }
+
+    .eyebrow { font-family: var(--sans); font-size: 11px; font-weight: 600; color: var(--ink-mute); letter-spacing: 0.12em; text-transform: uppercase; }
+
+    .grid { display: grid; gap: 24px; }
+    .grid-2 { grid-template-columns: 1fr 1fr; }
+    .grid-3 { grid-template-columns: repeat(3, 1fr); }
+    .grid-2-3 { grid-template-columns: 2fr 1fr; }
+    .grid-3-2 { grid-template-columns: 3fr 2fr; }
+    @media (max-width: 900px) {
+      .grid-2, .grid-3, .grid-2-3, .grid-3-2 { grid-template-columns: 1fr; }
+      .section { padding: 64px 0; }
+    }
+
+    .text-ink { color: var(--ink); }
+    .text-soft { color: var(--ink-soft); }
+    .text-mute { color: var(--ink-mute); }
+    .text-drift { color: var(--drift); }
+    .text-own { color: var(--own); }
+    .text-competitor { color: var(--competitor); }
+
+    ::selection { background: var(--drift); color: var(--bg); }
+  </style>
+  <slot name="head" />
+</head>
+<body>
+  <slot />
+</body>
+</html>

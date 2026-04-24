@@ -1,0 +1,55 @@
+{
+  "fetched_at": "2026-04-23T16:10Z",
+  "project_id": "or_1caa4808-fd8b-44d9-b330-cc7909741cb4",
+  "date_range": {"start": "2026-04-20", "end": "2026-04-22"},
+  "overview": {
+    "columns": ["action_group_type","url_classification","domain","opportunity_score","relative_opportunity_score","gap_percentage","coverage_percentage","used_ratio","used_total"],
+    "rows": [
+      ["OWNED","CATEGORY_PAGE",null,0.1333,2,1,0,0.0174,2],
+      ["OWNED","HOW_TO_GUIDE",null,0.0667,2,0.5,0.5,0.0174,2],
+      ["OWNED","PRODUCT_PAGE",null,0.4,3,0.857,0.143,0.0609,7],
+      ["EDITORIAL","LISTICLE",null,0.0667,2,1,0,0.0087,1],
+      ["EDITORIAL","ARTICLE",null,0.2667,3,1,0,0.0348,4],
+      ["EDITORIAL","COMPARISON",null,0.0667,2,0.091,0.909,0.0957,11],
+      ["UGC",null,"facebook.com",0,1,0,1,0.0348,4],
+      ["UGC",null,"youtube.com",0,1,0,1,0.0174,2],
+      ["UGC",null,"instagram.com",0,1,0,1,0.0087,1]
+    ]
+  },
+  "top_actions": [
+    {
+      "scope": "owned",
+      "url_classification": "PRODUCT_PAGE",
+      "opportunity_score": 0.4,
+      "text": "Create content similar to the top-performing product page on marstall.de (Gastro – Getreidefreies Magen-Müsli für Pferde) for Pferdegold product pages.",
+      "reference_url": "https://marstall.de/gastro/20kg",
+      "reference_label": "Gastro – Getreidefreies Magen-Müsli für Pferde · marstall.de"
+    },
+    {
+      "scope": "editorial",
+      "url_classification": "ARTICLE",
+      "opportunity_score": 0.2667,
+      "text": "Get featured in cavallo.de – their articles are regularly cited by LLMs.",
+      "reference_url": "https://cavallo.de/medizin/welches-mineralfutter-fuer-welches-pferd",
+      "reference_label": "Welches Mineralfutter für welches Pferd? · cavallo.de"
+    },
+    {
+      "scope": "owned",
+      "url_classification": "CATEGORY_PAGE",
+      "opportunity_score": 0.1333,
+      "text": "Create content similar to the top-performing category page on st-hippolyt.de (Fütterungstipps für starke Nerven beim Pferd).",
+      "reference_url": "https://st-hippolyt.de/wissen/wissenwertes/fuetterungstipps-fuer-starke-nerven-beim-pferd",
+      "reference_label": "Fütterungstipps für starke Nerven beim Pferd · st-hippolyt.de"
+    },
+    {
+      "scope": "editorial",
+      "url_classification": "LISTICLE",
+      "opportunity_score": 0.0667,
+      "text": "Get featured in pferde-heilkunde.com – their listicles are regularly cited by LLMs. Contact the author of the 2026 Zusatzfutter-Gelenke listicle.",
+      "reference_url": "https://pferde-heilkunde.com/2025/08/06/zusatzfutter-gelenke-pferd-test",
+      "reference_label": "Zusatzfutter Gelenke Pferd: Test 2026 · pferde-heilkunde.com"
+    }
+  ],
+  "source_tool": "peec.get_actions",
+  "source_note": "Native Peec recommendations – pulled directly from the MCP tool. Drift Radar stitches this beside its own divergence- and silence-driven moves so the content brief covers both 'what Peec already knows' and 'what Peec can't see yet'."
+}

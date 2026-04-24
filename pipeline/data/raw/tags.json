@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-04-23T19:55Z",
+  "rows": [
+    [
+      "tg_511d8779-dca5-4610-a214-a204a56aa427",
+      "non-branded"
+    ],
+    [
+      "tg_73cf496d-e44d-4570-876f-668075ce6926",
+      "branded"
+    ],
+    [
+      "tg_91415613-91e9-45fc-9fed-697957a5c8f4",
+      "transactional"
+    ],
+    [
+      "tg_a7ec160a-6bd5-4913-b2bf-21e654731c63",
+      "informational"
+    ]
+  ]
+}

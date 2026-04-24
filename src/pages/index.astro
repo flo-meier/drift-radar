@@ -1,0 +1,2304 @@
+---
+import Base from '../layouts/Base.astro';
+import KeyVisual from '../components/KeyVisual.astro';
+import data from '../data/drift_radar.json';
+import peecActions from '../data/peec_actions.json';
+import trendByDate from '../data/trend_by_date.json';
+
+const { project, own_brand, date_range, active_models, competitors, summary, prompts, source_overview, source_classifications } = data as any;
+const peecTopActions = (peecActions as any).top_actions || [];
+
+// Trend data: build per-date × per-engine visibility map
+const trendRows = (trendByDate as any).rows || [];
+const trendDates: string[] = Array.from(new Set(trendRows.map((r: any) => r.date))).sort() as string[];
+const trendByEngine: Record<string, Record<string, number>> = {};
+for (const r of trendRows) {
+  if (!trendByEngine[r.model_id]) trendByEngine[r.model_id] = {};
+  trendByEngine[r.model_id][r.date] = r.visibility;
+}
+const trendMax = Math.max(0.01, ...trendRows.map((r: any) => r.visibility || 0));
+
+const SOURCE_CLASS_ORDER = ['OWN', 'COMPETITOR', 'EDITORIAL', 'UGC', 'REFERENCE', 'INSTITUTIONAL', 'CORPORATE', 'OTHER'];
+const SOURCE_CLASS_LABELS: Record<string, string> = {
+  OWN: 'You', COMPETITOR: 'Competitor', EDITORIAL: 'Editorial',
+  UGC: 'UGC', REFERENCE: 'Reference', INSTITUTIONAL: 'Institutional',
+  CORPORATE: 'Corporate', OTHER: 'Other',
+};
+
+const modelOrder = active_models.map((m: any) => m.id);
+
+const sortedPrompts = [...prompts].sort((a: any, b: any) => b.divergence_score - a.divergence_score);
+const heatmapRows = sortedPrompts.slice(0, 20);
+const deepDives = sortedPrompts.filter((p: any) => p.chat_sample);
+const deepDivePromptIds = new Set(deepDives.map((p: any) => p.prompt_id));
+
+function slugify(text: string, maxLen = 48): string {
+  const s = String(text).toLowerCase().replace(/[^\w\s-]/g, '').trim().replace(/[\s_-]+/g, '-');
+  return s.slice(0, maxLen).replace(/-+$/, '');
+}
+
+function briefFilename(p: any, kind?: 'own_only' | 'full_silence'): string {
+  const pidRaw = String(p.prompt_id || '').replace(/^pr_/, '').split('-')[0].slice(0, 8);
+  const slug = slugify(p.prompt_text || '', 44);
+  const prefix = kind === 'own_only' ? 'own-only-' : kind === 'full_silence' ? 'full-silence-' : '';
+  return `brief-${prefix}${pidRaw}-${slug}.pdf`;
+}
+
+function briefMdFilename(p: any, kind?: 'own_only' | 'full_silence'): string {
+  return briefFilename(p, kind).replace(/\.pdf$/, '.md');
+}
+
+function volumeLabel(p: any): string {
+  // Prefer Peec's bucket label (very low / low / medium / high / very high).
+  if (p.volume_bucket) return p.volume_bucket;
+  return '–';
+}
+
+function volumeBucketRank(label: string | null | undefined): number {
+  switch ((label || '').toLowerCase()) {
+    case 'very high': return 5;
+    case 'high': return 4;
+    case 'medium': return 3;
+    case 'low': return 2;
+    case 'very low': return 1;
+    default: return 0;
+  }
+}
+
+function datasetTsv(promptList: any[]): string {
+  const cols = [
+    'prompt_id', 'prompt_text', 'topic', 'volume',
+    'divergence_score', 'silence_type',
+    ...active_models.map((m: any) => `visibility_${m.name.toLowerCase().replace(/\s+/g, '_')}`),
+    'top_competitors',
+  ];
+  const rows = [cols.join('\t')];
+  for (const p of promptList) {
+    const vals: any[] = [
+      p.prompt_id, p.prompt_text, p.topic, p.volume ?? '',
+      p.divergence_score, p.silence_type ?? '',
+      ...active_models.map((m: any) => p.visibility_by_model?.[m.id] ?? 0),
+      (p.top_competitors || []).slice(0, 5)
+        .map((c: any) => `${c.brand_name} (${Math.round(c.max_visibility * 100)}%)`)
+        .join(', '),
+    ];
+    rows.push(vals.map(v => String(v).replace(/[\t\n\r]/g, ' ')).join('\t'));
+  }
+  return rows.join('\n');
+}
+
+function datasetMdTable(promptList: any[], title: string): string {
+  const lines: string[] = [];
+  lines.push(`# ${title}`);
+  lines.push('');
+  lines.push(`_Drift Radar · ${own_brand} · ${date_range.start} → ${date_range.end} · ${promptList.length} prompts_`);
+  lines.push('');
+  lines.push(`| Divergence | Silence | Prompt | ${active_models.map((m: any) => m.name).join(' | ')} | Top competitors |`);
+  lines.push(`|---|---|---|${active_models.map(() => '---').join('|')}|---|`);
+  for (const p of promptList) {
+    const text = p.prompt_text.replace(/\|/g, '\\|');
+    const engines = active_models.map((m: any) => `${Math.round((p.visibility_by_model?.[m.id] ?? 0) * 100)}%`).join(' | ');
+    const comps = (p.top_competitors || []).slice(0, 3).map((c: any) => c.brand_name).join(', ') || '–';
+    lines.push(`| ${p.divergence_score.toFixed(2)} | ${p.silence_type || '–'} | »${text}« | ${engines} | ${comps} |`);
+  }
+  lines.push('');
+  lines.push('---');
+  lines.push('Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #BuiltWithPeec');
+  return lines.join('\n');
+}
+
+const masterTsv = datasetTsv(prompts);
+const driftingTsv = datasetTsv(prompts.filter((p: any) => p.divergence_score >= 0.3));
+const ownOnlyTsv = datasetTsv(prompts.filter((p: any) => p.silence_type === 'own_only'));
+const fullSilenceTsv = datasetTsv(prompts.filter((p: any) => p.silence_type === 'full'));
+const masterMd = datasetMdTable(prompts, `Drift Radar – ${own_brand} · master dataset`);
+const driftingMd = datasetMdTable(prompts.filter((p: any) => p.divergence_score >= 0.3), `Drift Radar – drifting prompts (≥ 0.30)`);
+const ownOnlyMd = datasetMdTable(prompts.filter((p: any) => p.silence_type === 'own_only'), `Drift Radar – own-only silence prompts`);
+const fullSilenceMd = datasetMdTable(prompts.filter((p: any) => p.silence_type === 'full'), `Drift Radar – full silence prompts`);
+
+function buildMarkdown(p: any): string {
+  const cs = p.chat_sample || {};
+  const cSummary = cs.claim_summary || {};
+  const typeCounts = cSummary.type_counts_by_model || {};
+  const lines: string[] = [];
+  lines.push(`# Drift Radar – »${p.prompt_text}«`);
+  lines.push('');
+  lines.push(`**Divergence:** ${p.divergence_score.toFixed(2)} · **Silence:** ${p.silence_type || 'none'} · **Topic:** ${p.topic || '-'} · **Volume:** ${p.volume_bucket || '-'} (Peec search-volume bucket)`);
+  lines.push('');
+  if (cs.narrative) { lines.push(`> ${cs.narrative}`); lines.push(''); }
+  lines.push('## What the engines say');
+  lines.push('');
+  for (const m of active_models) {
+    const per = (cs.by_model || {})[m.id] || {};
+    const vis = p.visibility_by_model?.[m.id] ?? 0;
+    lines.push(`### ${m.name} – visibility ${Math.round(vis * 100)}%`);
+    if (per.note) { lines.push(`_${per.note}_`); lines.push(''); continue; }
+    const brands = per.brands_mentioned || [];
+    if (brands.length) {
+      lines.push(`**Brands cited:** ${brands.map((b: any) => `#${b.position} ${b.name}`).join(', ')}`);
+    } else {
+      lines.push(`**Brands cited:** _none tracked_`);
+    }
+    const counts = typeCounts[m.id] || {};
+    const typeStr = CLAIM_TYPES.filter((t: ClaimType) => (counts[t] || 0) > 0).map((t: ClaimType) => `${counts[t]} ${t}`).join(' · ');
+    if (typeStr) lines.push(`**Claim mix:** ${typeStr}`);
+    for (const c of (per.claims || []).slice(0, 5)) {
+      lines.push(`- _${c.type}_ – ${c.text}`);
+    }
+    if (per.caveat) lines.push(`> ${per.caveat}`);
+    lines.push('');
+  }
+  const sharedSub = cSummary.shared_substances || [];
+  const sharedCrit = cSummary.shared_criteria || [];
+  if (sharedSub.length || sharedCrit.length) {
+    lines.push('## Stable concepts across engines');
+    if (sharedSub.length) lines.push(`- Substances: ${sharedSub.join(', ')}`);
+    if (sharedCrit.length) lines.push(`- Criteria: ${sharedCrit.join(', ')}`);
+    lines.push('');
+  }
+  lines.push('---');
+  lines.push(`Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #BuiltWithPeec`);
+  return lines.join('\n');
+}
+
+function buildSlackText(p: any): string {
+  const visMap = p.visibility_by_model || {};
+  const active = active_models.filter((m: any) => (visMap[m.id] ?? 0) > 0).map((m: any) => m.name);
+  const absent = active_models.filter((m: any) => (visMap[m.id] ?? 0) === 0).map((m: any) => m.name);
+  const tc = (p.top_competitors || [])[0];
+  const lines = [
+    `*Drift Radar Alert* – prompt »${p.prompt_text}«`,
+    `Divergence: ${p.divergence_score.toFixed(2)} · ${p.silence_type ? p.silence_type.replace('_', ' ') + ' silence' : 'active'}`,
+    `${own_brand} visible on: ${active.length ? active.join(', ') : '_none_'}`,
+    `${own_brand} absent on: ${absent.length ? absent.join(', ') : '_none_'}`,
+  ];
+  if (tc) lines.push(`Top competitor cited instead: ${tc.brand_name} (${Math.round(tc.max_visibility * 100)}%)`);
+  lines.push(`Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar #BuiltWithPeec`);
+  return lines.join('\n');
+}
+
+function buildClaudePromptText(p: any): string {
+  const visMap = p.visibility_by_model || {};
+  const visLines = active_models.map((m: any) => `- ${m.name}: ${Math.round((visMap[m.id] ?? 0) * 100)}%`).join('\n');
+  const narrative = (p.chat_sample || {}).narrative || '';
+  return `Here is AI-search drift data for one of my tracked prompts, pulled from Peec AI MCP over ${date_range.start} – ${date_range.end}.
+
+Prompt: »${p.prompt_text}«
+Divergence score: ${p.divergence_score.toFixed(2)} (scale 0 – 1, where 0 = engines agree, 1 = total divergence)
+Silence type: ${p.silence_type || 'none'}
+Own-brand visibility per engine:
+${visLines}
+
+Cross-model narrative: ${narrative}
+
+Please write me a 500-word content brief for this prompt that:
+1. Names the stable concepts all engines agree on – these become the content anchors.
+2. Identifies the divergent concepts – where the engines disagree, and what each one claims.
+3. Lists 3 concrete content moves (own, editorial, citable) to close the gap and gain visibility on the engines where the brand is silent.
+
+Brand: ${own_brand}. Language: match the source prompt.`;
+}
+
+function buildLinearDescription(p: any): string {
+  const visMap = p.visibility_by_model || {};
+  const tc = (p.top_competitors || []).slice(0, 3).map((c: any) => `${c.brand_name} (${Math.round(c.max_visibility * 100)}%)`).join(', ');
+  const visLines = active_models.map((m: any) => `- ${m.name}: ${Math.round((visMap[m.id] ?? 0) * 100)}%`).join('\n');
+  return `Drift Radar flagged this prompt as own-only silence. Competitors are cited, ${own_brand} is not.
+
+Prompt: »${p.prompt_text}«
+Topic: ${p.topic || '-'}
+Volume: ${p.volume ?? '-'}
+Divergence score: ${p.divergence_score.toFixed(2)}
+
+Own-brand visibility per engine:
+${visLines}
+
+Cited instead: ${tc}
+
+Action:
+- [ ] Audit top source domains cited by the winning engines
+- [ ] Publish or update a head-to-head comparison page
+- [ ] Add schema.org/Product markup with competitor-equivalent spec fields
+- [ ] Re-measure after 2 weeks
+
+Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar #BuiltWithPeec`;
+}
+const ownOnly = prompts
+  .filter((p: any) => p.silence_type === 'own_only')
+  .sort((a: any, b: any) => volumeBucketRank(b.volume_bucket) - volumeBucketRank(a.volume_bucket));
+const fullSilence = prompts
+  .filter((p: any) => p.silence_type === 'full')
+  .sort((a: any, b: any) => volumeBucketRank(b.volume_bucket) - volumeBucketRank(a.volume_bucket));
+
+const competitorRank = competitors
+  .map((c: any) => {
+    const totalVis = prompts.reduce((acc: number, p: any) => {
+      const comp = (p.top_competitors || []).find((tc: any) => tc.brand_id === c.id);
+      return acc + (comp ? comp.max_visibility : 0);
+    }, 0);
+    const promptCount = prompts.filter((p: any) =>
+      (p.top_competitors || []).some((tc: any) => tc.brand_id === c.id)
+    ).length;
+    return { ...c, total_visibility: totalVis, prompt_count: promptCount };
+  })
+  .sort((a: any, b: any) => b.total_visibility - a.total_visibility);
+
+function pct(v: number): string {
+  return `${Math.round(v * 100)}`;
+}
+function engineName(id: string): string {
+  return active_models.find((m: any) => m.id === id)?.name || id;
+}
+
+const CLAIM_TYPES = ['brand', 'substance', 'function', 'condition', 'criterion'] as const;
+type ClaimType = typeof CLAIM_TYPES[number];
+
+const ownBrandLower = String(own_brand).toLowerCase();
+const competitorNamesLower = competitors.map((c: any) => String(c.name).toLowerCase());
+
+function classifyBrandClaim(text: string): 'own' | 'competitor' | 'unknown' {
+  const t = (text || '').toLowerCase();
+  if (t.includes(ownBrandLower)) return 'own';
+  if (competitorNamesLower.some((n: string) => n && t.includes(n))) return 'competitor';
+  return 'unknown';
+}
+
+function brandHitInClaim(text: string): 'own' | 'competitor' | null {
+  const t = (text || '').toLowerCase();
+  if (t.includes(ownBrandLower)) return 'own';
+  if (competitorNamesLower.some((n: string) => n && t.includes(n))) return 'competitor';
+  return null;
+}
+
+function sumCounts(counts: Record<string, number> | undefined): number {
+  if (!counts) return 0;
+  return Object.values(counts).reduce((a, b) => a + (b || 0), 0);
+}
+---
+<Base title={`Drift Radar – ${project}`}>
+  <nav class="tab-nav" aria-label="Sections">
+    <div class="tab-nav-inner">
+      <a class="tab-brand" href="#overview">
+        <span class="tab-brand-name">Drift Radar</span>
+        <span class="tab-brand-sub mono">/ {own_brand}</span>
+      </a>
+      <div class="tab-nav-tabs">
+        <button type="button" class="tab-nav-btn" data-tab="overview">Overview</button>
+        <button type="button" class="tab-nav-btn" data-tab="heatmap">Heatmap <span class="tab-badge mono">{summary.total_prompts}</span></button>
+        <button type="button" class="tab-nav-btn" data-tab="deepdives">Deep dives <span class="tab-badge mono">{deepDives.length}</span></button>
+        <button type="button" class="tab-nav-btn" data-tab="exports">Export kit <span class="tab-badge mono">8</span></button>
+        <button type="button" class="tab-nav-btn" data-tab="underhood">Under the hood</button>
+      </div>
+    </div>
+  </nav>
+
+  <header class="section hero" data-tab="overview">
+    <div class="container">
+      <div class="hero-layout">
+        <div class="hero-main">
+          <div class="kicker">Peec AI MCP Challenge 2026 · A field report</div>
+          <h1 class="hero-h1">Drift Radar</h1>
+          <p class="dek">Finding the prompts where three AI engines describe the same brand <em>consistently differently</em> – and the prompts where the category stays silent on all of them.</p>
+          <div class="byline">
+            Case: <strong>{own_brand}</strong> &nbsp;·&nbsp; {date_range.start} → {date_range.end} &nbsp;·&nbsp; {active_models.map((m: any) => m.name).join(' · ')} &nbsp;·&nbsp; {summary.total_prompts} prompts
+          </div>
+        </div>
+        <aside class="hero-aside">
+          <div class="eyebrow">Why this is not a fact-checker</div>
+          <p class="sidenote" style="margin-top: 12px;">
+            A fact-checker finds when one engine is <em>wrong</em> about your brand.
+          </p>
+          <p class="sidenote" style="margin-top: 12px;">
+            Drift Radar finds when three engines <em>disagree</em> – regardless of which one is right.
+            Every single answer can be defensible, and your narrative can still be broken.
+          </p>
+        </aside>
+      </div>
+    </div>
+  </header>
+
+  <section class="section keyvisual-section" data-tab="overview">
+    <div class="container-wide">
+      <KeyVisual />
+      <p class="caption" style="margin-top: 28px; margin-left: auto; margin-right: auto; text-align: center; max-width: 720px;">
+        One real prompt from the {own_brand} prompt set. Three AI engines. Three brands at position one. This is not an outlier – it is the pattern Drift Radar quantifies.
+      </p>
+    </div>
+  </section>
+
+  <section class="section numbers-section" data-tab="overview">
+    <div class="container">
+      <div class="kicker" style="margin-bottom: 56px;">The numbers</div>
+      <div class="numbers-list">
+        <div class="number-moment">
+          <div class="typo-number drift" style="font-size: clamp(120px, 16vw, 180px);">{summary.own_silence_percent}<span class="number-unit">%</span></div>
+          <div class="number-label">
+            <strong class="serif">Own-brand silence.</strong>
+            <span class="mute"> Out of {summary.total_prompts} prompts, <strong>{summary.own_silence_count}</strong> do not mention {own_brand} on any of the three active engines. Not once.</span>
+          </div>
+        </div>
+        <hr class="rule" />
+        <div class="number-moment">
+          <div class="typo-number" style="font-size: clamp(96px, 12vw, 140px);">{summary.own_only_silence_count}</div>
+          <div class="number-label">
+            <strong class="serif">Own-only silence.</strong>
+            <span class="mute"> Prompts where at least one tracked competitor is cited and {own_brand} is not. The category is being answered – by somebody else.</span>
+          </div>
+        </div>
+        <hr class="rule" />
+        <div class="number-moment">
+          <div class="typo-number" style="font-size: clamp(96px, 12vw, 140px);">{summary.high_divergence_count}</div>
+          <div class="number-label">
+            <strong class="serif">Drifting prompts.</strong>
+            <span class="mute"> Prompts with a cross-model divergence score of 0.30 or higher. Each one means your brand is visible on one engine and invisible on another.</span>
+          </div>
+        </div>
+        <hr class="rule" />
+        <div class="number-moment">
+          <div class="typo-number" style="font-size: clamp(96px, 12vw, 140px);">{(summary.avg_own_visibility * 100).toFixed(1)}<span class="number-unit">%</span></div>
+          <div class="number-label">
+            <strong class="serif">Average visibility.</strong>
+            <span class="mute"> Share of AI answers that mention {own_brand} across all prompts and all active engines, averaged over three days. This is the baseline the tool measures drift against.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section pipeline-section" data-tab="overview">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Data pipeline</div>
+          <h2>How these numbers were produced</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            Four stages, no server. Peec MCP supplies the raw data, a Python script computes drift, Claude Haiku 4.5 extracts the narrative claims, and Astro renders the static page. Every intermediate artifact is on disk and downloadable.
+          </p>
+        </div>
+      </div>
+
+      <div class="pipeline-flow">
+        <div class="pipeline-stage">
+          <div class="pipeline-stage-num">01</div>
+          <div class="pipeline-stage-label">Peec AI MCP</div>
+          <ul class="pipeline-stage-items">
+            <li><code>list_prompts</code> · 50 prompts</li>
+            <li><code>get_brand_report</code> · {summary.total_prompts} × 3 matrix</li>
+            <li><code>list_chats</code> · ~220 chats</li>
+            <li><code>get_chat</code> · response texts</li>
+          </ul>
+          <div class="pipeline-stage-footer">OAuth · <code>api.peec.ai/mcp</code></div>
+        </div>
+
+        <div class="pipeline-arrow" aria-hidden="true">→</div>
+
+        <div class="pipeline-stage">
+          <div class="pipeline-stage-num">02</div>
+          <div class="pipeline-stage-label">Python pipeline</div>
+          <ul class="pipeline-stage-items">
+            <li><code>run.py</code> · divergence score</li>
+            <li>0.7 · range + 0.3 · CV</li>
+            <li>Wilson 95 % CI per cell</li>
+            <li>Own-only + full silence classifier</li>
+          </ul>
+          <div class="pipeline-stage-footer">pure stdlib · no deps</div>
+        </div>
+
+        <div class="pipeline-arrow" aria-hidden="true">→</div>
+
+        <div class="pipeline-stage">
+          <div class="pipeline-stage-num">03</div>
+          <div class="pipeline-stage-label">Claude Haiku 4.5</div>
+          <ul class="pipeline-stage-items">
+            <li><code>extract_claims.py</code></li>
+            <li>5 claims per chat</li>
+            <li>types: brand · substance · function · condition · criterion</li>
+            <li>verbatim evidence quotes</li>
+          </ul>
+          <div class="pipeline-stage-footer">12 chats extracted · JSON-only</div>
+        </div>
+
+        <div class="pipeline-arrow" aria-hidden="true">→</div>
+
+        <div class="pipeline-stage pipeline-stage-output">
+          <div class="pipeline-stage-num">04</div>
+          <div class="pipeline-stage-label">Static output</div>
+          <ul class="pipeline-stage-items">
+            <li><code>drift_radar.json</code> · 128 KB</li>
+            <li>Astro 5 · static build</li>
+            <li>Cloudflare Pages · no server</li>
+            <li>Reproducible in &lt; 1 h</li>
+          </ul>
+          <div class="pipeline-stage-footer">all artifacts <a href="#exports">downloadable ↓</a></div>
+        </div>
+      </div>
+
+      <p class="caption" style="margin-top: 32px;">
+        <strong class="serif">Dataset snapshot:</strong>&nbsp;
+        <span class="mono">{summary.total_prompts}</span> prompts ·
+        <span class="mono">3</span> active engines ·
+        <span class="mono">{date_range.start}</span> → <span class="mono">{date_range.end}</span> ·
+        <span class="mono">{deepDives.length}</span> narrative deep dives ·
+        full pipeline code in the <a href="#underhood">Under-the-hood tab</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="section source-overview-section" data-tab="overview">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Citation sources · aggregated</div>
+          <h2>Who the engines actually cite</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            Every URL the three engines pulled during the {date_range.start} → {date_range.end} window, classified by Peec into eight domain types. This is who currently defines the answer for {summary.total_prompts} prompts about horse feed and supplements.
+          </p>
+        </div>
+      </div>
+
+      <div class="source-overview">
+        {source_overview && source_overview.by_class_share && (
+          <Fragment>
+            <div class="source-overview-bar">
+              {SOURCE_CLASS_ORDER.map((cls: string) => {
+                const share = source_overview.by_class_share?.[cls];
+                if (!share || !(share > 0)) return null;
+                const pct = (share * 100);
+                return <span class={`source-seg source-seg-${cls.toLowerCase()}`} style={`flex-basis: ${pct}%`} title={`${SOURCE_CLASS_LABELS[cls]}: ${pct.toFixed(1)}%`}></span>;
+              })}
+            </div>
+            <div class="source-overview-legend">
+              {SOURCE_CLASS_ORDER.map((cls: string) => {
+                const share = source_overview.by_class_share?.[cls];
+                if (!share || !(share > 0)) return null;
+                const pct = (share * 100);
+                return (
+                  <div class={`source-legend-item source-legend-${cls.toLowerCase()}`}>
+                    <span class="source-dot"></span>
+                    <span class="source-label">{SOURCE_CLASS_LABELS[cls]}</span>
+                    <span class="source-pct mono">{pct.toFixed(1)} %</span>
+                  </div>
+                );
+              })}
+            </div>
+
+            <div class="source-overview-punchline">
+              <div class="source-punchline-num">
+                {((source_overview.by_class_share?.OWN || 0) * 100).toFixed(2)}<span class="source-punchline-unit">%</span>
+              </div>
+              <div class="source-punchline-copy">
+                <strong class="serif">Own-domain share.</strong>
+                <span class="text-mute"> Of all URLs retrieved by the three engines during this window, only this much came from <strong>pferde-gold.de</strong>. The rest is corporate competitors, editorial media, retailers, and the odd Reddit thread. Every answer is assembled somewhere else – that is the gap Drift Radar quantifies.</span>
+              </div>
+            </div>
+          </Fragment>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <section class="section peec-actions-section" data-tab="overview">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Peec-native next steps · <span class="mono">peec.get_actions</span></div>
+          <h2>What Peec already recommends</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            Drift Radar never pretends to replace Peec's own recommendation engine. These are the four highest-opportunity actions Peec returned for {own_brand} on the same window – product pages to clone, editorial outlets to get featured on. Drift Radar adds two things Peec's actions do not yet surface: <em>which</em> prompts the brand loses on cross-model, and <em>which</em> prompts nobody is named on yet.
+          </p>
+        </div>
+      </div>
+      <div class="peec-actions-grid">
+        {peecTopActions.map((a: any) => (
+          <div class="peec-action-card">
+            <div class="peec-action-meta">
+              <span class="peec-action-scope">{a.scope} · {a.url_classification}</span>
+              <span class="peec-action-score mono">opportunity {Number(a.opportunity_score).toFixed(2)}</span>
+            </div>
+            <p class="peec-action-text">{a.text}</p>
+            {a.reference_url && (
+              <a class="peec-action-link mono" href={a.reference_url} target="_blank" rel="noopener">{a.reference_label} ↗</a>
+            )}
+          </div>
+        ))}
+      </div>
+      <p class="caption" style="margin-top: 24px;">
+        Source: <span class="mono">peec.get_actions</span> with <span class="mono">scope=overview</span> and four drill-down calls. Raw JSON in the Reproducible data bundle.
+      </p>
+    </div>
+  </section>
+
+  <section class="section heatmap-section" data-tab="heatmap">
+    <div class="container-wide">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Prompts, sorted by drift</div>
+          <h2>Where your brand is torn in three directions</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            The 20 most drifting prompts from the Pferdegold set. A row with one bar glowing and the others at zero is a narrative split, not a ranking problem: your brand is the right answer on one engine and absent on another, for the same question.
+          </p>
+        </div>
+      </div>
+
+      <nav class="heatmap-filter" aria-label="Filter heatmap">
+        <span class="eyebrow heatmap-filter-label">Filter</span>
+        <button type="button" class="filter-btn is-active" data-filter="all">All <span class="filter-count mono">{heatmapRows.length}</span></button>
+        <button type="button" class="filter-btn" data-filter="drifting">Drifting ≥ 0.30 <span class="filter-count mono">{heatmapRows.filter((r: any) => r.divergence_score >= 0.3).length}</span></button>
+        <button type="button" class="filter-btn" data-filter="own-only">Own-only silence <span class="filter-count mono">{heatmapRows.filter((r: any) => r.silence_type === 'own_only').length}</span></button>
+        <button type="button" class="filter-btn" data-filter="full-silence">Full silence <span class="filter-count mono">{heatmapRows.filter((r: any) => r.silence_type === 'full').length}</span></button>
+        <button type="button" class="filter-btn" data-filter="has-deepdive">With deep dive <span class="filter-count mono">{heatmapRows.filter((r: any) => deepDivePromptIds.has(r.prompt_id)).length}</span></button>
+      </nav>
+
+      <nav class="heatmap-filter heatmap-filter-secondary" aria-label="Tag filter">
+        <span class="eyebrow heatmap-filter-label">Peec tags</span>
+        <button type="button" class="filter-btn filter-tag-btn is-active" data-tag="all">All <span class="filter-count mono">{heatmapRows.length}</span></button>
+        {(data as any).tags?.map((tg: any) => (
+          <button type="button" class="filter-btn filter-tag-btn" data-tag={tg.name}>
+            {tg.name} <span class="filter-count mono">{heatmapRows.filter((r: any) => r.tag_names?.includes(tg.name)).length}</span>
+          </button>
+        ))}
+      </nav>
+
+      <div class="heatmap">
+        <div class="heatmap-head">
+          <div class="heatmap-cell heatmap-head-cell heatmap-score-col">Drift</div>
+          {active_models.map((m: any) => (
+            <div class="heatmap-cell heatmap-head-cell">{m.name}</div>
+          ))}
+          <div class="heatmap-cell heatmap-head-cell heatmap-prompt-col">Prompt</div>
+        </div>
+        {heatmapRows.map((row: any) => (
+          <div
+            class={`heatmap-row${row.silence_type === 'own_only' ? ' has-competitors' : ''}${row.silence_type === 'full' ? ' is-full-silence' : ''}${row.divergence_score >= 0.3 ? ' is-drifting' : ''}${deepDivePromptIds.has(row.prompt_id) ? ' has-deepdive' : ''}`}
+            data-deepdive-href={deepDivePromptIds.has(row.prompt_id) ? `#deepdive-${row.prompt_id}` : undefined}
+            data-tags={(row.tag_names || []).join(',')}
+          >
+            <div
+              class="heatmap-cell heatmap-score"
+              title={`Divergence score ${row.divergence_score.toFixed(2)} · formula: 0.7 · (max(vis) − min(vis)) + 0.3 · clamp(CV, 0, 2)/2 · range ${row.range_visibility.toFixed(2)}, CV ${row.cv_visibility.toFixed(2)}`}
+            >{row.divergence_score.toFixed(2)}</div>
+            {active_models.map((m: any) => {
+              const v = row.visibility_by_model[m.id];
+              const barWidth = Math.max(v * 100, v > 0 ? 3 : 0);
+              return (
+                <div class="heatmap-cell heatmap-bar-cell">
+                  <div class="heatmap-bar-track">
+                    {v > 0 && (
+                      <div class="heatmap-bar-fill" style={`width: ${barWidth}%`}></div>
+                    )}
+                  </div>
+                  <span class="heatmap-bar-val">{v === 0 ? '–' : pct(v) + '%'}</span>
+                </div>
+              );
+            })}
+            <div class="heatmap-cell heatmap-prompt">
+              <div class="prompt-text">{row.prompt_text}</div>
+              <div class="prompt-meta">
+                <span>{row.topic}</span>
+                {row.volume_bucket && <span title="Peec search-volume bucket (very low / low / medium / high / very high)">&nbsp;·&nbsp; volume {row.volume_bucket}</span>}
+                {row.silence_type === 'own_only' && (
+                  <span>&nbsp;·&nbsp; <em class="text-competitor">own-only silence – {row.top_competitors.slice(0, 3).map((c: any) => c.brand_name).join(', ')} cited instead</em></span>
+                )}
+                {row.silence_type === 'full' && (
+                  <span>&nbsp;·&nbsp; <em class="text-mute">full silence – category is brand-neutral</em></span>
+                )}
+                {deepDivePromptIds.has(row.prompt_id) && (
+                  <span>&nbsp;·&nbsp; <a class="deepdive-link" href={`#deepdive-${row.prompt_id}`}>Deep dive →</a></span>
+                )}
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+      <div class="tab-export-strip">
+        <span class="eyebrow">Export this section</span>
+        <a class="tab-export-link" href="/downloads/drift_radar.csv" download><span class="mono">CSV</span> all 50 prompts</a>
+        <a class="tab-export-link" href="/downloads/heatmap_drift.csv" download><span class="mono">CSV</span> drifting ≥ 0.30 only</a>
+        <a class="tab-export-link" href="/downloads/drift_radar.json" download><span class="mono">JSON</span> raw pipeline</a>
+      </div>
+      <p class="caption" style="margin-top: 24px;">Showing the 20 most drifting prompts. Full dataset: {prompts.length} prompts.</p>
+    </div>
+  </section>
+
+  <section class="section deepdive-section" data-tab="deepdives">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Deep dive</div>
+          <h2>Same question, three answers</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            Five maximum-drift prompts, literal model outputs side by side. One engine places {own_brand} first, another recommends a competitor, a third invents brands that do not exist, a fourth answers in pure substance mode and never names anyone.
+          </p>
+        </div>
+      </div>
+
+      {deepDives.map((p: any) => (
+        <article class="deepdive" id={`deepdive-${p.prompt_id}`}>
+          <header class="deepdive-header">
+            <div
+              class="deepdive-score-block"
+              title={`Divergence = 0.7 · (max(vis) − min(vis)) + 0.3 · clamp(CV, 0, 2)/2 · range ${p.range_visibility.toFixed(2)}, CV ${p.cv_visibility.toFixed(2)}`}
+            >
+              <div class="eyebrow">Divergence score</div>
+              <div class="typo-number drift" style="margin-top: 4px;">{p.divergence_score.toFixed(2)}</div>
+              <div class="drift-score-legend">range {p.range_visibility.toFixed(2)} · CV {p.cv_visibility.toFixed(2)}</div>
+            </div>
+            <div class="deepdive-title">
+              <h3 class="deepdive-prompt">»{p.prompt_text}«</h3>
+              <p class="dek" style="font-size: 18px; margin-top: 12px;">{p.chat_sample.narrative}</p>
+              <div class="deepdive-meta">
+                <span class="deepdive-meta-item"><span class="eyebrow">Topic</span><span>{p.topic || '–'}</span></span>
+                <span class="deepdive-meta-item"><span class="eyebrow" title="Peec search-volume bucket">Volume</span><span>{p.volume_bucket || '–'}</span></span>
+                {p.tag_names && p.tag_names.length > 0 && (
+                  <span class="deepdive-meta-item"><span class="eyebrow">Tags</span><span>{p.tag_names.join(' · ')}</span></span>
+                )}
+              </div>
+            </div>
+          </header>
+
+          {(p.search_queries?.length > 0 || p.shopping_queries?.length > 0) && (
+            <div class="search-intent-block">
+              <div class="search-intent-head">
+                <span class="eyebrow">Real search fan-out · behind this prompt</span>
+                <span class="search-intent-note">Peec captured the actual sub-queries and shopping lookups the engines issued to answer this prompt. Every row is a content anchor.</span>
+              </div>
+              {p.search_queries?.length > 0 && (
+                <div class="search-intent-group">
+                  <div class="search-intent-label">Search queries</div>
+                  <ul class="search-intent-list">
+                    {p.search_queries.slice(0, 6).map((q: any) => (
+                      <li class="mono">{q.query}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {p.shopping_queries?.length > 0 && (
+                <div class="search-intent-group">
+                  <div class="search-intent-label">Products surfaced</div>
+                  <ul class="search-intent-products">
+                    {p.shopping_queries.slice(0, 3).map((sq: any) => (
+                      <li>
+                        <span class="mono search-intent-q">{sq.query}</span>
+                        <span class="search-intent-prod">{sq.products.slice(0, 6).join(' · ')}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
+          )}
+
+          {p.source_mix && p.source_mix.total_retrieved > 0 && (
+            <div class="source-mix-block">
+              <div class="source-mix-head">
+                <div class="eyebrow">Citation sources for this prompt</div>
+                <div class="source-mix-meta mono">{p.source_mix.top_domains.length} domains · retrieval weight {p.source_mix.total_retrieved.toFixed(2)}</div>
+              </div>
+              <div class="source-overview-bar source-mix-bar">
+                {SOURCE_CLASS_ORDER.map((cls: string) => {
+                  const share = p.source_mix.by_class_normalized?.[cls];
+                  if (!share || !(share > 0)) return null;
+                  const pct = (share * 100);
+                  return <span class={`source-seg source-seg-${cls.toLowerCase()}`} style={`flex-basis: ${pct}%`} title={`${SOURCE_CLASS_LABELS[cls]}: ${pct.toFixed(1)}%`}></span>;
+                })}
+              </div>
+              <div class="source-mix-counts">
+                {SOURCE_CLASS_ORDER.map((cls: string) => {
+                  const share = p.source_mix.by_class_normalized?.[cls];
+                  if (!share || !(share > 0)) return null;
+                  const pct = (share * 100);
+                  return (
+                    <span class={`source-mix-count source-legend-${cls.toLowerCase()}`}>
+                      <span class="source-dot"></span>
+                      <span class="source-label">{SOURCE_CLASS_LABELS[cls]}</span>
+                      <span class="mono">{pct.toFixed(0)}%</span>
+                    </span>
+                  );
+                })}
+              </div>
+              <details class="source-domains-panel">
+                <summary><span class="eyebrow">Top domains cited</span></summary>
+                <ul class="source-domains-list">
+                  {p.source_mix.top_domains.map((d: any) => (
+                    <li class={`source-domain source-legend-${String(d.classification || 'other').toLowerCase()}`}>
+                      <span class="source-dot"></span>
+                      <span class="source-domain-name mono">{d.domain}</span>
+                      <span class="source-domain-class">{SOURCE_CLASS_LABELS[d.classification] || d.classification || 'Other'}</span>
+                      <span class="source-domain-rp mono">retrieved {Math.round(d.retrieved_percentage * 100)}%</span>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            </div>
+          )}
+
+          {p.gap_urls && p.gap_urls.length > 0 && (
+            <div class="gap-urls-block">
+              <div class="gap-urls-head">
+                <div class="eyebrow">URL gap · cited for competitors, not for you</div>
+                <div class="gap-urls-count mono">{p.gap_urls.length} URLs</div>
+              </div>
+              <p class="caption gap-urls-caption">
+                Source URLs engines retrieved and cited in competitor-named answers for this prompt, but never next to {own_brand}. Every row is an earned-placement target for outreach, guest content, or retailer placement.
+              </p>
+              <ul class="gap-urls-list">
+                {p.gap_urls.slice(0, 5).map((u: any) => (
+                  <li class="gap-url-item">
+                    <a class="gap-url-title" href={u.url} target="_blank" rel="noopener">{u.title || u.url}</a>
+                    <div class="gap-url-meta mono">
+                      <span class="gap-url-class">{(u.url_classification || u.classification || 'OTHER').replace('_', ' ').toLowerCase()}</span>
+                      <span> · cited {u.citation_count}× · retrieved {u.retrieval_count}×</span>
+                    </div>
+                    <div class="gap-url-href mono">{u.url}</div>
+                    {u.excerpt && (
+                      <div class="gap-url-excerpt">
+                        <div class="gap-url-excerpt-label">What this page is saying</div>
+                        <p class="gap-url-excerpt-body">{u.excerpt}</p>
+                        {u.angle && (
+                          <p class="gap-url-excerpt-angle"><strong class="serif">Why it ranks.</strong> {u.angle}</p>
+                        )}
+                      </div>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {p.chat_sample.claim_summary && (
+            <div class="narrative-matrix">
+              <div class="narrative-matrix-head">
+                <div class="eyebrow">Narrative mix · claim-type distribution per engine</div>
+                <div class="narrative-matrix-legend">
+                  {CLAIM_TYPES.map((t: ClaimType) => (
+                    <span class={`claim-chip claim-chip-${t}`}><span class="claim-chip-dot"></span>{t}</span>
+                  ))}
+                </div>
+              </div>
+              <div class="narrative-matrix-grid">
+                {active_models.map((m: any) => {
+                  const counts = p.chat_sample.claim_summary.type_counts_by_model?.[m.id];
+                  const total = sumCounts(counts);
+                  return (
+                    <div class="narrative-matrix-col">
+                      <div class="narrative-matrix-engine">{m.name}</div>
+                      {total === 0 ? (
+                        <div class="narrative-matrix-bar"><span class="mono text-mute">no answer in window</span></div>
+                      ) : (
+                        <>
+                          <div class="narrative-matrix-bar">
+                            {CLAIM_TYPES.map((t: ClaimType) => {
+                              const n = counts?.[t] || 0;
+                              if (n === 0) return null;
+                              const width = (n / total * 100);
+                              return <span class={`narrative-matrix-seg claim-chip-${t}`} style={`flex-basis: ${width}%`} title={`${n} ${t} claim${n > 1 ? 's' : ''}`}></span>;
+                            })}
+                          </div>
+                          <div class="narrative-matrix-counts">
+                            {CLAIM_TYPES.filter((t: ClaimType) => (counts?.[t] || 0) > 0).map((t: ClaimType) => (
+                              <span class="narrative-matrix-count mono">{counts[t]} <span class={`text-type-${t}`}>{t}</span></span>
+                            ))}
+                          </div>
+                        </>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+              {(p.chat_sample.claim_summary.shared_substances?.length > 0 || p.chat_sample.claim_summary.shared_criteria?.length > 0) && (
+                <p class="caption" style="margin-top: 20px;">
+                  <strong class="serif">Stable across engines:</strong>&nbsp;
+                  {p.chat_sample.claim_summary.shared_substances?.length > 0 && (
+                    <span>substance claims <em>({p.chat_sample.claim_summary.shared_substances.join(', ')})</em></span>
+                  )}
+                  {p.chat_sample.claim_summary.shared_substances?.length > 0 && p.chat_sample.claim_summary.shared_criteria?.length > 0 && <span>&nbsp;·&nbsp;</span>}
+                  {p.chat_sample.claim_summary.shared_criteria?.length > 0 && (
+                    <span>criterion claims <em>({p.chat_sample.claim_summary.shared_criteria.join(', ')})</em></span>
+                  )}
+                </p>
+              )}
+            </div>
+          )}
+
+          <div class="share-row" data-share-row>
+            <span class="eyebrow share-row-label">Share / send to</span>
+            <div class="share-row-actions">
+              <button
+                type="button"
+                class="share-btn share-btn-markdown"
+                data-clipboard-text={buildMarkdown(p)}
+                data-toast="Copied as Markdown"
+              >Copy as Markdown</button>
+
+              <a
+                class="share-btn share-btn-claude"
+                href={`https://claude.ai/new?q=${encodeURIComponent(buildClaudePromptText(p))}`}
+                target="_blank"
+                rel="noopener"
+              >Open in Claude</a>
+
+              <a
+                class="share-btn share-btn-chatgpt"
+                href={`https://chatgpt.com/?q=${encodeURIComponent(buildClaudePromptText(p))}`}
+                target="_blank"
+                rel="noopener"
+              >Open in ChatGPT</a>
+
+              <button
+                type="button"
+                class="share-btn share-btn-notion"
+                data-clipboard-text={buildMarkdown(p)}
+                data-open-url="https://www.notion.so/new"
+                data-toast="Markdown copied for Notion"
+              >Copy + open Notion</button>
+
+              <button
+                type="button"
+                class="share-btn share-btn-gdocs"
+                data-clipboard-text={buildMarkdown(p)}
+                data-open-url="https://docs.google.com/document/create"
+                data-toast="Markdown copied for Google Docs"
+              >Copy + open Google Docs</button>
+
+              <a
+                class="share-btn share-btn-linear"
+                href={`https://linear.app/new?title=${encodeURIComponent(`Drift Radar · ${p.prompt_text}`)}&description=${encodeURIComponent(buildLinearDescription(p))}`}
+                target="_blank"
+                rel="noopener"
+              >Create Linear issue</a>
+
+              <button
+                type="button"
+                class="share-btn share-btn-slack"
+                data-clipboard-text={buildSlackText(p)}
+                data-toast="Copied for Slack"
+              >Copy for Slack</button>
+
+              <a
+                class="share-btn share-btn-pdf"
+                href={`/downloads/content_briefs/${briefFilename(p)}`}
+                download
+              >Download brief (PDF)</a>
+
+              <a
+                class="share-btn share-btn-md"
+                href={`/downloads/content_briefs/${briefFilename(p).replace(/\.pdf$/, '.md')}`}
+                download
+              >Download brief (Markdown)</a>
+            </div>
+          </div>
+
+          <details class="raw-data-panel">
+            <summary><span class="eyebrow">From the MCP</span><span class="raw-data-summary-label">Raw data for this prompt · click to expand</span></summary>
+            <pre class="raw-data-json">{JSON.stringify({
+              prompt_id: p.prompt_id,
+              prompt_text: p.prompt_text,
+              divergence_score: p.divergence_score,
+              cv_visibility: p.cv_visibility,
+              range_visibility: p.range_visibility,
+              visibility_by_model: p.visibility_by_model,
+              wilson_ci_by_model: p.wilson_ci_by_model,
+              silence_type: p.silence_type,
+              top_competitors: p.top_competitors,
+              chat_sample: p.chat_sample
+            }, null, 2)}</pre>
+          </details>
+
+          <div class="deepdive-columns">
+            {active_models.map((m: any) => {
+              const sample = p.chat_sample.by_model[m.id];
+              const vis = p.visibility_by_model[m.id];
+              const hasData = sample && sample.chat_id;
+              const ci = (p.wilson_ci_by_model || {})[m.id];
+              const lo = ci ? ci[0] : null;
+              const hi = ci ? ci[1] : null;
+              return (
+                <div class={`deepdive-col${vis === 1 ? ' is-hero' : ''}${vis === 0 && hasData ? ' is-silent' : ''}${!hasData ? ' is-nodata' : ''}`}>
+                  <div class="deepdive-col-head">
+                    <span class="deepdive-engine">{m.name}</span>
+                    <span class="deepdive-vis mono">{vis === null ? 'no data' : pct(vis) + '%'}</span>
+                  </div>
+                  {vis !== null && ci && (
+                    <div class="deepdive-ci" title={`Wilson 95 % CI: ${(lo*100).toFixed(0)}% – ${(hi*100).toFixed(0)}%. N = 3 chats. Point estimate = ${pct(vis)}%.`}>
+                      <div class="deepdive-ci-track">
+                        <div class="deepdive-ci-band" style={`left: ${lo*100}%; width: ${(hi-lo)*100}%`}></div>
+                        <div class="deepdive-ci-point" style={`left: ${vis*100}%`}></div>
+                      </div>
+                      <div class="deepdive-ci-label mono">CI 95 % · {(lo*100).toFixed(0)}–{(hi*100).toFixed(0)}% · N = 3</div>
+                    </div>
+                  )}
+                  {sample?.note && <p class="sidenote" style="margin-top: 16px;">{sample.note}</p>}
+                  {hasData && sample.brands_mentioned && sample.brands_mentioned.length > 0 && (
+                    <div class="deepdive-brands">
+                      <div class="eyebrow">Brands cited</div>
+                      <div class="deepdive-brand-list">
+                        {sample.brands_mentioned.map((b: any) => (
+                          <span class={`brand-name ${b.name === own_brand ? 'is-own' : 'is-competitor'}`}>#{b.position} {b.name}</span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                  {hasData && (!sample.brands_mentioned || sample.brands_mentioned.length === 0) && (
+                    <div class="deepdive-brands">
+                      <div class="eyebrow">Brands cited</div>
+                      <p class="text-mute" style="font-style: italic; margin-top: 8px; font-size: 14px;">– no tracked brand mentioned –</p>
+                    </div>
+                  )}
+                  {hasData && sample.claims && sample.claims.length > 0 && (
+                    <div class="deepdive-claims">
+                      <div class="eyebrow">Extracted claims · top {sample.claims.length}</div>
+                      <ul class="claim-list">
+                        {sample.claims.map((c: any) => {
+                          let brandClass = '';
+                          if (c.type === 'brand') {
+                            brandClass = ` claim-brand-${classifyBrandClaim(c.text)}`;
+                          } else {
+                            const hit = brandHitInClaim(c.text);
+                            if (hit) brandClass = ` claim-brandhit-${hit}`;
+                          }
+                          return (
+                            <li class={`claim claim-type-${c.type}${brandClass}`}>
+                              <span class="claim-label">{c.type}</span>
+                              <span class="claim-text">{c.text}</span>
+                            </li>
+                          );
+                        })}
+                      </ul>
+                    </div>
+                  )}
+                  {hasData && sample.response_excerpt && (
+                    <blockquote class="deepdive-quote">
+                      {sample.response_excerpt}
+                    </blockquote>
+                  )}
+                  {sample?.caveat && (
+                    <p class="sidenote" style="margin-top: 12px; font-size: 13px; border-left-color: var(--drift); color: var(--drift);">{sample.caveat}</p>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section competitors-section" data-tab="heatmap">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Competitive landscape</div>
+          <h2>Who the engines cite instead</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            Each tracked competitor, the share of prompts where they appear, and where they dominate. The ranking is sorted by total max-visibility across all prompts.
+          </p>
+        </div>
+      </div>
+      <div class="competitor-table">
+        <div class="competitor-head">
+          <div>Brand</div>
+          <div>Prompts</div>
+          <div>Domain</div>
+          <div>Share of visibility</div>
+        </div>
+        <div class="competitor-row own-row">
+          <div class="serif competitor-name text-own">{own_brand}<span class="eyebrow" style="margin-left: 10px;">You</span></div>
+          <div class="mono">{prompts.filter((p: any) => !p.own_silence).length}</div>
+          <div class="mono text-mute">pferde-gold.de</div>
+          <div class="competitor-bar">
+            <div class="competitor-bar-track"><div class="competitor-bar-fill own-fill" style={`width: ${(summary.avg_own_visibility * 100).toFixed(1)}%`}></div></div>
+            <span class="mono" style="margin-left: 10px;">{(summary.avg_own_visibility * 100).toFixed(1)}%</span>
+          </div>
+        </div>
+        {competitorRank.map((c: any) => {
+          const sharePct = (c.total_visibility / prompts.length * 100);
+          return (
+            <div class="competitor-row">
+              <div class="serif competitor-name">{c.name}</div>
+              <div class="mono">{c.prompt_count}</div>
+              <div class="mono text-mute">{c.domain}</div>
+              <div class="competitor-bar">
+                <div class="competitor-bar-track"><div class="competitor-bar-fill competitor-fill" style={`width: ${Math.min(sharePct, 100)}%`}></div></div>
+                <span class="mono" style="margin-left: 10px;">{sharePct.toFixed(1)}%</span>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <section class="section ownonly-section" data-tab="heatmap">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Own-only silence &nbsp;·&nbsp; {ownOnly.length} prompts</div>
+          <h2>Where the category is being answered – without you</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            Your brand has zero mentions; at least one tracked competitor is cited. These are the harshest gaps. Your category peers are defining the answer. You are not in the room.
+          </p>
+        </div>
+      </div>
+      <div class="tab-export-strip">
+        <span class="eyebrow">Export this list</span>
+        <a class="tab-export-link" href="/downloads/own_only_silence.csv" download><span class="mono">CSV</span> {ownOnly.length} prompts</a>
+        <a class="tab-export-link" href="#exports"><span class="mono">{ownOnly.filter((p: any) => !p.chat_sample).length} PDFs</span> one per prompt</a>
+      </div>
+      <div class="stanza-list">
+        {ownOnly.map((p: any) => (
+          <div class="stanza">
+            <h3 class="stanza-prompt">»{p.prompt_text}«</h3>
+            <p class="stanza-meta">
+              <em>{p.topic}</em>
+              {p.volume_bucket && <span title="Peec search-volume bucket">&nbsp;·&nbsp; volume {p.volume_bucket}</span>}
+              &nbsp;·&nbsp;
+              <a class="stanza-brief-link" href={`/downloads/content_briefs/${briefFilename(p, p.chat_sample ? undefined : 'own_only')}`} download>Brief PDF ↓</a>
+            </p>
+            <p class="stanza-cited">
+              <span class="eyebrow">Who is cited instead:</span>&nbsp;
+              {p.top_competitors.slice(0, 4).map((c: any, i: number) => (
+                <>
+                  <span class="text-competitor serif" style="font-weight: 600;">{c.brand_name}</span>
+                  <span class="mono text-mute"> {pct(c.max_visibility)}%</span>
+                  {i < Math.min(p.top_competitors.length, 4) - 1 && <span class="text-mute"> · </span>}
+                </>
+              ))}
+            </p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section full-silence-section" data-tab="heatmap">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Full silence &nbsp;·&nbsp; {fullSilence.length} prompts</div>
+          <h2>Prompts no tracked brand is named in</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            These prompts describe the category without naming anyone. Free real estate: no competitor has staked a claim yet.
+          </p>
+        </div>
+      </div>
+      <div class="tab-export-strip">
+        <span class="eyebrow">Export this list</span>
+        <a class="tab-export-link" href="/downloads/full_silence.csv" download><span class="mono">CSV</span> {fullSilence.length} prompts</a>
+        <a class="tab-export-link" href="#exports"><span class="mono">{fullSilence.filter((p: any) => !p.chat_sample).length} PDFs</span> one per prompt</a>
+      </div>
+      <ul class="plain-list">
+        {fullSilence.map((p: any) => (
+          <li>
+            <span class="serif" style="font-size: 17px;">»{p.prompt_text}«</span>
+            <span class="text-mute" style="margin-left: 12px; font-size: 13px;"><em>{p.topic}</em>{p.volume_bucket && <span title="Peec search-volume bucket">&nbsp;·&nbsp; volume {p.volume_bucket}</span>}</span>
+            <a class="stanza-brief-link" style="margin-left: 12px;" href={`/downloads/content_briefs/${briefFilename(p, p.chat_sample ? undefined : 'full_silence')}`} download>Brief PDF ↓</a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section exports-section" id="exports" data-tab="exports">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Export kit</div>
+          <h2>Take the data with you</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            Every number on this page is downloadable. Feed it into a spreadsheet, a brand monitor, a content brief. Nothing is locked behind the dashboard.
+          </p>
+        </div>
+      </div>
+
+      <div class="export-grid">
+        <a class="export-card" href="/downloads/drift_radar.json" download>
+          <div class="export-card-kind">Data</div>
+          <div class="export-card-title">drift_radar.json</div>
+          <div class="export-card-dek">Full pipeline output, raw. Every prompt, every engine score, every Wilson CI, every claim, every source-class mix, every chat sample.</div>
+          <div class="export-card-footer"><span class="mono">JSON</span><span class="export-card-arrow">↓</span></div>
+        </a>
+
+        <a class="export-card" href="/downloads/drift_radar.csv" download>
+          <div class="export-card-kind">Data</div>
+          <div class="export-card-title">drift_radar.csv</div>
+          <div class="export-card-dek">Flat spreadsheet with one row per prompt: drift score, engine visibilities, silence type, top competitors, source-class mix. Opens in Excel, Sheets, Numbers.</div>
+          <div class="export-card-footer"><span class="mono">CSV · {summary.total_prompts} rows</span><span class="export-card-arrow">↓</span></div>
+        </a>
+
+        <a class="export-card" href="/downloads/drift_radar.xlsx" download>
+          <div class="export-card-kind">Data</div>
+          <div class="export-card-title">drift_radar.xlsx</div>
+          <div class="export-card-dek">Same data, Excel-native: 5 sheets (Overview KPIs, All prompts with Wilson CI columns, Drifting, Own-only silence, Full silence, Source mix). Pre-formatted headers, pivot-ready.</div>
+          <div class="export-card-footer"><span class="mono">XLSX · 5 sheets</span><span class="export-card-arrow">↓</span></div>
+        </a>
+
+        <a class="export-card" href="/downloads/executive_summary.pdf" download>
+          <div class="export-card-kind">Report</div>
+          <div class="export-card-title">Executive summary</div>
+          <div class="export-card-dek">Three-page PDF: engine-split headline with per-engine visibility bars, four KPIs, top 5 risks and opportunities with mini engine strips, Peec-feature-readiness box, methodology and limitations. For forwarding to management.</div>
+          <div class="export-card-footer"><span class="mono">PDF · A4 · 3 pp</span><span class="export-card-arrow">↓</span></div>
+        </a>
+
+        <a class="export-card" href="/downloads/drift-radar-mcp.json" download>
+          <div class="export-card-kind">Spec</div>
+          <div class="export-card-title">Drift Radar MCP manifest</div>
+          <div class="export-card-dek">The three tool signatures Peec could ship as first-class MCP tools (<span class="mono">get_drift_report</span>, <span class="mono">list_silent_prompts</span>, <span class="mono">get_cross_engine_brief</span>), including input/output schemas and example payloads derived from this run.</div>
+          <div class="export-card-footer"><span class="mono">JSON · MCP spec</span><span class="export-card-arrow">↓</span></div>
+        </a>
+
+        <a class="export-card" href="/downloads/reproducible_data.zip" download>
+          <div class="export-card-kind">Raw</div>
+          <div class="export-card-title">Reproducible data bundle</div>
+          <div class="export-card-dek">Every raw MCP response that fed this build: <span class="mono">get_brand_report</span>, <span class="mono">get_domain_report</span>, <span class="mono">get_chat</span> payloads, plus claim extractions and the final pipeline JSON. Reviewers can re-run the pipeline end-to-end.</div>
+          <div class="export-card-footer"><span class="mono">ZIP · raw JSON</span><span class="export-card-arrow">↓</span></div>
+        </a>
+
+        <a class="export-card" href="/downloads/heatmap_drift.csv" download>
+          <div class="export-card-kind">Data · filtered</div>
+          <div class="export-card-title">Drifting prompts only</div>
+          <div class="export-card-dek">The {summary.high_divergence_count} prompts with a divergence score of 0.30 or higher, as CSV. Same schema as the master file – drop it straight into a pivot.</div>
+          <div class="export-card-footer"><span class="mono">CSV · {summary.high_divergence_count} rows</span><span class="export-card-arrow">↓</span></div>
+        </a>
+
+        <a class="export-card" href="/downloads/own_only_silence.csv" download>
+          <div class="export-card-kind">Data · filtered</div>
+          <div class="export-card-title">Own-only silence</div>
+          <div class="export-card-dek">The {summary.own_only_silence_count} prompts where {own_brand} has zero mentions and at least one tracked competitor is cited. Priority gap list.</div>
+          <div class="export-card-footer"><span class="mono">CSV · {summary.own_only_silence_count} rows</span><span class="export-card-arrow">↓</span></div>
+        </a>
+
+        <a class="export-card" href="/downloads/full_silence.csv" download>
+          <div class="export-card-kind">Data · filtered</div>
+          <div class="export-card-title">Full silence opportunities</div>
+          <div class="export-card-dek">The {summary.full_silence_count} prompts no tracked brand is named in. First-mover real estate.</div>
+          <div class="export-card-footer"><span class="mono">CSV · {summary.full_silence_count} rows</span><span class="export-card-arrow">↓</span></div>
+        </a>
+      </div>
+
+      <div class="dataset-ship">
+        <div class="kicker">Ship the dataset</div>
+        <h3 class="dataset-ship-head">Send straight to Google Sheets, Notion, Slack or your RSS reader</h3>
+        <p class="caption dataset-ship-caption">
+          One click copies the dataset in the right format and opens the destination in a new tab – then press {`⌘`}V (Ctrl+V on Windows) to paste. Cell A1 for Sheets, page body for Notion. The Slack form posts a summary from your browser; no server proxy involved. RSS covers any reader.
+        </p>
+
+        <div class="dataset-ship-grid">
+          <div class="dataset-ship-row">
+            <div class="dataset-ship-label">
+              <strong class="serif">Master · {summary.total_prompts} prompts</strong>
+              <span class="dataset-ship-sub">Every tracked prompt with divergence score, per-engine visibilities, silence type, top competitors.</span>
+            </div>
+            <div class="dataset-ship-actions">
+              <button type="button" class="share-btn share-btn-sheets" data-clipboard-text={masterTsv} data-open-url="https://docs.google.com/spreadsheets/create" data-toast="TSV copied for Sheets">Copy + open Sheets</button>
+              <button type="button" class="share-btn share-btn-notion" data-clipboard-text={masterMd} data-open-url="https://www.notion.so/new" data-toast="Markdown copied for Notion">Copy + open Notion</button>
+              <a class="share-btn share-btn-pdf" href="/downloads/drift_radar.csv" download>CSV ↓</a>
+              <a class="share-btn share-btn-md" href="/downloads/drift_radar.xlsx" download>XLSX ↓</a>
+            </div>
+          </div>
+
+          <div class="dataset-ship-row">
+            <div class="dataset-ship-label">
+              <strong class="serif">Drifting ≥ 0.30 · {summary.high_divergence_count} prompts</strong>
+              <span class="dataset-ship-sub">Cross-engine narrative-split shortlist.</span>
+            </div>
+            <div class="dataset-ship-actions">
+              <button type="button" class="share-btn share-btn-sheets" data-clipboard-text={driftingTsv} data-open-url="https://docs.google.com/spreadsheets/create" data-toast="TSV copied for Sheets">Copy + open Sheets</button>
+              <button type="button" class="share-btn share-btn-notion" data-clipboard-text={driftingMd} data-open-url="https://www.notion.so/new" data-toast="Markdown copied for Notion">Copy + open Notion</button>
+              <a class="share-btn share-btn-pdf" href="/downloads/heatmap_drift.csv" download>CSV ↓</a>
+            </div>
+          </div>
+
+          <div class="dataset-ship-row">
+            <div class="dataset-ship-label">
+              <strong class="serif">Own-only silence · {summary.own_only_silence_count} prompts</strong>
+              <span class="dataset-ship-sub">Priority gap list – competitors cited, you absent.</span>
+            </div>
+            <div class="dataset-ship-actions">
+              <button type="button" class="share-btn share-btn-sheets" data-clipboard-text={ownOnlyTsv} data-open-url="https://docs.google.com/spreadsheets/create" data-toast="TSV copied for Sheets">Copy + open Sheets</button>
+              <button type="button" class="share-btn share-btn-notion" data-clipboard-text={ownOnlyMd} data-open-url="https://www.notion.so/new" data-toast="Markdown copied for Notion">Copy + open Notion</button>
+              <a class="share-btn share-btn-pdf" href="/downloads/own_only_silence.csv" download>CSV ↓</a>
+            </div>
+          </div>
+
+          <div class="dataset-ship-row">
+            <div class="dataset-ship-label">
+              <strong class="serif">Full silence · {summary.full_silence_count} prompts</strong>
+              <span class="dataset-ship-sub">First-mover real estate – nobody named yet.</span>
+            </div>
+            <div class="dataset-ship-actions">
+              <button type="button" class="share-btn share-btn-sheets" data-clipboard-text={fullSilenceTsv} data-open-url="https://docs.google.com/spreadsheets/create" data-toast="TSV copied for Sheets">Copy + open Sheets</button>
+              <button type="button" class="share-btn share-btn-notion" data-clipboard-text={fullSilenceMd} data-open-url="https://www.notion.so/new" data-toast="Markdown copied for Notion">Copy + open Notion</button>
+              <a class="share-btn share-btn-pdf" href="/downloads/full_silence.csv" download>CSV ↓</a>
+            </div>
+          </div>
+
+          <div class="dataset-ship-row dataset-ship-row-wide">
+            <div class="dataset-ship-label">
+              <strong class="serif">Slack digest</strong>
+              <span class="dataset-ship-sub">Paste a Slack incoming-webhook URL, get the Drift Radar top-line posted to your channel. Runs client-side; no server proxy.</span>
+            </div>
+            <div class="dataset-ship-actions dataset-ship-slack">
+              <input type="url" class="slack-webhook-input" id="slack-webhook" placeholder="https://hooks.slack.com/services/…" />
+              <button type="button" class="share-btn share-btn-slack" id="slack-post-btn">Post digest</button>
+            </div>
+          </div>
+
+          <div class="dataset-ship-row">
+            <div class="dataset-ship-label">
+              <strong class="serif">RSS feed</strong>
+              <span class="dataset-ship-sub">Every drifting and silent prompt as a feed item. Point Feedly, Inoreader, or a Slack RSS integration at the link.</span>
+            </div>
+            <div class="dataset-ship-actions">
+              <a class="share-btn share-btn-pdf" href="/downloads/drift_radar.rss">RSS ↗</a>
+              <button type="button" class="share-btn share-btn-md" data-clipboard-text="https://drift-radar.pages.dev/downloads/drift_radar.rss" data-toast="RSS URL copied">Copy RSS URL</button>
+            </div>
+          </div>
+
+          <div class="dataset-ship-row dataset-ship-row-wide">
+            <div class="dataset-ship-label">
+              <strong class="serif">3-day trend · live</strong>
+              <span class="dataset-ship-sub">Per-engine daily visibility over the {trendDates.length}-day window. Same shape Peec would surface as a weekly Drift Radar subscription.</span>
+            </div>
+            <div class="dataset-ship-actions trend-sparkline">
+              {active_models.map((m: any) => {
+                const series = trendByEngine[m.id] || {};
+                const pts = trendDates.map((d: string) => series[d] ?? 0);
+                const w = 160, h = 36, pad = 4;
+                const xs = pts.map((_: number, i: number) => pad + (i * (w - 2*pad)) / Math.max(1, pts.length - 1));
+                const ys = pts.map((v: number) => h - pad - (v / trendMax) * (h - 2*pad));
+                const d = xs.map((x: number, i: number) => `${i === 0 ? 'M' : 'L'} ${x.toFixed(1)} ${ys[i].toFixed(1)}`).join(' ');
+                const last = pts[pts.length - 1];
+                return (
+                  <div class="trend-row">
+                    <span class="trend-engine">{m.name}</span>
+                    <svg class="trend-svg" viewBox={`0 0 ${w} ${h}`} width={w} height={h} preserveAspectRatio="none">
+                      <path d={d} fill="none" stroke="var(--drift)" stroke-width="1.5" />
+                      {xs.map((x: number, i: number) => (
+                        <circle cx={x} cy={ys[i]} r="2.5" fill="var(--drift)"></circle>
+                      ))}
+                    </svg>
+                    <span class="trend-value mono">{Math.round(last * 100)}%</span>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-header-editorial" style="margin-top: 64px; margin-bottom: 24px;">
+        <div>
+          <div class="kicker">Content brief library · {deepDives.length + ownOnly.length + fullSilence.length} PDFs + Markdown</div>
+          <h2 style="font-size: 28px;">One brief per prompt</h2>
+          <p class="caption" style="margin-top: 10px; max-width: 720px;">
+            Every prompt that has a measurable drift, silence or opportunity signal gets its own PDF. Premium briefs cover the five maximum-drift prompts with extracted claims and narrative; lite briefs cover the other 41 with engine visibility, source mix, and concrete move templates.
+          </p>
+        </div>
+      </div>
+
+      <details class="brief-group" open>
+        <summary>
+          <span class="brief-group-kind">Premium</span>
+          <span class="brief-group-title">Maximum-drift deep dives</span>
+          <span class="brief-group-count mono">{deepDives.length} PDFs</span>
+        </summary>
+        <ul class="export-brief-list">
+          {deepDives.map((p: any) => (
+            <li>
+              <a class="brief-list-main" href={`/downloads/content_briefs/${briefFilename(p)}`} download>
+                <span class="brief-badge mono">{p.divergence_score.toFixed(2)}</span>
+                <span class="brief-text">»{p.prompt_text}«</span>
+                <span class="brief-arrow mono">PDF ↓</span>
+              </a>
+              <a class="brief-list-md-btn mono" href={`/downloads/content_briefs/${briefMdFilename(p)}`} download title="Markdown version">MD ↓</a>
+            </li>
+          ))}
+        </ul>
+      </details>
+
+      <details class="brief-group">
+        <summary>
+          <span class="brief-group-kind">Gap briefs</span>
+          <span class="brief-group-title">Own-only silence prompts</span>
+          <span class="brief-group-count mono">{ownOnly.filter((p: any) => !p.chat_sample).length} PDFs + MDs</span>
+        </summary>
+        <ul class="export-brief-list">
+          {ownOnly.filter((p: any) => !p.chat_sample).map((p: any) => (
+            <li>
+              <a class="brief-list-main" href={`/downloads/content_briefs/${briefFilename(p, 'own_only')}`} download>
+                <span class="brief-badge mono" title="Peec search-volume bucket">{p.volume_bucket || '–'}</span>
+                <span class="brief-text">»{p.prompt_text}«</span>
+                <span class="brief-arrow mono">PDF ↓</span>
+              </a>
+              <a class="brief-list-md-btn mono" href={`/downloads/content_briefs/${briefMdFilename(p, 'own_only')}`} download title="Markdown version">MD ↓</a>
+            </li>
+          ))}
+        </ul>
+      </details>
+
+      <details class="brief-group">
+        <summary>
+          <span class="brief-group-kind">Opportunity</span>
+          <span class="brief-group-title">Full-silence prompts</span>
+          <span class="brief-group-count mono">{fullSilence.filter((p: any) => !p.chat_sample).length} PDFs + MDs</span>
+        </summary>
+        <ul class="export-brief-list">
+          {fullSilence.filter((p: any) => !p.chat_sample).map((p: any) => (
+            <li>
+              <a class="brief-list-main" href={`/downloads/content_briefs/${briefFilename(p, 'full_silence')}`} download>
+                <span class="brief-badge mono" title="Peec search-volume bucket">{p.volume_bucket || '–'}</span>
+                <span class="brief-text">»{p.prompt_text}«</span>
+                <span class="brief-arrow mono">PDF ↓</span>
+              </a>
+              <a class="brief-list-md-btn mono" href={`/downloads/content_briefs/${briefMdFilename(p, 'full_silence')}`} download title="Markdown version">MD ↓</a>
+            </li>
+          ))}
+        </ul>
+      </details>
+    </div>
+  </section>
+
+  <section class="section methodology" data-tab="underhood">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Methodology</div>
+          <h2>How the numbers are made</h2>
+        </div>
+      </div>
+      <div class="methodology-body">
+        <div class="method-block">
+          <h3>Cross-model divergence score</h3>
+          <p style="margin-top: 8px;">For each prompt across the three active engines, Drift Radar takes the own-brand visibility on every engine, then combines the range and the Coefficient of Variation into a single score in <code>[0, 1]</code>:</p>
+          <pre class="formula">divergence = 0.7 · (max(vis) − min(vis)) + 0.3 · clamp(CV(vis), 0, 2) / 2</pre>
+          <p style="margin-top: 8px;">Range dominates – intuitive and bounded. CV adds a secondary smoothed signal for cases where all engines are non-zero but still spread. Scores ≥ 0.30 are flagged as drifting.</p>
+        </div>
+        <div class="method-block">
+          <h3>Wilson 95 % confidence intervals</h3>
+          <p style="margin-top: 8px;">Every visibility fraction is a proportion from a small sample – Peec samples once per day per engine. Drift Radar reports Wilson score confidence intervals for each prompt × engine: three days means <code>n = 3</code>, so bands are wide. Small samples get wide bands; the tool never overstates certainty.</p>
+        </div>
+        <div class="method-block">
+          <h3>Silence classification</h3>
+          <p style="margin-top: 8px;"><strong class="serif">Own-only silence</strong> – your brand has zero mentions on every engine, and at least one tracked competitor has at least one mention on some engine.</p>
+          <p style="margin-top: 8px;"><strong class="serif">Full silence</strong> – no tracked brand, own or competitor, is mentioned on any engine. The category is answered generically.</p>
+        </div>
+        <div class="method-block">
+          <h3>Narrative stability extraction</h3>
+          <p style="margin-top: 8px;">For the maximum-drift prompts, Drift Radar calls <code>Claude Haiku 4.5</code> over the full response text from every engine and extracts up to five atomic claims per answer, each categorized as <em>brand</em>, <em>substance</em>, <em>function</em>, <em>condition</em>, or <em>criterion</em>.</p>
+          <p style="margin-top: 8px;">The narrative-mix bar shows claim-type distribution per engine. <em>Brand</em> claims rarely overlap across engines – each model names different products. <em>Substance</em> and <em>criterion</em> claims overlap more often (MSM, Glucosamin, grain-free), because active ingredients and quality markers are closer to settled knowledge. Stable concepts become the anchor for content briefs; divergent ones mark the editorial gaps.</p>
+        </div>
+        <div class="method-block">
+          <h3>Data source</h3>
+          <p style="margin-top: 8px;">Peec AI MCP at <code>api.peec.ai/mcp</code>, OAuth authenticated.</p>
+          <p style="margin-top: 8px;">Tools used: <code>list_prompts</code>, <code>list_chats</code>, <code>get_brand_report</code> with <code>dimensions=[prompt_id, model_id]</code>, <code>get_chat</code> for full response text.</p>
+          <p style="margin-top: 8px;">Active engines in this snapshot: {active_models.map((m: any) => m.name).join(', ')}.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section limitations" data-tab="underhood">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">What this report is not</div>
+          <h2>Limitations &amp; honest caveats</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            The divergence score is a ranking signal, not a forecasting model. Three directions where the numbers deserve scepticism before they drive an investment decision.
+          </p>
+        </div>
+      </div>
+      <div class="limit-grid">
+        <div class="limit-card">
+          <div class="limit-kicker">Sample size</div>
+          <h3 class="limit-title">Three-day window, N ≈ 3</h3>
+          <p class="limit-body">Peec samples each prompt × engine once per day. A three-day snapshot gives N = 3 chats per cell – the Wilson 95 % CIs are correspondingly wide (often spanning 0 – 0.56 for a zero-visibility cell). Use the score for ranking and triage, re-measure weekly before acting on a single-prompt shift. All CI values are in <code>drift_radar.json → prompts[].wilson_ci_by_model</code>.</p>
+        </div>
+        <div class="limit-card">
+          <div class="limit-kicker">Prompt design</div>
+          <h3 class="limit-title">50 prompts, one category</h3>
+          <p class="limit-body">The Pferdegold prompt list covers seven topics around horse supplement feed. The 12.1× engine spread is category-specific – AI Overview happens to retrieve Amazon product pages directly for this vertical, which tilts visibility. The method generalises across verticals; the specific ratios do not. Run Drift Radar on your own prompt list before quoting the aggregate.</p>
+        </div>
+        <div class="limit-card">
+          <div class="limit-kicker">Claim extraction</div>
+          <h3 class="limit-title">Haiku reads transcript text</h3>
+          <p class="limit-body">Stable-vs-divergent claim tags come from Claude Haiku 4.5 parsing the chat transcript text into five types. Spot checks are good, but this is a directional narrative signal – not a factual validator. Ingredient names and quality markers overlap more than brand names because active ingredients are closer to settled knowledge; this is an LLM reading other LLMs, not an authoritative source.</p>
+        </div>
+        <div class="limit-card">
+          <div class="limit-kicker">Engine coverage</div>
+          <h3 class="limit-title">Three engines – ChatGPT, Gemini, AI Overview</h3>
+          <p class="limit-body">Peec's Pro plan tracks three engines in parallel; Perplexity, Copilot and Claude web are not in this snapshot. The engine-spread ratio would move when the engine set changes. When comparing runs, hold the engine set constant.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section underhood" data-tab="underhood">
+    <div class="container">
+      <div class="section-header-editorial">
+        <div>
+          <div class="kicker">Under the hood</div>
+          <h2>From MCP call to static page</h2>
+          <p class="caption" style="margin-top: 12px; max-width: 720px;">
+            Drift Radar is a four-step pipeline. Peec MCP supplies the raw brand and chat data, a Python script folds it into divergence scores, Claude Haiku 4.5 lifts the narrative claims out of every response, and Astro renders the whole report as a static page. Every step below is quoted verbatim from the actual implementation.
+          </p>
+        </div>
+      </div>
+
+      <div class="underhood-steps">
+        <div class="underhood-step">
+          <div class="underhood-step-head">
+            <span class="underhood-step-num">01</span>
+            <h3>Pull the data from Peec MCP</h3>
+          </div>
+          <p class="underhood-step-dek">Four MCP tools, authenticated via the Peec OAuth connector. <code>get_brand_report</code> with <code>dimensions=[prompt_id, model_id]</code> is the one that produces the matrix the whole dashboard is built on.</p>
+          <pre class="underhood-code">{`# Project lookup
+list_projects() → [{ id: "or_1caa...", name: "Pferdegold", status: "TRIAL" }]
+
+# Prompt universe (50 prompts)
+list_prompts(project_id="or_1caa...") → pr_f430..., pr_ce22..., ...
+
+# The core matrix: own-brand visibility per prompt × engine
+get_brand_report(
+    project_id = "or_1caa...",
+    brand_id   = "kw_751e...",              # Pferdegold
+    start_date = "2026-04-20",
+    end_date   = "2026-04-22",
+    dimensions = ["prompt_id", "model_id"],
+) → { columns: [...], rows: [...] }
+
+# Full response text for narrative extraction
+list_chats(project_id="...", prompt_id="pr_f430...", ...)
+get_chat(chat_id="ch_d5ff...") → { messages, brands_mentioned, sources }`}</pre>
+        </div>
+
+        <div class="underhood-step">
+          <div class="underhood-step-head">
+            <span class="underhood-step-num">02</span>
+            <h3>Compute divergence and silence in Python</h3>
+          </div>
+          <p class="underhood-step-dek">The matrix becomes a drift score per prompt: weighted combination of visibility range and Coefficient of Variation. Silence is classified as <em>own-only</em> (competitors present, own brand absent) or <em>full</em> (nobody named).</p>
+          <pre class="underhood-code">{`def compute_prompt_metrics(per_model, active_models):
+    vis_vals = [per_model[m]["visibility"] if m in per_model else 0
+                for m in active_models]
+    range_vis = max(vis_vals) - min(vis_vals)
+    cv_vis    = pstdev(vis_vals) / mean(vis_vals) if mean(vis_vals) else 0
+
+    divergence_score = round(
+        0.7 * range_vis + 0.3 * min(cv_vis, 2.0) / 2.0, 3
+    )
+
+    return {
+        "visibility_by_model": {m: per_model[m]["visibility"]
+                                for m in active_models if m in per_model},
+        "divergence_score": divergence_score,
+        "range_visibility": range_vis,
+        "cv_visibility":    cv_vis,
+        "own_silence":      max(vis_vals) == 0,
+    }`}</pre>
+        </div>
+
+        <div class="underhood-step">
+          <div class="underhood-step-head">
+            <span class="underhood-step-num">03</span>
+            <h3>Extract narrative claims with Haiku 4.5</h3>
+          </div>
+          <p class="underhood-step-dek">Every assistant response goes through Claude Haiku 4.5 with a strict JSON-only system prompt. Five typed claims per chat – brand, substance, function, condition, criterion – with verbatim evidence quotes for auditability.</p>
+          <pre class="underhood-code">{`SYSTEM = (
+  "You extract structured claims from AI-generated product "
+  "recommendations. Return ONLY valid JSON, no prose, "
+  "no markdown fencing. Never include \\\`\\\`\\\`json."
+)
+
+USER = f"""User query to an AI search engine: {query!r}
+
+The AI engine responded with:
+\\"\\"\\"{response_text}\\"\\"\\"
+
+Extract up to 5 atomic claims. For each claim, categorize:
+- brand      : specific product or brand name
+- substance  : active ingredient (Glucosamin, MSM, ...)
+- function   : functional benefit (supports joints, ...)
+- condition  : health condition or use case (arthrose, ...)
+- criterion  : quality/selection criterion (sugar-free, ...)
+
+Return a JSON array of up to 5 objects:
+{{ "text": "...", "type": "...", "evidence": "<verbatim quote>" }}"""
+
+# Model: claude-haiku-4-5-20251001
+# Temperature: default (1.0); strict JSON-only output,
+# fenced retries with exponential backoff on 429/503/529.`}</pre>
+        </div>
+
+        <div class="underhood-step">
+          <div class="underhood-step-head">
+            <span class="underhood-step-num">04</span>
+            <h3>Render as a static Astro page</h3>
+          </div>
+          <p class="underhood-step-dek">No runtime fetching, no server. The Python pipeline writes a single <code>drift_radar.json</code>; Astro imports it, ships a static bundle to Cloudflare Pages. Everything you see on this page is pre-rendered at build time from that JSON.</p>
+          <pre class="underhood-code">{`---
+// src/pages/index.astro
+import Base from '../layouts/Base.astro';
+import data from '../data/drift_radar.json';
+
+const { summary, prompts, competitors, active_models } = data;
+const sortedPrompts = [...prompts].sort(
+  (a, b) => b.divergence_score - a.divergence_score
+);
+const deepDives = sortedPrompts.filter(p => p.chat_sample);
+---
+
+<Base title={\`Drift Radar – \${data.own_brand}\`}>
+  <!-- Hero, Key Visual, Numbers, Heatmap,
+       Deep Dives, Competitive Landscape, ... -->
+</Base>`}</pre>
+        </div>
+      </div>
+
+      <p class="caption" style="margin-top: 40px; max-width: 780px;">
+        Nothing is hidden. The JSON that drives the entire dashboard is downloadable from the export bar above. So is the CSV version for spreadsheets. Every claim, every divergence score, every MCP call can be reproduced by another operator in under an hour.
+      </p>
+    </div>
+  </section>
+
+  <div class="sticky-export-bar" aria-label="Quick exports">
+    <div class="sticky-export-inner">
+      <span class="sticky-export-label eyebrow">Quick export</span>
+      <a class="sticky-export-btn" href="/downloads/drift_radar.json" download title="Full pipeline JSON, 128 KB">
+        <span class="sticky-export-btn-label">JSON</span>
+        <span class="sticky-export-btn-hint mono">full data</span>
+      </a>
+      <a class="sticky-export-btn" href="/downloads/drift_radar.csv" download title="50 rows, for Excel/Sheets">
+        <span class="sticky-export-btn-label">CSV</span>
+        <span class="sticky-export-btn-hint mono">{summary.total_prompts} rows</span>
+      </a>
+      <a class="sticky-export-btn" href="/downloads/executive_summary.pdf" download title="One-page management summary">
+        <span class="sticky-export-btn-label">Exec PDF</span>
+        <span class="sticky-export-btn-hint mono">1 page</span>
+      </a>
+      <a class="sticky-export-btn" href="#exports" title="All {deepDives.length} content brief PDFs plus soft exports">
+        <span class="sticky-export-btn-label">Briefs</span>
+        <span class="sticky-export-btn-hint mono">{deepDives.length} PDFs</span>
+      </a>
+    </div>
+  </div>
+
+  <div id="share-toast" class="share-toast" aria-live="polite"></div>
+
+  <script id="drift-slack-payload" type="application/json" set:html={JSON.stringify({
+    text:
+      `*Drift Radar · ${own_brand} · ${date_range.start} → ${date_range.end}*\n` +
+      `• ${summary.own_silence_percent}% own-brand silence (${summary.own_silence_count}/${summary.total_prompts} prompts)\n` +
+      `• ${summary.own_only_silence_count} own-only silence · ${summary.full_silence_count} full silence\n` +
+      `• ${summary.high_divergence_count} drifting prompts (divergence ≥ 0.30)\n` +
+      `• Average own visibility ${(summary.avg_own_visibility*100).toFixed(1)}%\n\n` +
+      `Report: https://drift-radar.pages.dev`
+  })}></script>
+
+  <script is:inline>
+    (function() {
+      // Tab routing – URL-hash driven
+      var TABS = ['overview', 'heatmap', 'deepdives', 'exports', 'underhood'];
+
+      function activateTab(tabName, scrollToId) {
+        var valid = TABS.indexOf(tabName) >= 0 ? tabName : 'overview';
+        var body = document.body;
+        body.className = body.className.replace(/\btab-\w+\b/g, '').trim();
+        body.classList.add('tab-' + valid);
+        document.querySelectorAll('.tab-nav-btn').forEach(function(b) {
+          b.classList.toggle('is-active', b.getAttribute('data-tab') === valid);
+        });
+        if (scrollToId) {
+          setTimeout(function() {
+            var el = document.getElementById(scrollToId);
+            if (el) el.scrollIntoView({ behavior: 'auto', block: 'start' });
+          }, 30);
+        } else {
+          window.scrollTo(0, 0);
+        }
+      }
+
+      function resolveFromHash() {
+        var h = (window.location.hash || '').replace('#', '');
+        if (h.indexOf('deepdive-') === 0) {
+          activateTab('deepdives', h);
+        } else if (TABS.indexOf(h) >= 0) {
+          activateTab(h);
+        } else {
+          activateTab('overview');
+        }
+      }
+
+      resolveFromHash();
+      window.addEventListener('hashchange', resolveFromHash);
+
+      document.addEventListener('click', function(ev) {
+        var btn = ev.target && ev.target.closest && ev.target.closest('.tab-nav-btn');
+        if (!btn) return;
+        ev.preventDefault();
+        var tab = btn.getAttribute('data-tab');
+        if (tab) window.location.hash = '#' + tab;
+      });
+
+      var toast = document.getElementById('share-toast');
+      var toastTimer = null;
+      var isMac = /Mac|iPhone|iPad|iPod/.test(navigator.platform || navigator.userAgent || '');
+      var pasteShortcut = isMac ? '⌘V' : 'Ctrl+V';
+      function destFromUrl(url) {
+        if (!url) return null;
+        if (/notion\.so/.test(url)) return 'Notion';
+        if (/docs\.google\.com\/spreadsheets/.test(url)) return 'Google Sheets';
+        if (/docs\.google\.com\/document/.test(url)) return 'Google Docs';
+        return null;
+      }
+      function showToast(msg, pasteHintDest) {
+        if (!toast) return;
+        toast.classList.remove('is-paste-hint');
+        if (pasteHintDest) {
+          toast.classList.add('is-paste-hint');
+          toast.innerHTML = '';
+          var title = document.createElement('div');
+          title.className = 'toast-title';
+          title.textContent = msg;
+          var sub = document.createElement('div');
+          sub.className = 'toast-sub';
+          sub.textContent = 'Press ' + pasteShortcut + ' in the new ' + pasteHintDest + ' tab';
+          toast.appendChild(title);
+          toast.appendChild(sub);
+        } else {
+          toast.textContent = msg;
+        }
+        toast.classList.add('is-visible');
+        clearTimeout(toastTimer);
+        toastTimer = setTimeout(function() { toast.classList.remove('is-visible'); }, pasteHintDest ? 6000 : 1800);
+      }
+      // Heatmap filter toggle – status buttons + tag buttons combine
+      function applyHeatmapFilters() {
+        var statusBtn = document.querySelector('.filter-btn:not(.filter-tag-btn).is-active');
+        var tagBtn = document.querySelector('.filter-tag-btn.is-active');
+        var statusFilter = statusBtn ? statusBtn.getAttribute('data-filter') : 'all';
+        var tagFilter = tagBtn ? tagBtn.getAttribute('data-tag') : 'all';
+        document.querySelectorAll('.heatmap-row').forEach(function(row) {
+          var hideStatus = false;
+          if (statusFilter === 'drifting') hideStatus = !row.classList.contains('is-drifting');
+          else if (statusFilter === 'own-only') hideStatus = !row.classList.contains('has-competitors');
+          else if (statusFilter === 'full-silence') hideStatus = !row.classList.contains('is-full-silence');
+          else if (statusFilter === 'has-deepdive') hideStatus = !row.classList.contains('has-deepdive');
+          var hideTag = false;
+          if (tagFilter && tagFilter !== 'all') {
+            var tags = (row.getAttribute('data-tags') || '').split(',');
+            hideTag = tags.indexOf(tagFilter) < 0;
+          }
+          row.style.display = (hideStatus || hideTag) ? 'none' : '';
+        });
+      }
+      document.addEventListener('click', function(ev) {
+        var fbtn = ev.target && ev.target.closest && ev.target.closest('.filter-btn');
+        if (!fbtn) return;
+        var isTag = fbtn.classList.contains('filter-tag-btn');
+        var siblingSelector = isTag ? '.filter-tag-btn' : '.filter-btn:not(.filter-tag-btn)';
+        document.querySelectorAll(siblingSelector).forEach(function(b) {
+          b.classList.toggle('is-active', b === fbtn);
+        });
+        applyHeatmapFilters();
+      });
+
+      // Heatmap row click → anchor jump to Deep-Dive
+      document.addEventListener('click', function(ev) {
+        if (ev.target.closest('a')) return;            // inner anchor wins
+        if (ev.target.closest('[data-clipboard-text]')) return; // copy button wins
+        var row = ev.target && ev.target.closest && ev.target.closest('.heatmap-row.has-deepdive[data-deepdive-href]');
+        if (!row) return;
+        var href = row.getAttribute('data-deepdive-href');
+        if (href) window.location.hash = href;
+      });
+
+      // Slack webhook: POST client-side to a user-supplied incoming-webhook URL.
+      var slackBtn = document.getElementById('slack-post-btn');
+      var slackInput = document.getElementById('slack-webhook');
+      var slackPayloadEl = document.getElementById('drift-slack-payload');
+      var slackPayload = slackPayloadEl ? JSON.parse(slackPayloadEl.textContent || '{}') : { text: 'Drift Radar report' };
+      if (slackBtn && slackInput) {
+        slackBtn.addEventListener('click', function() {
+          var url = slackInput.value.trim();
+          if (!url || !/^https:\/\/hooks\.slack\.com\//.test(url)) {
+            showToast('Paste a valid https://hooks.slack.com/... URL');
+            return;
+          }
+          slackBtn.disabled = true;
+          var original = slackBtn.textContent;
+          slackBtn.textContent = 'Posting…';
+          fetch(url, {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify(slackPayload),
+          }).then(function(r) {
+            if (r.ok) { showToast('Posted to Slack ✓'); slackInput.value = ''; }
+            else { showToast('Slack rejected the post (' + r.status + ')'); }
+          }).catch(function() {
+            showToast('Network error – check the webhook URL');
+          }).finally(function() {
+            slackBtn.disabled = false;
+            slackBtn.textContent = original;
+          });
+        });
+      }
+
+      document.addEventListener('click', function(ev) {
+        var btn = ev.target && ev.target.closest && ev.target.closest('[data-clipboard-text]');
+        if (!btn) return;
+        ev.preventDefault();
+        var text = btn.getAttribute('data-clipboard-text') || '';
+        var msg = btn.getAttribute('data-toast') || 'Copied';
+        var openUrl = btn.getAttribute('data-open-url');
+        var pasteDest = destFromUrl(openUrl);
+        var finish = function(ok) {
+          if (ok) {
+            btn.classList.add('is-copied');
+            var originalText = btn.textContent;
+            btn.textContent = pasteDest ? ('✓ Copied – now press ' + pasteShortcut) : ('✓ ' + msg);
+            setTimeout(function() {
+              btn.classList.remove('is-copied');
+              btn.textContent = originalText;
+            }, pasteDest ? 4000 : 1600);
+            showToast(msg, pasteDest);
+            if (openUrl) {
+              // Brief delay so the user sees the toast before the new tab grabs focus.
+              setTimeout(function() { window.open(openUrl, '_blank', 'noopener'); }, 260);
+            }
+          } else {
+            showToast('Copy failed – please copy manually');
+          }
+        };
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(function() { finish(true); }, function() { finish(false); });
+        } else {
+          // Fallback: textarea + execCommand
+          var ta = document.createElement('textarea');
+          ta.value = text; ta.setAttribute('readonly', '');
+          ta.style.position = 'absolute'; ta.style.left = '-9999px';
+          document.body.appendChild(ta);
+          ta.select();
+          var ok = false;
+          try { ok = document.execCommand('copy'); } catch (_) {}
+          document.body.removeChild(ta);
+          finish(ok);
+        }
+      });
+    })();
+  </script>
+
+  <footer class="masthead">
+    <div class="container">
+      <hr class="rule rule-strong" />
+      <div class="masthead-inner">
+        <div>
+          <strong class="serif">Drift Radar</strong>
+          <span class="text-mute">&nbsp;– a field report on how AI engines describe the same brand differently.</span>
+        </div>
+        <div class="text-mute mono" style="font-size: 12px;">
+          Built for the <a href="https://peec.ai">Peec AI</a> MCP Challenge 2026 &nbsp;·&nbsp; #BuiltWithPeec &nbsp;·&nbsp; {date_range.start} → {date_range.end}
+        </div>
+      </div>
+    </div>
+  </footer>
+</Base>
+
+<style>
+  /* Tab navigation — sticky top, always visible */
+  .tab-nav { position: sticky; top: 0; z-index: 100; background: var(--bg); border-bottom: 1px solid var(--ink); backdrop-filter: saturate(140%); }
+  .tab-nav-inner { max-width: 1400px; margin: 0 auto; padding: 14px 32px; display: flex; align-items: center; gap: 32px; flex-wrap: wrap; }
+  .tab-brand { text-decoration: none; display: flex; align-items: baseline; gap: 8px; color: var(--ink); flex-shrink: 0; }
+  .tab-brand:hover { text-decoration: none; }
+  .tab-brand-name { font-family: var(--serif); font-weight: 700; font-size: 19px; letter-spacing: -0.01em; }
+  .tab-brand-sub { font-size: 12px; color: var(--ink-mute); }
+  .tab-nav-tabs { display: flex; gap: 4px; flex-wrap: wrap; }
+  .tab-nav-btn { font-family: var(--sans); font-size: 13px; font-weight: 500; padding: 8px 16px; background: transparent; border: 1px solid transparent; color: var(--ink-soft); cursor: pointer; transition: all 120ms ease; display: inline-flex; align-items: center; gap: 8px; letter-spacing: 0.01em; }
+  .tab-nav-btn:hover { color: var(--ink); border-color: var(--rule); }
+  .tab-nav-btn.is-active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .tab-nav-btn.is-active .tab-badge { color: var(--bg); opacity: 0.75; }
+  .tab-badge { font-size: 11px; color: var(--ink-mute); font-weight: 500; padding: 0 4px; }
+
+  /* Tab visibility rules — scope to section/header elements so tab-buttons stay visible */
+  section[data-tab], header[data-tab] { display: none; }
+  body.tab-overview  section[data-tab="overview"],  body.tab-overview  header[data-tab="overview"],
+  body.tab-heatmap   section[data-tab="heatmap"],
+  body.tab-deepdives section[data-tab="deepdives"],
+  body.tab-exports   section[data-tab="exports"],
+  body.tab-underhood section[data-tab="underhood"] { display: block; }
+
+  .hero { padding-top: 120px; padding-bottom: 96px; }
+  .hero-layout { display: grid; grid-template-columns: 2fr 1fr; gap: 80px; align-items: start; }
+  @media (max-width: 900px) { .hero-layout { grid-template-columns: 1fr; gap: 48px; } }
+  .hero-h1 { margin-top: 24px; }
+  .hero-main .dek { margin-top: 24px; }
+  .hero-aside { padding-top: 6px; }
+
+  .keyvisual-section { padding: 64px 0; background: var(--bg-alt); }
+
+  /* Data pipeline widget (Overview tab) */
+  .pipeline-section { padding: 96px 0; }
+  .pipeline-flow { display: grid; grid-template-columns: 1fr 28px 1fr 28px 1fr 28px 1fr; gap: 0; align-items: stretch; }
+  @media (max-width: 1000px) { .pipeline-flow { grid-template-columns: 1fr; gap: 16px; } .pipeline-arrow { display: none; } }
+  .pipeline-stage { padding: 20px 22px; background: var(--bg-alt); border: 1px solid var(--rule); border-left: 3px solid var(--drift); display: flex; flex-direction: column; gap: 10px; }
+  .pipeline-stage-output { border-left-color: var(--own); }
+  .pipeline-stage-num { font-family: var(--mono); font-weight: 700; font-size: 20px; color: var(--drift); letter-spacing: -0.02em; }
+  .pipeline-stage-output .pipeline-stage-num { color: var(--own); }
+  .pipeline-stage-label { font-family: var(--serif); font-weight: 700; font-size: 17px; color: var(--ink); line-height: 1.25; }
+  .pipeline-stage-items { list-style: none; margin: 0; padding: 0; flex: 1; display: flex; flex-direction: column; gap: 4px; font-family: var(--sans); font-size: 12px; line-height: 1.45; color: var(--ink-soft); }
+  .pipeline-stage-items code { font-size: 0.95em; background: var(--bg); padding: 1px 4px; border: 1px solid var(--rule); }
+  .pipeline-stage-footer { font-family: var(--sans); font-size: 11px; color: var(--ink-mute); letter-spacing: 0.02em; padding-top: 8px; border-top: 1px solid var(--rule); }
+  .pipeline-stage-footer code { font-size: 11px; background: var(--bg); padding: 1px 3px; }
+  .pipeline-arrow { font-family: var(--mono); font-size: 22px; font-weight: 300; color: var(--ink-mute); display: flex; align-items: center; justify-content: center; }
+
+  /* Source-classification colors */
+  .source-seg-own           { background: var(--own); }
+  .source-seg-competitor    { background: var(--competitor); }
+  .source-seg-editorial     { background: var(--drift); }
+  .source-seg-ugc           { background: var(--warn); }
+  .source-seg-reference     { background: #7A6D92; } /* muted purple */
+  .source-seg-institutional { background: #486E8E; } /* steel blue */
+  .source-seg-corporate     { background: var(--ink); }
+  .source-seg-other         { background: var(--ink-mute); }
+
+  .source-legend-own .source-dot           { background: var(--own); }
+  .source-legend-competitor .source-dot    { background: var(--competitor); }
+  .source-legend-editorial .source-dot     { background: var(--drift); }
+  .source-legend-ugc .source-dot           { background: var(--warn); }
+  .source-legend-reference .source-dot     { background: #7A6D92; }
+  .source-legend-institutional .source-dot { background: #486E8E; }
+  .source-legend-corporate .source-dot     { background: var(--ink); }
+  .source-legend-other .source-dot         { background: var(--ink-mute); }
+  .source-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+
+  /* Source Overview (aggregated, Overview tab) */
+  .source-overview-section { padding: 96px 0; background: var(--bg-alt); }
+  .source-overview { display: flex; flex-direction: column; gap: 24px; }
+  .source-overview-bar { display: flex; height: 32px; width: 100%; background: var(--bg); border: 1px solid var(--rule); overflow: hidden; }
+  .source-seg { display: block; height: 100%; min-width: 2px; transition: opacity 140ms ease; }
+  .source-seg:hover { opacity: 0.85; }
+  .source-overview-legend { display: flex; flex-wrap: wrap; gap: 12px 20px; }
+  .source-legend-item { display: inline-flex; align-items: center; gap: 8px; font-family: var(--sans); font-size: 13px; color: var(--ink-soft); }
+  .source-label { font-weight: 500; color: var(--ink); }
+  .source-pct { font-size: 13px; color: var(--ink-soft); font-weight: 600; }
+
+  .source-overview-punchline { display: grid; grid-template-columns: 240px 1fr; gap: 40px; align-items: center; padding: 32px 0 0; border-top: 1px solid var(--rule); margin-top: 8px; }
+  @media (max-width: 900px) { .source-overview-punchline { grid-template-columns: 1fr; gap: 16px; } }
+  .source-punchline-num { font-family: var(--mono); font-weight: 700; font-size: clamp(72px, 10vw, 128px); line-height: 0.95; color: var(--drift); letter-spacing: -0.03em; }
+  .source-punchline-unit { font-size: 0.4em; color: var(--ink-soft); margin-left: 6px; }
+  .source-punchline-copy { font-size: 16px; line-height: 1.55; }
+  .source-punchline-copy .serif { font-size: 20px; }
+
+  /* Source-Mix per Deep-Dive */
+  .source-mix-block { margin: 24px 0 16px; padding: 20px 22px; background: var(--bg-alt); border: 1px solid var(--rule); border-left: 3px solid var(--ink); }
+  .source-mix-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 10px; gap: 16px; flex-wrap: wrap; }
+  .source-mix-meta { font-size: 11px; color: var(--ink-mute); letter-spacing: 0.02em; }
+  .source-mix-bar { height: 20px; margin: 4px 0 10px; }
+  .source-mix-counts { display: flex; flex-wrap: wrap; gap: 10px 14px; margin-top: 4px; }
+  .source-mix-count { display: inline-flex; align-items: center; gap: 6px; font-family: var(--sans); font-size: 11.5px; color: var(--ink-soft); }
+  .source-mix-count .source-label { font-weight: 500; color: var(--ink); font-size: 11.5px; }
+
+  .source-domains-panel { margin-top: 12px; border-top: 1px solid var(--rule); padding-top: 8px; }
+  .source-domains-panel summary { list-style: none; cursor: pointer; padding: 6px 0; display: flex; gap: 10px; align-items: center; }
+  .source-domains-panel summary::-webkit-details-marker { display: none; }
+  .source-domains-panel summary::before { content: '›'; font-family: var(--mono); font-size: 15px; font-weight: 700; color: var(--ink-mute); transition: transform 120ms ease; }
+  .source-domains-panel[open] summary::before { transform: rotate(90deg); }
+  .source-domains-list { list-style: none; padding: 0; margin: 6px 0 0; display: flex; flex-direction: column; gap: 4px; }
+  .source-domain { display: grid; grid-template-columns: 14px 1fr 130px 110px; gap: 10px; align-items: center; padding: 4px 0; font-size: 12px; color: var(--ink-soft); }
+  @media (max-width: 700px) { .source-domain { grid-template-columns: 14px 1fr; } .source-domain-class, .source-domain-rp { grid-column: 2 / -1; } }
+  .source-domain-name { color: var(--ink); }
+  .source-domain-class { color: var(--ink-soft); font-family: var(--sans); font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; }
+  .source-domain-rp { color: var(--ink-mute); text-align: right; font-size: 11px; }
+
+
+  .numbers-section { padding-top: 96px; padding-bottom: 96px; }
+  .numbers-list { display: flex; flex-direction: column; }
+  .number-moment { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; padding: 48px 0; align-items: center; }
+  @media (max-width: 900px) { .number-moment { grid-template-columns: 1fr; gap: 16px; padding: 32px 0; } }
+  .number-unit { font-size: 0.5em; color: var(--ink-soft); margin-left: 6px; font-weight: 500; }
+  .number-label { font-size: 17px; line-height: 1.55; }
+  .number-label .serif { font-size: 22px; }
+  .number-label .mute { color: var(--ink-soft); }
+
+  .section-header-editorial { margin-bottom: 48px; max-width: 780px; }
+  .section-header-editorial .kicker { margin-bottom: 10px; }
+
+  .heatmap-section { background: var(--bg); }
+  .heatmap-filter { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 12px; margin: 32px 0 0; padding: 18px 20px; background: var(--bg-alt); border: 1px solid var(--rule); }
+  .heatmap-filter-secondary { margin-top: 0; border-top: 0; padding-top: 14px; padding-bottom: 14px; background: var(--bg-deep); }
+  .heatmap-filter + .heatmap-filter-secondary { border-top: 1px solid var(--rule); }
+  .heatmap-filter-secondary + .heatmap { margin-top: 20px; }
+  .heatmap-filter-label { margin-right: 12px; color: var(--ink); font-weight: 600; letter-spacing: 0.1em; }
+  .filter-tag-btn { text-transform: capitalize; }
+  .filter-btn { font-family: var(--sans); font-size: 13px; font-weight: 500; padding: 9px 16px; background: var(--bg); border: 1px solid var(--rule); color: var(--ink-soft); cursor: pointer; transition: all 140ms ease; display: inline-flex; align-items: center; gap: 10px; letter-spacing: 0.01em; }
+  .filter-btn:hover { border-color: var(--drift); color: var(--drift); background: var(--bg); }
+  .filter-btn:hover .filter-count { color: var(--drift); }
+  .filter-btn.is-active { background: var(--drift); border-color: var(--drift); color: var(--bg); box-shadow: 0 2px 8px rgba(184, 74, 47, 0.2); }
+  .filter-btn.is-active .filter-count { color: var(--bg); opacity: 0.85; background: rgba(247, 244, 238, 0.18); padding: 2px 6px; }
+  .filter-count { font-size: 11px; color: var(--ink-mute); font-weight: 600; padding: 2px 6px; background: var(--bg-alt); transition: background 140ms ease; }
+  .filter-btn:hover .filter-count { background: var(--bg-alt); }
+
+  .heatmap-row.has-deepdive { cursor: pointer; position: relative; }
+  .heatmap-row.has-deepdive::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: transparent; transition: background 140ms ease; }
+  .heatmap-row.has-deepdive:hover { background: var(--drift-soft); }
+  .heatmap-row.has-deepdive:hover::before { background: var(--drift); }
+  .heatmap-row.has-deepdive:hover .heatmap-score { color: var(--drift); }
+  .deepdive-link { font-family: var(--sans); font-weight: 600; font-size: 11px; color: var(--bg); background: var(--drift); text-transform: uppercase; letter-spacing: 0.08em; text-decoration: none; padding: 5px 10px; border: 1px solid var(--drift); border-radius: 0; white-space: nowrap; }
+  .deepdive-link:hover { background: var(--ink); border-color: var(--ink); color: var(--bg); text-decoration: none; }
+
+  /* Filter visibility rules */
+  body.filter-drifting .heatmap-row:not(.is-drifting) { display: none; }
+  body.filter-own-only .heatmap-row:not(.has-competitors) { display: none; }
+  body.filter-full-silence .heatmap-row:not(.is-full-silence) { display: none; }
+  body.filter-has-deepdive .heatmap-row:not(.has-deepdive) { display: none; }
+  .heatmap { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); }
+  .heatmap-head { display: grid; grid-template-columns: 80px repeat(3, 150px) 1fr; border-bottom: 1px solid var(--rule-strong); background: var(--bg-alt); }
+  .heatmap-head-cell { padding: 14px 16px; font-family: var(--sans); font-size: 11px; font-weight: 600; color: var(--ink-soft); letter-spacing: 0.12em; text-transform: uppercase; }
+  .heatmap-score-col { text-align: right; padding-right: 20px; }
+  .heatmap-prompt-col { padding-left: 20px; }
+  .heatmap-row { display: grid; grid-template-columns: 80px repeat(3, 150px) 1fr; border-bottom: 1px solid var(--rule); transition: background 120ms ease; }
+  .heatmap-row:last-child { border-bottom: none; }
+  .heatmap-row:hover { background: var(--bg-alt); }
+  .heatmap-row.has-competitors .heatmap-score { color: var(--drift); }
+  .heatmap-cell { padding: 18px 16px; display: flex; align-items: center; }
+  .heatmap-score { font-family: var(--mono); font-weight: 700; font-size: 16px; color: var(--ink); justify-content: flex-end; padding-right: 20px; }
+  .heatmap-bar-cell { flex-direction: column; align-items: stretch; justify-content: center; gap: 6px; padding: 18px 14px; }
+  .heatmap-bar-track { height: 8px; background: var(--bg-alt); border: 1px solid var(--rule); position: relative; }
+  .heatmap-bar-fill { position: absolute; top: 0; left: 0; bottom: 0; background: var(--drift); opacity: 0.85; }
+  .has-competitors .heatmap-bar-fill { background: var(--drift); }
+  .heatmap-row.is-full-silence .heatmap-bar-fill { background: var(--ink-mute); }
+  .heatmap-bar-val { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: 0.02em; }
+  .heatmap-prompt { flex-direction: column; align-items: flex-start; gap: 6px; padding: 18px 20px; }
+  .prompt-text { font-family: var(--serif); font-size: 17px; line-height: 1.35; color: var(--ink); }
+  .prompt-meta { font-family: var(--sans); font-size: 12px; color: var(--ink-mute); letter-spacing: 0.02em; }
+  .prompt-meta em { color: var(--ink-soft); }
+
+  .deepdive-section { padding-top: 96px; padding-bottom: 96px; }
+  .deepdive { padding: 56px 0; border-top: 1px solid var(--rule); }
+  .deepdive:first-of-type { border-top: 1px solid var(--ink); }
+  .deepdive:last-of-type { border-bottom: 1px solid var(--ink); }
+  .deepdive-header { display: grid; grid-template-columns: 300px 1fr; gap: 40px; margin-bottom: 40px; align-items: start; }
+  @media (max-width: 900px) { .deepdive-header { grid-template-columns: 1fr; gap: 16px; } }
+  .deepdive-score-block { padding-top: 4px; }
+  .deepdive-score-block .typo-number { font-size: clamp(72px, 8.4vw, 108px); line-height: 0.92; }
+  .deepdive-prompt { font-style: italic; font-size: clamp(24px, 3vw, 32px); line-height: 1.3; font-weight: 500; }
+  /* Wilson-CI band per deep-dive engine */
+  .deepdive-ci { display: flex; flex-direction: column; gap: 4px; margin-top: -4px; }
+  .deepdive-ci-track { position: relative; height: 10px; background: linear-gradient(to right, var(--rule) 0 100%); border-radius: 2px; }
+  .deepdive-ci-band { position: absolute; top: 2px; bottom: 2px; background: var(--drift-soft); border-left: 1px solid var(--drift); border-right: 1px solid var(--drift); }
+  .deepdive-ci-point { position: absolute; top: -2px; bottom: -2px; width: 2px; background: var(--drift); transform: translateX(-1px); }
+  .deepdive-col.is-hero .deepdive-ci-band { background: rgba(62, 92, 46, 0.18); border-color: var(--own); }
+  .deepdive-col.is-hero .deepdive-ci-point { background: var(--own); }
+  .deepdive-ci-label { font-size: 10px; color: var(--ink-mute); letter-spacing: 0.04em; }
+
+  .deepdive-columns { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
+  @media (max-width: 900px) { .deepdive-columns { grid-template-columns: 1fr; gap: 24px; } }
+  .deepdive-col { padding-top: 20px; border-top: 2px solid var(--ink); display: flex; flex-direction: column; gap: 16px; min-height: 280px; }
+  .deepdive-col.is-hero { border-top-color: var(--own); }
+  .deepdive-col.is-silent { border-top-color: var(--rule-strong); }
+  .deepdive-col.is-nodata { border-top-color: var(--rule); }
+  .deepdive-col-head { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 12px; border-bottom: 1px solid var(--rule); }
+  .deepdive-engine { font-family: var(--serif); font-weight: 700; font-size: 16px; color: var(--ink); letter-spacing: 0.02em; }
+  .deepdive-col.is-hero .deepdive-engine { color: var(--own); }
+  .deepdive-vis { font-size: 15px; font-weight: 500; color: var(--ink-soft); }
+  .deepdive-col.is-hero .deepdive-vis { color: var(--own); font-weight: 700; }
+  .deepdive-brands { }
+  .deepdive-brand-list { margin-top: 8px; display: flex; flex-direction: column; gap: 3px; font-family: var(--serif); font-size: 15px; }
+  .brand-name.is-own { color: var(--own); font-weight: 700; }
+  .brand-name.is-competitor { color: var(--competitor); font-weight: 500; }
+  .deepdive-quote { margin: 12px 0 0; padding: 0; padding-left: 14px; border-left: 2px solid var(--rule-strong); font-family: var(--serif); font-style: italic; font-size: 14px; line-height: 1.5; color: var(--ink-soft); white-space: pre-wrap; }
+  .deepdive-col.is-hero .deepdive-quote { border-left-color: var(--own); }
+
+  /* Narrative Matrix (Metrik 3 – Claim-Type Distribution) */
+  .narrative-matrix { margin: 8px 0 40px; padding: 28px 0 32px; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+  .narrative-matrix-head { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; flex-wrap: wrap; margin-bottom: 20px; }
+  .narrative-matrix-legend { display: flex; gap: 14px; flex-wrap: wrap; }
+  .narrative-matrix-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
+  @media (max-width: 900px) { .narrative-matrix-grid { grid-template-columns: 1fr; gap: 20px; } }
+  .narrative-matrix-col { display: flex; flex-direction: column; gap: 10px; }
+  .narrative-matrix-engine { font-family: var(--serif); font-weight: 600; font-size: 14px; color: var(--ink-soft); letter-spacing: 0.02em; }
+  .narrative-matrix-bar { display: flex; height: 14px; background: var(--bg-alt); border: 1px solid var(--rule); overflow: hidden; }
+  .narrative-matrix-bar .mono { padding: 0 10px; align-self: center; font-size: 11px; }
+  .narrative-matrix-seg { display: block; height: 100%; min-width: 2px; }
+  .narrative-matrix-counts { display: flex; flex-wrap: wrap; gap: 12px 16px; font-size: 12px; color: var(--ink-mute); }
+  .narrative-matrix-count { letter-spacing: 0.02em; }
+  .narrative-matrix-count .text-type-brand { color: var(--drift); font-weight: 600; }
+  .narrative-matrix-count .text-type-substance { color: var(--own); font-weight: 600; }
+  .narrative-matrix-count .text-type-function { color: var(--ink); font-weight: 600; }
+  .narrative-matrix-count .text-type-condition { color: var(--competitor); font-weight: 600; }
+  .narrative-matrix-count .text-type-criterion { color: var(--warn); font-weight: 600; }
+
+  /* Claim chips (legend + matrix segments) */
+  .claim-chip { display: inline-flex; align-items: center; gap: 6px; font-family: var(--sans); font-size: 11px; font-weight: 500; color: var(--ink-soft); letter-spacing: 0.04em; text-transform: uppercase; }
+  .claim-chip .claim-chip-dot { width: 9px; height: 9px; display: inline-block; border-radius: 50%; }
+  .claim-chip-brand .claim-chip-dot, .narrative-matrix-seg.claim-chip-brand { background: var(--drift); }
+  .claim-chip-substance .claim-chip-dot, .narrative-matrix-seg.claim-chip-substance { background: var(--own); }
+  .claim-chip-function .claim-chip-dot, .narrative-matrix-seg.claim-chip-function { background: var(--ink); }
+  .claim-chip-condition .claim-chip-dot, .narrative-matrix-seg.claim-chip-condition { background: var(--competitor); }
+  .claim-chip-criterion .claim-chip-dot, .narrative-matrix-seg.claim-chip-criterion { background: var(--warn); }
+
+  /* Per-column claim list */
+  .deepdive-claims { margin-top: 4px; }
+  .claim-list { list-style: none; margin: 8px 0 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+  .claim { display: grid; grid-template-columns: 72px 1fr; gap: 10px; font-size: 13.5px; line-height: 1.4; padding-top: 6px; border-top: 1px dashed var(--rule); }
+  .claim:first-child { border-top: none; padding-top: 0; }
+  .claim-label { font-family: var(--sans); font-size: 10px; font-weight: 600; color: var(--ink-mute); letter-spacing: 0.1em; text-transform: uppercase; padding-top: 3px; }
+  .claim-text { font-family: var(--serif); color: var(--ink); font-size: 14.5px; }
+  .claim-type-substance .claim-label { color: var(--own); }
+  .claim-type-substance .claim-text { color: var(--own); font-weight: 600; }
+  .claim-type-function .claim-label { color: var(--ink-soft); }
+  .claim-type-condition .claim-label { color: var(--competitor); }
+  .claim-type-condition .claim-text { font-style: italic; color: var(--ink-soft); }
+  .claim-type-criterion .claim-label { color: var(--warn); }
+  .claim-type-criterion .claim-text { font-style: italic; color: var(--ink-soft); }
+  .claim-type-brand .claim-label { color: var(--drift); }
+  .claim-type-brand.claim-brand-own .claim-text { color: var(--own); font-weight: 700; }
+  .claim-type-brand.claim-brand-competitor .claim-text { color: var(--competitor); font-weight: 500; }
+  .claim-type-brand.claim-brand-unknown .claim-text { color: var(--drift); font-style: italic; }
+  .claim-type-brand.claim-brand-unknown .claim-text::after { content: ' · untracked'; font-family: var(--sans); font-size: 10px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--drift); opacity: 0.7; }
+  /* Brand hit within non-brand claim (e.g. substance claim mentioning Pferdegold) */
+  .claim.claim-brandhit-own .claim-text { color: var(--own); font-weight: 600; }
+  .claim.claim-brandhit-competitor .claim-text { color: var(--competitor); font-weight: 500; }
+
+  .competitors-section { padding: 96px 0; background: var(--bg-alt); }
+  .competitor-table { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); }
+  .competitor-head { display: grid; grid-template-columns: 1.5fr 80px 180px 1fr; padding: 14px 0; border-bottom: 1px solid var(--rule-strong); font-family: var(--sans); font-size: 11px; font-weight: 600; color: var(--ink-soft); letter-spacing: 0.12em; text-transform: uppercase; }
+  .competitor-row { display: grid; grid-template-columns: 1.5fr 80px 180px 1fr; align-items: center; padding: 20px 0; border-bottom: 1px solid var(--rule); }
+  .competitor-row:last-child { border-bottom: none; }
+  .competitor-row.own-row { background: var(--own-soft); margin: 0 -16px; padding: 20px 16px; border-bottom: 1px solid var(--rule); }
+  .competitor-name { font-size: 22px; font-weight: 600; color: var(--ink); }
+  .competitor-row.own-row .competitor-name { color: var(--own); }
+  .competitor-bar { display: flex; align-items: center; }
+  .competitor-bar-track { flex: 1; height: 6px; background: var(--bg-deep); border: 1px solid var(--rule); }
+  .competitor-bar-fill { height: 100%; background: var(--competitor); opacity: 0.9; }
+  .competitor-bar-fill.own-fill { background: var(--own); }
+  @media (max-width: 900px) {
+    .competitor-head, .competitor-row { grid-template-columns: 1fr 1fr; gap: 8px; }
+    .competitor-head > *:nth-child(3), .competitor-row > *:nth-child(3) { display: none; }
+  }
+
+  .ownonly-section { padding: 96px 0; }
+  .stanza-list { display: flex; flex-direction: column; }
+  .stanza { padding: 32px 0; border-top: 1px solid var(--rule); }
+  .stanza:first-child { border-top: 1px solid var(--ink); }
+  .stanza:last-child { border-bottom: 1px solid var(--ink); }
+  .stanza-prompt { font-family: var(--serif); font-style: italic; font-size: 22px; line-height: 1.35; font-weight: 500; color: var(--ink); }
+  .stanza-meta { font-size: 13px; color: var(--ink-mute); margin-top: 6px; font-family: var(--sans); letter-spacing: 0.02em; }
+  .stanza-cited { margin-top: 14px; font-size: 15px; font-family: var(--sans); }
+
+  .full-silence-section { padding: 96px 0; background: var(--bg-alt); }
+  .plain-list { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); }
+  .plain-list li { padding: 16px 0; border-bottom: 1px solid var(--rule); }
+  .plain-list li:last-child { border-bottom: none; }
+
+  .methodology { padding: 96px 0; }
+  .methodology-body { display: grid; grid-template-columns: 1fr 1fr; gap: 48px 64px; }
+  @media (max-width: 900px) { .methodology-body { grid-template-columns: 1fr; gap: 32px; } }
+  .method-block { padding: 24px 0; border-top: 1px solid var(--rule); }
+  .method-block:nth-child(-n+2) { border-top: 1px solid var(--ink); }
+  .method-block p { color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
+
+  /* Peec-native actions grid */
+  .peec-actions-section { padding: 96px 0; }
+  .peec-actions-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin-top: 40px; }
+  @media (max-width: 900px) { .peec-actions-grid { grid-template-columns: 1fr; gap: 20px; } }
+  .peec-action-card { padding: 28px 30px; border-left: 3px solid var(--own); background: var(--bg-alt); display: flex; flex-direction: column; }
+  .peec-action-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 20px; font-family: var(--sans); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-mute); }
+  .peec-action-scope { font-weight: 600; color: var(--own); }
+  .peec-action-score { font-size: 11px; letter-spacing: 0.02em; text-transform: none; color: var(--ink-soft); font-family: var(--mono); }
+  .peec-action-text { font-family: var(--serif); font-size: 17px; line-height: 1.5; color: var(--ink); margin-top: 16px; flex: 1; }
+  .peec-action-link { display: inline-block; margin-top: 18px; font-size: 12px; color: var(--ink-soft); text-decoration: none; border-bottom: 1px dashed var(--rule-strong); padding-bottom: 2px; word-break: break-word; }
+  .peec-action-link:hover { color: var(--drift); border-bottom-color: var(--drift); }
+
+  /* Limitations grid */
+  .limit-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin-top: 40px; }
+  @media (max-width: 900px) { .limit-grid { grid-template-columns: 1fr; gap: 20px; } }
+  .limit-card { padding: 32px 30px 28px; background: var(--bg-alt); border-left: 3px solid var(--warn); }
+  .limit-kicker { font-family: var(--sans); font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--warn); }
+  .limit-title { font-family: var(--serif); font-size: 22px; font-weight: 600; line-height: 1.3; margin: 8px 0 14px; color: var(--ink); }
+  .limit-body { color: var(--ink-soft); font-size: 15px; line-height: 1.6; }
+  .limit-body code { background: var(--bg); padding: 2px 6px; border-radius: 2px; color: var(--ink); font-size: 0.9em; }
+
+  /* Divergence-score helpers */
+  .heatmap-score { cursor: help; }
+  .deepdive-score-block { cursor: help; }
+  .drift-score-legend { font-family: var(--mono); font-size: 11px; color: var(--ink-mute); letter-spacing: 0.02em; margin-top: 6px; }
+  .method-block code { background: var(--bg-alt); padding: 2px 5px; border: 1px solid var(--rule); font-size: 0.88em; white-space: nowrap; }
+  .formula { font-family: var(--mono); font-size: 13px; padding: 12px 14px; background: var(--bg-alt); border-left: 2px solid var(--drift); color: var(--ink); white-space: pre-wrap; margin: 12px 0 0; overflow-x: auto; }
+
+  /* Tab-scoped export strip – sits inside each tab section */
+  .tab-export-strip { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; padding: 12px 0 0; margin-top: 24px; border-top: 1px dashed var(--rule-strong); font-family: var(--sans); font-size: 13px; }
+  .tab-export-strip .eyebrow { margin-right: 6px; letter-spacing: 0.1em; color: var(--ink); }
+  .tab-export-link { display: inline-flex; align-items: center; gap: 8px; padding: 6px 12px; background: var(--bg); border: 1px solid var(--rule); color: var(--ink-soft); text-decoration: none; transition: all 140ms ease; font-size: 12px; font-weight: 500; }
+  .tab-export-link:hover { border-color: var(--drift); color: var(--drift); background: var(--bg-alt); text-decoration: none; }
+  .tab-export-link .mono { font-size: 11px; font-weight: 700; color: var(--drift); padding: 2px 6px; background: var(--bg-alt); }
+  .tab-export-link:hover .mono { background: var(--drift); color: var(--bg); }
+
+  .stanza-brief-link { font-family: var(--sans); font-size: 11px; font-weight: 600; color: var(--drift); text-decoration: none; letter-spacing: 0.05em; }
+  .stanza-brief-link:hover { color: var(--ink); text-decoration: underline; }
+
+  /* Brief group accordion (Export Kit tab) */
+  .brief-group { margin-bottom: 12px; border: 1px solid var(--rule); background: var(--bg-alt); }
+  .brief-group summary { list-style: none; cursor: pointer; padding: 16px 22px; display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; }
+  .brief-group summary::-webkit-details-marker { display: none; }
+  .brief-group summary::before { content: '›'; font-family: var(--mono); font-weight: 700; font-size: 18px; color: var(--drift); transition: transform 120ms ease; }
+  .brief-group[open] summary::before { transform: rotate(90deg); }
+  .brief-group-kind { font-family: var(--sans); font-size: 10px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--drift); padding: 3px 10px; background: rgba(184, 74, 47, 0.08); }
+  .brief-group-title { font-family: var(--serif); font-weight: 700; font-size: 18px; color: var(--ink); flex: 1; }
+  .brief-group-count { font-size: 12px; color: var(--ink-mute); }
+  .brief-group[open] summary { border-bottom: 1px solid var(--rule); }
+  .brief-group .export-brief-list { margin: 0; padding: 0 22px 16px; }
+  .brief-group .export-brief-list li a { font-family: var(--serif); font-size: 14px; }
+
+  /* Export kit */
+  .exports-section { padding: 96px 0; background: var(--bg); }
+  .export-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  @media (max-width: 900px) { .export-grid { grid-template-columns: 1fr; gap: 16px; } }
+  .export-card { display: flex; flex-direction: column; gap: 10px; padding: 24px 26px; background: var(--bg-alt); border: 1px solid var(--rule); border-left: 3px solid var(--drift); text-decoration: none; color: var(--ink); transition: border-color 120ms ease, background 120ms ease; min-height: 180px; }
+  .export-card:hover { background: var(--bg-deep); border-left-color: var(--ink); text-decoration: none; }
+  .export-card-kind { font-family: var(--sans); font-size: 10px; font-weight: 600; color: var(--drift); letter-spacing: 0.14em; text-transform: uppercase; }
+  .export-card-title { font-family: var(--serif); font-weight: 700; font-size: 22px; color: var(--ink); line-height: 1.2; }
+  .export-card-dek { font-family: var(--sans); font-size: 14px; line-height: 1.5; color: var(--ink-soft); flex: 1; }
+  .export-card-footer { display: flex; justify-content: space-between; align-items: center; padding-top: 10px; border-top: 1px solid var(--rule); font-family: var(--sans); font-size: 12px; color: var(--ink-mute); }
+  .export-card-arrow { font-family: var(--mono); font-size: 16px; font-weight: 700; color: var(--drift); }
+  .export-card-group { grid-column: span 1; min-height: auto; cursor: default; }
+  @media (max-width: 900px) { .export-card-group { grid-column: 1 / -1; } }
+  .export-card-group:hover { background: var(--bg-alt); border-left-color: var(--drift); }
+  .export-brief-list { list-style: none; padding: 0; margin: 16px 0 0; display: flex; flex-direction: column; border-top: 1px solid var(--rule); }
+  .export-brief-list li { display: flex; align-items: stretch; border-bottom: 1px solid var(--rule); transition: background 120ms ease; }
+  .export-brief-list li:last-child { border-bottom: none; }
+  .export-brief-list li:hover { background: var(--bg-deep); }
+  .export-brief-list li a.brief-list-main { flex: 1; display: flex; align-items: baseline; gap: 24px; padding: 14px 16px 14px 4px; font-family: var(--serif); font-size: 14px; line-height: 1.45; color: var(--ink); text-decoration: none; min-width: 0; }
+  .export-brief-list li a.brief-list-main:hover { color: var(--drift); text-decoration: none; }
+  .export-brief-list li a.brief-list-main .brief-badge { color: var(--drift); font-weight: 700; min-width: 54px; flex-shrink: 0; font-size: 13px; letter-spacing: 0.02em; }
+  .export-brief-list li a.brief-list-main .brief-text { flex: 1; min-width: 0; }
+  .export-brief-list li a.brief-list-main .brief-arrow { margin-left: auto; font-weight: 700; color: var(--ink-mute); font-size: 12px; letter-spacing: 0.08em; flex-shrink: 0; transition: color 120ms ease; }
+  .export-brief-list li a.brief-list-main:hover .brief-arrow { color: var(--drift); }
+  .export-brief-list li a.brief-list-md-btn { display: flex; align-items: center; padding: 0 16px; font-size: 11px; font-weight: 700; letter-spacing: 0.08em; color: var(--ink-mute); text-decoration: none; border-left: 1px solid var(--rule); transition: color 120ms ease, background 120ms ease; flex-shrink: 0; }
+  .export-brief-list li a.brief-list-md-btn:hover { color: var(--drift); background: var(--bg-alt); text-decoration: none; }
+
+  /* Deep-dive meta strip (topic, volume, tags) */
+  .deepdive-meta { display: flex; flex-wrap: wrap; gap: 28px; margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--rule); }
+  .deepdive-meta-item { display: flex; flex-direction: column; gap: 2px; font-family: var(--sans); font-size: 13px; color: var(--ink); }
+  .deepdive-meta-item .eyebrow { font-size: 10px; letter-spacing: 0.12em; color: var(--ink-mute); }
+
+  /* Search-intent block per deep-dive */
+  .search-intent-block { margin-top: 32px; padding: 24px 28px; background: var(--bg-alt); border-left: 3px solid var(--own); }
+  .search-intent-head { display: flex; flex-direction: column; gap: 6px; margin-bottom: 16px; }
+  .search-intent-note { font-family: var(--sans); font-size: 13px; color: var(--ink-mute); line-height: 1.5; }
+  .search-intent-group { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--rule); }
+  .search-intent-group:first-of-type { border-top: none; padding-top: 0; margin-top: 0; }
+  .search-intent-label { font-family: var(--sans); font-size: 11px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--own); margin-bottom: 10px; }
+  .search-intent-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 6px; }
+  .search-intent-list li { font-size: 12px; color: var(--ink-soft); padding: 4px 0; border-bottom: 1px solid var(--rule); line-height: 1.45; }
+  .search-intent-list li:last-child { border-bottom: none; }
+  .search-intent-products { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 12px; }
+  .search-intent-products li { display: flex; flex-direction: column; gap: 4px; padding: 8px 0; border-bottom: 1px solid var(--rule); }
+  .search-intent-products li:last-child { border-bottom: none; }
+  .search-intent-q { font-size: 11px; color: var(--own); }
+  .search-intent-prod { font-family: var(--serif); font-size: 14px; color: var(--ink); line-height: 1.5; }
+
+  /* Gap URL excerpt */
+  .gap-url-excerpt { margin-top: 12px; padding: 12px 16px; background: var(--bg); border-left: 2px solid var(--competitor); }
+  .gap-url-excerpt-label { font-family: var(--sans); font-size: 10px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--competitor); margin-bottom: 6px; }
+  .gap-url-excerpt-body { font-family: var(--serif); font-size: 14px; line-height: 1.55; color: var(--ink-soft); font-style: italic; margin: 0; }
+  .gap-url-excerpt-angle { font-family: var(--sans); font-size: 13px; line-height: 1.55; color: var(--ink); margin: 8px 0 0; }
+  .gap-url-excerpt-angle strong { color: var(--drift); }
+
+  /* Gap URLs block per deep-dive */
+  .gap-urls-block { margin-top: 32px; padding: 24px 28px; background: var(--bg-alt); border-left: 3px solid var(--competitor); }
+  .gap-urls-head { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; margin-bottom: 8px; }
+  .gap-urls-count { font-size: 12px; color: var(--ink-mute); }
+  .gap-urls-caption { margin-bottom: 16px; max-width: 720px; }
+  .gap-urls-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 14px; }
+  .gap-url-item { padding: 14px 0; border-top: 1px solid var(--rule); }
+  .gap-url-item:first-child { border-top: none; padding-top: 0; }
+  .gap-url-title { font-family: var(--serif); font-weight: 600; font-size: 16px; color: var(--ink); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 120ms ease; display: block; line-height: 1.4; }
+  .gap-url-title:hover { color: var(--drift); border-bottom-color: var(--drift); text-decoration: none; }
+  .gap-url-meta { font-size: 11px; color: var(--ink-mute); margin-top: 4px; }
+  .gap-url-class { text-transform: capitalize; color: var(--competitor); font-weight: 700; }
+  .gap-url-href { font-size: 11px; color: var(--ink-mute); margin-top: 4px; word-break: break-all; line-height: 1.5; }
+
+  /* Dataset-ship block on exports tab */
+  .dataset-ship { margin-top: 56px; padding: 40px; background: var(--bg-alt); border-left: 3px solid var(--drift); }
+  .dataset-ship-head { font-family: var(--serif); font-size: 26px; margin-top: 8px; font-weight: 600; }
+  .dataset-ship-caption { margin-top: 12px; max-width: 720px; }
+  .dataset-ship-grid { display: flex; flex-direction: column; gap: 0; margin-top: 32px; border-top: 1px solid var(--rule-strong); }
+  .dataset-ship-row { display: flex; align-items: center; gap: 32px; padding: 20px 0; border-bottom: 1px solid var(--rule); }
+  .dataset-ship-row-wide .dataset-ship-actions { flex: 1.4; }
+  @media (max-width: 860px) { .dataset-ship-row { flex-direction: column; align-items: flex-start; gap: 14px; } }
+  .dataset-ship-label { flex: 1; display: flex; flex-direction: column; gap: 4px; min-width: 200px; }
+  .dataset-ship-label strong { font-size: 18px; font-weight: 600; }
+  .dataset-ship-sub { font-family: var(--sans); font-size: 13px; line-height: 1.5; color: var(--ink-mute); }
+  .dataset-ship-actions { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .dataset-ship-slack { flex: 1; min-width: 280px; }
+  .slack-webhook-input { flex: 1; min-width: 220px; padding: 8px 12px; font-family: var(--mono); font-size: 12px; border: 1px solid var(--rule-strong); background: var(--bg); color: var(--ink); }
+  .slack-webhook-input:focus { outline: none; border-color: var(--drift); }
+  .share-btn-sheets:hover, .share-btn-sheets { border-left: 2px solid var(--own); }
+  .share-btn-sheets:hover { background: var(--bg-deep); }
+
+  /* Trend sparkline in dataset-ship */
+  .trend-sparkline { flex-direction: column !important; gap: 8px !important; flex: 1; min-width: 260px; }
+  .trend-row { display: flex; align-items: center; gap: 12px; }
+  .trend-engine { font-family: var(--sans); font-size: 11px; font-weight: 600; letter-spacing: 0.08em; color: var(--ink-soft); min-width: 80px; }
+  .trend-svg { flex: 1; max-width: 160px; overflow: visible; }
+  .trend-value { font-size: 11px; color: var(--drift); font-weight: 700; min-width: 42px; text-align: right; }
+
+  /* Share / soft-export row per Deep-Dive */
+  .share-row { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px 20px; margin: 24px 0 0; padding: 20px 0 4px; border-top: 1px solid var(--rule); }
+  .share-row-label { align-self: center; padding-top: 10px; }
+  .share-row-actions { display: flex; flex-wrap: wrap; gap: 10px; flex: 1; }
+  .share-btn { font-family: var(--sans); font-size: 12px; font-weight: 500; letter-spacing: 0.02em; padding: 9px 16px; background: var(--bg); border: 1px solid var(--rule); color: var(--ink); cursor: pointer; text-decoration: none; transition: background 120ms ease, border-color 120ms ease; line-height: 1.3; }
+  .share-btn:hover { background: var(--bg-alt); border-color: var(--ink-soft); text-decoration: none; }
+  .share-btn-markdown, .share-btn-slack { background: var(--bg-alt); }
+  .share-btn-claude:hover, .share-btn-chatgpt:hover { border-color: var(--drift); color: var(--drift); }
+  .share-btn-notion:hover, .share-btn-gdocs:hover { border-color: var(--ink); background: var(--bg-alt); }
+  .share-btn-pdf { border-left: 2px solid var(--drift); }
+  .share-btn-md { border-left: 2px solid var(--ink-mute); }
+  .share-btn.is-copied { background: var(--own); color: var(--bg); border-color: var(--own); }
+  .share-toast { position: fixed; bottom: 32px; left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 10px 20px; font-family: var(--sans); font-size: 13px; font-weight: 500; border-radius: 2px; opacity: 0; transition: opacity 160ms ease; pointer-events: none; z-index: 999; max-width: calc(100vw - 48px); text-align: center; }
+  .share-toast.is-visible { opacity: 1; }
+  .share-toast.is-paste-hint { padding: 14px 22px 14px 18px; border-left: 3px solid var(--drift); }
+  .share-toast .toast-title { font-size: 14px; font-weight: 600; letter-spacing: 0.01em; }
+  .share-toast .toast-sub { font-family: var(--mono); font-size: 12px; font-weight: 400; opacity: 0.82; margin-top: 4px; letter-spacing: 0.02em; }
+
+  /* Raw-Data-Panel per Deep-Dive */
+  .raw-data-panel { margin: 32px 0 8px; border-top: 1px solid var(--rule); }
+  .raw-data-panel summary { list-style: none; cursor: pointer; padding: 12px 0; display: flex; gap: 16px; align-items: baseline; color: var(--ink-soft); }
+  .raw-data-panel summary::-webkit-details-marker { display: none; }
+  .raw-data-panel summary::before { content: '›'; font-family: var(--mono); font-size: 18px; font-weight: 700; color: var(--drift); transition: transform 120ms ease; display: inline-block; }
+  .raw-data-panel[open] summary::before { transform: rotate(90deg); }
+  .raw-data-summary-label { font-family: var(--serif); font-style: italic; font-size: 15px; color: var(--ink-soft); }
+  .raw-data-panel[open] summary { border-bottom: 1px solid var(--rule); margin-bottom: 12px; }
+  .raw-data-json { font-family: var(--mono); font-size: 11.5px; line-height: 1.5; color: var(--ink-soft); background: var(--bg-alt); padding: 18px 20px; border: 1px solid var(--rule); border-left: 3px solid var(--ink-mute); margin: 0 0 8px; max-height: 520px; overflow: auto; white-space: pre; }
+
+  .underhood { padding: 96px 0; background: var(--bg-alt); }
+  .underhood-steps { display: flex; flex-direction: column; gap: 48px; margin-top: 8px; }
+  .underhood-step { display: grid; grid-template-columns: 80px 1fr; gap: 24px; padding-top: 32px; border-top: 1px solid var(--rule); align-items: start; }
+  .underhood-step:first-child { border-top: 1px solid var(--ink); }
+  @media (max-width: 900px) { .underhood-step { grid-template-columns: 1fr; gap: 12px; } }
+  .underhood-step-num { font-family: var(--mono); font-size: 48px; font-weight: 700; color: var(--drift); letter-spacing: -0.03em; line-height: 1; padding-top: 2px; }
+  .underhood-step-head h3 { margin-top: 6px; margin-bottom: 0; font-size: 26px; }
+  .underhood-step-head { grid-column: 1 / -1; display: grid; grid-template-columns: 80px 1fr; gap: 24px; align-items: start; }
+  @media (max-width: 900px) { .underhood-step-head { grid-template-columns: 1fr; } }
+  .underhood-step-dek { grid-column: 2 / -1; font-size: 16px; line-height: 1.55; color: var(--ink-soft); margin-top: 12px; max-width: 780px; }
+  @media (max-width: 900px) { .underhood-step-dek { grid-column: 1 / -1; } }
+  .underhood-step-dek code { background: var(--bg); padding: 2px 5px; border: 1px solid var(--rule); font-size: 0.88em; white-space: nowrap; }
+  .underhood-code { grid-column: 2 / -1; font-family: var(--mono); font-size: 13px; line-height: 1.55; color: var(--ink); background: var(--bg); padding: 20px 22px; border: 1px solid var(--rule); border-left: 3px solid var(--drift); margin: 16px 0 0; overflow-x: auto; white-space: pre; }
+  @media (max-width: 900px) { .underhood-code { grid-column: 1 / -1; font-size: 12px; padding: 16px 18px; } }
+
+  .masthead { padding: 40px 0 60px; padding-bottom: calc(60px + 70px); /* room for sticky bar */ }
+
+  /* Sticky export bar — fixed bottom, always visible */
+  .sticky-export-bar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 90; background: var(--ink); color: var(--bg); border-top: 1px solid var(--ink); box-shadow: 0 -6px 24px rgba(26, 22, 20, 0.12); }
+  .sticky-export-inner { max-width: 1400px; margin: 0 auto; padding: 12px 32px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  .sticky-export-label { color: rgba(247, 244, 238, 0.6); letter-spacing: 0.12em; margin-right: 8px; }
+  .sticky-export-btn { display: inline-flex; align-items: baseline; gap: 8px; padding: 8px 14px; background: rgba(247, 244, 238, 0.06); border: 1px solid rgba(247, 244, 238, 0.15); color: var(--bg); text-decoration: none; font-family: var(--sans); font-size: 13px; font-weight: 500; transition: background 120ms ease, border-color 120ms ease; }
+  .sticky-export-btn:hover { background: var(--drift); border-color: var(--drift); text-decoration: none; }
+  .sticky-export-btn-label { font-weight: 600; }
+  .sticky-export-btn-hint { font-size: 11px; opacity: 0.7; letter-spacing: 0.02em; }
+  @media (max-width: 700px) { .sticky-export-inner { padding: 10px 16px; gap: 8px; } .sticky-export-label { display: none; } .sticky-export-btn-hint { display: none; } }
+
+  .masthead-inner { display: flex; justify-content: space-between; align-items: flex-end; padding-top: 20px; gap: 24px; }
+  @media (max-width: 900px) { .masthead-inner { flex-direction: column; align-items: flex-start; gap: 12px; } }
+</style>

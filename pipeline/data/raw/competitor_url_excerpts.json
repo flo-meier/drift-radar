@@ -1,0 +1,30 @@
+{
+  "fetched_at": "2026-04-23T20:00Z",
+  "note": "Scraped via Peec get_url_content. Excerpts are first meaningful paragraphs after readability cleanup, trimmed to ~600 chars.",
+  "excerpts": {
+    "https://pavo-futter.de/beratung/futterung-von-nervosen-dunnen-pferden": {
+      "title": "Nervöse und dünne Pferde mit dem richtigen Futter unterstützen",
+      "domain": "pavo-futter.de",
+      "url_classification": "HOW_TO_GUIDE",
+      "content_length": 13503,
+      "excerpt": "Häufig erreicht uns in der Pavo Fütterungsberatung die Frage nach der richtigen Fütterung von nervösen und dünnen Pferden. Wichtig ist hierbei herauszufinden, warum oder worauf dein Pferd besonders nervös und unkonzentriert reagiert. Auf den entsprechenden Auslöser gilt es dann einzugehen. Auch ein angepasstes Futter oder Ergänzungsfuttermittel kann dein Pferd dabei unterstützen, seine innere Ruhe auf natürliche Weise wiederherzustellen. Auch die Fütterung kann einen bedeutenden Einfluss auf die Ausgeglichenheit deines Pferdes haben. Sowohl ein Mangel als auch ein Überschuss an Nährstoffen kann das Verhalten von Pferden verändern.",
+      "angle": "Pavo frames nervous horses as a diagnostic problem first (trigger, posture, feed imbalance) and only then recommends its product. The article ranks because it answers the symptom question before recommending anything."
+    },
+    "https://marstall.de/gastro/20kg": {
+      "title": "Gastro – Getreidefreies Magen-Müsli für Pferde",
+      "domain": "marstall.de",
+      "url_classification": "PRODUCT_PAGE",
+      "content_length": 11480,
+      "excerpt": "marstall Gastro wurde nach aktuellen wissenschaftlichen Erkenntnissen für Pferde mit empfindlichem Magen oder Magenproblemen konzipiert. Darüber hinaus profitieren auch nervöse und dünne Pferde von der getreidefreien, Magensäure puffernden und gleichzeitig optimal verwertbaren Rezeptur. Das melassefreie Müsli ist sehr schmackhaft, da Pferde mit Magenproblemen oft mäkelig sind. Dank Allgäuer Heufasern und weichen Timothee-Häckseln besitzt Gastro einen hohen Strukturgehalt. Das regt die Kautätigkeit an und fördert so die Bildung von Speichel, der zusammen mit dem zugesetzten Bikarbonat die Magensäure puffert.",
+      "angle": "Marstall's product page wins because it leads with mechanism (bicarbonate buffers acid, Timothee structure triggers saliva) before the buy-button. Peec ranks this as the reference product page for gastric category – an explicit citation target."
+    },
+    "https://pferde-heilkunde.com/2025/08/06/zusatzfutter-gelenke-pferd-test": {
+      "title": "Zusatzfutter Gelenke Pferd: Test 2026 – Was hilft wirklich?",
+      "domain": "pferde-heilkunde.com",
+      "url_classification": "LISTICLE",
+      "content_length": 43525,
+      "excerpt": "Die Diagnose Arthrose trifft jeden Pferdebesitzer ins Mark. Plötzlich steht ein Wort im Raum, das nach Endgültigkeit klingt: Verschleiß, Schmerz, das Ende der gemeinsamen aktiven Zeit. Dieser Artikel ist Ihr wissenschaftlich fundierter und zugleich praxisnaher Kompass durch den Dschungel der Gelenk-Zusatzfutter. Wir entschlüsseln, was im Gelenk Ihres Pferdes wirklich passiert, bewerten die gängigsten Wirkstoffe auf Basis aktueller Studien und stellen Ihnen in einem klaren, vergleichbaren Test die sieben besten Produkte vor.",
+      "angle": "pferde-heilkunde.com is the editorial listicle engines cite for joint-supplement questions. The structure – anatomy, mechanism-of-action for each active ingredient, ranked test – is what LLMs extract as authoritative answer. To be cited here you need to be in the test panel; Peec flags this URL as a top-opportunity outreach target."
+    }
+  }
+}

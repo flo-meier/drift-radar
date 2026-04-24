@@ -1,0 +1,293 @@
+{
+  "date_collected": "2026-04-23",
+  "date_range_source": "2026-04-20 – 2026-04-22",
+  "note": "Hand-picked chats for top-divergence prompts to power Deep-Dive cards in the UI. Response text is the full assistant message at time of collection.",
+  "samples": [
+    {
+      "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
+      "prompt_text": "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.",
+      "divergence_score": 0.91,
+      "narrative": "AI Overview returns Pferdegold at #1 with the exact product name and an Amazon source. Gemini skips Pferdegold entirely and recommends Höveler, Marstall and St. Hippolyt. ChatGPT lists brands that are not tracked competitors – Foran, Farnam, AniForte – several of which are not even sold on the German market.",
+      "by_model": {
+        "google-ai-overview-scraper": {
+          "chat_id": "ch_d5ff4691-99cf-535b-be43-94e51d849565",
+          "model_name": "AI Overview",
+          "visibility": 1.0,
+          "brands_mentioned": [
+            {
+              "id": "kw_751e887f-b030-4e3f-8807-917be6b2dfd5",
+              "name": "Pferdegold",
+              "position": 1
+            },
+            {
+              "id": "kw_456df993-9dae-4abe-8a95-0d53f70ec63d",
+              "name": "Havens",
+              "position": 2
+            }
+          ],
+          "response_excerpt": "Für sensible Pferde mit Magenproblemen eignen sich hochwertige Pellets, die getreidefrei sind, wenig Stärke/Zucker enthalten und die Magensäure puffern. Hier ist eine Auswahl an empfehlenswerten Produkten:\n\n- Pferdegold® Magen-Pellets: Ein natürliches Ergänzungsfuttermittel, das speziell für sensible Pferdemägen entwickelt wurde, um die Schleimhaut zu unterstützen.\n- Equine74 Gastric Pellets\n- MASTERHORSE MAGEN-PERFEKT Pellets\n- Sapodoris Pektogast\n- naturanima MagenWohl Kräuterpellets\n- EST Gastro Pellet\n- Mühldorfer Mucovital Prebiotic\n- Havens Gastro +",
+          "top_sources": [
+            {
+              "url": "futterfee.de/products/est-gastro-pellet-20-kg",
+              "citation_count": 1,
+              "position": 1
+            },
+            {
+              "url": "amazon.de/.../Stomach-Kit-1-5-Irritation-Grain-Free",
+              "citation_count": 1,
+              "position": 2
+            },
+            {
+              "url": "facebook.com/MarstallPferdefutter/videos/...",
+              "citation_count": 1,
+              "position": 3
+            },
+            {
+              "url": "amazon.de/Pferdegold-Magen-Premium...",
+              "citation_count": 0,
+              "position": 7
+            }
+          ]
+        },
+        "gemini-scraper": {
+          "chat_id": "ch_b33ad490-77a1-5856-9294-7feed51b5afd",
+          "model_name": "Gemini",
+          "visibility": 0.0,
+          "brands_mentioned": [
+            {
+              "id": "kw_969dca29-24cf-42ca-9a7d-a23b11beae83",
+              "name": "Höveler",
+              "position": 1
+            },
+            {
+              "id": "kw_53e73c24-a748-4f3c-8270-9e137e88460f",
+              "name": "Marstall",
+              "position": 2
+            },
+            {
+              "id": "kw_e5810055-52d1-4f04-9abc-9b18cfd468fb",
+              "name": "St. Hippolyt",
+              "position": 3
+            }
+          ],
+          "response_excerpt": "Für Pferde mit einem sensiblen Magen ist die Fütterung eine Gratwanderung. [...] Spezielle Magenfutter (Basis-Kraftfutter): Höveler Pur.Gastro – getreidefreies Pellet [...]; Marstall Gastro – strukturreiches Müsli [...]; Agrobs AlpenGrün Pellet [...]; St. Hippolyt Brandon Gastro – speziell auf die Unterstützung der Magenschleimhaut ausgelegt.",
+          "top_sources": []
+        },
+        "chatgpt-scraper": {
+          "chat_id": "ch_4caa746e-984f-544a-b13b-215aad5bb2e9",
+          "model_name": "ChatGPT",
+          "visibility": 0.0,
+          "brands_mentioned": [],
+          "response_excerpt": "Natürlich! Für sensible Pferde ist es besonders wichtig, Magenpellets zu wählen, die magenfreundlich sind. [...] 1. Foran GASTRO Protect; 2. Farnam UlcerGard Pellets; 3. AniForte MagenPellets Sensitive; 4. Kräuter MagenPellets von Kräuterhof.",
+          "top_sources": [],
+          "caveat": "Die von ChatGPT genannten Marken sind weder in der Peec-Tracking-Liste, noch teils im deutschen Markt relevant – das deutet auf Halluzinationen bzw. veraltete Trainingsdaten hin."
+        }
+      }
+    },
+    {
+      "prompt_id": "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6",
+      "prompt_text": "Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.",
+      "divergence_score": 0.91,
+      "narrative": "On Gemini, Pferdegold Gelenke is #1, described down to the product composition. ChatGPT names Pavo as the hero brand and fills the rest with untracked names. AI Overview did not run this prompt in the sample window – absence is part of the drift pattern here.",
+      "by_model": {
+        "gemini-scraper": {
+          "chat_id": "ch_c3adfc63-bf60-5694-8506-bdead08688ba",
+          "model_name": "Gemini",
+          "visibility": 1.0,
+          "brands_mentioned": [
+            {
+              "id": "kw_751e887f-b030-4e3f-8807-917be6b2dfd5",
+              "name": "Pferdegold",
+              "position": 1
+            }
+          ],
+          "response_excerpt": "Hochwertige Kombi-Präparate (ohne Aroma): Pferdegold Gelenke: Enthält MSM, Glucosamin und Kräuter. Es ist zwar ein Pellet, setzt aber primär auf natürliche Zutaten wie Leinsamen und Karotte für die Akzeptanz.",
+          "top_sources": []
+        },
+        "chatgpt-scraper": {
+          "chat_id": "ch_ac671efe-d9fc-5adf-8258-c142c9f81676",
+          "model_name": "ChatGPT",
+          "visibility": 0.0,
+          "brands_mentioned": [
+            {
+              "id": "kw_4db331b0-064b-4590-811a-f976f85495bc",
+              "name": "Pavo",
+              "position": 1
+            }
+          ],
+          "response_excerpt": "Einige Beispiele für Marken, die natürliche Gelenkunterstützung ohne künstliche Aromen anbieten, sind: Fohlenhof Pferdefutter, Equine Nutritional Solutions, Pavo.",
+          "top_sources": []
+        },
+        "google-ai-overview-scraper": {
+          "chat_id": null,
+          "model_name": "AI Overview",
+          "visibility": null,
+          "note": "Prompt did not run on AI Overview in the sampled date range – absence is itself a drift signal."
+        }
+      }
+    },
+    {
+      "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
+      "prompt_text": "Finde Nervenpellets für gestresste Pferde ohne Industriezucker.",
+      "divergence_score": 0.68,
+      "narrative": "Three engines, three very different answers – none of them with Pferdegold. ChatGPT names Pavo alongside untracked brands (SanaNerv, Cavalor). Gemini stays on untracked mid-market names (Agrobs Magnesium Pur, Masterhorse Silence, Krämer). AI Overview never ran this prompt in the 20 – 22 April window.",
+      "by_model": {
+        "chatgpt-scraper": {
+          "chat_id": "ch_1f4ff5a9-db03-5dc0-bd13-e768d3b20ce0",
+          "model_name": "ChatGPT",
+          "chat_date": "2026-04-22",
+          "visibility": 0.0,
+          "brands_mentioned": [
+            {
+              "id": "kw_4db331b0-064b-4590-811a-f976f85495bc",
+              "name": "Pavo",
+              "position": 1
+            }
+          ],
+          "response_excerpt": "Du suchst Nervenpellets für gestresste Pferde ohne Industriezucker. Worauf achten: Zuckeralternativen (ohne Melasse), Wirkstoffe Magnesium, Tryptophan, pflanzliche Extrakte (Baldrian, Passionsblume, Hopfen).\n\nBeispiele für zuckerarme Nervenpellets:\n- SanaNerv Nervenpellets (Magnesium, Baldrian, Hopfen, zuckerfrei)\n- Cavalor Calm Down (Magnesium, L-Tryptophan, Kräuter)\n- Pavo Calm & Relax (Magnesium, Kräuter, sehr geringer Zucker)\n- Kräuterpellets Nerv (Hopfen, Baldrian, Melisse)",
+          "top_sources": []
+        },
+        "gemini-scraper": {
+          "chat_id": "ch_53bb4f8d-6864-5bf0-9c5e-cd5701ab4563",
+          "model_name": "Gemini",
+          "chat_date": "2026-04-22",
+          "visibility": 0.0,
+          "brands_mentioned": [],
+          "response_excerpt": "Für gestresste Pferde gibt es mittlerweile eine gute Auswahl an Nervenpellets, die auf Melasse und Füllstoffe verzichten. Empfehlenswerte Optionen ohne Zuckerzusatz:\n\n1. Krämer Nerven-Pellets »Innere Ruhe« – Baldrian, Hopfen, Melisse, Kamille, Lavendel.\n2. Agrobs Magnesium Pur – Magnesium organisch/anorganisch plus Kräuter, getreide- und melassefrei.\n3. Masterhorse Silence Pellets – 40 % Baldrianwurzel, Hopfen, Melisse, Pfefferminze.\n4. Discountfutter Nerven Kit – Vitamin B12, Magnesium, L-Tryptophan.",
+          "top_sources": [],
+          "caveat": "None of the brands cited by Gemini on this day are in Peec's tracking list – the engine consistently answers with mid-market brands outside the Pferdegold peer set."
+        },
+        "google-ai-overview-scraper": {
+          "chat_id": null,
+          "model_name": "AI Overview",
+          "visibility": null,
+          "note": "Prompt did not run on AI Overview across the full 20 – 23 April sample window – absence is itself a drift signal."
+        }
+      }
+    },
+    {
+      "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
+      "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
+      "divergence_score": 0.68,
+      "narrative": "AI Overview is the only engine that makes this a brand question – Pferdegold at #1, Pavo at #2 in a product matrix by magnesium, tryptophan and B-vitamins. ChatGPT and Gemini answer in pure substance mode and recommend no product at all. The drift here is not competing brands – it is whether the answer is brand-aware in the first place.",
+      "by_model": {
+        "google-ai-overview-scraper": {
+          "chat_id": "ch_0da3bd39-45ad-5a26-89a6-4eec2a8ef25d",
+          "model_name": "AI Overview",
+          "chat_date": "2026-04-22",
+          "visibility": 1.0,
+          "brands_mentioned": [
+            {
+              "id": "kw_751e887f-b030-4e3f-8807-917be6b2dfd5",
+              "name": "Pferdegold",
+              "position": 1
+            },
+            {
+              "id": "kw_4db331b0-064b-4590-811a-f976f85495bc",
+              "name": "Pavo",
+              "position": 2
+            }
+          ],
+          "response_excerpt": "Natürliche Nerven-Pellets für Pferde setzen auf Mineralstoffe, Aminosäuren, Vitamine und Kräuter. Hauptinhaltsstoffe: Magnesium, L-Tryptophan, B-Vitamine, beruhigende Kräuter (Kamille, Melisse, Lavendel, Baldrian, Hopfen, Passionsblume).\n\nVergleich der Pellet-Typen:\n- Magnesium-basierte Pellets (Agrobs Magnesium Pur, Pferdegold): Magnesium-Citrat/Glycinat/Oxid, 20 %+, Omega-3.\n- Kräuter-basierte Pellets (NAF Magic, Hilton Herbs): Baldrian, Melisse, Hopfen, Kamille, Magnesium, Tryptophan.\n- Kombinations-Pellets (Pavo BeChill, Synovium Calmingard): Tryptophan, Magnesium, B-Vitamine, Passionsblume.",
+          "top_sources": [
+            {
+              "url": "natural-horse-care.com/pferd/gezielte-fuetterung/nervoeses-pferd/",
+              "citation_count": 1,
+              "position": 1
+            },
+            {
+              "url": "pavo-futter.de/beratung/futterung-von-nervosen-dunnen-pferden",
+              "citation_count": 1,
+              "position": 2
+            },
+            {
+              "url": "care4vet.de/DrWeyrauch-Sandmann",
+              "citation_count": 1,
+              "position": 3
+            },
+            {
+              "url": "amazon.de/Pferdegold-Nerven-5kg-Magnesium-Komplex...",
+              "citation_count": 0,
+              "position": 12
+            }
+          ]
+        },
+        "gemini-scraper": {
+          "chat_id": "ch_1ccd3775-ea76-54d6-8b7e-b4f66b134539",
+          "model_name": "Gemini",
+          "chat_date": "2026-04-22",
+          "visibility": 0.0,
+          "brands_mentioned": [],
+          "response_excerpt": "Natürliche Nervenpellets für Pferde basieren meist auf einer Kombination aus Mineralstoffen, Aminosäuren und Kräutern.\n\n1. Mineralstoffe & Vitamine: Magnesium (entspannt Muskulatur und Nervensystem), Vitamin B12 (Regeneration der Myelinschicht), Zink/Mangan (Enzymstoffwechsel).\n2. Aminosäure L-Tryptophan: Vorstufe von Serotonin, fördert innere Gelassenheit.\n3. Beruhigende Kräuter (Phytotherapie): Baldrian, Hopfen, Melisse, Passionsblume, Ashwagandha (Adaptogen).",
+          "top_sources": [],
+          "caveat": "Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown."
+        },
+        "chatgpt-scraper": {
+          "chat_id": "ch_e7856ab2-d94c-54b0-8c94-287dd9153b15",
+          "model_name": "ChatGPT",
+          "chat_date": "2026-04-22",
+          "visibility": 0.0,
+          "brands_mentioned": [],
+          "response_excerpt": "Nervenpellets für gestresste Pferde bestehen häufig aus einer Kombination natürlicher Inhaltsstoffe: Baldrian (beruhigend, nicht sedierend), Melisse, Kamille (entzündungshemmend, verdauungsfördernd), Passionsblume (Angst/Unruhe), Magnesium (entspannt Muskeln und Nerven), L-Tryptophan (Serotonin-Vorstufe, emotionales Gleichgewicht), Hopfen (Entspannung, Schlaf), Zink (Nervenregulation), Lavendel (innere Ruhe).",
+          "top_sources": [],
+          "caveat": "ChatGPT answers the question as stated – pure ingredient comparison – and never transitions to brand recommendations."
+        }
+      }
+    },
+    {
+      "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
+      "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
+      "divergence_score": 0.68,
+      "narrative": "Gemini leads with Pferdegold Gelenke and describes the composition directly (green-lipped mussel, omega-3, rosehip). ChatGPT hedges: a 5-column comparison table with untracked mid-market brands (navalis arthral, PharmaHorse, Equistro Artphyton). AI Overview is silent on this prompt in the sample window.",
+      "by_model": {
+        "gemini-scraper": {
+          "chat_id": "ch_f64e930f-6a1c-5f10-881b-b6019e5a84f2",
+          "model_name": "Gemini",
+          "chat_date": "2026-04-22",
+          "visibility": 1.0,
+          "brands_mentioned": [
+            {
+              "id": "kw_751e887f-b030-4e3f-8807-917be6b2dfd5",
+              "name": "Pferdegold",
+              "position": 1
+            }
+          ],
+          "response_excerpt": "Beliebte Gelenkpräparate (Pellets), die in Foren und auf Bewertungsplattformen positiv hervorgehoben werden:\n\n- Pferdegold Gelenke: wird oft für Akzeptanz und die Kombination aus Grünlippmuschel, Omega-3-Fettsäuren und Hagebutte gelobt. Preislich gehoben, gut erforscht.\n- Gelenk Premium (Krämer Pferdesport): klassischer Allrounder, kosteneffiziente Basis für ältere Pferde.\n- PharmaHorse Gelenk Pellets: ohne unnötige Füllstoffe, Zucker oder Aromen – gute Wahl bei Stoffwechselproblemen.\n- NAF Superflex: renommierte Marke im Sportpferdebereich.",
+          "top_sources": []
+        },
+        "chatgpt-scraper": {
+          "chat_id": "ch_9212424b-a2df-5814-97a8-4e57fcf7f963",
+          "model_name": "ChatGPT",
+          "chat_date": "2026-04-22",
+          "visibility": 0.0,
+          "brands_mentioned": [],
+          "response_excerpt": "Beim Suchen nach den am besten bewerteten Gelenkpellets kommt es weniger auf »die Nr. 1« an, sondern auf Inhaltsstoffe und Bewertungen. Produktauswahl:\n\n- Gelenk Kit Pellets (Glucosamin, Chondroitin, MSM) – Best-overall, Bewertung ~5.0.\n- navalis arthral Horse Pellets – hochdosiert, Turnierbereich.\n- PharmaHorse Gelenk Pellets – Preis-Leistungs-Tipp, MSM, Glucosamin, Hyaluron, Vitamin C.\n- GELENK PRO mit Teufelskralle – kräuterbasierte Alternative.\n- Equistro Artphyton – Klassiker für Senioren, viele Bewertungen.",
+          "top_sources": [
+            {
+              "url": "pharmahorse.de/gelenk-pellets.html",
+              "citation_count": 3,
+              "position": 1
+            },
+            {
+              "url": "equidrol.de/produkte/gelenke-kraeuter-fuer-pferde",
+              "citation_count": 2,
+              "position": 2
+            },
+            {
+              "url": "vetripharm.de/de/produkte/equipower/equipower-glucosaminpellets",
+              "citation_count": 0,
+              "position": 3
+            }
+          ],
+          "caveat": "All five product brands ChatGPT recommends are outside Peec's tracked competitor list – none of them are the peer set Pferdegold competes with in the SERP."
+        },
+        "google-ai-overview-scraper": {
+          "chat_id": null,
+          "model_name": "AI Overview",
+          "visibility": null,
+          "note": "Prompt did not run on AI Overview across the full 20 – 23 April sample window – absence is itself a drift signal."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+---
+// Key Visual: one prompt, three engines, one divergence number.
+// Uses the literal data from the max-drift case: "Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen."
+---
+<div class="kv-wrap">
+  <svg viewBox="0 0 1280 480" xmlns="http://www.w3.org/2000/svg" class="kv-svg" role="img" aria-label="One prompt, three AI engines, divergence score 0.91">
+    <!-- left: prompt -->
+    <g>
+      <text x="40" y="70" class="kv-eyebrow">One prompt</text>
+      <text x="40" y="130" class="kv-prompt">»Pferdefutter</text>
+      <text x="40" y="175" class="kv-prompt">zur Gelenk-</text>
+      <text x="40" y="220" class="kv-prompt">unterstützung</text>
+      <text x="40" y="265" class="kv-prompt">ohne künst-</text>
+      <text x="40" y="310" class="kv-prompt">liche Aromen</text>
+      <text x="40" y="355" class="kv-prompt">kaufen.«</text>
+    </g>
+
+    <!-- arrows: left-to-middle, three curves to three engine blocks -->
+    <g class="kv-arrows" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round">
+      <path d="M 350 180 C 420 180, 460 110, 540 110" />
+      <path d="M 350 210 C 420 210, 460 215, 540 215" />
+      <path d="M 350 240 C 420 240, 460 315, 540 315" />
+      <!-- arrowheads -->
+      <path d="M 540 110 L 530 105 M 540 110 L 530 115" />
+      <path d="M 540 215 L 530 210 M 540 215 L 530 220" />
+      <path d="M 540 315 L 530 310 M 540 315 L 530 320" />
+    </g>
+
+    <!-- middle: three engines as stanzas -->
+    <g class="kv-engine">
+      <line x1="540" y1="85" x2="820" y2="85" stroke="currentColor" stroke-width="1.5" />
+      <text x="540" y="110" class="kv-engine-label">ChatGPT</text>
+      <text x="540" y="135" class="kv-engine-body">Fohlenhof, Equine</text>
+      <text x="540" y="155" class="kv-engine-body">Nutritional, Pavo</text>
+      <text x="540" y="178" class="kv-engine-hint">→ no tracked brand at #1</text>
+    </g>
+
+    <g class="kv-engine kv-engine-hero">
+      <line x1="540" y1="190" x2="820" y2="190" stroke="var(--own)" stroke-width="2" />
+      <text x="540" y="215" class="kv-engine-label own">Gemini</text>
+      <text x="540" y="240" class="kv-engine-body">»Pferdegold Gelenke«</text>
+      <text x="540" y="263" class="kv-engine-hint own">→ own brand at #1</text>
+    </g>
+
+    <g class="kv-engine">
+      <line x1="540" y1="290" x2="820" y2="290" stroke="currentColor" stroke-width="1.5" />
+      <text x="540" y="315" class="kv-engine-label">AI Overview</text>
+      <text x="540" y="340" class="kv-engine-body">no answer returned</text>
+      <text x="540" y="363" class="kv-engine-hint">→ absence is a signal</text>
+    </g>
+
+    <!-- right: divergence score typo moment -->
+    <g>
+      <text x="900" y="70" class="kv-eyebrow">One number</text>
+      <text x="900" y="280" class="kv-score">0.91</text>
+      <text x="900" y="320" class="kv-score-label">divergence</text>
+    </g>
+
+    <!-- bottom editorial line -->
+    <text x="640" y="445" class="kv-tagline" text-anchor="middle">
+      same question.  three brands.  zero consistency.
+    </text>
+  </svg>
+</div>
+
+<style>
+  .kv-wrap { width: 100%; max-width: 1280px; margin: 0 auto; padding: 0 16px; color: var(--ink); }
+  .kv-svg { width: 100%; height: auto; display: block; }
+
+  .kv-eyebrow {
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    fill: var(--ink-mute);
+  }
+
+  .kv-prompt {
+    font-family: var(--serif);
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    fill: var(--ink);
+  }
+
+  .kv-arrows { color: var(--ink-mute); }
+
+  .kv-engine-label { font-family: var(--serif); font-size: 22px; font-weight: 700; fill: var(--ink); }
+  .kv-engine-label.own { fill: var(--own); }
+  .kv-engine-body { font-family: var(--serif); font-size: 18px; font-style: italic; fill: var(--ink-soft); }
+  .kv-engine-hint { font-family: var(--sans); font-size: 12px; fill: var(--ink-mute); letter-spacing: 0.02em; }
+  .kv-engine-hint.own { fill: var(--own); font-weight: 500; }
+
+  .kv-score {
+    font-family: var(--mono);
+    font-size: 160px;
+    font-weight: 700;
+    letter-spacing: -0.05em;
+    fill: var(--drift);
+    line-height: 1;
+  }
+  .kv-score-label {
+    font-family: var(--sans);
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    fill: var(--ink-mute);
+  }
+
+  .kv-tagline {
+    font-family: var(--serif);
+    font-size: 20px;
+    font-style: italic;
+    fill: var(--ink-soft);
+    letter-spacing: 0.02em;
+  }
+
+  @media (max-width: 720px) {
+    .kv-prompt { font-size: 28px; }
+    .kv-score { font-size: 100px; }
+  }
+</style>
