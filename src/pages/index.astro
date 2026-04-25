@@ -446,6 +446,14 @@ function engineName(id: string): string {
 const CLAIM_TYPES = ['brand', 'substance', 'function', 'condition', 'criterion'] as const;
 type ClaimType = typeof CLAIM_TYPES[number];
 
+const CLAIM_DEFS: Record<ClaimType, { gloss: string; example: string }> = {
+  brand: { gloss: 'a named product or company', example: '»Pferdegold Gelenke«, »St. Hippolyt«, »Marstall«' },
+  substance: { gloss: 'an active ingredient or feed component', example: '»MSM«, »Glucosamin«, »Teufelskralle«' },
+  function: { gloss: 'what the product does for the horse', example: '»supports joint function«, »anti-inflammatory«' },
+  condition: { gloss: 'the horse condition or use case being addressed', example: '»arthrosis«, »older sport horses«, »joint wear«' },
+  criterion: { gloss: 'a quality marker or buying criterion', example: '»grain-free«, »lab-tested«, »no artificial flavours«' },
+};
+
 const ownBrandLower = String(own_brand).toLowerCase();
 const competitorNamesLower = competitors.map((c: any) => String(c.name).toLowerCase());
 
@@ -1098,6 +1106,22 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         </div>
       </div>
 
+      <div class="legend-box legend-box-dd legend-box-claims">
+        <div class="legend-title">Claim types in the narrative matrix</div>
+        <p class="legend-intro">Below each deep dive, a stacked-bar matrix shows the mix of claim types Claude Haiku 4.5 extracted from every engine's response. Five categories, five colours.</p>
+        <div class="legend-grid legend-grid-claims">
+          {CLAIM_TYPES.map((t: ClaimType) => (
+            <div class="legend-item">
+              <span class={`legend-swatch legend-swatch-claim claim-chip-${t}`}><span class="claim-chip-dot"></span></span>
+              <div>
+                <strong>{t}</strong>
+                <span>{CLAIM_DEFS[t].gloss} – <em>{CLAIM_DEFS[t].example}</em>.</span>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
       {deepDives.map((p: any, ddIdx: number) => (
         <article class="deepdive" id={`deepdive-${p.prompt_id}`} data-dd-index={ddIdx}>
           <header class="deepdive-header">
@@ -1246,7 +1270,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
                 <div class="eyebrow">Narrative mix · claim-type distribution per engine</div>
                 <div class="narrative-matrix-legend">
                   {CLAIM_TYPES.map((t: ClaimType) => (
-                    <span class={`claim-chip claim-chip-${t}`}><span class="claim-chip-dot"></span>{t}</span>
+                    <span class={`claim-chip claim-chip-${t}`} title={`${t} — ${CLAIM_DEFS[t].gloss}. e.g. ${CLAIM_DEFS[t].example}`}><span class="claim-chip-dot"></span>{t}</span>
                   ))}
                 </div>
               </div>
@@ -1266,7 +1290,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
                               const n = counts?.[t] || 0;
                               if (n === 0) return null;
                               const width = (n / total * 100);
-                              return <span class={`narrative-matrix-seg claim-chip-${t}`} style={`flex-basis: ${width}%`} title={`${n} ${t} claim${n > 1 ? 's' : ''}`}></span>;
+                              return <span class={`narrative-matrix-seg claim-chip-${t}`} style={`flex-basis: ${width}%`} title={`${n} ${t} claim${n > 1 ? 's' : ''} — ${CLAIM_DEFS[t].gloss}`}></span>;
                             })}
                           </div>
                           <div class="narrative-matrix-counts">
@@ -3141,6 +3165,11 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .legend-title { font-family: var(--sans); font-size: 11px; font-weight: 600; color: var(--ink-mute); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 14px; }
   .legend-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px 28px; }
   .legend-grid-dd { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+  .legend-box-claims { margin-top: -16px; }
+  .legend-intro { font-family: var(--serif); font-style: italic; font-size: 14px; color: var(--ink-soft); margin: 0 0 14px; max-width: 640px; }
+  .legend-grid-claims { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+  .legend-swatch-claim { background: var(--bg); border: 1px solid var(--rule-strong); }
+  .legend-swatch-claim .claim-chip-dot { width: 11px; height: 11px; border-radius: 50%; }
   .legend-item { display: flex; gap: 12px; align-items: flex-start; font-size: 13px; line-height: 1.45; }
   .legend-item strong { display: block; color: var(--ink); font-size: 13px; font-weight: 600; margin-bottom: 2px; }
   .legend-item span { color: var(--ink-soft); font-size: 12.5px; }
