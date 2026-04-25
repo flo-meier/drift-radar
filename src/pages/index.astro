@@ -501,7 +501,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         </div>
         <div class="scan-strip-actions">
           <button type="button" id="scan-trigger-btn" class="scan-strip-trigger" data-trigger-url="https://drift-radar-trigger.florian-meier-meier.workers.dev/dispatch">Trigger run now</button>
-          <a class="scan-strip-link" href={scanWorkflowUrl} target="_blank" rel="noopener">View workflow history ↗</a>
+          <a class="scan-strip-link" href={scanWorkflowUrl} target="_blank" rel="noopener noreferrer">View workflow history ↗</a>
         </div>
       </div>
     </div>
@@ -829,7 +829,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
       </div>
 
       <p class="caption peec-family-footer">
-        A team running all four gets: on-demand <em>engine scorecard</em> for source strategy, on-demand <em>campaign tracker</em> at launch, weekly <em>briefing</em> for Monday standups – and <em>Drift Radar</em> weekly for content triage at the prompt level. The spec for <code class="mono">peec_drift_radar</code> lives in <a href="https://github.com/flo-meier/drift-radar/blob/main/slash_commands/peec_drift_radar.md" target="_blank" rel="noopener">slash_commands/peec_drift_radar.md</a> in the repo – ready to ship as a native Peec prompt.
+        A team running all four gets: on-demand <em>engine scorecard</em> for source strategy, on-demand <em>campaign tracker</em> at launch, weekly <em>briefing</em> for Monday standups – and <em>Drift Radar</em> weekly for content triage at the prompt level. The spec for <code class="mono">peec_drift_radar</code> lives in <a href="https://github.com/flo-meier/drift-radar/blob/main/slash_commands/peec_drift_radar.md" target="_blank" rel="noopener noreferrer">slash_commands/peec_drift_radar.md</a> in the repo – ready to ship as a native Peec prompt.
       </p>
     </div>
   </section>
@@ -907,7 +907,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
             </div>
             <p class="peec-action-text">{a.text}</p>
             {a.reference_url && (
-              <a class="peec-action-link mono" href={a.reference_url} target="_blank" rel="noopener">{a.reference_label} ↗</a>
+              <a class="peec-action-link mono" href={a.reference_url} target="_blank" rel="noopener noreferrer">{a.reference_label} ↗</a>
             )}
           </div>
         ))}
@@ -1219,7 +1219,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
               <ul class="gap-urls-list">
                 {p.gap_urls.slice(0, 5).map((u: any) => (
                   <li class="gap-url-item">
-                    <a class="gap-url-title" href={u.url} target="_blank" rel="noopener">{u.title || u.url}</a>
+                    <a class="gap-url-title" href={u.url} target="_blank" rel="noopener noreferrer">{u.title || u.url}</a>
                     <div class="gap-url-meta mono">
                       <span class="gap-url-class">{(u.url_classification || u.classification || 'OTHER').replace('_', ' ').toLowerCase()}</span>
                       <span> · cited {u.citation_count}× · retrieved {u.retrieval_count}×</span>
@@ -1309,14 +1309,14 @@ function sumCounts(counts: Record<string, number> | undefined): number {
                 class="share-btn share-btn-claude"
                 href={`https://claude.ai/new?q=${encodeURIComponent(buildClaudePromptText(p))}`}
                 target="_blank"
-                rel="noopener"
+                rel="noopener noreferrer"
               >Open in Claude</a>
 
               <a
                 class="share-btn share-btn-chatgpt"
                 href={`https://chatgpt.com/?q=${encodeURIComponent(buildClaudePromptText(p))}`}
                 target="_blank"
-                rel="noopener"
+                rel="noopener noreferrer"
               >Open in ChatGPT</a>
 
               <button
@@ -1339,7 +1339,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
                 class="share-btn share-btn-linear"
                 href={`https://linear.app/new?title=${encodeURIComponent(`Drift Radar · ${p.prompt_text}`)}&description=${encodeURIComponent(buildLinearDescription(p))}`}
                 target="_blank"
-                rel="noopener"
+                rel="noopener noreferrer"
               >Create Linear issue</a>
 
               <button
@@ -1839,7 +1839,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
             </div>
             <div class="dataset-ship-actions">
               <a class="share-btn share-btn-pdf" href="/downloads/drift_radar_wordpress.wxr" download>Download WXR ↓</a>
-              <a class="share-btn share-btn-md" href="https://wordpress.org/documentation/article/tools-import-screen/" target="_blank" rel="noopener">How to import ↗</a>
+              <a class="share-btn share-btn-md" href="https://wordpress.org/documentation/article/tools-import-screen/" target="_blank" rel="noopener noreferrer">How to import ↗</a>
             </div>
           </div>
 
@@ -2043,7 +2043,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           </table>
         </div>
         <p class="caption cross-howto">
-          Connect a property: add <code>GSC_SERVICE_ACCOUNT_JSON</code> and <code>GSC_PROPERTY_URL</code> to the repo secrets. The connector stub lives at <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/gsc.py" target="_blank" rel="noopener">pipeline/connectors/gsc.py</a>.
+          Connect a property: add <code>GSC_SERVICE_ACCOUNT_JSON</code> and <code>GSC_PROPERTY_URL</code> to the repo secrets. The connector stub lives at <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/gsc.py" target="_blank" rel="noopener noreferrer">pipeline/connectors/gsc.py</a>.
         </p>
       </div>
 
@@ -2107,7 +2107,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           </table>
         </div>
         <p class="caption cross-howto">
-          Connect a property: add <code>GA4_SERVICE_ACCOUNT_JSON</code> and <code>GA4_PROPERTY_ID</code> to the repo secrets. The connector stub lives at <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/ga4.py" target="_blank" rel="noopener">pipeline/connectors/ga4.py</a>. Once connected, click estimates can be refined by joining live GSC impressions × SISTRIX CTR curves per position – turning »demo« into »grounded-estimate« without ever training on the brand directly.
+          Connect a property: add <code>GA4_SERVICE_ACCOUNT_JSON</code> and <code>GA4_PROPERTY_ID</code> to the repo secrets. The connector stub lives at <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/ga4.py" target="_blank" rel="noopener noreferrer">pipeline/connectors/ga4.py</a>. Once connected, click estimates can be refined by joining live GSC impressions × SISTRIX CTR curves per position – turning »demo« into »grounded-estimate« without ever training on the brand directly.
         </p>
       </div>
 
@@ -2146,7 +2146,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
                   <td class="mono">{row.keyword_difficulty}</td>
                   <td class="mono">{row.monthly_search_volume.toLocaleString('en-US')}</td>
                   <td class="mono">{row.backlinks_to_url.toLocaleString('en-US')}</td>
-                  <td><a class="cross-url" href={row.top_ranking_url} target="_blank" rel="noopener">{shortUrl(row.top_ranking_url)} ↗</a></td>
+                  <td><a class="cross-url" href={row.top_ranking_url} target="_blank" rel="noopener noreferrer">{shortUrl(row.top_ranking_url)} ↗</a></td>
                   <td class="mono cross-priority">
                     <span class="priority-bar-wrap"><span class="priority-bar priority-bar-opp" style={`width: ${(row.opportunity_score / ahrefsMaxOpp) * 100}%`}></span></span>
                     <span>{row.opportunity_score.toFixed(2)}</span>
@@ -2157,7 +2157,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           </table>
         </div>
         <p class="caption cross-howto">
-          Connect a property: add <code>AHREFS_API_KEY</code> to the repo secrets. Stub: <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/ahrefs.py" target="_blank" rel="noopener">pipeline/connectors/ahrefs.py</a>. The ranking URLs are already live – harvested by Peec MCP itself from <code>get_domain_report</code> with the gap filter.
+          Connect a property: add <code>AHREFS_API_KEY</code> to the repo secrets. Stub: <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/ahrefs.py" target="_blank" rel="noopener noreferrer">pipeline/connectors/ahrefs.py</a>. The ranking URLs are already live – harvested by Peec MCP itself from <code>get_domain_report</code> with the gap filter.
         </p>
       </div>
     </div>
@@ -2200,6 +2200,13 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <p style="margin-top: 8px;">Peec AI MCP at <code>api.peec.ai/mcp</code>, OAuth authenticated.</p>
           <p style="margin-top: 8px;">Tools used: <code>list_prompts</code>, <code>list_chats</code>, <code>get_brand_report</code> with <code>dimensions=[prompt_id, model_id]</code>, <code>get_chat</code> for full response text.</p>
           <p style="margin-top: 8px;">Active engines in this snapshot: {active_models.map((m: any) => m.name).join(', ')}.</p>
+        </div>
+        <div class="method-block">
+          <h3>Slash-command spec · ready to ship as a Peec-native prompt</h3>
+          <p style="margin-top: 8px;">The full <code>peec_drift_radar</code> specification lives in the repo: signature, MCP-call sequence, output schema, error contract, output channels. Designed to drop into Peec's existing slash-command family with no dependencies beyond the read-only MCP toolset already shipped.</p>
+          <p style="margin-top: 12px;">
+            <a class="link" href="https://github.com/flo-meier/drift-radar/blob/main/slash_commands/peec_drift_radar.md" target="_blank" rel="noopener noreferrer"><code>slash_commands/peec_drift_radar.md ↗</code></a>
+          </p>
         </div>
       </div>
     </div>
@@ -2247,7 +2254,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
             <div class="rule-card">
               <div class="rule-card-head">
                 <h3 class="rule-card-title">{r.title}</h3>
-                <a class="rule-card-file mono" href={`https://github.com/flo-meier/drift-radar/blob/main/pipeline/rules/${r.file}`} target="_blank" rel="noopener">{r.file} ↗</a>
+                <a class="rule-card-file mono" href={`https://github.com/flo-meier/drift-radar/blob/main/pipeline/rules/${r.file}`} target="_blank" rel="noopener noreferrer">{r.file} ↗</a>
               </div>
               <p class="rule-card-note">{r.note}</p>
               <dl class="rule-card-params">
@@ -2262,7 +2269,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           ))}
         </div>
         <p class="caption" style="margin-top: 32px; max-width: 720px;">
-          Source of truth: <a class="link" href="https://github.com/flo-meier/drift-radar/tree/main/pipeline/rules" target="_blank" rel="noopener"><code>pipeline/rules/*.md</code></a>. The pipeline copies the live values into <code>drift_radar.json → rules</code> on every run – the cards above read from that block, so a forked deploy with different rule files surfaces its own parameters here automatically.
+          Source of truth: <a class="link" href="https://github.com/flo-meier/drift-radar/tree/main/pipeline/rules" target="_blank" rel="noopener noreferrer"><code>pipeline/rules/*.md</code></a>. The pipeline copies the live values into <code>drift_radar.json → rules</code> on every run – the cards above read from that block, so a forked deploy with different rule files surfaces its own parameters here automatically.
         </p>
       </div>
     </section>
@@ -3049,7 +3056,8 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .numbers-section { padding-top: 96px; padding-bottom: 96px; }
   .numbers-list { display: flex; flex-direction: column; }
   .number-moment { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; padding: 48px 0; align-items: center; }
-  @media (max-width: 900px) { .number-moment { grid-template-columns: 1fr; gap: 16px; padding: 32px 0; } }
+  @media (max-width: 900px) { .number-moment { grid-template-columns: 1fr; gap: 28px; padding: 44px 0; } }
+  @media (max-width: 720px) { .number-moment { gap: 22px; padding: 40px 0; } .number-moment .typo-number { font-size: clamp(80px, 22vw, 120px) !important; } }
   .number-unit { font-size: 0.5em; color: var(--ink-soft); margin-left: 6px; font-weight: 500; }
   .number-label { font-size: 17px; line-height: 1.55; }
   .number-label .serif { font-size: 22px; }
