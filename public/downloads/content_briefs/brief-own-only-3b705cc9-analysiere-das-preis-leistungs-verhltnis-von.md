@@ -36,6 +36,14 @@
 - `kaaloon.de` – CORPORATE, retrieved 25 % of chats
 - `opti-ration.de` – CORPORATE, retrieved 25 % of chats
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Marstall: Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann, Höveler for this prompt.

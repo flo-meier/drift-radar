@@ -34,6 +34,14 @@
 - `pavo-futter.de` – CORPORATE, retrieved 22 % of chats
 - `hipposport.de` – CORPORATE, retrieved 22 % of chats
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Eggersmann: Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against Eggersmann for this prompt.

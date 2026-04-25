@@ -60,6 +60,14 @@ _No claims overlap across two or more engines. Every engine answers with its own
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `baywa.de` – CORPORATE, retrieved 22 % of chats
 
+## Suggested article
+
+- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
+- **Length:** 1 500 – 2 500 words
+- **Headline starting point:** »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde. – what Pferdegold actually does«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.

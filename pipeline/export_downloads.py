@@ -14,6 +14,7 @@ import zipfile
 from pathlib import Path
 
 from openpyxl import Workbook
+from openpyxl.formatting.rule import ColorScaleRule
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 from reportlab.lib import colors
@@ -218,6 +219,46 @@ def export_csv(data):
     print(f"Wrote CSV: {out_path.name} ({out_path.stat().st_size} bytes, {len(data['prompts'])} rows)")
 
 
+def suggest_article(prompt, data):
+    """Deterministic suggested-article hint per content brief.
+
+    Three-piece output (format · wordcount · headline) so an editor can start
+    a draft instead of staring at six data sections wondering where to begin.
+    """
+    silence = prompt.get("silence_type")
+    volume = prompt.get("volume") or 0
+    own_brand = data.get("own_brand", "")
+    prompt_text = prompt.get("prompt_text", "")
+    tc = prompt.get("top_competitors") or []
+    if silence == "own_only":
+        fmt = "Head-to-head comparison page"
+        base_low, base_high = 1200, 1800
+        if tc:
+            headline = f"{own_brand} vs {tc[0]['brand_name']}: {prompt_text}"
+        else:
+            headline = f"{own_brand} for: {prompt_text}"
+    elif silence == "full":
+        fmt = "Pillar / category-explainer guide"
+        base_low, base_high = 2000, 3500
+        headline = f"{prompt_text} – the {own_brand} guide"
+    else:
+        fmt = "Narrative-anchor article (stabilises the engine where the brand drifts)"
+        base_low, base_high = 1500, 2500
+        headline = f"{prompt_text} – what {own_brand} actually does"
+    # Volume modifier shifts both bounds toward the high or low end.
+    if volume >= 3:
+        wc_lo, wc_hi = base_low + 400, base_high + 800
+    elif volume == 2:
+        wc_lo, wc_hi = base_low, base_high
+    else:
+        wc_lo, wc_hi = max(800, base_low - 300), max(base_low, base_high - 600)
+    return {
+        "format": fmt,
+        "wordcount": f"{wc_lo:,} – {wc_hi:,} words".replace(",", " "),
+        "headline": headline,
+    }
+
+
 def export_content_brief(prompt, data, s):
     BRIEFS.mkdir(parents=True, exist_ok=True)
     fname = brief_filename(prompt, kind=None)
@@ -376,6 +417,22 @@ def export_content_brief(prompt, data, s):
         story.append(Spacer(1, 4))
         story.append(rule_line())
         story.append(Spacer(1, 10))
+
+    sa = suggest_article(prompt, data)
+    story.append(Paragraph("Suggested article", s["h2"]))
+    story.append(Paragraph(
+        f"<b>Format:</b> {clean_text(sa['format'])} &nbsp;·&nbsp; "
+        f"<b>Length:</b> {clean_text(sa['wordcount'])}",
+        s["body_ink"]))
+    story.append(Paragraph(
+        f"<b>Headline starting point:</b> »{clean_text(sa['headline'])}«",
+        s["body_ink"]))
+    story.append(Paragraph(
+        "<i>Deterministic suggestion from silence type + Peec volume bucket. "
+        "Starting point, not a lock-in.</i>", s["small"]))
+    story.append(Spacer(1, 10))
+    story.append(rule_line())
+    story.append(Spacer(1, 8))
 
     story.append(Paragraph("Concrete moves", s["h2"]))
     moves = []
@@ -701,6 +758,22 @@ def export_lite_brief(prompt, data, s, kind):
 
     story.append(rule_line())
     story.append(Spacer(1, 10))
+
+    sa = suggest_article(prompt, data)
+    story.append(Paragraph("Suggested article", s["h2"]))
+    story.append(Paragraph(
+        f"<b>Format:</b> {clean_text(sa['format'])} &nbsp;·&nbsp; "
+        f"<b>Length:</b> {clean_text(sa['wordcount'])}",
+        s["body_ink"]))
+    story.append(Paragraph(
+        f"<b>Headline starting point:</b> »{clean_text(sa['headline'])}«",
+        s["body_ink"]))
+    story.append(Paragraph(
+        "<i>Deterministic suggestion from silence type + Peec volume bucket. "
+        "Starting point, not a lock-in.</i>", s["small"]))
+    story.append(Spacer(1, 10))
+    story.append(rule_line())
+    story.append(Spacer(1, 8))
 
     # Concrete moves
     story.append(Paragraph("Concrete moves", s["h2"]))
@@ -1165,6 +1238,44 @@ def export_executive_summary(data, s):
     print(f"Wrote executive_summary.pdf ({path.stat().st_size} bytes)")
 
 
+def export_competitors_long_csv(data):
+    """Long-format competitor visibility for pivot-friendly analyst work.
+
+    Wide-format (drift_radar.csv) has 7 competitors × 3 engines = 21 columns,
+    which makes a pivot table awkward. This file unpivots that into one row
+    per (prompt × competitor × engine) so analysts can stack-rank, filter,
+    and group without manual unpivot in Excel.
+    """
+    out_path = OUT / "drift_radar_competitors_long.csv"
+    models = [m["id"] for m in data["active_models"]]
+    model_names = {m["id"]: m["name"] for m in data["active_models"]}
+    competitors = data.get("competitors") or []
+    matrix = _build_brand_matrix(data)
+    rows_written = 0
+    with out_path.open("w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        w.writerow([
+            "prompt_id", "prompt_text", "topic", "volume", "silence_type",
+            "competitor_id", "competitor_name",
+            "engine_id", "engine_name", "visibility",
+        ])
+        for p in data["prompts"]:
+            pid = p["prompt_id"]
+            brand_map = matrix.get(pid, {})
+            for c in competitors:
+                per_eng = brand_map.get(c["id"], {}) or {}
+                for m in models:
+                    vis = round(per_eng.get(m, 0), 4)
+                    w.writerow([
+                        pid, p["prompt_text"], p["topic"], p.get("volume") or "",
+                        p.get("silence_type") or "",
+                        c["id"], c["name"],
+                        m, model_names[m], vis,
+                    ])
+                    rows_written += 1
+    print(f"Wrote CSV: {out_path.name} ({out_path.stat().st_size} bytes, {rows_written} rows, long-format)")
+
+
 def export_subset_csv(data, filename, predicate, description):
     """Write a filtered CSV using the same schema as the master CSV."""
     out_path = OUT / filename
@@ -1267,8 +1378,8 @@ def export_xlsx(data):
         ["silence_type", "own_only = brand absent on every engine, at least one competitor cited; "
                          "full = no tracked brand mentioned on any engine. Empty = active (drifting or aligned)."],
         ["competitor_<brand>", "Wide-format max-visibility per competitor (one column per tracked competitor). "
-                                "For pivot work, consider the long-format helper drift_radar.csv or "
-                                "drift_radar.json."],
+                                "For pivot work, see the long-format companion file "
+                                "drift_radar_competitors_long.csv – one row per (prompt × competitor × engine)."],
         ["competitor_<brand>_<engine>", "Per-engine competitor visibility for fine-grained pivots. 0 = absent."],
         ["top_competitors", "Pre-formatted comma-separated string of the top 5 cited competitors with peak "
                             "visibility – ready for paste into a deck or report."],
@@ -1350,6 +1461,21 @@ def export_xlsx(data):
             40 if header[col-1] == "prompt_text" else \
             30 if header[col-1] in ("prompt_id", "topic", "top_competitors", "gap_urls_top3") else 14
 
+    # Conditional formatting: divergence_score gradient cream → drift-amber.
+    def add_divergence_scale(sheet, col_idx, n_rows):
+        if n_rows < 1:
+            return
+        col = get_column_letter(col_idx)
+        scale = ColorScaleRule(
+            start_type="num", start_value=0, start_color="F4F4F2",
+            mid_type="num", mid_value=0.30, mid_color="F4D9A8",
+            end_type="num", end_value=1.0, end_color="CC7A00",
+        )
+        sheet.conditional_formatting.add(f"{col}2:{col}{n_rows + 1}", scale)
+
+    div_idx = header.index("divergence_score") + 1
+    add_divergence_scale(ws2, div_idx, len(data["prompts"]))
+
     # --- Filtered sheets ----------------------------------------------------
     def add_subset(name, predicate):
         s = wb.create_sheet(name)
@@ -1377,6 +1503,8 @@ def export_xlsx(data):
             s.column_dimensions[get_column_letter(col)].width = \
                 40 if sub_header[col-1] == "prompt_text" else \
                 26 if sub_header[col-1] in ("prompt_id", "topic", "top_competitors") else 14
+        sub_div_idx = sub_header.index("divergence_score") + 1
+        add_divergence_scale(s, sub_div_idx, len(rows))
         return len(rows)
 
     n_drift = add_subset("Drifting", lambda p: p["divergence_score"] >= 0.3)
@@ -1542,6 +1670,15 @@ def _brief_md(prompt, data, kind="premium"):
                     lines.append(f"  **Why it ranks.** {u['angle']}")
         lines.append("")
 
+    sa = suggest_article(prompt, data)
+    lines.append("## Suggested article\n")
+    lines.append(f"- **Format:** {sa['format']}")
+    lines.append(f"- **Length:** {sa['wordcount']}")
+    lines.append(f"- **Headline starting point:** »{sa['headline']}«")
+    lines.append("")
+    lines.append("_The deterministic suggestion above is generated from silence type and search-volume bucket. "
+                 "Treat it as a starting point, not a brief lock-in._\n")
+
     lines.append("## Concrete moves\n")
     if kind == "premium":
         cs_sum = (prompt.get("chat_sample") or {}).get("claim_summary") or {}
@@ -1595,6 +1732,7 @@ def export_brief_md(prompt, data, kind):
 def export_rss(data):
     """Drift Radar RSS 2.0 feed – drifting + silent prompts as items."""
     from email.utils import formatdate
+    from html import escape as he
     from xml.sax.saxutils import escape as xe
     path = OUT / "drift_radar.rss"
     brand = data["own_brand"]
@@ -1614,35 +1752,56 @@ def export_rss(data):
         else:
             title += f"Drifting · »{p['prompt_text']}«"
         vbm = p.get("visibility_by_model") or {}
-        model_lines = "\n".join(
-            f"  - {m['name']}: {int(vbm.get(m['id'], 0)*100)}%"
-            for m in data["active_models"])
         tc = p.get("top_competitors") or []
-        comp_line = ", ".join(
-            f"{c['brand_name']} ({int(c['max_visibility']*100)}%)"
-            for c in tc[:3]) or "none tracked"
         gap = p.get("gap_urls") or []
-        gap_lines = ""
-        if gap:
-            gap_lines = "\nGap URLs:\n" + "\n".join(
-                f"  - {u.get('url','')} ({u.get('classification','OTHER')})" for u in gap[:3])
-        description = (
-            f"Topic: {p.get('topic','-')}\n"
-            f"Volume: {p.get('volume_bucket','-')}\n"
-            f"Silence: {p.get('silence_type') or 'none'}\n"
-            f"Visibility per engine:\n{model_lines}\n"
-            f"Cited instead: {comp_line}"
-            f"{gap_lines}"
-        )
+        sample = p.get("chat_sample") or {}
+        narrative = (sample.get("narrative") or "").strip()
         link = f"{feed_url}/#deepdive-{p['prompt_id']}"
         guid = f"{feed_url}/prompt/{p['prompt_id']}"
+
+        # HTML body so feed readers (Inoreader, Feedly, Slackbots) render it as a card.
+        html_parts = []
+        meta_bits = [
+            f"<strong>Topic:</strong> {he(p.get('topic') or '–')}",
+            f"<strong>Volume:</strong> {he(str(p.get('volume_bucket') or '–'))}",
+            f"<strong>Silence:</strong> {he(p.get('silence_type') or 'none')}",
+            f"<strong>Divergence:</strong> {p['divergence_score']:.2f}",
+        ]
+        html_parts.append("<p>" + " · ".join(meta_bits) + "</p>")
+        if narrative:
+            html_parts.append(f"<p><em>{he(narrative)}</em></p>")
+        html_parts.append("<p><strong>Visibility per engine</strong></p><ul>")
+        for m in data["active_models"]:
+            v = int((vbm.get(m["id"]) or 0) * 100)
+            state = "" if v > 0 else " <em>(silent)</em>"
+            html_parts.append(f"<li>{he(m['name'])}: {v} %{state}</li>")
+        html_parts.append("</ul>")
+        if tc:
+            comp_html = ", ".join(
+                f"{he(c['brand_name'])} ({int(c['max_visibility']*100)} %)"
+                for c in tc[:3])
+            html_parts.append(f"<p><strong>Cited instead:</strong> {comp_html}</p>")
+        if gap:
+            html_parts.append("<p><strong>Gap URLs</strong> – cited next to competitors, not the brand:</p><ul>")
+            for u in gap[:3]:
+                url = u.get("url", "")
+                cls = (u.get("classification") or "OTHER").replace("_", " ").lower()
+                html_parts.append(
+                    f'<li><a href="{he(url)}">{he(url)}</a> '
+                    f'<small>({he(cls)})</small></li>'
+                )
+            html_parts.append("</ul>")
+        html_parts.append(f'<p><a href="{he(link)}">Open the full deep dive →</a></p>')
+        body_html = "".join(html_parts)
+        # CDATA so the HTML survives XML parsing untouched.
+        cdata = f"<![CDATA[{body_html}]]>"
         items.append(
             f"  <item>\n"
             f"    <title>{xe(title)}</title>\n"
             f"    <link>{xe(link)}</link>\n"
             f"    <guid isPermaLink=\"false\">{xe(guid)}</guid>\n"
             f"    <pubDate>{pubdate}</pubDate>\n"
-            f"    <description>{xe(description)}</description>\n"
+            f"    <description>{cdata}</description>\n"
             f"    <category>{xe(p.get('silence_type') or 'drifting')}</category>\n"
             f"  </item>"
         )
@@ -1709,8 +1868,9 @@ def main():
     data = json.loads(UI_JSON.read_text(encoding="utf-8"))
     s = styles()
 
-    # Hard exports: master + tab-scoped CSVs + XLSX
+    # Hard exports: master + tab-scoped CSVs + XLSX + long-format competitors
     export_csv(data)
+    export_competitors_long_csv(data)
     export_subset_csv(data, "heatmap_drift.csv",
                       lambda p: p["divergence_score"] >= 0.3,
                       "Drifting prompts only (≥0.30)")
@@ -1749,7 +1909,7 @@ def main():
     print(
         f"\nDone: {total_briefs} briefs (PDF + MD) "
         f"({len(premium)} premium · {len(own_only)} own-only · {len(full_sil)} full-silence) "
-        f"+ 1 executive summary + 4 CSVs + 1 XLSX + 1 RSS + 1 reproducibility ZIP.")
+        f"+ 1 executive summary + 5 CSVs + 1 XLSX + 1 RSS + 1 reproducibility ZIP.")
 
 
 if __name__ == "__main__":

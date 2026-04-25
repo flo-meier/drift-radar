@@ -40,6 +40,14 @@ _Prompt did not run on AI Overview across the full 20 – 23 April sample window
 
 _No claims overlap across two or more engines. Every engine answers with its own concepts – the narrative is fully divergent._
 
+## Suggested article
+
+- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
+- **Length:** 1 500 – 2 500 words
+- **Headline starting point:** »Finde Nervenpellets für gestresste Pferde ohne Industriezucker. – what Pferdegold actually does«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.

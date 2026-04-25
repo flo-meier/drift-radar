@@ -32,6 +32,14 @@
 - `allwin-shop.de` – OTHER, retrieved 33 % of chats
 - `discountfutter.shop` – OTHER, retrieved 33 % of chats
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 900 – 1 200 words
+- **Headline starting point:** »Pferdegold vs Pavo: Zeig mir Magenpellets ohne Zuckerzusatz.«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.

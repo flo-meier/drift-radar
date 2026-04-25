@@ -36,6 +36,14 @@
 - `hauptner.ch` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.ch` – CORPORATE, retrieved 33 % of chats
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 1 600 – 2 600 words
+- **Headline starting point:** »Pferdegold vs Marstall: Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Pavo for this prompt.

@@ -17,6 +17,14 @@
 - **Marstall** – top visibility 67 %  (Gemini 67 %)
 - **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Marstall: Welche Ergänzungsmittel für Hufe und Fell sind empfehlenswert?«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo for this prompt.

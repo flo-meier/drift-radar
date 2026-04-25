@@ -35,6 +35,14 @@
 - `equine74.com` – CORPORATE, retrieved 22 % of chats
 - `honeyprovet.com.au` – OTHER, retrieved 22 % of chats
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Marstall: Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler for this prompt.

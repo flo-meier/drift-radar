@@ -30,6 +30,14 @@
 - `tierheilkundezentrum.de` – CORPORATE, retrieved 33 % of chats
 - `medalistfeed.com` – OTHER, retrieved 22 % of chats
 
+## Suggested article
+
+- **Format:** Pillar / category-explainer guide
+- **Length:** 2 000 – 3 500 words
+- **Headline starting point:** »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde. – the Pferdegold guide«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **First-mover content page** under `pferdegold.de/...` answering the question with structured, citeable content.

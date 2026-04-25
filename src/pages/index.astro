@@ -381,6 +381,23 @@ Brand: ${own_brand}. Language: match the source prompt.
 For the full deep-dive data (engine-by-engine claims, source mix, gap URLs): ${deepDiveUrl(p.prompt_id)}`;
 }
 
+function buildLinearUrl(p: any): string {
+  // Linear's new-issue URL accepts title, description, estimate, priority, labels.
+  // Estimate maps from silence_type (full silence needs more authoring).
+  // Priority maps from Peec volume bucket (Urgent for very-high traffic).
+  const estimate = p.silence_type === 'full' ? 5 : 3;
+  const vol = Number(p.volume || 0);
+  const priority = vol >= 3 ? 1 : vol >= 2 ? 2 : 3;
+  const params = new URLSearchParams({
+    title: `Drift Radar · ${p.prompt_text}`,
+    description: buildLinearDescription(p),
+    estimate: String(estimate),
+    priority: String(priority),
+    labels: 'drift-radar',
+  });
+  return `https://linear.app/new?${params.toString()}`;
+}
+
 function buildLinearDescription(p: any): string {
   const visMap = p.visibility_by_model || {};
   const tc = (p.top_competitors || []).slice(0, 3).map((c: any) => `${c.brand_name} (${Math.round(c.max_visibility * 100)}%)`).join(', ');
@@ -504,7 +521,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         <button type="button" class="tab-nav-btn" data-tab="overview">Overview</button>
         <button type="button" class="tab-nav-btn" data-tab="heatmap">Heatmap</button>
         <button type="button" class="tab-nav-btn" data-tab="deepdives">Deep dives <span class="tab-badge mono">{deepDives.length}</span></button>
-        <button type="button" class="tab-nav-btn" data-tab="exports">Export kit <span class="tab-badge mono">10</span></button>
+        <button type="button" class="tab-nav-btn" data-tab="exports">Export kit <span class="tab-badge mono">11</span></button>
         <button type="button" class="tab-nav-btn" data-tab="stack">Stack</button>
         <button type="button" class="tab-nav-btn" data-tab="underhood">Under the hood</button>
       </div>
@@ -1378,7 +1395,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
 
               <a
                 class="share-btn share-btn-linear"
-                href={`https://linear.app/new?title=${encodeURIComponent(`Drift Radar · ${p.prompt_text}`)}&description=${encodeURIComponent(buildLinearDescription(p))}`}
+                href={buildLinearUrl(p)}
                 target="_blank"
                 rel="noopener noreferrer"
               >Create Linear issue</a>
@@ -1744,11 +1761,18 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <div class="export-card-footer"><span class="mono">CSV · {summary.total_prompts} rows</span><span class="export-card-arrow">↓</span></div>
         </a>
 
+        <a class="export-card" href="/downloads/drift_radar_competitors_long.csv" download>
+          <div class="export-card-kind">Data · long-format</div>
+          <div class="export-card-title">Competitors, long-format</div>
+          <div class="export-card-dek">One row per (prompt × competitor × engine) – the unpivoted view of the wide-format competitor matrix in the master CSV. Drop straight into a pivot or a SQL <span class="mono">GROUP BY</span> without manual unpivot.</div>
+          <div class="export-card-footer"><span class="mono">CSV · {summary.total_prompts * (competitors?.length ?? 7) * active_models.length} rows</span><span class="export-card-arrow">↓</span></div>
+        </a>
+
         <a class="export-card" href="/downloads/drift_radar.xlsx" download>
           <div class="export-card-kind">Data</div>
           <div class="export-card-title">drift_radar.xlsx</div>
-          <div class="export-card-dek">Same data, Excel-native: 5 sheets (Overview KPIs, All prompts with Wilson CI columns, Drifting, Own-only silence, Full silence, Source mix). Pre-formatted headers, pivot-ready.</div>
-          <div class="export-card-footer"><span class="mono">XLSX · 5 sheets</span><span class="export-card-arrow">↓</span></div>
+          <div class="export-card-dek">Excel-native: 7 sheets (Overview KPIs, Read-me legend, All prompts with Wilson CI, Drifting, Own-only silence, Full silence, Source mix). Conditional formatting on divergence_score, pre-formatted headers, pivot-ready.</div>
+          <div class="export-card-footer"><span class="mono">XLSX · 7 sheets</span><span class="export-card-arrow">↓</span></div>
         </a>
 
         <a class="export-card" href="/downloads/executive_summary.pdf" download>

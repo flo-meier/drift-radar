@@ -32,6 +32,14 @@
 - `pferde-reformhaus.ch` – CORPORATE, retrieved 33 % of chats
 - `stall-vonballmoos.ch` – CORPORATE, retrieved 33 % of chats
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs St. Hippolyt: Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo for this prompt.

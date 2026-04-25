@@ -34,6 +34,14 @@
 - `horseandhound.co.uk` – EDITORIAL, retrieved 17 % of chats
 - `icelandic-horse.com` – CORPORATE, retrieved 17 % of chats
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Pavo: Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Höveler for this prompt.

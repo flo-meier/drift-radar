@@ -56,6 +56,14 @@ _No claims overlap across two or more engines. Every engine answers with its own
 - `medpets.de` – CORPORATE, retrieved 17 % of chats
 - `migocki.de` – CORPORATE, retrieved 17 % of chats
 
+## Suggested article
+
+- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
+- **Length:** 1 900 – 3 300 words
+- **Headline starting point:** »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet? – what Pferdegold actually does«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.

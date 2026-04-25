@@ -67,6 +67,14 @@ _No claims overlap across two or more engines. Every engine answers with its own
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `krauterie.de` – CORPORATE, retrieved 33 % of chats
 
+## Suggested article
+
+- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
+- **Length:** 1 500 – 2 500 words
+- **Headline starting point:** »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde. – what Pferdegold actually does«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.

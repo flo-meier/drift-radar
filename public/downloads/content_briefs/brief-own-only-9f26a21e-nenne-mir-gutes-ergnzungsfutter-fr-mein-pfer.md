@@ -19,6 +19,14 @@
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Pavo: Nenne mir gutes Ergänzungsfutter für mein Pferd.«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Eggersmann for this prompt.

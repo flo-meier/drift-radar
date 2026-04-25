@@ -30,6 +30,14 @@
 - `foranequine.com` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – OTHER, retrieved 33 % of chats
 
+## Suggested article
+
+- **Format:** Pillar / category-explainer guide
+- **Length:** 1 700 – 2 900 words
+- **Headline starting point:** »Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe. – the Pferdegold guide«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **First-mover content page** under `pferdegold.de/...` answering the question with structured, citeable content.

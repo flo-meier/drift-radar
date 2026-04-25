@@ -37,6 +37,14 @@
 - `facebook.com` – UGC, retrieved 33 % of chats
 - `german-horse-fit.de` – CORPORATE, retrieved 33 % of chats
 
+## Suggested article
+
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Marstall: Finde in Deutschland hergestelltes Magenfutter für mein Pferd.«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, St. Hippolyt for this prompt.

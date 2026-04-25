@@ -12,6 +12,14 @@
 
 **Silence type:** `full`
 
+## Suggested article
+
+- **Format:** Pillar / category-explainer guide
+- **Length:** 2 400 – 4 300 words
+- **Headline starting point:** »Nenne mir empfehlenswerte Mineralstoffe für Pferde. – the Pferdegold guide«
+
+_The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
+
 ## Concrete moves
 
 - **First-mover content page** under `pferdegold.de/...` answering the question with structured, citeable content.
