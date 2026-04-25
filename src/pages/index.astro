@@ -3144,7 +3144,7 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .legend-item { display: flex; gap: 12px; align-items: flex-start; font-size: 13px; line-height: 1.45; }
   .legend-item strong { display: block; color: var(--ink); font-size: 13px; font-weight: 600; margin-bottom: 2px; }
   .legend-item span { color: var(--ink-soft); font-size: 12.5px; }
-  .legend-swatch { flex-shrink: 0; width: 36px; height: 22px; display: inline-flex; align-items: center; justify-content: center; font-family: var(--mono); font-weight: 700; font-size: 11px; border: 1px solid var(--rule-strong); background: var(--bg); color: var(--ink); }
+  .legend-swatch { flex-shrink: 0; min-width: 36px; height: 22px; padding: 0 6px; display: inline-flex; align-items: center; justify-content: center; font-family: var(--mono); font-weight: 700; font-size: 11px; border: 1px solid var(--rule-strong); background: var(--bg); color: var(--ink); }
   .legend-swatch-drift { background: var(--bg); color: var(--drift); border-color: var(--drift); }
   .legend-swatch-bar { background: linear-gradient(to right, var(--drift) 60%, var(--bg-deep) 60%); border-color: var(--rule-strong); color: transparent; }
   .legend-swatch-ownonly { background: var(--competitor-soft); border-color: var(--competitor); color: var(--competitor); font-style: italic; }
