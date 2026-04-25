@@ -68,6 +68,12 @@ jobs:
           GSC_PROPERTY_URL: ${{ secrets.GSC_PROPERTY_URL }}
         run: python build_cross_refs.py
 
+      - name: Generate weekly narrative (Haiku diff vs previous run)
+        working-directory: pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_narrative.py
+
       - name: Sync data to Astro src/
         working-directory: pipeline
         run: python sync_to_app.py

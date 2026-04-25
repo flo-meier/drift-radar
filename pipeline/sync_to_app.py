@@ -15,6 +15,7 @@ FILES = [
     (ROOT / "data" / "ui" / "cross_refs.json", APP_DATA / "cross_refs.json"),
     (ROOT / "data" / "raw" / "peec_actions.json", APP_DATA / "peec_actions.json"),
     (ROOT / "data" / "raw" / "trend_by_date.json", APP_DATA / "trend_by_date.json"),
+    (ROOT / "data" / "ui" / "narrative_latest.md", APP_DATA / "narrative_latest.md"),
 ]
 
 for src, dst in FILES:

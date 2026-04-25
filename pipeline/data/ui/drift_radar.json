@@ -5,6 +5,49 @@
     "start": "2026-04-20",
     "end": "2026-04-22"
   },
+  "rules": {
+    "divergence_formula": {
+      "range_weight": 0.7,
+      "cv_weight": 0.3,
+      "cv_cap": 2.0,
+      "drifting_threshold": 0.3,
+      "two_versions_threshold": 0.5,
+      "non_overlapping_threshold": 0.8
+    },
+    "silence_classifier": {
+      "own_silence_visibility_max": 0.0,
+      "top_competitors_per_prompt": 5,
+      "wilson_ci_z": 1.96,
+      "min_chats_per_cell": 3
+    },
+    "deep_dive_selection": {
+      "top_n_full_deep_dives": 5,
+      "sort_key": "divergence_score",
+      "require_chat_sample": true,
+      "fallback_strategy": "highest_divergence"
+    },
+    "claim_extraction": {
+      "model": "claude-haiku-4-5-20251001",
+      "max_claims_per_chat": 5,
+      "request_interval_seconds": 0.35,
+      "max_retries": 3,
+      "claim_types": [
+        "brand",
+        "substance",
+        "function",
+        "condition",
+        "criterion"
+      ],
+      "priority_order": [
+        "brand",
+        "substance",
+        "function",
+        "condition",
+        "criterion"
+      ]
+    },
+    "_source": "pipeline/rules/*.md (loaded at run start)"
+  },
   "active_models": [
     {
       "id": "chatgpt-scraper",

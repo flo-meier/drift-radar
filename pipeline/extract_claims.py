@@ -13,16 +13,21 @@ import urllib.request
 import urllib.error
 from pathlib import Path
 
+from rules import load_rule
+
 ROOT = Path(__file__).parent
 RAW = ROOT / "data" / "raw"
 CLAIMS_OUT = RAW / "claims.json"
 CHATS_DIR = RAW / "chats"
 
-MODEL = os.environ.get("DRIFT_MODEL", "claude-haiku-4-5-20251001")
+# Claim-extraction parameters live in pipeline/rules/claim_extraction.md
+CLAIM_RULES = load_rule("claim_extraction")
+MODEL = os.environ.get("DRIFT_MODEL", CLAIM_RULES["model"])
 API_URL = "https://api.anthropic.com/v1/messages"
 API_VERSION = "2023-06-01"
-MAX_CLAIMS = 5
-REQUEST_INTERVAL = 0.35  # seconds between calls, well inside tier-1 limits
+MAX_CLAIMS = CLAIM_RULES["max_claims_per_chat"]
+REQUEST_INTERVAL = CLAIM_RULES["request_interval_seconds"]
+MAX_RETRIES = CLAIM_RULES["max_retries"]
 
 
 def load_env_key():
@@ -69,7 +74,7 @@ Prioritize brand claims first when present, then substance, then the rest.
 Return the JSON array and nothing else."""
 
 
-def call_claude(api_key: str, query: str, response_text: str, retries: int = 3) -> list:
+def call_claude(api_key: str, query: str, response_text: str, retries: int = MAX_RETRIES) -> list:
     body = {
         "model": MODEL,
         "max_tokens": 800,

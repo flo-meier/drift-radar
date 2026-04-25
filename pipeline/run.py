@@ -15,9 +15,16 @@ import math
 from pathlib import Path
 from statistics import mean, pstdev
 
+from rules import load_rule
+
 ROOT = Path(__file__).parent
 RAW = ROOT / "data" / "raw"
 UI = ROOT / "data" / "ui"
+
+# Analytical parameters live in pipeline/rules/*.md — see rules/README.md
+DIVERGENCE_RULES = load_rule("divergence_formula")
+SILENCE_RULES = load_rule("silence_classifier")
+DEEPDIVE_RULES = load_rule("deep_dive_selection")
 
 
 def load_json(path):
@@ -62,7 +69,9 @@ def build_competitor_index(all_brands_report, own_id):
     return index
 
 
-def wilson_ci(successes, trials, z=1.96):
+def wilson_ci(successes, trials, z=None):
+    if z is None:
+        z = SILENCE_RULES["wilson_ci_z"]
     if trials == 0:
         return (0.0, 1.0)
     p = successes / trials
@@ -78,8 +87,11 @@ def compute_prompt_metrics(per_model, active_models):
     range_vis = max(vis_vals) - min(vis_vals) if vis_vals else 0
     cv_vis = pstdev(vis_vals) / mean_vis if mean_vis > 0 else 0
 
-    own_silence = max(vis_vals) == 0
-    divergence_score = round(0.7 * range_vis + 0.3 * min(cv_vis, 2.0) / 2.0, 3)
+    own_silence = (max(vis_vals) if vis_vals else 0) <= SILENCE_RULES["own_silence_visibility_max"]
+    rw = DIVERGENCE_RULES["range_weight"]
+    cw = DIVERGENCE_RULES["cv_weight"]
+    cap = DIVERGENCE_RULES["cv_cap"]
+    divergence_score = round(rw * range_vis + cw * min(cv_vis, cap) / cap, 3)
 
     wilson = {}
     for m in active_models:
@@ -129,10 +141,11 @@ def classify_silence(prompt_id, own_silence, competitor_index, brands_lookup, mo
             "seen_in": active,
         })
     comp_summary.sort(key=lambda x: -x["max_visibility"])
-    return "own_only", comp_summary[:5]
+    return "own_only", comp_summary[: SILENCE_RULES["top_competitors_per_prompt"]]
 
 
-CLAIM_TYPES = ("brand", "substance", "function", "condition", "criterion")
+_CLAIM_RULES = load_rule("claim_extraction")
+CLAIM_TYPES = tuple(_CLAIM_RULES["claim_types"])
 
 
 def summarize_claims(by_model, active_models):
@@ -301,7 +314,7 @@ def main():
     silence_count = sum(1 for r in results if r["own_silence"])
     own_only = sum(1 for r in results if r["silence_type"] == "own_only")
     full_silence = sum(1 for r in results if r["silence_type"] == "full")
-    high_divergence = [r for r in results if r["divergence_score"] >= 0.3]
+    high_divergence = [r for r in results if r["divergence_score"] >= DIVERGENCE_RULES["drifting_threshold"]]
     avg_vis = round(mean([r["mean_visibility"] for r in results]), 3) if results else 0
 
     source_totals, source_shares = aggregate_source_classes(sources_by_prompt)
@@ -310,6 +323,13 @@ def main():
         "project": lookup["project"]["name"],
         "own_brand": lookup["brands"][own_id]["name"],
         "date_range": own_report["date_range"],
+        "rules": {
+            "divergence_formula": DIVERGENCE_RULES,
+            "silence_classifier": SILENCE_RULES,
+            "deep_dive_selection": DEEPDIVE_RULES,
+            "claim_extraction": _CLAIM_RULES,
+            "_source": "pipeline/rules/*.md (loaded at run start)",
+        },
         "active_models": [{"id": m, "name": lookup["models"][m]["name"]} for m in active_models],
         "competitors": [
             {"id": bid, "name": info["name"], "domain": info["domain"]}
@@ -343,7 +363,7 @@ def main():
     print(f"Own-brand silence (zero mentions across ALL models): {silence_count}/{total} ({output['summary']['own_silence_percent']}%)")
     print(f"  ├─ OWN-ONLY silence (competitors active, you are not): {own_only}")
     print(f"  └─ FULL silence (category silent on all engines):     {full_silence}")
-    print(f"High divergence prompts (score >= 0.3): {len(high_divergence)}")
+    print(f"High divergence prompts (score >= {DIVERGENCE_RULES['drifting_threshold']}): {len(high_divergence)}")
     print(f"Avg own-brand visibility across prompts: {avg_vis}")
 
     print("\n--- TOP 10 HIGH-DIVERGENCE PROMPTS ---")
