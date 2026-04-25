@@ -140,41 +140,64 @@ function divergenceReading(score: number): string {
   return 'engines aligned';
 }
 
-function radarAngle(id: string): number {
-  let h = 0;
-  for (let i = 0; i < id.length; i++) h = ((h << 5) - h + id.charCodeAt(i)) | 0;
-  return (((h % 360) + 360) % 360);
+// Strip-plot — every prompt as one vertical bar, sorted by content-priority
+// score desc. Height encodes priority (drifting score for divergence prompts,
+// fixed "risk band" levels for silent prompts so the silent set is visible too).
+// Colour encodes failure mode. Static, FT-/Bloomberg-style.
+const STRIP_VIEW_W = 1100;
+const STRIP_VIEW_H = 320;
+const STRIP_PAD_LEFT = 56;
+const STRIP_PAD_RIGHT = 24;
+const STRIP_PAD_TOP = 16;
+const STRIP_PAD_BOTTOM = 56;
+const STRIP_PLOT_W = STRIP_VIEW_W - STRIP_PAD_LEFT - STRIP_PAD_RIGHT;
+const STRIP_PLOT_H = STRIP_VIEW_H - STRIP_PAD_TOP - STRIP_PAD_BOTTOM;
+// Risk-band heights for silent prompts so they show up on the chart.
+const PRIORITY_OWN_ONLY = 0.55;
+const PRIORITY_FULL = 0.35;
+function priorityScore(p: any): number {
+  const div = Number(p.divergence_score || 0);
+  if (p.silence_type === 'own_only') return Math.max(div, PRIORITY_OWN_ONLY);
+  if (p.silence_type === 'full') return Math.max(div, PRIORITY_FULL);
+  return div;
 }
-const RADAR_CENTER = 300;
-const RADAR_MAX = 260;
-const radarDots = prompts.map((p: any) => {
-  const angleDeg = radarAngle(p.prompt_id || '');
-  const theta = ((angleDeg - 90) * Math.PI) / 180;
-  const rad = Math.max(28, Math.min(1, p.divergence_score || 0) * RADAR_MAX);
-  const cx = +(RADAR_CENTER + rad * Math.cos(theta)).toFixed(1);
-  const cy = +(RADAR_CENTER + rad * Math.sin(theta)).toFixed(1);
-  let cls = 'radar-dot-active';
-  if (p.silence_type === 'full') cls = 'radar-dot-full';
-  else if (p.silence_type === 'own_only') cls = 'radar-dot-ownonly';
-  else if ((p.divergence_score || 0) >= 0.30) cls = 'radar-dot-drift';
+const stripSorted = [...prompts].sort((a: any, b: any) => priorityScore(b) - priorityScore(a));
+const STRIP_STRIDE = STRIP_PLOT_W / Math.max(1, stripSorted.length);
+const STRIP_BAR_W = Math.max(8, STRIP_STRIDE - 4);
+const stripBars = stripSorted.map((p: any, i: number) => {
+  const div = Number(p.divergence_score || 0);
+  const prio = Math.max(0, Math.min(1, priorityScore(p)));
+  const x = +(STRIP_PAD_LEFT + i * STRIP_STRIDE + (STRIP_STRIDE - STRIP_BAR_W) / 2).toFixed(1);
+  const barH = +(prio * STRIP_PLOT_H).toFixed(1);
+  const y = +(STRIP_PAD_TOP + STRIP_PLOT_H - barH).toFixed(1);
+  let cls = 'strip-bar-active';
+  if (p.silence_type === 'full') cls = 'strip-bar-full';
+  else if (p.silence_type === 'own_only') cls = 'strip-bar-ownonly';
+  else if (div >= 0.30) cls = 'strip-bar-drift';
   return {
     id: p.prompt_id,
-    cx,
-    cy,
+    x,
+    y,
+    w: STRIP_BAR_W,
+    h: Math.max(1.5, barH),
     cls,
     text: p.prompt_text || '',
-    div: Number((p.divergence_score || 0).toFixed(2)),
+    div: Number(div.toFixed(2)),
+    prio: Number(prio.toFixed(2)),
     silence: p.silence_type || 'active',
     topComp: p.top_competitors?.[0]?.brand_name || '',
     hasDD: !!p.chat_sample,
   };
 });
-const radarCounts = {
-  drift: radarDots.filter((d: any) => d.cls === 'radar-dot-drift').length,
-  ownOnly: radarDots.filter((d: any) => d.cls === 'radar-dot-ownonly').length,
-  full: radarDots.filter((d: any) => d.cls === 'radar-dot-full').length,
-  active: radarDots.filter((d: any) => d.cls === 'radar-dot-active').length,
+const stripCounts = {
+  drift: stripBars.filter((d: any) => d.cls === 'strip-bar-drift').length,
+  ownOnly: stripBars.filter((d: any) => d.cls === 'strip-bar-ownonly').length,
+  full: stripBars.filter((d: any) => d.cls === 'strip-bar-full').length,
+  active: stripBars.filter((d: any) => d.cls === 'strip-bar-active').length,
 };
+function stripY(score: number): number {
+  return +(STRIP_PAD_TOP + STRIP_PLOT_H - score * STRIP_PLOT_H).toFixed(1);
+}
 
 function slugify(text: string, maxLen = 48): string {
   const s = String(text).toLowerCase().replace(/[^\w\s-]/g, '').trim().replace(/[\s_-]+/g, '-');
@@ -509,49 +532,40 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </header>
 
-  <section class="section radar-section" data-tab="overview" aria-labelledby="radar-title">
+  <section class="section strip-section" data-tab="overview" aria-labelledby="strip-title">
     <div class="container-wide">
-      <div class="radar-header">
-        <div class="kicker radar-kicker">Live radar · all 50 prompts at once</div>
-        <h2 id="radar-title" class="radar-title">One map of the entire drift surface</h2>
-        <p class="dek radar-dek">Distance from centre = cross-engine divergence. Colour = how the silence falls. Hover any blip to read the prompt behind it – click to jump to its deep-dive when one exists.</p>
+      <div class="strip-header">
+        <div class="kicker strip-kicker">All {summary.total_prompts} prompts · sorted by content priority</div>
+        <h2 id="strip-title" class="strip-title">The drift surface, as a single chart</h2>
+        <p class="dek strip-dek">Each bar is one tracked prompt. Height encodes content priority – divergence score for drifting prompts, fixed risk bands for silent prompts so the silent set stays visible. Colour marks the failure mode. Bars on the left are this week's priorities – hover any bar for the prompt, click drifting bars to open the deep dive.</p>
       </div>
 
-      <div class="radar-wrap">
-        <svg class="radar-svg" viewBox="0 0 600 600" role="img" aria-label="Interactive radar plot of 50 prompts by divergence">
-          <defs>
-            <linearGradient id="radarSweepGrad" x1="100%" y1="0%" x2="0%" y2="0%">
-              <stop offset="0%" stop-color="rgba(107, 207, 169, 0.9)" />
-              <stop offset="30%" stop-color="rgba(107, 207, 169, 0.25)" />
-              <stop offset="100%" stop-color="rgba(107, 207, 169, 0)" />
-            </linearGradient>
-            <radialGradient id="radarCenterGlow" cx="50%" cy="50%" r="50%">
-              <stop offset="0%" stop-color="rgba(107, 207, 169, 0.25)" />
-              <stop offset="100%" stop-color="rgba(107, 207, 169, 0)" />
-            </radialGradient>
-          </defs>
-          <circle cx="300" cy="300" r="290" fill="url(#radarCenterGlow)" pointer-events="none" />
-          <circle cx="300" cy="300" r="90" class="radar-ring" />
-          <circle cx="300" cy="300" r="180" class="radar-ring" />
-          <circle cx="300" cy="300" r="270" class="radar-ring radar-ring-outer" />
-          <line x1="300" y1="20" x2="300" y2="580" class="radar-cross" />
-          <line x1="20" y1="300" x2="580" y2="300" class="radar-cross" />
-          <line x1="82" y1="82" x2="518" y2="518" class="radar-cross" />
-          <line x1="82" y1="518" x2="518" y2="82" class="radar-cross" />
-          <text x="306" y="214" class="radar-ring-label">0.30</text>
-          <text x="306" y="124" class="radar-ring-label">0.60</text>
-          <text x="306" y="34" class="radar-ring-label">1.00</text>
-          <g class="radar-sweep">
-            <path d="M 300 300 L 570 300 A 270 270 0 0 0 532 144 Z" fill="url(#radarSweepGrad)" />
-          </g>
-          <circle cx="300" cy="300" r="4" class="radar-center" />
-          <circle cx="300" cy="300" r="10" class="radar-center-pulse" />
-          {radarDots.map((d: any) => (
-            <circle
-              cx={d.cx}
-              cy={d.cy}
-              r="5"
-              class={`radar-dot ${d.cls}`}
+      <figure class="strip-wrap">
+        <svg class="strip-svg" viewBox={`0 0 ${STRIP_VIEW_W} ${STRIP_VIEW_H}`} role="img" aria-label="Strip plot of every tracked prompt by content-priority score">
+          {/* Threshold guide-lines */}
+          {[
+            { y: 0.80, label: '0.80 non-overlapping answers' },
+            { y: PRIORITY_OWN_ONLY, label: '0.55 own-only silence band' },
+            { y: PRIORITY_FULL, label: '0.35 full silence band' },
+            { y: 0.30, label: '0.30 drifting threshold' },
+          ].map((g: any) => (
+            <g class="strip-guide">
+              <line x1={STRIP_PAD_LEFT} x2={STRIP_VIEW_W - STRIP_PAD_RIGHT} y1={stripY(g.y)} y2={stripY(g.y)} />
+              <text x={STRIP_PAD_LEFT - 8} y={stripY(g.y)} class="strip-guide-label" text-anchor="end" dy="0.32em">{g.y.toFixed(2)}</text>
+              <text x={STRIP_VIEW_W - STRIP_PAD_RIGHT + 6} y={stripY(g.y)} class="strip-guide-label-soft" dy="0.32em">{g.label}</text>
+            </g>
+          ))}
+          {/* Y-axis baseline */}
+          <line x1={STRIP_PAD_LEFT} x2={STRIP_PAD_LEFT} y1={STRIP_PAD_TOP} y2={STRIP_VIEW_H - STRIP_PAD_BOTTOM} class="strip-axis" />
+          <line x1={STRIP_PAD_LEFT} x2={STRIP_VIEW_W - STRIP_PAD_RIGHT} y1={STRIP_VIEW_H - STRIP_PAD_BOTTOM} y2={STRIP_VIEW_H - STRIP_PAD_BOTTOM} class="strip-axis" />
+          {/* Bars */}
+          {stripBars.map((d: any) => (
+            <rect
+              x={d.x}
+              y={d.y}
+              width={d.w}
+              height={d.h}
+              class={`strip-bar ${d.cls}`}
               data-prompt-id={d.id}
               data-prompt-text={d.text}
               data-div={d.div}
@@ -560,21 +574,27 @@ function sumCounts(counts: Record<string, number> | undefined): number {
               data-has-dd={d.hasDD ? '1' : '0'}
             />
           ))}
+          {/* X-axis tick markers — every 10th rank */}
+          {stripBars.map((d: any, i: number) => i % 10 === 0 && i > 0 ? (
+            <text x={d.x + d.w / 2} y={STRIP_VIEW_H - STRIP_PAD_BOTTOM + 16} class="strip-rank-label" text-anchor="middle">{i + 1}</text>
+          ) : null)}
+          {/* X-axis label */}
+          <text x={STRIP_PAD_LEFT + STRIP_PLOT_W / 2} y={STRIP_VIEW_H - 18} class="strip-axis-title" text-anchor="middle">prompt rank · 1 = highest priority</text>
+          <text x={16} y={STRIP_PAD_TOP + STRIP_PLOT_H / 2} class="strip-axis-title strip-axis-title-y" text-anchor="middle" transform={`rotate(-90, 16, ${STRIP_PAD_TOP + STRIP_PLOT_H / 2})`}>content priority</text>
         </svg>
-        <div class="radar-tooltip" id="radar-tooltip" role="tooltip" aria-hidden="true">
-          <div class="radar-tooltip-prompt"></div>
-          <div class="radar-tooltip-meta"></div>
-          <a class="radar-tooltip-link" href="#" hidden>Open deep dive ↗</a>
+        <div class="strip-tooltip" id="strip-tooltip" role="tooltip" aria-hidden="true">
+          <div class="strip-tooltip-prompt"></div>
+          <div class="strip-tooltip-meta"></div>
+          <a class="strip-tooltip-link" href="#" hidden>Open deep dive ↗</a>
         </div>
-      </div>
+      </figure>
 
-      <div class="radar-legend">
-        <div class="radar-legend-item"><span class="radar-legend-dot radar-legend-dot-drift"></span>Drifting <span class="radar-legend-count mono">{radarCounts.drift}</span></div>
-        <div class="radar-legend-item"><span class="radar-legend-dot radar-legend-dot-ownonly"></span>Own-only silence <span class="radar-legend-count mono">{radarCounts.ownOnly}</span></div>
-        <div class="radar-legend-item"><span class="radar-legend-dot radar-legend-dot-full"></span>Full silence <span class="radar-legend-count mono">{radarCounts.full}</span></div>
-        <div class="radar-legend-item"><span class="radar-legend-dot radar-legend-dot-active"></span>Active, aligned <span class="radar-legend-count mono">{radarCounts.active}</span></div>
+      <div class="strip-legend">
+        <div class="strip-legend-item"><span class="strip-legend-swatch strip-legend-swatch-drift"></span>Drifting <span class="strip-legend-count mono">{stripCounts.drift}</span></div>
+        <div class="strip-legend-item"><span class="strip-legend-swatch strip-legend-swatch-ownonly"></span>Own-only silence <span class="strip-legend-count mono">{stripCounts.ownOnly}</span></div>
+        <div class="strip-legend-item"><span class="strip-legend-swatch strip-legend-swatch-full"></span>Full silence <span class="strip-legend-count mono">{stripCounts.full}</span></div>
+        <div class="strip-legend-item"><span class="strip-legend-swatch strip-legend-swatch-active"></span>Active, aligned <span class="strip-legend-count mono">{stripCounts.active}</span></div>
       </div>
-      <div class="radar-legend-note mono">centre = engines agree · outer ring = max divergence (1.00)</div>
     </div>
   </section>
 
@@ -2713,15 +2733,16 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
         });
       })();
 
-      // --- Radar sweep · hover tooltip + click scroll to deep dive ---
+      // --- Strip plot · hover tooltip + click scroll to deep dive ---
       (function() {
-        var svg = document.querySelector('.radar-svg');
-        var tooltip = document.getElementById('radar-tooltip');
+        var svg = document.querySelector('.strip-svg');
+        var tooltip = document.getElementById('strip-tooltip');
         if (!svg || !tooltip) return;
-        var promptEl = tooltip.querySelector('.radar-tooltip-prompt');
-        var metaEl = tooltip.querySelector('.radar-tooltip-meta');
-        var linkEl = tooltip.querySelector('.radar-tooltip-link');
-        var activeDot = null;
+        var promptEl = tooltip.querySelector('.strip-tooltip-prompt');
+        var metaEl = tooltip.querySelector('.strip-tooltip-meta');
+        var linkEl = tooltip.querySelector('.strip-tooltip-link');
+        var activeBar = null;
+        var STRIP_VIEW_W = 1100;
 
         var silenceLabel = { 'active': 'active', 'own_only': 'own-only silence', 'full': 'full silence' };
         function reading(d) {
@@ -2731,13 +2752,13 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
           return 'engines aligned';
         }
 
-        function show(dot) {
-          var pid = dot.getAttribute('data-prompt-id');
-          var text = dot.getAttribute('data-prompt-text') || '';
-          var div = parseFloat(dot.getAttribute('data-div')) || 0;
-          var silence = dot.getAttribute('data-silence') || 'active';
-          var comp = dot.getAttribute('data-top-comp') || '';
-          var hasDD = dot.getAttribute('data-has-dd') === '1';
+        function show(bar) {
+          var pid = bar.getAttribute('data-prompt-id');
+          var text = bar.getAttribute('data-prompt-text') || '';
+          var div = parseFloat(bar.getAttribute('data-div')) || 0;
+          var silence = bar.getAttribute('data-silence') || 'active';
+          var comp = bar.getAttribute('data-top-comp') || '';
+          var hasDD = bar.getAttribute('data-has-dd') === '1';
 
           promptEl.textContent = '»' + text + '«';
           var parts = ['divergence ' + div.toFixed(2), reading(div), silenceLabel[silence] || silence];
@@ -2749,34 +2770,40 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
           var wrap = tooltip.parentElement;
           var wrapRect = wrap.getBoundingClientRect();
           var svgRect = svg.getBoundingClientRect();
-          var scale = svgRect.width / 600;
-          var cx = parseFloat(dot.getAttribute('cx'));
-          var cy = parseFloat(dot.getAttribute('cy'));
-          var left = (svgRect.left - wrapRect.left) + cx * scale;
-          var top = (svgRect.top - wrapRect.top) + cy * scale;
+          var scaleX = svgRect.width / STRIP_VIEW_W;
+          var scaleY = svgRect.height / 320;
+          var bx = parseFloat(bar.getAttribute('x'));
+          var by = parseFloat(bar.getAttribute('y'));
+          var bw = parseFloat(bar.getAttribute('width'));
+          var left = (svgRect.left - wrapRect.left) + (bx + bw / 2) * scaleX;
+          var top = (svgRect.top - wrapRect.top) + by * scaleY;
+          // Clamp inside the wrap so the tooltip never escapes left/right edge
+          var minLeft = 100;
+          var maxLeft = wrapRect.width - 100;
+          if (left < minLeft) left = minLeft;
+          if (left > maxLeft) left = maxLeft;
           tooltip.style.left = left + 'px';
           tooltip.style.top = top + 'px';
           tooltip.classList.add('is-visible');
           tooltip.setAttribute('aria-hidden', 'false');
 
-          if (activeDot && activeDot !== dot) activeDot.classList.remove('is-active');
-          dot.classList.add('is-active');
-          activeDot = dot;
+          if (activeBar && activeBar !== bar) activeBar.classList.remove('is-active');
+          bar.classList.add('is-active');
+          activeBar = bar;
         }
         function hide() {
           tooltip.classList.remove('is-visible');
           tooltip.setAttribute('aria-hidden', 'true');
-          if (activeDot) { activeDot.classList.remove('is-active'); activeDot = null; }
+          if (activeBar) { activeBar.classList.remove('is-active'); activeBar = null; }
         }
 
         svg.addEventListener('mouseover', function(e) {
           var t = e.target;
-          if (t && t.classList && t.classList.contains('radar-dot')) show(t);
+          if (t && t.classList && t.classList.contains('strip-bar')) show(t);
         });
         svg.addEventListener('mouseout', function(e) {
           var t = e.target;
-          if (t && t.classList && t.classList.contains('radar-dot')) {
-            // Keep visible if pointer moves into the tooltip link.
+          if (t && t.classList && t.classList.contains('strip-bar')) {
             var related = e.relatedTarget;
             if (related && tooltip.contains(related)) return;
             hide();
@@ -2786,19 +2813,16 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
 
         svg.addEventListener('click', function(e) {
           var t = e.target;
-          if (!t || !t.classList || !t.classList.contains('radar-dot')) return;
+          if (!t || !t.classList || !t.classList.contains('strip-bar')) return;
           var hasDD = t.getAttribute('data-has-dd') === '1';
           var pid = t.getAttribute('data-prompt-id');
           if (hasDD) { window.location.hash = 'deepdive-' + pid; }
           else { show(t); }
         });
 
-        // Tap-to-show on touch devices (first tap reveals tooltip, second tap on link navigates).
         svg.addEventListener('touchstart', function(e) {
           var t = e.target;
-          if (t && t.classList && t.classList.contains('radar-dot')) {
-            show(t);
-          }
+          if (t && t.classList && t.classList.contains('strip-bar')) show(t);
         }, { passive: true });
       })();
     })();
@@ -3044,65 +3068,56 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .filter-btn { font-family: var(--sans); font-size: 13px; font-weight: 500; padding: 9px 16px; background: var(--bg); border: 1px solid var(--rule); color: var(--ink-soft); cursor: pointer; transition: all 140ms ease; display: inline-flex; align-items: center; gap: 10px; letter-spacing: 0.01em; }
   .filter-btn:hover { border-color: var(--drift); color: var(--drift); background: var(--bg); }
   .filter-btn:hover .filter-count { color: var(--drift); }
-  .filter-btn.is-active { background: var(--drift); border-color: var(--drift); color: var(--bg); box-shadow: 0 2px 8px rgba(184, 74, 47, 0.2); }
+  .filter-btn.is-active { background: var(--drift); border-color: var(--drift); color: var(--bg); box-shadow: 0 2px 8px rgba(204, 122, 0, 0.22); }
   .filter-btn.is-active .filter-count { color: var(--bg); opacity: 0.85; background: rgba(247, 244, 238, 0.18); padding: 2px 6px; }
   .filter-count { font-size: 11px; color: var(--ink-mute); font-weight: 600; padding: 2px 6px; background: var(--bg-alt); transition: background 140ms ease; }
   .filter-btn:hover .filter-count { background: var(--bg-alt); }
 
-  /* Radar Sweep – dark-theme visualisation directly below the Hero */
-  .radar-section { background: radial-gradient(circle at 50% 40%, #14131a 0%, #09080c 70%); color: var(--bg); padding: 80px 0 64px; position: relative; }
-  .radar-section::before { content: ''; position: absolute; left: 0; right: 0; top: 0; height: 1px; background: linear-gradient(90deg, transparent 0%, rgba(107, 207, 169, 0.4) 50%, transparent 100%); }
-  .radar-section::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 1px; background: linear-gradient(90deg, transparent 0%, rgba(107, 207, 169, 0.2) 50%, transparent 100%); }
-  .radar-header { max-width: 780px; margin: 0 auto 40px; text-align: center; }
-  .radar-kicker { color: rgba(107, 207, 169, 0.85); letter-spacing: 0.14em; }
-  .radar-title { color: var(--bg); font-size: clamp(28px, 3.6vw, 36px); margin-top: 12px; }
-  .radar-dek { color: rgba(247, 244, 238, 0.72); max-width: 720px; margin: 14px auto 0; font-size: clamp(16px, 1.6vw, 18px); }
-  .radar-wrap { position: relative; max-width: 640px; margin: 0 auto; }
-  .radar-svg { width: 100%; height: auto; display: block; overflow: visible; }
-  .radar-ring { fill: none; stroke: rgba(107, 207, 169, 0.16); stroke-width: 1; }
-  .radar-ring-outer { stroke: rgba(107, 207, 169, 0.26); }
-  .radar-cross { stroke: rgba(107, 207, 169, 0.08); stroke-width: 1; stroke-dasharray: 2 6; }
-  .radar-ring-label { font-family: var(--mono); font-size: 9.5px; fill: rgba(107, 207, 169, 0.45); letter-spacing: 0.04em; text-anchor: start; }
-  .radar-sweep { transform-origin: 300px 300px; animation: radar-sweep-rot 14s linear infinite; }
-  @keyframes radar-sweep-rot { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-  @media (prefers-reduced-motion: reduce) { .radar-sweep { animation: none; opacity: 0.4; } }
-  .radar-center { fill: rgba(107, 207, 169, 0.95); filter: drop-shadow(0 0 6px rgba(107, 207, 169, 0.8)); }
-  .radar-center-pulse { fill: rgba(107, 207, 169, 0.3); animation: radar-center-pulse 2.4s ease-in-out infinite; transform-origin: 300px 300px; transform-box: fill-box; }
-  @keyframes radar-center-pulse { 0%, 100% { transform: scale(1); opacity: 0.55; } 50% { transform: scale(2.2); opacity: 0; } }
-  @media (prefers-reduced-motion: reduce) { .radar-center-pulse { animation: none; opacity: 0; } }
+  /* Strip plot – static FT-style visualisation directly below the Hero */
+  .strip-section { background: var(--bg-alt); padding: 64px 0 56px; position: relative; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+  .strip-header { max-width: 820px; margin: 0 auto 32px; text-align: center; }
+  .strip-kicker { color: var(--ink-mute); letter-spacing: 0.14em; }
+  .strip-title { font-size: clamp(24px, 3vw, 32px); margin-top: 10px; color: var(--ink); }
+  .strip-dek { color: var(--ink-soft); max-width: 760px; margin: 14px auto 0; font-size: clamp(15px, 1.5vw, 17px); font-style: normal; font-family: var(--sans); }
+  .strip-wrap { position: relative; max-width: 1100px; margin: 0 auto; padding: 0; }
+  .strip-svg { width: 100%; height: auto; display: block; }
+  .strip-axis { stroke: var(--ink); stroke-width: 1; }
+  .strip-guide line { stroke: var(--rule-strong); stroke-width: 1; stroke-dasharray: 2 4; }
+  .strip-guide-label { font-family: var(--mono); font-size: 11px; fill: var(--ink-soft); }
+  .strip-guide-label-soft { font-family: var(--sans); font-size: 10px; fill: var(--ink-mute); letter-spacing: 0.04em; text-transform: uppercase; }
+  .strip-axis-title { font-family: var(--sans); font-size: 10px; fill: var(--ink-mute); letter-spacing: 0.08em; text-transform: uppercase; }
+  .strip-axis-title-y { letter-spacing: 0.08em; }
+  .strip-rank-label { font-family: var(--mono); font-size: 10px; fill: var(--ink-mute); }
+  .strip-bar { cursor: pointer; transition: opacity 140ms ease; opacity: 0.94; }
+  .strip-bar:hover, .strip-bar.is-active { opacity: 1; stroke: var(--ink); stroke-width: 1.5; }
+  .strip-bar-drift { fill: var(--drift); }
+  .strip-bar-ownonly { fill: var(--drift); opacity: 0.78; }
+  .strip-bar-full { fill: var(--ink-mute); opacity: 0.7; }
+  .strip-bar-active { fill: var(--rule-strong); opacity: 0.6; }
 
-  .radar-dot { cursor: pointer; transition: r 160ms cubic-bezier(.2,.8,.2,1), filter 160ms ease; }
-  .radar-dot-drift { fill: #D4694A; filter: drop-shadow(0 0 5px rgba(212, 105, 74, 0.7)); }
-  .radar-dot-ownonly { fill: #E76F51; filter: drop-shadow(0 0 6px rgba(231, 111, 81, 0.8)); }
-  .radar-dot-full { fill: #8BA7B3; filter: drop-shadow(0 0 3px rgba(139, 167, 179, 0.5)); }
-  .radar-dot-active { fill: #8BC59C; filter: drop-shadow(0 0 3px rgba(139, 197, 156, 0.4)); }
-  .radar-dot:hover, .radar-dot.is-active { filter: drop-shadow(0 0 10px currentColor); }
-  .radar-dot:hover { r: 8; }
-  .radar-dot.is-active { r: 8; }
+  .strip-tooltip { position: absolute; pointer-events: none; background: var(--ink); border: 1px solid var(--ink); padding: 14px 18px 12px; max-width: 340px; color: var(--bg); font-family: var(--sans); opacity: 0; transition: opacity 140ms ease; transform: translate(-50%, calc(-100% - 14px)); z-index: 10; box-shadow: 0 8px 24px rgba(26, 22, 20, 0.28); }
+  .strip-tooltip.is-visible { opacity: 1; pointer-events: auto; }
+  .strip-tooltip::after { content: ''; position: absolute; left: 50%; bottom: -6px; width: 10px; height: 10px; background: var(--ink); border-right: 1px solid var(--ink); border-bottom: 1px solid var(--ink); transform: translateX(-50%) rotate(45deg); }
+  .strip-tooltip-prompt { font-family: var(--serif); font-style: italic; font-size: 14px; line-height: 1.45; color: var(--bg); }
+  .strip-tooltip-meta { font-family: var(--mono); font-size: 11px; color: rgba(247, 244, 238, 0.78); margin-top: 8px; line-height: 1.5; letter-spacing: 0.01em; }
+  .strip-tooltip-link { display: inline-block; margin-top: 10px; font-family: var(--sans); font-size: 11px; color: var(--drift); text-decoration: none; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 600; border-bottom: 1px solid currentColor; padding-bottom: 1px; pointer-events: auto; }
+  .strip-tooltip-link:hover { color: var(--bg); }
+  .strip-tooltip-link[hidden] { display: none; }
 
-  .radar-tooltip { position: absolute; pointer-events: none; background: rgba(10, 9, 14, 0.96); border: 1px solid rgba(107, 207, 169, 0.35); padding: 14px 18px 12px; max-width: 320px; color: var(--bg); font-family: var(--sans); opacity: 0; transition: opacity 140ms ease; transform: translate(-50%, calc(-100% - 14px)); z-index: 10; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5); }
-  .radar-tooltip.is-visible { opacity: 1; pointer-events: auto; }
-  .radar-tooltip::after { content: ''; position: absolute; left: 50%; bottom: -6px; width: 10px; height: 10px; background: rgba(10, 9, 14, 0.96); border-right: 1px solid rgba(107, 207, 169, 0.35); border-bottom: 1px solid rgba(107, 207, 169, 0.35); transform: translateX(-50%) rotate(45deg); }
-  .radar-tooltip-prompt { font-family: var(--serif); font-style: italic; font-size: 14px; line-height: 1.45; color: var(--bg); }
-  .radar-tooltip-meta { font-family: var(--mono); font-size: 11px; color: rgba(247, 244, 238, 0.7); margin-top: 8px; line-height: 1.5; letter-spacing: 0.01em; }
-  .radar-tooltip-link { display: inline-block; margin-top: 10px; font-family: var(--sans); font-size: 11px; color: #8BC59C; text-decoration: none; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 600; border-bottom: 1px solid currentColor; padding-bottom: 1px; pointer-events: auto; }
-  .radar-tooltip-link:hover { color: var(--bg); }
-  .radar-tooltip-link[hidden] { display: none; }
+  .strip-legend { display: flex; justify-content: center; flex-wrap: wrap; gap: 22px; margin-top: 28px; font-family: var(--sans); font-size: 13px; color: var(--ink-soft); }
+  .strip-legend-item { display: inline-flex; align-items: center; gap: 8px; }
+  .strip-legend-swatch { width: 14px; height: 14px; display: inline-block; border: 1px solid var(--rule-strong); }
+  .strip-legend-swatch-drift { background: var(--drift); border-color: var(--drift); }
+  .strip-legend-swatch-ownonly { background: var(--drift); border-color: var(--drift); opacity: 0.78; }
+  .strip-legend-swatch-full { background: var(--ink-mute); border-color: var(--ink-mute); opacity: 0.7; }
+  .strip-legend-swatch-active { background: var(--rule-strong); border-color: var(--rule-strong); opacity: 0.6; }
+  .strip-legend-count { color: var(--ink-mute); font-size: 11px; font-weight: 600; }
 
-  .radar-legend { display: flex; justify-content: center; flex-wrap: wrap; gap: 24px; margin-top: 36px; font-family: var(--sans); font-size: 13px; color: rgba(247, 244, 238, 0.75); }
-  .radar-legend-item { display: inline-flex; align-items: center; gap: 8px; }
-  .radar-legend-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
-  .radar-legend-dot-drift { background: #D4694A; box-shadow: 0 0 6px rgba(212, 105, 74, 0.7); }
-  .radar-legend-dot-ownonly { background: #E76F51; box-shadow: 0 0 6px rgba(231, 111, 81, 0.8); }
-  .radar-legend-dot-full { background: #8BA7B3; box-shadow: 0 0 4px rgba(139, 167, 179, 0.5); }
-  .radar-legend-dot-active { background: #8BC59C; box-shadow: 0 0 4px rgba(139, 197, 156, 0.4); }
-  .radar-legend-count { color: rgba(247, 244, 238, 0.55); font-size: 11px; }
-  .radar-legend-note { text-align: center; font-size: 11px; color: rgba(247, 244, 238, 0.45); margin-top: 10px; letter-spacing: 0.02em; }
-
-  @media (max-width: 600px) {
-    .radar-wrap { max-width: 100%; }
-    .radar-section { padding: 56px 0 40px; }
-    .radar-tooltip { max-width: 260px; font-size: 12.5px; padding: 10px 14px; }
+  @media (max-width: 720px) {
+    .strip-section { padding: 48px 0 40px; }
+    .strip-wrap { padding: 0 6px; }
+    .strip-tooltip { max-width: 260px; font-size: 12.5px; padding: 10px 14px; }
+    .strip-guide-label-soft { display: none; }
   }
 
   /* Legend box – shared across heatmap + deep-dive sections */
@@ -3473,7 +3488,7 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .brief-group summary::-webkit-details-marker { display: none; }
   .brief-group summary::before { content: '›'; font-family: var(--mono); font-weight: 700; font-size: 18px; color: var(--drift); transition: transform 120ms ease; }
   .brief-group[open] summary::before { transform: rotate(90deg); }
-  .brief-group-kind { font-family: var(--sans); font-size: 10px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--drift); padding: 3px 10px; background: rgba(184, 74, 47, 0.08); }
+  .brief-group-kind { font-family: var(--sans); font-size: 10px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--drift); padding: 3px 10px; background: var(--drift-soft); }
   .brief-group-title { font-family: var(--serif); font-weight: 700; font-size: 18px; color: var(--ink); flex: 1; }
   .brief-group-count { font-size: 12px; color: var(--ink-mute); }
   .brief-group[open] summary { border-bottom: 1px solid var(--rule); }

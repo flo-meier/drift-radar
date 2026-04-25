@@ -34,7 +34,7 @@ INK = colors.HexColor("#1A1614")
 INK_SOFT = colors.HexColor("#4A413B")
 INK_MUTE = colors.HexColor("#8A7F75")
 RULE = colors.HexColor("#D4CCBF")
-DRIFT = colors.HexColor("#B84A2F")
+DRIFT = colors.HexColor("#CC7A00")
 
 
 def slugify(text, max_len=48):
@@ -305,7 +305,7 @@ def export_content_brief(prompt, data, s):
 
             if per.get("caveat"):
                 story.append(Paragraph(
-                    f"<font color='#B84A2F'><i>Note: {clean_text(per['caveat'])}</i></font>",
+                    f"<font color='#CC7A00'><i>Note: {clean_text(per['caveat'])}</i></font>",
                     s["small"]))
         story.append(Spacer(1, 4))
 
@@ -406,7 +406,7 @@ def export_content_brief(prompt, data, s):
         moves.append(
             f"<b>Cross-engine lift.</b> You are visible on "
             f"<font color='#3E5C2E'>{', '.join(winning_engines)}</font> but invisible on "
-            f"<font color='#B84A2F'>{', '.join(silent_engines)}</font>. Replicate the winning "
+            f"<font color='#CC7A00'>{', '.join(silent_engines)}</font>. Replicate the winning "
             f"engine's source pattern: inspect <i>top_sources</i> in the raw MCP data for "
             f"this prompt, then pursue placements on those domains.")
 
@@ -446,7 +446,7 @@ SOURCE_LABELS = {
 SOURCE_COLORS = {
     "OWN": colors.HexColor("#3E5C2E"),
     "COMPETITOR": colors.HexColor("#8B5A2B"),
-    "EDITORIAL": colors.HexColor("#B84A2F"),
+    "EDITORIAL": colors.HexColor("#CC7A00"),
     "UGC": colors.HexColor("#C9A845"),
     "REFERENCE": colors.HexColor("#7A6D92"),
     "INSTITUTIONAL": colors.HexColor("#486E8E"),
@@ -831,7 +831,7 @@ def export_executive_summary(data, s):
         f"<font color='#3E5C2E'><b>{top_engine['nonzero']}</b></font> of "
         f"{top_engine['total']} prompts on {clean_text(top_engine['name'])}, "
         f"but only "
-        f"<font color='#B84A2F'><b>{bot_engine['nonzero']}</b></font> on "
+        f"<font color='#CC7A00'><b>{bot_engine['nonzero']}</b></font> on "
         f"{clean_text(bot_engine['name'])}. "
         f"Aggregate visibility spreads <b>{spread_label}</b> between the strongest and weakest engine."
     ) if top_engine and bot_engine else ""
@@ -1190,7 +1190,7 @@ def export_xlsx(data):
     wb = Workbook()
     header_font = Font(bold=True, color="FFFFFF")
     header_fill = PatternFill("solid", fgColor="1A1614")
-    accent_fill = PatternFill("solid", fgColor="B84A2F")
+    accent_fill = PatternFill("solid", fgColor="CC7A00")
 
     # --- Overview sheet -----------------------------------------------------
     ws = wb.active
