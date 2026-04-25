@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** low (Peec bucket)  ·  **Tags:** transactional, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -26,26 +26,6 @@
 - `emma-care.de` – CORPORATE, retrieved 17 % of chats
 - `equiva.com` – CORPORATE, retrieved 17 % of chats
 - `futterlegende.de` – REFERENCE, retrieved 17 % of chats
-
-## Search fan-out · behind this prompt
-
-The actual sub-queries and shopping lookups engines issued to answer this prompt. Every row is a content-anchor keyword or a product the brand needs to be listed next to.
-
-**Search queries** (1 total)
-
-- `pferdefutter natürlich mineralfutter pferd`
-
-**Products surfaced** (2 shopping lookups)
-
-- _heucobs pferd_ → Pre Alpin Wiesencobs BIO 20 kg
-- _pferdefutter natürlich mineralfutter pferd_ → Brennnessel Ergänzungsfutter, Brennnessel Ergänzungsfutter für Pferde, Himalaya Salzleckstein, Himalaya Salzleckstein für Pferde, Mineral Horse Food mit Biotin & Zink
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **EQUIVA Onlineshop** – _Other_, cited 0×, retrieved 1×  
-  `https://equiva.com/ratgeber/pferdefuetterung/mineralfutter-und-ergaenzungsfutter`
 
 ## Concrete moves
 

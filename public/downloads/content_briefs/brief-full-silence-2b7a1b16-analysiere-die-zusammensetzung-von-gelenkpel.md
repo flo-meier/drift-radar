@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.«
 
-**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** very low (Peec bucket)  ·  **Tags:** informational, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -29,15 +29,6 @@
 - `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
 - `foranequine.com` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – OTHER, retrieved 33 % of chats
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **Pellets für Pferde bequem online kaufen** – _Category page_, cited 1×, retrieved 1×  
-  `https://pferdefuttershop.de/Pferdefutter/Misch-Ergaenzungsfutter/Pellets`
-- **Pferdefutter für gesunde Gelenke online kaufen | HippoSport ®** – _Category page_, cited 0×, retrieved 1×  
-  `https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Sehnen-Gelenke`
 
 ## Concrete moves
 

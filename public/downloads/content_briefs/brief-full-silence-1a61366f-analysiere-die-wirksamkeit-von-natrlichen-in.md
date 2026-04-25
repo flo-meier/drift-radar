@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** low (Peec bucket)  ·  **Tags:** informational, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -29,14 +29,6 @@
 - `iwest.de` – CORPORATE, retrieved 22 % of chats
 - `annimally.de` – CORPORATE, retrieved 22 % of chats
 - `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 22 % of chats
-
-## Search fan-out · behind this prompt
-
-The actual sub-queries and shopping lookups engines issued to answer this prompt. Every row is a content-anchor keyword or a product the brand needs to be listed next to.
-
-**Search queries** (1 total)
-
-- `natürliche Inhaltsstoffe Magenpellets Pferd Wirkung Kamille Leinsamen Pferd Magen`
 
 ## Concrete moves
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** low (Peec bucket)  ·  **Tags:** informational, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -28,26 +28,6 @@
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 22 % of chats
 - `ipet.ch` – CORPORATE, retrieved 22 % of chats
-
-## Search fan-out · behind this prompt
-
-The actual sub-queries and shopping lookups engines issued to answer this prompt. Every row is a content-anchor keyword or a product the brand needs to be listed next to.
-
-**Search queries** (2 total)
-
-- `natürliche Nahrungsergänzungsmittel für Pferde empfehlenswert`
-- `natural supplements for horses beneficial which ones herbs vitamins horses`
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **Inhaltsstoffe im Ergänzungsfutter – Diese 10 sind wichtig | Pavo** – _Other_, cited 0×, retrieved 2×  
-  `https://pavo-futter.de/beratung/die-10-wichtigsten-inhaltsstoffe-im-erganzungsfutter-fur-pferde`
-- **Welches Mineralfutter für welches Pferd?** – _Article_, cited 0×, retrieved 1×  
-  `https://cavallo.de/medizin/welches-mineralfutter-fuer-welches-pferd`
-- **Ausgewählte Supplemente für dein Pferd** – _Category page_, cited 0×, retrieved 1×  
-  `https://pferdefutter.de/de/zusatzfutter-supplemente`
 
 ## Concrete moves
 

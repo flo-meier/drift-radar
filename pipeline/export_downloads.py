@@ -27,7 +27,7 @@ from reportlab.platypus import (
 
 ROOT = Path(__file__).parent
 UI_JSON = ROOT / "data" / "ui" / "drift_radar.json"
-OUT = ROOT.parent.parent / "04-deliverables" / "drift-radar-app" / "public" / "downloads"
+OUT = ROOT.parent / "public" / "downloads"
 BRIEFS = OUT / "content_briefs"
 
 INK = colors.HexColor("#1A1614")
@@ -92,6 +92,13 @@ def styles():
         "drift_number": ParagraphStyle(
             "drift_number", parent=ss["Normal"], fontName="Courier-Bold",
             fontSize=40, leading=44, textColor=DRIFT, spaceAfter=2,
+        ),
+        "tldr": ParagraphStyle(
+            "tldr", parent=ss["Normal"], fontName="Helvetica",
+            fontSize=10.5, leading=15, textColor=INK,
+            backColor=colors.HexColor("#F4F4F2"),
+            borderColor=colors.HexColor("#B5B2AB"), borderWidth=0.5, borderPadding=10,
+            spaceBefore=4, spaceAfter=4,
         ),
     }
 
@@ -805,6 +812,7 @@ def export_executive_summary(data, s):
     max_avg = max((e["avg"] for e in eng), default=0)
     min_avg = min((e["avg"] for e in eng), default=0)
     spread_ratio = (max_avg / min_avg) if min_avg > 0 else float("inf")
+    spread_label = "∞×" if spread_ratio == float("inf") else f"{spread_ratio:.1f}×"
     bar_scale = max(max_avg * 1.15, 0.10)
 
     story.append(Paragraph(
@@ -812,6 +820,22 @@ def export_executive_summary(data, s):
         s["kicker"]))
     story.append(strong_rule())
     story.append(Spacer(1, 8))
+    # Forwarding-line TL;DR – the single sentence a CMO can paste into an email subject.
+    own_sil = data['summary']['own_silence_count']
+    total = data['summary']['total_prompts']
+    own_sil_pct = data['summary'].get('own_silence_percent') or round(own_sil / total * 100) if total else 0
+    drifting = data['summary']['high_divergence_count']
+    tldr_line = (
+        f"<b>TL;DR.</b> Across {total} tracked prompts and "
+        f"{len(data['active_models'])} AI engines, {brand} is absent on every engine "
+        f"in <b>{own_sil}</b> prompts ({own_sil_pct:.0f} %), "
+        f"<b>{drifting}</b> prompts drift between engines, and engine visibility spreads "
+        f"<b>{spread_label}</b> between strongest and weakest. "
+        f"Pages 2 – 3 list the 5 highest-priority risks, the 5 first-mover opportunities, "
+        f"and the divergence-score distribution."
+    )
+    story.append(Paragraph(tldr_line, s["tldr"]))
+    story.append(Spacer(1, 12))
     story.append(Paragraph(
         f"Drift Radar – {brand}", s["hero"]))
     story.append(Paragraph(
@@ -824,7 +848,6 @@ def export_executive_summary(data, s):
     # --- Engine-split hero --------------------------------------------------
     top_engine = max(eng, key=lambda e: e["avg"]) if eng else None
     bot_engine = min(eng, key=lambda e: e["avg"]) if eng else None
-    spread_label = "∞×" if spread_ratio == float("inf") else f"{spread_ratio:.1f}×"
     hero_line = (
         f"<b>Same brand. Same 50 questions. Three engine narratives.</b> "
         f"{brand} shows up in "
@@ -1226,6 +1249,50 @@ def export_xlsx(data):
                 cell.font = Font(bold=True, size=14)
     ws.column_dimensions['A'].width = 42
     ws.column_dimensions['B'].width = 42
+
+    # --- Read me sheet (column conventions, Wilson CI, format notes) -------
+    ws_rm = wb.create_sheet("Read me", 1)
+    rm_rows = [
+        ["Drift Radar workbook – read this first", ""],
+        ["", ""],
+        ["Visibility & Wilson columns", "All visibility_*, wilson_lo_*, wilson_hi_*, mean_visibility, range_visibility, "
+                                         "and competitor_* columns are 0–1 ratios. Multiply by 100 for percent display, "
+                                         "or apply Excel format »0%« to the columns."],
+        ["divergence_score", "0.7 × range(visibility) + 0.3 × clamp(CV, 0, 2) / 2. "
+                             "Bounded in [0, 1]. ≥ 0.30 is the »drifting« shortlist."],
+        ["wilson_lo_<engine> · wilson_hi_<engine>", "Wilson 95 % confidence interval [lower, upper] for "
+                                                     "the visibility point estimate, computed over the sampled chat count "
+                                                     "(typically N = 3 for a 3-day window). Wide intervals are honest, "
+                                                     "not noise – Peec samples once per engine per day."],
+        ["silence_type", "own_only = brand absent on every engine, at least one competitor cited; "
+                         "full = no tracked brand mentioned on any engine. Empty = active (drifting or aligned)."],
+        ["competitor_<brand>", "Wide-format max-visibility per competitor (one column per tracked competitor). "
+                                "For pivot work, consider the long-format helper drift_radar.csv or "
+                                "drift_radar.json."],
+        ["competitor_<brand>_<engine>", "Per-engine competitor visibility for fine-grained pivots. 0 = absent."],
+        ["top_competitors", "Pre-formatted comma-separated string of the top 5 cited competitors with peak "
+                            "visibility – ready for paste into a deck or report."],
+        ["gap_urls_top3", "Pipe-separated URLs that engines cited next to competitors but not next to "
+                          "the brand. The earned-placement target list."],
+        ["", ""],
+        ["Sheet map", ""],
+        ["Overview", "Headline KPIs and per-engine averages."],
+        ["All prompts", "Master row-per-prompt with full Wilson CI + competitor matrix."],
+        ["Drifting", "Filter: divergence_score ≥ 0.30."],
+        ["Own-only silence", "Filter: silence_type = own_only."],
+        ["Full silence", "Filter: silence_type = full."],
+        ["Source mix", "Per-prompt domain-class share of all retrieved citations."],
+    ]
+    for r, row in enumerate(rm_rows, start=1):
+        for c, v in enumerate(row, start=1):
+            cell = ws_rm.cell(row=r, column=c, value=v)
+            if r == 1:
+                cell.font = Font(bold=True, size=14)
+            elif c == 1 and v and r > 1:
+                cell.font = Font(bold=True)
+            cell.alignment = Alignment(wrap_text=True, vertical="top")
+    ws_rm.column_dimensions['A'].width = 38
+    ws_rm.column_dimensions['B'].width = 90
 
     # --- Master prompts sheet ----------------------------------------------
     competitors = data.get("competitors") or []

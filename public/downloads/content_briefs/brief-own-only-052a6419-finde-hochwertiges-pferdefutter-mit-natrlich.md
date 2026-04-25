@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
-**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** low (Peec bucket)  ·  **Tags:** transactional, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -32,21 +32,6 @@
 - `mypferdefutter.de` – CORPORATE, retrieved 17 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 17 % of chats
 - `pferdy.de` – EDITORIAL, retrieved 17 % of chats
-
-## Search fan-out · behind this prompt
-
-The actual sub-queries and shopping lookups engines issued to answer this prompt. Every row is a content-anchor keyword or a product the brand needs to be listed next to.
-
-**Search queries** (1 total)
-
-- `hochwertiges Pferdefutter natürliche Inhaltsstoffe beste Pferdefutter Deutschland ohne Getreide Pferdefutter bio Pferd`
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **Bio Pferdefutter günstig kaufen - Die besten 10 Produkte** – _Other_, cited 0×, retrieved 1×  
-  `https://pferdy.de/bio-pferdefutter`
 
 ## Concrete moves
 

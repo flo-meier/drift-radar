@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_ec467175-1c22-4484-8f1d-d818f7b40a5e`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** low (Peec bucket)  ·  **Tags:** transactional, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_ec467175-1c22-4484-8f1d-d818f7b40a5e`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -34,17 +34,6 @@
 - `hypona.ch` – OTHER, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `ipet.ch` – CORPORATE, retrieved 22 % of chats
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **NervControl 3 kg** – _Product page_, cited 1×, retrieved 3×  
-  `https://equusvitalis.ch/de-CH/pavo/nervcontrol`
-- **Pferdefutter für Stress & Nervosität - Ergänzungsfutter bei Reitsport.ch** – _Other_, cited 0×, retrieved 1×  
-  `https://reitsport.ch/pferdefutter/ergaenzungsfutter/stress-nervositaet`
-- **IWEST Magnoquiet** – _Other_, cited 0×, retrieved 1×  
-  `https://cavale-schweiz.ch/product?magnoflexal2=`
 
 ## Concrete moves
 

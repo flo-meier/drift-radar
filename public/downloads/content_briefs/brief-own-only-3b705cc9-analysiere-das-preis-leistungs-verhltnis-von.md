@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** low (Peec bucket)  ·  **Tags:** informational, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -35,32 +35,6 @@
 - `hs-osnabrueck.de` – OTHER, retrieved 25 % of chats
 - `kaaloon.de` – CORPORATE, retrieved 25 % of chats
 - `opti-ration.de` – CORPORATE, retrieved 25 % of chats
-
-## Search fan-out · behind this prompt
-
-The actual sub-queries and shopping lookups engines issued to answer this prompt. Every row is a content-anchor keyword or a product the brand needs to be listed next to.
-
-**Search queries** (4 total)
-
-- `pferdefutter deutschland preis leistung analyse`
-- `Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter Pferdefutter Deutschland Preis Leistung`
-- `horse feed made in Germany cost quality horse feed Germany pricing horse feed analysis`
-- `Pferdefutter Deutschland Preis Leistung Vergleich`
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **Pferdefutter (2026) zum Bestpreis \| idealo.de** – _Category page_, cited 7×, retrieved 3×  
-  `https://idealo.de/preisvergleich/ProductCategory/25956.html`
-- **Futtermittel für Pferde günstig kaufen » ab 13,90 €** – _Comparison_, cited 4×, retrieved 2×  
-  `https://kaaloon.de/futtermittel-fuer-pferde`
-- **Pferdefutter (2026) zum Bestpreis \| idealo.de** – _Category page_, cited 0×, retrieved 3×  
-  `https://idealo.de/preisvergleich/ProductCategory/25956F106980893.html`
-- **Pferdefutter (2026) zum Bestpreis \| idealo.de** – _Category page_, cited 0×, retrieved 2×  
-  `https://idealo.de/preisvergleich/ProductCategory/25956F101320646.html`
-- **Pferdefutter** – _Other_, cited 0×, retrieved 1×  
-  `https://hawobe.de/pferdefutter-test`
 
 ## Concrete moves
 

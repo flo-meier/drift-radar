@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in Deutschland gesundes Pferdefutter?«
 
-**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** medium (Peec bucket)  ·  **Tags:** transactional, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -36,21 +36,6 @@
 - `loesdau.de` – CORPORATE, retrieved 33 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `okapi-online.de` – CORPORATE, retrieved 33 % of chats
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **Futter für dein Pferd bestellen** – _Homepage_, cited 1×, retrieved 3×  
-  `https://pferdefutter.de`
-- **Top Pferdefutter Marken hier entdecken** – _Category page_, cited 1×, retrieved 1×  
-  `https://pferdefuttershop.de/Marken`
-- **Pferdefutter von Pavo - für die Gesundheit deines Pferdes!** – _Homepage_, cited 0×, retrieved 2×  
-  `https://pavo-futter.de`
-- **Hochwertiges Pferdefutter von KOROS: Natürliche Ernährung für gesunde Pferde** – _Homepage_, cited 0×, retrieved 1×  
-  `https://pferdefutter-koros.de`
-- **Pferdgerecht Futter Natur 15 kg** – _Product page_, cited 0×, retrieved 1×  
-  `https://stroeh.de/shop/Pferdefutter/Misch-Ergaenzungsfuttermittel/Getreidefrei/Pferdgerecht-Futter-Natur-15-kg`
 
 ## Concrete moves
 

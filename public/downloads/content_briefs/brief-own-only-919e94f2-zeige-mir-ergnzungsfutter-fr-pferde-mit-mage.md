@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** low (Peec bucket)  ·  **Tags:** transactional, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -30,19 +30,6 @@
 - `equine74.com` – CORPORATE, retrieved 17 % of chats
 - `german-horse-fit.de` – CORPORATE, retrieved 17 % of chats
 - `globalmedics.be` – CORPORATE, retrieved 17 % of chats
-
-## Search fan-out · behind this prompt
-
-The actual sub-queries and shopping lookups engines issued to answer this prompt. Every row is a content-anchor keyword or a product the brand needs to be listed next to.
-
-**Search queries** (1 total)
-
-- `pferd magen unterstützung niederlande`
-
-**Products surfaced** (2 shopping lookups)
-
-- _horse gastric supplement netherlands_ → Equine 74 Gastric, Lexa Gastro Akut, Pavo GastriCover
-- _pferd magen unterstützung niederlande_ → HorseFlex Magen Balance, Synovium Gastrosafe
 
 ## Concrete moves
 

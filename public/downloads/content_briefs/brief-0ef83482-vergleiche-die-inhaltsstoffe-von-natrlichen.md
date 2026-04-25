@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** low (Peec bucket)  ·  **Tags:** informational, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -66,31 +66,6 @@ _No claims overlap across two or more engines. Every engine answers with its own
 - `inropharm.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `krauterie.de` – CORPORATE, retrieved 33 % of chats
-
-## Search fan-out · behind this prompt
-
-The actual sub-queries and shopping lookups engines issued to answer this prompt. Every row is a content-anchor keyword or a product the brand needs to be listed next to.
-
-**Search queries** (1 total)
-
-- `natürliche Nervenpellets Pferd Inhaltsstoffe beruhigung Pferd Ergänzungsfutter Vergleich Inhaltsstoffe magnesium tryptophan baldrian pferd pellets`
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **Nervöse und dünne Pferde mit dem richtigen Futter unterstützen** – _How-to guide_, cited 2×, retrieved 3×  
-  `https://pavo-futter.de/beratung/futterung-von-nervosen-dunnen-pferden`
-  > Häufig erreicht uns in der Pavo Fütterungsberatung die Frage nach der richtigen Fütterung von nervösen und dünnen Pferden. Wichtig ist hierbei herauszufinden, warum oder worauf dein Pferd besonders nervös und unkonzentriert reagiert. Auf den entsprechenden Auslöser gilt es dann einzugehen. Auch ein angepasstes Futter oder Ergänzungsfuttermittel kann dein Pferd dabei unterstützen, seine innere Ruhe auf natürliche Weise wiederherzustellen. Auch die Fütterung kann einen bedeutenden Einfluss auf die Ausgeglichenheit deines Pferdes haben. Sowohl ein Mangel als auch ein Überschuss an Nährstoffen kann das Verhalten von Pferden verändern.
-  **Why it ranks.** Pavo frames nervous horses as a diagnostic problem first (trigger, posture, feed imbalance) and only then recommends its product. The article ranks because it answers the symptom question before recommending anything.
-- **Futter für nervöse Pferde online kaufen  | HippoSport ®** – _How-to guide_, cited 1×, retrieved 2×  
-  `https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Nervositaet`
-- **Fütterungstipps für starke Nerven beim Pferd** – _Category page_, cited 0×, retrieved 2×  
-  `https://st-hippolyt.de/wissen/wissenwertes/fuetterungstipps-fuer-starke-nerven-beim-pferd`
-- **Calming Supplements for Horses - Nutrition Information | Equine Feed Database** – _Other_, cited 0×, retrieved 1×  
-  `https://madbarn.com/feed-types/calming-supplement`
-- **Anti-Stress Herbal Pellets (St.Hippolyt) - Equine Nutrition Analysis | Feed Bank** – _Other_, cited 0×, retrieved 1×  
-  `https://madbarn.com/feeds/anti-stress-herbal-pellets-st-hippolyt`
 
 ## Concrete moves
 

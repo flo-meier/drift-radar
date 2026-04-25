@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** very low (Peec bucket)  ·  **Tags:** transactional, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -31,22 +31,6 @@
 - `allgaier-agrarhandel.de` – CORPORATE, retrieved 33 % of chats
 - `allwin-shop.de` – OTHER, retrieved 33 % of chats
 - `discountfutter.shop` – OTHER, retrieved 33 % of chats
-
-## Search fan-out · behind this prompt
-
-The actual sub-queries and shopping lookups engines issued to answer this prompt. Every row is a content-anchor keyword or a product the brand needs to be listed next to.
-
-**Search queries** (3 total)
-
-- `magenpellets ohne zuckerzusatz`
-- `Magenpellets ohne Zuckerzusatz Pferd`
-- `Magenpellets ohne Zuckerzusatz`
-
-**Products surfaced** (5 shopping lookups)
-
-- _magenpellets ohne zuckerzusatz_ → HAWLIK TriProtect Gastrointestinal, MagenWohl Kräuterpellets, Robert Franz Magen & Darm Pellets
-- _magengeschwür pellet pferd ohne zucker_ → Magen Kit Pellets, Magenwohl Kräuterpellets, NAF Gastrivet Pellets
-- _magenpellets ohne zuckerzusatz pferd_ → Equine 74 Gastric Pellets
 
 ## Concrete moves
 

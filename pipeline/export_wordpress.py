@@ -139,6 +139,27 @@ def render_body_html(p, own, active_models):
     return "\n".join(lines)
 
 
+def build_excerpt(p, active_models):
+    """Reader-friendly 1-2 sentence excerpt for archive pages and feed previews."""
+    sample = p.get("chat_sample") or {}
+    narrative = (sample.get("narrative") or "").strip()
+    if narrative:
+        # Cap so theme archive cards don't blow out their layout.
+        return narrative if len(narrative) <= 240 else narrative[:237].rstrip() + "…"
+    vb = p.get("visibility_by_model") or {}
+    carriers = [m["name"] for m in active_models if (vb.get(m["id"], 0) or 0) > 0]
+    silent = [m["name"] for m in active_models if (vb.get(m["id"], 0) or 0) == 0]
+    score = p.get("divergence_score", 0)
+    if carriers and silent:
+        return (
+            f"Visible on {', '.join(carriers)}, silent on {', '.join(silent)}. "
+            f"Divergence score {score:.2f}."
+        )
+    if not carriers:
+        return f"Brand silent on every active engine. Divergence score {score:.2f}."
+    return f"Visible on every active engine. Divergence score {score:.2f}."
+
+
 def item_xml(p, own, active_models, idx, pub_date, post_date):
     post_id = 1000 + idx
     prompt_text = p.get("prompt_text", "")
@@ -146,6 +167,7 @@ def item_xml(p, own, active_models, idx, pub_date, post_date):
     slug = slugify(f"drift-{(p.get('prompt_id', '') or '').replace('pr_', '')}-{prompt_text}")
     guid = f"{SITE}/?drift_radar_brief={post_id}"
     silence = p.get("silence_type") or "active"
+    excerpt_text = build_excerpt(p, active_models)
 
     tags = [silence.replace("_", "-")]
     vb = p.get("visibility_by_model") or {}
@@ -163,15 +185,12 @@ def item_xml(p, own, active_models, idx, pub_date, post_date):
     a(f"    <title>{escape(title)}</title>")
     a(f"    <link>{SITE}/?p={post_id}</link>")
     a(f"    <pubDate>{pub_date}</pubDate>")
-    a("    <dc:creator><![CDATA[drift-radar-bot]]></dc:creator>")
+    # No dc:creator – the WP importer assigns the importing user as author,
+    # so the editor doesn't have to mass-reassign 28 drafts post-import.
     a(f'    <guid isPermaLink="false">{guid}</guid>')
     a("    <description></description>")
     a(f"    <content:encoded><![CDATA[{body}]]></content:encoded>")
-    a(
-        f"    <excerpt:encoded><![CDATA[Divergence "
-        f"{p.get('divergence_score', 0):.2f} · "
-        f"{SILENCE_LABELS.get(silence, silence)}]]></excerpt:encoded>"
-    )
+    a(f"    <excerpt:encoded><![CDATA[{excerpt_text}]]></excerpt:encoded>")
     a(f"    <wp:post_id>{post_id}</wp:post_id>")
     a(f"    <wp:post_date><![CDATA[{post_date}]]></wp:post_date>")
     a(f"    <wp:post_date_gmt><![CDATA[{post_date}]]></wp:post_date_gmt>")
@@ -240,14 +259,8 @@ def build_wxr():
         "  <wp:wxr_version>1.2</wp:wxr_version>",
         f"  <wp:base_site_url>{SITE}</wp:base_site_url>",
         f"  <wp:base_blog_url>{SITE}</wp:base_blog_url>",
-        "  <wp:author>",
-        "    <wp:author_id>1</wp:author_id>",
-        "    <wp:author_login><![CDATA[drift-radar-bot]]></wp:author_login>",
-        "    <wp:author_email><![CDATA[noreply@drift-radar.pages.dev]]></wp:author_email>",
-        "    <wp:author_display_name><![CDATA[Drift Radar]]></wp:author_display_name>",
-        "    <wp:author_first_name><![CDATA[Drift]]></wp:author_first_name>",
-        "    <wp:author_last_name><![CDATA[Radar]]></wp:author_last_name>",
-        "  </wp:author>",
+        # No <wp:author> – the WP importer prompts the admin to assign all
+        # imported posts to an existing user, defaulting to themselves.
         "  <wp:category>",
         "    <wp:term_id>100</wp:term_id>",
         "    <wp:category_nicename><![CDATA[drift-radar]]></wp:category_nicename>",

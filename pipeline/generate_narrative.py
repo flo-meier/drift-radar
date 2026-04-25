@@ -92,6 +92,22 @@ def diff_runs(current, previous):
 
 def baseline_facts(current):
     s = current.get("summary", {})
+    models = current.get("active_models", [])
+    id_to_name = {m["id"]: m["name"] for m in models}
+    top5 = []
+    for p in current.get("prompts", [])[:5]:
+        vis = p.get("visibility_by_model") or {}
+        carriers = [(id_to_name.get(mid, mid), v) for mid, v in vis.items() if (v or 0) > 0]
+        silent = [id_to_name.get(mid, mid) for mid, v in vis.items() if (v or 0) == 0]
+        # Sort carriers by visibility desc so the lead engine reads first.
+        carriers.sort(key=lambda r: -r[1])
+        top5.append({
+            "prompt_text": p["prompt_text"],
+            "score": p["divergence_score"],
+            "silence_type": p.get("silence_type"),
+            "carriers": carriers,
+            "silent_engines": silent,
+        })
     return {
         "total_prompts": s.get("total_prompts", 0),
         "drifting_count": s.get("high_divergence_count", 0),
@@ -99,11 +115,8 @@ def baseline_facts(current):
         "full_silence_count": s.get("full_silence_count", 0),
         "avg_own_visibility": s.get("avg_own_visibility", 0),
         "date_range": current.get("date_range", {}),
-        "active_models": [m["name"] for m in current.get("active_models", [])],
-        "top_drifting_prompts": [
-            {"prompt_text": p["prompt_text"], "score": p["divergence_score"]}
-            for p in current.get("prompts", [])[:5]
-        ],
+        "active_models": [m["name"] for m in models],
+        "top_drifting_prompts": top5,
     }
 
 
@@ -191,11 +204,7 @@ def fallback_narrative(current, diff):
             "",
             "First run – no previous snapshot to compare against. Next run will report movement.",
             "",
-            "## Top drifting prompts",
-            "",
         ])
-        for p in facts["top_drifting_prompts"]:
-            lines.append(f"- {p['score']:.2f} – »{p['prompt_text']}«")
     else:
         lines.append("## Movement vs previous run")
         lines.append("")
@@ -214,10 +223,33 @@ def fallback_narrative(current, diff):
             lines.append("")
             for p in diff["silence_changed"][:6]:
                 lines.append(f"- {p['silence_prev']} → {p['silence_now']}: »{p['prompt_text']}«")
+            lines.append("")
+
+    # Top-drifting list always present so the report is useful even when nothing moved.
+    lines.append("## Top drifting prompts")
+    lines.append("")
+    for p in facts["top_drifting_prompts"]:
+        carriers = p.get("carriers") or []
+        silent = p.get("silent_engines") or []
+        if carriers:
+            lead_name, lead_vis = carriers[0]
+            lead_pct = round(lead_vis * 100)
+            if silent:
+                hint = f"{lead_name} leads at {lead_pct} %, silent on {', '.join(silent)}"
+            else:
+                hint = f"{lead_name} leads at {lead_pct} %"
+        elif silent:
+            hint = f"silent on {', '.join(silent)}"
+        else:
+            hint = ""
+        line = f"- {p['score']:.2f} – »{p['prompt_text']}«"
+        if hint:
+            line += f"  \n  _{hint}_"
+        lines.append(line)
     lines.append("")
     lines.append("---")
     lines.append("")
-    lines.append(f"*Generated: {datetime.utcnow().isoformat(timespec='seconds')}Z · fallback writer (no API key set)*")
+    lines.append(f"*Generated: {datetime.utcnow().isoformat(timespec='seconds')}Z*")
     return "\n".join(lines)
 
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** low (Peec bucket)  ·  **Tags:** transactional, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -33,25 +33,6 @@
 - `emma-care.de` – CORPORATE, retrieved 17 % of chats
 - `equiva.com` – CORPORATE, retrieved 17 % of chats
 - `hipposport.de` – CORPORATE, retrieved 17 % of chats
-
-## Search fan-out · behind this prompt
-
-The actual sub-queries and shopping lookups engines issued to answer this prompt. Every row is a content-anchor keyword or a product the brand needs to be listed next to.
-
-**Search queries** (1 total)
-
-- `Ergänzungsfutter Pferd Mineralfutter Elektrolyte Pferd Beispiele beste Ergänzungsfutter Pferd`
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **EQUIVA Onlineshop** – _Other_, cited 2×, retrieved 1×  
-  `https://equiva.com/ratgeber/pferdefuetterung/mineralfutter-und-ergaenzungsfutter`
-- **Elektrolyte für Pferde im Pferdefuttershop online kaufen** – _Category page_, cited 0×, retrieved 1×  
-  `https://pferdefuttershop.de/Pferdefutter/Mineralien-Supplemente/Elektrolyte`
-- **Inhaltsstoffe im Ergänzungsfutter – Diese 10 sind wichtig | Pavo** – _Listicle_, cited 0×, retrieved 1×  
-  `https://pavo-futter.de/beratung/die-10-wichtigsten-inhaltsstoffe-im-erganzungsfutter-fur-pferde`
 
 ## Concrete moves
 

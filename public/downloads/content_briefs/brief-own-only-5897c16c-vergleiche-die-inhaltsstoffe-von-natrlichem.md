@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** low (Peec bucket)  ·  **Tags:** informational, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -33,21 +33,6 @@
 - `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 22 % of chats
 - `hipposport.de` – CORPORATE, retrieved 22 % of chats
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **Freizeitpferde bedarfsgerecht füttern | Pavo** – _Article_, cited 2×, retrieved 2×  
-  `https://pavo-futter.de/beratung/energie-im-futter-fuer-freizeitpferde`
-- **Einzelfuttermittel für Pferde online kaufen | Individuell füttern** – _Category page_, cited 1×, retrieved 1×  
-  `https://pferdefuttershop.de/Pferdefutter/Getreide-Einzelfutter`
-- **Zusatzfutter zum Knochenaufbau beim Pferd online kaufen** – _Category page_, cited 1×, retrieved 1×  
-  `https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung/Gelenke-Knochen-Sehnen`
-- **Getreidefreies Pferdefutter günstig kaufen bei HippoSport®** – _Other_, cited 1×, retrieved 1×  
-  `https://hipposport.de/Pferdefutter-Kraftfutter-Getreidefreies-Pferdefutter`
-- **Natürliches Fressverhalten fördert Pferdegesundheit | Pavo** – _Other_, cited 1×, retrieved 1×  
-  `https://pavo-futter.de/beratung/naturliches-fressverhalten-des-pferdes`
 
 ## Concrete moves
 

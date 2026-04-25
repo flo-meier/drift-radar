@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** low (Peec bucket)  ·  **Tags:** informational, non-branded  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
 
 ## Engine visibility
 
@@ -30,17 +30,6 @@
 - `madbarn.com` – CORPORATE, retrieved 22 % of chats
 - `metazoa.nl` – OTHER, retrieved 22 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 22 % of chats
-
-## URL gap · cited for competitors, not for you
-
-Source URLs engines retrieved and cited next to competitor answers, but never next to the brand. Each row is an earned-placement target.
-
-- **Inhaltsstoffe im Ergänzungsfutter – Diese 10 sind wichtig | Pavo** – _Listicle_, cited 0×, retrieved 2×  
-  `https://pavo-futter.de/beratung/die-10-wichtigsten-inhaltsstoffe-im-erganzungsfutter-fur-pferde`
-- **Welche Rohstoffe im Pferdefutter enthalten sein können | Pavo** – _Other_, cited 0×, retrieved 1×  
-  `https://aut.pavo.net/beratung/rohstoffe-im-pferdefutter`
-- **Proteinreiches Pferdefutter | Für Muskelaufbau & Zucht** – _Category page_, cited 0×, retrieved 1×  
-  `https://pferdefuttershop.de/Pferdefutter/Eigenschaften/Proteinreich`
 
 ## Concrete moves
 

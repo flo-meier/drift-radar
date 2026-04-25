@@ -10,6 +10,8 @@ import narrativeLatest from '../data/narrative_latest.md?raw';
 
 const { project, own_brand, date_range, active_models, competitors, summary, prompts, source_overview, source_classifications } = data as any;
 const peecTopActions = (peecActions as any).top_actions || [];
+const SITE_URL = 'https://drift-radar.pages.dev';
+function deepDiveUrl(promptId: string): string { return `${SITE_URL}/#deepdive-${promptId}`; }
 
 // Parse the weekly narrative markdown for the Overview teaser card.
 // Tiny markdown subset: H1, H2, H3, paragraphs, bullet lists, italics, strong.
@@ -324,7 +326,8 @@ function buildMarkdown(p: any): string {
     lines.push('');
   }
   lines.push('---');
-  lines.push(`Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #BuiltWithPeec`);
+  lines.push(`> **Source:** [Drift Radar deep dive ↗](${deepDiveUrl(p.prompt_id)})`);
+  lines.push(`Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #BuiltWithPeec`);
   return lines.join('\n');
 }
 
@@ -340,6 +343,17 @@ function buildSlackText(p: any): string {
     `${own_brand} absent on: ${absent.length ? absent.join(', ') : '_none_'}`,
   ];
   if (tc) lines.push(`Top competitor cited instead: ${tc.brand_name} (${Math.round(tc.max_visibility * 100)}%)`);
+  // Two short, silence-type-aware action bullets so the Slack reader has a next move.
+  let actions: string[];
+  if (p.silence_type === 'own_only') {
+    actions = ['Audit competitor sources cited by the winning engines', 'Publish a head-to-head comparison page'];
+  } else if (p.silence_type === 'full') {
+    actions = ['Draft a category-explainer that answers the prompt on-page', 'Pitch the explainer to one editorial outlet engines already cite'];
+  } else {
+    actions = ['Identify which engine carries the brand and which does not', 'Stabilise the weak engine: product page, structured data, citation gap'];
+  }
+  lines.push(`Next: • ${actions[0]}  • ${actions[1]}`);
+  lines.push(`↳ Deep dive: ${deepDiveUrl(p.prompt_id)}`);
   lines.push(`Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar #BuiltWithPeec`);
   return lines.join('\n');
 }
@@ -348,6 +362,7 @@ function buildClaudePromptText(p: any): string {
   const visMap = p.visibility_by_model || {};
   const visLines = active_models.map((m: any) => `- ${m.name}: ${Math.round((visMap[m.id] ?? 0) * 100)}%`).join('\n');
   const narrative = (p.chat_sample || {}).narrative || '';
+  const narrativeBlock = narrative ? `Cross-model narrative: ${narrative}\n\n` : '';
   return `Here is AI-search drift data for one of my tracked prompts, pulled from Peec AI MCP over ${date_range.start} – ${date_range.end}.
 
 Prompt: »${p.prompt_text}«
@@ -356,14 +371,14 @@ Silence type: ${p.silence_type || 'none'}
 Own-brand visibility per engine:
 ${visLines}
 
-Cross-model narrative: ${narrative}
-
-Please write me a 500-word content brief for this prompt that:
+${narrativeBlock}Please write me a 500-word content brief for this prompt that:
 1. Names the stable concepts all engines agree on – these become the content anchors.
 2. Identifies the divergent concepts – where the engines disagree, and what each one claims.
 3. Lists 3 concrete content moves (own, editorial, citable) to close the gap and gain visibility on the engines where the brand is silent.
 
-Brand: ${own_brand}. Language: match the source prompt.`;
+Brand: ${own_brand}. Language: match the source prompt.
+
+For the full deep-dive data (engine-by-engine claims, source mix, gap URLs): ${deepDiveUrl(p.prompt_id)}`;
 }
 
 function buildLinearDescription(p: any): string {
@@ -413,6 +428,8 @@ Cited instead: ${tc}
 
 Action:
 ${actionLines}
+
+Reference: [Drift Radar deep dive](${deepDiveUrl(p.prompt_id)})
 
 Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar #BuiltWithPeec`;
 }
