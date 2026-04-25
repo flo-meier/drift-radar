@@ -125,8 +125,10 @@ def fetch(prompts: list[dict[str, Any]]) -> dict[str, Any]:
         "property_url": None,
         "note": (
             "Demo data seeded deterministically from Peec prompt_id. "
-            "Set GSC_SERVICE_ACCOUNT_JSON and GSC_PROPERTY_URL in the repo "
-            "Secrets to replace with live Google Search Console data."
+            "Setting GSC_SERVICE_ACCOUNT_JSON and GSC_PROPERTY_URL switches the "
+            "connector to live-stub status; wire the Google API Python client in "
+            "connectors/gsc.py → fetch_live() to populate live values "
+            "(under 50 lines around the existing demo-mode plumbing)."
         ),
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "by_prompt": by_prompt,

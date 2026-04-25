@@ -479,7 +479,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         <button type="button" class="tab-nav-btn" data-tab="overview">Overview</button>
         <button type="button" class="tab-nav-btn" data-tab="heatmap">Heatmap</button>
         <button type="button" class="tab-nav-btn" data-tab="deepdives">Deep dives <span class="tab-badge mono">{deepDives.length}</span></button>
-        <button type="button" class="tab-nav-btn" data-tab="exports">Export kit <span class="tab-badge mono">9</span></button>
+        <button type="button" class="tab-nav-btn" data-tab="exports">Export kit <span class="tab-badge mono">10</span></button>
         <button type="button" class="tab-nav-btn" data-tab="stack">Stack</button>
         <button type="button" class="tab-nav-btn" data-tab="underhood">Under the hood</button>
       </div>
@@ -1751,6 +1751,13 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <div class="export-card-dek">The {summary.full_silence_count} prompts no tracked brand is named in. First-mover real estate.</div>
           <div class="export-card-footer"><span class="mono">CSV · {summary.full_silence_count} rows</span><span class="export-card-arrow">↓</span></div>
         </a>
+
+        <a class="export-card" href="/downloads/narrative_latest.md" download>
+          <div class="export-card-kind">Report · weekly</div>
+          <div class="export-card-title">Latest narrative report</div>
+          <div class="export-card-dek">Markdown report Claude Haiku 4.5 writes at the end of every cron run – diffs the new pipeline output against the previous snapshot and summarises what moved this week. Same file the Overview tab renders inline.</div>
+          <div class="export-card-footer"><span class="mono">MD · this week</span><span class="export-card-arrow">↓</span></div>
+        </a>
       </div>
 
       <div class="dataset-ship">
@@ -1955,7 +1962,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <h2>Cross-references from the systems content teams already run</h2>
         </div>
       </div>
-      <p class="dek">Drift Radar is not a silo. Peec data becomes actionable when it joins the signal your team already trusts – classical search, business impact, competitor context. Each block below pairs Peec prompts with an external source. Where a property is not connected, numbers are deterministic demo rows seeded from the prompt-ID; connect the source and live values replace them automatically.</p>
+      <p class="dek">Drift Radar is not a silo. Peec data becomes actionable when it joins the signal your team already trusts – classical search, business impact, competitor context. Each block below pairs Peec prompts with an external source. Numbers in these blocks are deterministic demo rows seeded from the prompt-ID. Each connector ships with the full Drift-Radar plumbing (output schema, priority scoring, top-N sort, caching) and a typed <code>fetch_live()</code> stub – wire the source's API client in under 50 lines and the connector switches to live data on the next run.</p>
 
       <div class="stack-map">
         <div class="stack-map-col">

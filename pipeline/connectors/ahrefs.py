@@ -154,8 +154,10 @@ def fetch(prompts: list[dict[str, Any]]) -> dict[str, Any]:
             "Top-ranking URLs are real – harvested by Peec MCP from "
             "data/raw/gap_urls_digested.json. Keyword difficulty, search "
             "volume and backlink counts are deterministic mock rows per "
-            "(prompt, domain) pair. Set AHREFS_API_KEY to replace the "
-            "metrics with live Ahrefs data."
+            "(prompt, domain) pair. Setting AHREFS_API_KEY switches the "
+            "connector to live-stub status; wire the Ahrefs v3 client in "
+            "connectors/ahrefs.py → fetch_live() to populate live metrics "
+            "(under 50 lines around the existing demo-mode plumbing)."
         ),
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "by_prompt": by_prompt,

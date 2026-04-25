@@ -121,8 +121,10 @@ def fetch(prompts: list[dict[str, Any]], gsc: dict[str, Any] | None = None) -> d
         "property_name": DEMO_PROPERTY_NAME,
         "note": (
             "Demo data seeded deterministically from Peec prompt_id. "
-            "Set GA4_SERVICE_ACCOUNT_JSON and GA4_PROPERTY_ID in the repo "
-            "Secrets to replace with live Google Analytics 4 data."
+            "Setting GA4_SERVICE_ACCOUNT_JSON and GA4_PROPERTY_ID switches the "
+            "connector to live-stub status; wire the Google Analytics Data API "
+            "client in connectors/ga4.py → fetch_live() to populate live values "
+            "(under 50 lines around the existing demo-mode plumbing)."
         ),
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "by_prompt": by_prompt,
