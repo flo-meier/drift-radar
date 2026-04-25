@@ -704,7 +704,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <div class="pipeline-stage-label">Python pipeline</div>
           <ul class="pipeline-stage-items">
             <li><code>run.py</code> · divergence score</li>
-            <li>0.7 · range + 0.3 · CV</li>
+            <li>0.7 · range + 0.3 · clamp(CV, 0, 2) / 2</li>
             <li>Wilson 95 % CI per cell</li>
             <li>Own-only + full silence classifier</li>
           </ul>
