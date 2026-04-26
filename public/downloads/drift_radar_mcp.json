@@ -1,0 +1,346 @@
+{
+  "$schema": "https://modelcontextprotocol.io/schemas/server.json",
+  "server": {
+    "name": "peec-drift-radar",
+    "version": "0.1.0-proposal",
+    "vendor": "Peec AI",
+    "status": "proposal · Drift Radar for the Peec AI MCP Challenge 2026",
+    "summary": "Cross-model divergence and brand-silence aggregates over Peec tracking data.",
+    "description": "Drift Radar composes three existing Peec MCP tools — get_brand_report with dimensions=[prompt_id, model_id], get_domain_report with the gap filter, and get_chat — into three higher-order reports that measure how differently AI engines describe the same brand for the same questions. This manifest is the reference shape; the current Drift Radar tool generates its payloads client-side from the native tools. Proposed to ship as first-class peec_* tools so every Peec customer can subscribe to drift alerts without building the pipeline themselves.",
+    "links": {
+      "demo": "https://drift-radar.pages.dev",
+      "pipeline_source": "drift-radar · 03-arbeit/drift-radar/run.py",
+      "built_with": "Peec AI MCP, Astro 5, Cloudflare Pages, Claude Haiku 4.5 (claim extraction)"
+    }
+  },
+  "tools": [
+    {
+      "name": "get_drift_report",
+      "description": "Return per-prompt cross-model divergence scores, per-engine visibility, Wilson 95 % CI, and silence classification for one project across a date range. Drift Radar's headline surface; a single call replaces a manual prompt_id × model_id pivot over get_brand_report plus silence post-processing.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "project_id": {"type": "string", "description": "Peec project (or_...) to analyse."},
+          "date_range": {
+            "type": "object",
+            "properties": {
+              "start": {"type": "string", "format": "date"},
+              "end":   {"type": "string", "format": "date"}
+            },
+            "required": ["start", "end"]
+          },
+          "divergence_threshold": {
+            "type": "number",
+            "default": 0,
+            "description": "Only return prompts whose divergence_score is ≥ this value. Use 0.30 for the 'drifting' shortlist used by Drift Radar."
+          },
+          "silence_filter": {
+            "type": "string",
+            "enum": ["all", "own_only", "full", "any_silence"],
+            "default": "all",
+            "description": "Restrict results by silence classification."
+          },
+          "prompt_ids": {
+            "type": "array",
+            "items": {"type": "string"},
+            "description": "Optional prompt allow-list; defaults to all active prompts in the project."
+          }
+        },
+        "required": ["project_id", "date_range"]
+      },
+      "outputSchema": {
+        "type": "object",
+        "properties": {
+          "project_id": {"type": "string"},
+          "own_brand": {"type": "string"},
+          "date_range": {
+            "type": "object",
+            "properties": {"start": {"type": "string"}, "end": {"type": "string"}}
+          },
+          "active_models": {
+            "type": "array",
+            "items": {"type": "object", "properties": {"id": {"type": "string"}, "name": {"type": "string"}}}
+          },
+          "engine_spread_ratio": {
+            "type": "number",
+            "description": "Max-engine average own-brand visibility divided by min-engine average. Headline divergence indicator."
+          },
+          "summary": {
+            "type": "object",
+            "properties": {
+              "total_prompts": {"type": "integer"},
+              "own_silence_count": {"type": "integer"},
+              "own_silence_percent": {"type": "number"},
+              "own_only_silence_count": {"type": "integer"},
+              "full_silence_count": {"type": "integer"},
+              "high_divergence_count": {"type": "integer"},
+              "avg_own_visibility": {"type": "number"}
+            }
+          },
+          "prompts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "prompt_id": {"type": "string"},
+                "prompt_text": {"type": "string"},
+                "topic": {"type": "string"},
+                "volume": {"type": ["number", "null"]},
+                "divergence_score": {"type": "number", "minimum": 0, "maximum": 1},
+                "cv_visibility": {"type": "number"},
+                "range_visibility": {"type": "number"},
+                "mean_visibility": {"type": "number"},
+                "visibility_by_model": {"type": "object", "additionalProperties": {"type": "number"}},
+                "mentions_by_model": {"type": "object", "additionalProperties": {"type": "number"}},
+                "wilson_ci_by_model": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "array",
+                    "items": {"type": "number"},
+                    "minItems": 2,
+                    "maxItems": 2
+                  },
+                  "description": "Wilson 95 % confidence interval [lower, upper] per engine."
+                },
+                "silence_type": {"type": ["string", "null"], "enum": ["own_only", "full", null]},
+                "top_competitors": {"type": "array", "items": {"type": "object"}}
+              },
+              "required": ["prompt_id", "divergence_score", "visibility_by_model", "wilson_ci_by_model"]
+            }
+          }
+        }
+      },
+      "example": {
+        "input": {
+          "project_id": "or_1caa4808-fd8b-44d9-b330-cc7909741cb4",
+          "date_range": {"start": "2026-04-20", "end": "2026-04-22"},
+          "divergence_threshold": 0.30
+        },
+        "output_fragment": {
+          "engine_spread_ratio": 12.1,
+          "summary": {
+            "total_prompts": 9,
+            "high_divergence_count": 9,
+            "own_only_silence_count": 0,
+            "full_silence_count": 0,
+            "avg_own_visibility": 0.24
+          },
+          "prompts": [
+            {
+              "prompt_id": "pr_ec4c3f0e-…",
+              "prompt_text": "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.",
+              "divergence_score": 0.91,
+              "visibility_by_model": {
+                "chatgpt-scraper": 0,
+                "gemini-scraper": 0,
+                "google-ai-overview-scraper": 1.0
+              },
+              "wilson_ci_by_model": {
+                "chatgpt-scraper": [0, 0.5615],
+                "gemini-scraper": [0, 0.5615],
+                "google-ai-overview-scraper": [0.4385, 1]
+              },
+              "silence_type": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "list_silent_prompts",
+      "description": "Return prompts where own-brand visibility is zero across every active engine in the date range, partitioned into own-only silence (competitors cited, brand absent) and full silence (no tracked brand named). This is the content-brief priority list.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "project_id": {"type": "string"},
+          "date_range": {
+            "type": "object",
+            "properties": {"start": {"type": "string", "format": "date"}, "end": {"type": "string", "format": "date"}},
+            "required": ["start", "end"]
+          },
+          "silence_type": {"type": "string", "enum": ["own_only", "full", "both"], "default": "both"},
+          "min_volume": {"type": "number", "default": 0, "description": "Filter by Peec search-volume estimate."},
+          "include_source_mix": {"type": "boolean", "default": true, "description": "Attach Peec-native domain classification breakdown per prompt."}
+        },
+        "required": ["project_id", "date_range"]
+      },
+      "outputSchema": {
+        "type": "object",
+        "properties": {
+          "own_only": {"type": "array", "items": {"$ref": "#/definitions/SilentPrompt"}},
+          "full": {"type": "array", "items": {"$ref": "#/definitions/SilentPrompt"}}
+        },
+        "definitions": {
+          "SilentPrompt": {
+            "type": "object",
+            "properties": {
+              "prompt_id": {"type": "string"},
+              "prompt_text": {"type": "string"},
+              "topic": {"type": "string"},
+              "volume": {"type": ["number", "null"]},
+              "top_competitors": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "brand_name": {"type": "string"},
+                    "max_visibility": {"type": "number"},
+                    "seen_in": {"type": "array", "items": {"type": "object"}}
+                  }
+                }
+              },
+              "source_mix": {
+                "type": "object",
+                "properties": {
+                  "by_class_normalized": {"type": "object", "additionalProperties": {"type": "number"}},
+                  "top_domains": {"type": "array", "items": {"type": "object"}},
+                  "total_retrieved": {"type": "integer"}
+                }
+              }
+            }
+          }
+        }
+      },
+      "example": {
+        "input": {
+          "project_id": "or_1caa4808-fd8b-44d9-b330-cc7909741cb4",
+          "date_range": {"start": "2026-04-20", "end": "2026-04-22"},
+          "silence_type": "own_only",
+          "min_volume": 2
+        },
+        "output_fragment": {
+          "own_only": [
+            {
+              "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
+              "volume": 3,
+              "top_competitors": [
+                {"brand_name": "Marstall", "max_visibility": 0.67},
+                {"brand_name": "St. Hippolyt", "max_visibility": 0.67},
+                {"brand_name": "Pavo", "max_visibility": 0.67}
+              ],
+              "source_mix": {
+                "by_class_normalized": {"CORPORATE": 0.73, "EDITORIAL": 0.11, "UGC": 0.08}
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "get_cross_engine_brief",
+      "description": "Return a normalised narrative comparison of one prompt across every active engine, with typed claim extraction (brand · substance · function · condition · criterion) and stable-vs-divergent concept flags. Drop-in for a content manager's brief — the prompt-level aggregate Peec does not currently expose.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "project_id": {"type": "string"},
+          "prompt_id": {"type": "string"},
+          "date_range": {
+            "type": "object",
+            "properties": {"start": {"type": "string", "format": "date"}, "end": {"type": "string", "format": "date"}},
+            "required": ["start", "end"]
+          },
+          "include_raw_chat": {"type": "boolean", "default": false, "description": "Attach the full chat transcript for each engine sample."}
+        },
+        "required": ["project_id", "prompt_id", "date_range"]
+      },
+      "outputSchema": {
+        "type": "object",
+        "properties": {
+          "prompt_id": {"type": "string"},
+          "prompt_text": {"type": "string"},
+          "divergence_score": {"type": "number"},
+          "by_model": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "object",
+              "properties": {
+                "chat_id": {"type": "string"},
+                "visibility": {"type": "number"},
+                "brands_mentioned": {"type": "array", "items": {"type": "object"}},
+                "claims": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "type": {"type": "string", "enum": ["brand", "substance", "function", "condition", "criterion"]},
+                      "text": {"type": "string"}
+                    }
+                  }
+                },
+                "note": {"type": "string"},
+                "caveat": {"type": "string"}
+              }
+            }
+          },
+          "claim_summary": {
+            "type": "object",
+            "properties": {
+              "type_counts_by_model": {"type": "object"},
+              "shared_substances": {"type": "array", "items": {"type": "string"}},
+              "shared_criteria": {"type": "array", "items": {"type": "string"}}
+            }
+          }
+        }
+      },
+      "example": {
+        "input": {
+          "project_id": "or_1caa4808-fd8b-44d9-b330-cc7909741cb4",
+          "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
+          "date_range": {"start": "2026-04-20", "end": "2026-04-22"}
+        },
+        "output_fragment": {
+          "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
+          "divergence_score": 0.68,
+          "by_model": {
+            "chatgpt-scraper": {
+              "visibility": 0,
+              "brands_mentioned": [],
+              "claims": [
+                {"type": "substance", "text": "Baldrian beruhigt ohne Sedierung"},
+                {"type": "substance", "text": "Magnesium entspannt Muskeln und Nerven"}
+              ],
+              "note": "ChatGPT answers in pure ingredient mode; no brand recommendations."
+            },
+            "google-ai-overview-scraper": {
+              "visibility": 0.67,
+              "brands_mentioned": [
+                {"position": 1, "name": "Pferdegold"},
+                {"position": 2, "name": "Pavo"}
+              ],
+              "claims": [
+                {"type": "brand", "text": "Pferdegold Nerven-Pellets supports stressed horses"}
+              ]
+            }
+          },
+          "claim_summary": {
+            "shared_substances": ["Magnesium", "L-Tryptophan"],
+            "shared_criteria": []
+          }
+        }
+      }
+    }
+  ],
+  "composition": {
+    "get_drift_report": [
+      "peec.get_brand_report(dimensions=[prompt_id, model_id], date_range)",
+      "Aggregate: range, CV, divergence_score = 0.7·range + 0.3·min(CV, 2.0)/2.0",
+      "Wilson 95 % CI per prompt × engine over the sampled chat count"
+    ],
+    "list_silent_prompts": [
+      "peec.get_brand_report(dimensions=[prompt_id, model_id]) → zero-visibility prompts",
+      "peec.get_domain_report(dimensions=[prompt_id]) → classification mix per prompt",
+      "Partition by presence/absence of tracked competitors"
+    ],
+    "get_cross_engine_brief": [
+      "peec.list_chats(prompt_id) → one representative chat per active engine",
+      "peec.get_chat(chat_id) → full transcript",
+      "Claim extraction via Haiku 4.5 (typed five-class schema)",
+      "Cross-engine overlap → stable_substances, stable_criteria"
+    ]
+  },
+  "notes": {
+    "wilson_ci": "All visibility point estimates are accompanied by a Wilson 95 % CI over the observed chat count. With Peec's default cadence of one chat per prompt × engine × day, weekly windows give N≈7 and the CI width is wide — divergence_score is intended as a ranking signal, not a point estimate of visibility.",
+    "privacy": "No per-user identifiers are exposed; outputs are aggregate statistics over project-tracked prompts.",
+    "ip": "Released under the Peec AI MCP Challenge 2026 IP terms: Peec receives a worldwide, royalty-free license to productise these tools."
+  }
+}
