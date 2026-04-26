@@ -30,4 +30,4 @@ Snapshot of 50 tracked prompts across 3 engines: ChatGPT, Gemini, AI Overview.
 
 ---
 
-*Generated: 2026-04-26T07:13:29Z*
+*Generated: 2026-04-26T13:34:42Z*
