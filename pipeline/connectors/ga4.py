@@ -49,10 +49,12 @@ def _demo_row(prompt: dict[str, Any], gsc_row: dict[str, Any] | None) -> dict[st
 
     # Monthly clicks – reuse GSC mock if present, otherwise derive one.
     if gsc_row:
-        clicks_monthly = max(1, int(gsc_row.get("clicks") or 0))
+        # If GSC says no classical-search volume exists, GA4 cannot show
+        # organic landing-page traffic for that prompt either; force zero.
+        clicks_monthly = max(0, int(gsc_row.get("clicks") or 0))
     else:
         impressions = {1: (20, 220), 2: (320, 2600), 3: (3800, 19000)}[volume]
-        clicks_monthly = max(1, int(rng.randint(*impressions) * rng.uniform(0.02, 0.1)))
+        clicks_monthly = max(0, int(rng.randint(*impressions) * rng.uniform(0.02, 0.1)))
 
     cr_base = {1: 0.04, 2: 0.022, 3: 0.012}[volume]
     conversion_rate = round(cr_base * rng.uniform(0.65, 1.35), 4)
@@ -104,7 +106,7 @@ def fetch(prompts: list[dict[str, Any]], gsc: dict[str, Any] | None = None) -> d
         by_prompt[pid] = row
 
     top_risk = sorted(
-        by_prompt.values(),
+        (r for r in by_prompt.values() if r["clicks_monthly"] > 0),
         key=lambda r: r["revenue_at_risk"],
         reverse=True,
     )[:10]

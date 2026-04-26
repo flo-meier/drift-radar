@@ -1183,7 +1183,7 @@ def export_executive_summary(data, s):
     story.append(Spacer(1, 4))
     story.append(Paragraph(
         "Tool manifest, input/output schemas and example payloads: "
-        "<font name='Courier'>drift-radar-mcp.json</font> in the Export kit.",
+        "<font name='Courier'>drift_radar_mcp.json</font> in the Export kit.",
         s["small"]))
 
     story.append(Spacer(1, 14))

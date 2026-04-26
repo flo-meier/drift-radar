@@ -128,6 +128,10 @@ const sortedPrompts = [...prompts].sort((a: any, b: any) => b.divergence_score -
 const heatmapRows = sortedPrompts.slice(0, 20);
 const deepDives = sortedPrompts.filter((p: any) => p.chat_sample);
 const deepDivePromptIds = new Set(deepDives.map((p: any) => p.prompt_id));
+const totalBriefPdfs =
+  deepDives.length +
+  prompts.filter((p: any) => p.silence_type === 'own_only' && !p.chat_sample).length +
+  prompts.filter((p: any) => p.silence_type === 'full' && !p.chat_sample).length;
 
 // Secondary deep-dive groups: collapsed by default, render one mini-card each.
 const remainingDrifting = sortedPrompts.filter(
@@ -2622,21 +2626,29 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   <div class="sticky-export-bar" aria-label="Quick exports">
     <div class="sticky-export-inner">
       <span class="sticky-export-label eyebrow">Quick export</span>
-      <a class="sticky-export-btn" href="/downloads/drift_radar.json" download title="Full pipeline JSON, 128 KB">
+      <a class="sticky-export-btn" href="/downloads/drift_radar.json" download title="Full pipeline JSON – every prompt, engine, brand, citation">
         <span class="sticky-export-btn-label">JSON</span>
         <span class="sticky-export-btn-hint mono">full data</span>
       </a>
-      <a class="sticky-export-btn" href="/downloads/drift_radar.csv" download title="50 rows, for Excel/Sheets">
+      <a class="sticky-export-btn" href="/downloads/drift_radar.csv" download title={`${summary.total_prompts} rows, for Excel/Sheets`}>
         <span class="sticky-export-btn-label">CSV</span>
         <span class="sticky-export-btn-hint mono">{summary.total_prompts} rows</span>
       </a>
-      <a class="sticky-export-btn" href="/downloads/executive_summary.pdf" download title="One-page management summary">
+      <a class="sticky-export-btn" href="/downloads/executive_summary.pdf" download title="3-page management summary – TL;DR, KPIs, top-10 risk">
         <span class="sticky-export-btn-label">Exec PDF</span>
-        <span class="sticky-export-btn-hint mono">1 page</span>
+        <span class="sticky-export-btn-hint mono">3 pages</span>
       </a>
-      <a class="sticky-export-btn" href="#exports" title="All {deepDives.length} content brief PDFs plus soft exports">
+      <a class="sticky-export-btn" href="/downloads/drift_radar.xlsx" download title="Excel native – 7 sheets, conditional formatting, pivot-ready">
+        <span class="sticky-export-btn-label">XLSX</span>
+        <span class="sticky-export-btn-hint mono">7 sheets</span>
+      </a>
+      <a class="sticky-export-btn" href="/downloads/drift_radar_wordpress.wxr" download title="WordPress import – every drifting prompt as a draft post">
+        <span class="sticky-export-btn-label">WXR</span>
+        <span class="sticky-export-btn-hint mono">WP import</span>
+      </a>
+      <a class="sticky-export-btn" href="#exports" title={`All ${totalBriefPdfs} content brief PDFs plus soft exports`}>
         <span class="sticky-export-btn-label">Briefs</span>
-        <span class="sticky-export-btn-hint mono">{deepDives.length} PDFs</span>
+        <span class="sticky-export-btn-hint mono">{totalBriefPdfs} PDFs</span>
       </a>
     </div>
   </div>

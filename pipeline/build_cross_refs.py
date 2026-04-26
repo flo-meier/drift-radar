@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build cross_refs.json – aggregates every external-source connector
-(GSC, GA4, Ahrefs) into a single payload consumed by the Stack tab.
+(GSC, GA4, Google Ads, Ahrefs) into a single payload consumed by the Stack tab.
 
 Each connector returns its own sub-payload with:
     - source: "live" | "live-stub" | "demo"
@@ -13,7 +13,7 @@ This script calls each connector and writes the result to data/ui/cross_refs.jso
 import json
 from pathlib import Path
 
-from connectors import gsc, ga4, ahrefs
+from connectors import gsc, ga4, ahrefs, google_ads
 
 ROOT = Path(__file__).parent
 UI = ROOT / "data" / "ui" / "drift_radar.json"
@@ -26,11 +26,13 @@ def main():
 
     gsc_payload = gsc.fetch(prompts)
     ga4_payload = ga4.fetch(prompts, gsc=gsc_payload)
+    google_ads_payload = google_ads.fetch(prompts, gsc=gsc_payload)
     ahrefs_payload = ahrefs.fetch(prompts)
 
     payload = {
         "gsc": gsc_payload,
         "ga4": ga4_payload,
+        "google_ads": google_ads_payload,
         "ahrefs": ahrefs_payload,
     }
 
