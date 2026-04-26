@@ -86,6 +86,17 @@ const gscPayload = (crossRefs as any).gsc;
 const gscTop = (gscPayload && gscPayload.top_priority) || [];
 const gscSource = gscPayload?.source || 'demo';
 const gscNote = gscPayload?.note || '';
+const gscByPrompt = gscPayload?.by_prompt || {};
+const gscNoClassicalCount = Object.values(gscByPrompt).filter((r: any) => r.no_classical_search).length;
+const gscPromptTotal = Object.keys(gscByPrompt).length;
+
+const adsPayload = (crossRefs as any).google_ads;
+const adsTop = (adsPayload && adsPayload.top_risk) || [];
+const adsSource = adsPayload?.source || 'demo';
+const adsNote = adsPayload?.note || '';
+const adsAccountName = adsPayload?.account_name || '';
+const adsTotals = adsPayload?.totals || {};
+const adsMaxRisk = Math.max(1, ...adsTop.map((r: any) => r.ad_spend_at_risk || 0));
 
 const ga4Payload = (crossRefs as any).ga4;
 const ga4Top = (ga4Payload && ga4Payload.top_risk) || [];
@@ -148,7 +159,7 @@ function divergenceReading(score: number): string {
 // Colour encodes failure mode. Static, FT-/Bloomberg-style.
 const STRIP_VIEW_W = 1100;
 const STRIP_VIEW_H = 320;
-const STRIP_PAD_LEFT = 56;
+const STRIP_PAD_LEFT = 72;
 const STRIP_PAD_RIGHT = 24;
 const STRIP_PAD_TOP = 16;
 const STRIP_PAD_BOTTOM = 56;
@@ -528,6 +539,10 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </nav>
 
+  <nav class="subnav" aria-label="Sections in current tab">
+    <div class="subnav-inner" id="subnav-inner"></div>
+  </nav>
+
   <div class="scan-strip" role="status" aria-label="Scan freshness">
     <div class="container">
       <div class="scan-strip-inner">
@@ -574,12 +589,12 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </header>
 
-  <section class="section strip-section" data-tab="overview" aria-labelledby="strip-title">
+  <section class="section strip-section" data-tab="overview" aria-labelledby="strip-title" id="sec-strip">
     <div class="container-wide">
       <div class="strip-header">
         <div class="kicker strip-kicker">All {summary.total_prompts} prompts · sorted by content priority</div>
         <h2 id="strip-title" class="strip-title">The drift surface, as a single chart</h2>
-        <p class="dek strip-dek">Each bar is one tracked prompt. Height encodes content priority – divergence score for drifting prompts, fixed risk bands for silent prompts so the silent set stays visible. Colour marks the failure mode. Bars on the left are this week's priorities – hover any bar for the prompt, click drifting bars to open the deep dive.</p>
+        <p class="dek strip-dek">Each bar is one tracked prompt. Height encodes content priority – divergence score for drifting prompts, fixed risk bands for silent prompts so they stay above the drift threshold. Silence reads as zero divergence (every engine agrees you're not there), yet category-level invisibility is the worst kind of brand risk. Colour marks the failure mode. Bars on the left are this week's priorities – hover any bar for the prompt, click drifting bars to open the deep dive.</p>
       </div>
 
       <figure class="strip-wrap">
@@ -594,7 +609,6 @@ function sumCounts(counts: Record<string, number> | undefined): number {
             <g class="strip-guide">
               <line x1={STRIP_PAD_LEFT} x2={STRIP_VIEW_W - STRIP_PAD_RIGHT} y1={stripY(g.y)} y2={stripY(g.y)} />
               <text x={STRIP_PAD_LEFT - 8} y={stripY(g.y)} class="strip-guide-label" text-anchor="end" dy="0.32em">{g.y.toFixed(2)}</text>
-              <text x={STRIP_VIEW_W - STRIP_PAD_RIGHT + 6} y={stripY(g.y)} class="strip-guide-label-soft" dy="0.32em">{g.label}</text>
             </g>
           ))}
           {/* Y-axis baseline */}
@@ -622,7 +636,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           ) : null)}
           {/* X-axis label */}
           <text x={STRIP_PAD_LEFT + STRIP_PLOT_W / 2} y={STRIP_VIEW_H - 18} class="strip-axis-title" text-anchor="middle">prompt rank · 1 = highest priority</text>
-          <text x={16} y={STRIP_PAD_TOP + STRIP_PLOT_H / 2} class="strip-axis-title strip-axis-title-y" text-anchor="middle" transform={`rotate(-90, 16, ${STRIP_PAD_TOP + STRIP_PLOT_H / 2})`}>content priority</text>
+          <text x={12} y={STRIP_PAD_TOP + STRIP_PLOT_H / 2} class="strip-axis-title strip-axis-title-y" text-anchor="middle" transform={`rotate(-90, 12, ${STRIP_PAD_TOP + STRIP_PLOT_H / 2})`}>content priority</text>
         </svg>
         <div class="strip-tooltip" id="strip-tooltip" role="tooltip" aria-hidden="true">
           <div class="strip-tooltip-prompt"></div>
@@ -640,7 +654,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
-  <section class="section keyvisual-section" data-tab="overview">
+  <section class="section keyvisual-section" data-tab="overview" id="sec-keyvisual">
     <div class="container-wide">
       <KeyVisual />
       <p class="caption" style="margin-top: 28px; margin-left: auto; margin-right: auto; text-align: center; max-width: 720px;">
@@ -649,7 +663,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
-  <section class="section numbers-section" data-tab="overview">
+  <section class="section numbers-section" data-tab="overview" id="sec-numbers">
     <div class="container">
       <div class="kicker">The numbers</div>
       <p class="dek" style="margin-top: 12px; margin-bottom: 56px; max-width: 780px;">
@@ -692,7 +706,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
   </section>
 
   {narrativeText && (
-    <section class="section narrative-section" data-tab="overview">
+    <section class="section narrative-section" data-tab="overview" id="sec-narrative">
       <div class="container">
         <div class="section-header-editorial">
           <div>
@@ -714,7 +728,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </section>
   )}
 
-  <section class="section pipeline-section" data-tab="overview">
+  <section class="section pipeline-section" data-tab="overview" id="sec-pipeline">
     <div class="container">
       <div class="section-header-editorial">
         <div>
@@ -793,7 +807,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
-  <section class="section peec-family-section" data-tab="overview">
+  <section class="section peec-family-section" data-tab="overview" id="sec-family">
     <div class="container">
       <div class="section-header-editorial">
         <div>
@@ -960,7 +974,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
-  <section class="section heatmap-section" data-tab="heatmap">
+  <section class="section heatmap-section" data-tab="heatmap" id="sec-heatmap">
     <div class="container-wide">
       <div class="section-header-editorial">
         <div>
@@ -1048,7 +1062,9 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           >
             <div
               class="heatmap-cell heatmap-score"
-              title={`Divergence score ${row.divergence_score.toFixed(2)} · formula: 0.7 · (max(vis) − min(vis)) + 0.3 · clamp(CV, 0, 2)/2 · range ${row.range_visibility.toFixed(2)}, CV ${row.cv_visibility.toFixed(2)}`}
+              tabindex="0"
+              aria-label={`Divergence score ${row.divergence_score.toFixed(2)}. Formula: 0.7 × (max − min visibility) + 0.3 × clamp(CV, 0, 2) / 2. Range ${row.range_visibility.toFixed(2)}, CV ${row.cv_visibility.toFixed(2)}.`}
+              data-tip={`Divergence score ${row.divergence_score.toFixed(2)}\nFormula: 0.7 · (max − min) + 0.3 · clamp(CV, 0, 2) / 2\nrange ${row.range_visibility.toFixed(2)} · CV ${row.cv_visibility.toFixed(2)}`}
             >{row.divergence_score.toFixed(2)}</div>
             {active_models.map((m: any) => {
               const v = row.visibility_by_model[m.id];
@@ -1161,7 +1177,9 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <header class="deepdive-header">
             <div
               class="deepdive-score-block"
-              title={`Divergence = 0.7 · (max(vis) − min(vis)) + 0.3 · clamp(CV, 0, 2)/2 · range ${p.range_visibility.toFixed(2)}, CV ${p.cv_visibility.toFixed(2)}`}
+              tabindex="0"
+              aria-label={`Divergence score ${p.divergence_score.toFixed(2)}. Formula: 0.7 × (max − min visibility) + 0.3 × clamp(CV, 0, 2) / 2. Range ${p.range_visibility.toFixed(2)}, CV ${p.cv_visibility.toFixed(2)}.`}
+              data-tip={`Divergence score ${p.divergence_score.toFixed(2)}\nFormula: 0.7 · (max − min) + 0.3 · clamp(CV, 0, 2) / 2\nrange ${p.range_visibility.toFixed(2)} · CV ${p.cv_visibility.toFixed(2)}`}
             >
               <div class="eyebrow">Divergence score</div>
               <div class="typo-number drift" style="margin-top: 4px;">{p.divergence_score.toFixed(2)}</div>
@@ -1619,7 +1637,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
-  <section class="section competitors-section" data-tab="heatmap">
+  <section class="section competitors-section" data-tab="heatmap" id="sec-competitors">
     <div class="container">
       <div class="section-header-editorial">
         <div>
@@ -1664,7 +1682,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
-  <section class="section ownonly-section" data-tab="heatmap">
+  <section class="section ownonly-section" data-tab="heatmap" id="sec-ownonly">
     <div class="container">
       <div class="section-header-editorial">
         <div>
@@ -1706,7 +1724,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
-  <section class="section full-silence-section" data-tab="heatmap">
+  <section class="section full-silence-section" data-tab="heatmap" id="sec-fullsilence">
     <div class="container">
       <div class="section-header-editorial">
         <div>
@@ -1782,7 +1800,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <div class="export-card-footer"><span class="mono">PDF · A4 · 3 pp</span><span class="export-card-arrow">↓</span></div>
         </a>
 
-        <a class="export-card" href="/downloads/drift-radar-mcp.json" download>
+        <a class="export-card" href="/downloads/drift_radar_mcp.json" download>
           <div class="export-card-kind">Spec</div>
           <div class="export-card-title">Drift Radar MCP manifest</div>
           <div class="export-card-dek">The three tool signatures Peec could ship as first-class MCP tools (<span class="mono">get_drift_report</span>, <span class="mono">list_silent_prompts</span>, <span class="mono">get_cross_engine_brief</span>), including input/output schemas and example payloads derived from this run.</div>
@@ -2029,7 +2047,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
       </div>
       <p class="dek">Drift Radar is not a silo. Peec data becomes actionable when it joins the signal your team already trusts – classical search, business impact, competitor context. Each block below pairs Peec prompts with an external source. Numbers in these blocks are deterministic demo rows seeded from the prompt-ID. Each connector ships with the full Drift-Radar plumbing (output schema, priority scoring, top-N sort, caching) and a typed <code>fetch_live()</code> stub – wire the source's API client in under 50 lines and the connector switches to live data on the next run.</p>
 
-      <div class="stack-map">
+      <div class="stack-map" id="stack-built">
         <div class="stack-map-col">
           <div class="stack-map-head">
             <span class="stack-map-dot stack-map-dot-built"></span>
@@ -2042,7 +2060,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
             <li><strong>WordPress WXR export</strong> <span class="mono">→</span> every drifting brief as a draft post, ready to import</li>
             <li><strong>Slack webhook</strong> <span class="mono">→</span> digest posted to any incoming-webhook URL, client-side, no proxy</li>
             <li><strong>Clipboard handoffs</strong> <span class="mono">→</span> Notion · Google Docs · Google Sheets · Linear · ChatGPT · Claude</li>
-            <li><strong>RSS / CSV / XLSX / PDF briefs</strong> <span class="mono">→</span> 8 downloadables regenerated every run</li>
+            <li><strong>RSS / CSV / XLSX / PDF briefs</strong> <span class="mono">→</span> 14 top-level downloadables plus the per-prompt brief folder, regenerated every run</li>
           </ul>
         </div>
 
@@ -2052,8 +2070,9 @@ function sumCounts(counts: Record<string, number> | undefined): number {
             <span class="stack-map-title">Connectors ready · flip a secret to go live</span>
           </div>
           <ul class="stack-map-list">
-            <li><strong>Google Search Console</strong> <span class="mono">→</span> prompt × CTR × position priority – live as soon as <code>GSC_SERVICE_ACCOUNT_JSON</code> is set</li>
+            <li><strong>Google Search Console</strong> <span class="mono">→</span> prompt × CTR × position priority – live as soon as <code>GSC_SERVICE_ACCOUNT_JSON</code> and <code>GSC_PROPERTY_URL</code> are set</li>
             <li><strong>Google Analytics 4</strong> <span class="mono">→</span> revenue-at-risk per drifting prompt, from <code>GA4_PROPERTY_ID</code></li>
+            <li><strong>Google Ads</strong> <span class="mono">→</span> ad-spend-at-risk per drifting prompt – which paid campaigns are running into a moving market, live once <code>GOOGLE_ADS_DEVELOPER_TOKEN</code> and <code>GOOGLE_ADS_CUSTOMER_ID</code> are set</li>
             <li><strong>Ahrefs</strong> <span class="mono">→</span> keyword difficulty + backlink counts for today's top-ranking URL, from <code>AHREFS_API_KEY</code>. Real URLs already live – only the SEO numbers are demo</li>
             <li><strong>Anthropic Claude Haiku</strong> <span class="mono">→</span> narrative claim extraction when <code>ANTHROPIC_API_KEY</code> is provided; pure mechanics without</li>
           </ul>
@@ -2074,14 +2093,19 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         </div>
       </div>
 
-      <div class="cross-block">
+      <div class="cross-block" id="stack-gsc">
         <div class="cross-head">
           <h3 class="serif">Drift × Google Search Console</h3>
           <span class={`cross-badge cross-badge-${gscSource}`}>{gscSource === 'demo' ? 'demo data' : gscSource}</span>
         </div>
         <p class="caption cross-note">{gscNote}</p>
+        {gscNoClassicalCount > 0 && (
+          <div class="cross-headline">
+            <strong class="mono drift">{gscNoClassicalCount} of {gscPromptTotal}</strong> tracked prompts have <strong>no classical-search equivalent at all</strong> – these are the AI-native queries where Google has zero impressions to optimise. The brand can only reach them through the AI surface.
+          </div>
+        )}
         <div class="cross-tagline">
-          <strong>Why join these signals:</strong> a prompt that is drifting <em>across AI engines</em> AND has weak classical Google CTR is a double-priority content target – the narrative is broken in both surfaces, and nobody is going to out-rank you first.
+          <strong>Why join these signals:</strong> a prompt that drifts across AI engines AND has weak (or zero) classical Google CTR is a double-priority content target. Where Google has no volume, GEO is the only available lever – the narrative space is open and uncontested.
         </div>
         <div class="cross-table-wrap">
           <table class="cross-table">
@@ -2098,12 +2122,15 @@ function sumCounts(counts: Record<string, number> | undefined): number {
             </thead>
             <tbody>
               {gscTop.map((row: any, idx: number) => (
-                <tr>
+                <tr class={row.no_classical_search ? 'cross-row-no-classical' : ''}>
                   <td class="mono">{idx + 1}</td>
-                  <td><span class="cross-prompt">»{row.prompt_text}«</span></td>
+                  <td>
+                    <span class="cross-prompt">»{row.prompt_text}«</span>
+                    {row.no_classical_search && <span class="no-google-badge mono">no Google equivalent</span>}
+                  </td>
                   <td class="mono">{row.divergence_score.toFixed(2)}</td>
-                  <td class="mono">{(row.ctr * 100).toFixed(1)}%</td>
-                  <td class="mono">{row.position.toFixed(1)}</td>
+                  <td class="mono">{row.no_classical_search ? '—' : (row.ctr * 100).toFixed(1) + '%'}</td>
+                  <td class="mono">{row.no_classical_search ? '—' : row.position.toFixed(1)}</td>
                   <td class="mono">{row.impressions.toLocaleString('en-US')}</td>
                   <td class="mono cross-priority">
                     <span class="priority-bar-wrap"><span class="priority-bar" style={`width: ${row.priority_score * 100}%`}></span></span>
@@ -2119,7 +2146,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         </p>
       </div>
 
-      <div class="cross-block">
+      <div class="cross-block" id="stack-ga4">
         <div class="cross-head">
           <h3 class="serif">Drift × Google Analytics 4</h3>
           <span class={`cross-badge cross-badge-${ga4Source}`}>{ga4Source === 'demo' ? 'demo data' : ga4Source}</span>
@@ -2183,7 +2210,69 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         </p>
       </div>
 
-      <div class="cross-block">
+      <div class="cross-block" id="stack-ads">
+        <div class="cross-head">
+          <h3 class="serif">Drift × Google Ads</h3>
+          <span class={`cross-badge cross-badge-${adsSource}`}>{adsSource === 'demo' ? 'demo data' : adsSource}</span>
+          {adsAccountName && <span class="cross-property mono">{adsAccountName}</span>}
+        </div>
+        <p class="caption cross-note">{adsNote}</p>
+        <div class="cross-tagline">
+          <strong>Why join these signals:</strong> every euro spent on paid search for a drifting prompt buys attention that the AI surface is already redirecting elsewhere. As AI engines settle into their narrative, organic AI clicks vanish first – and the paid spend running on the same query starts paying for traffic that simply isn't searching that way anymore. Drift Radar surfaces which campaigns are running into a moving market.
+        </div>
+
+        <div class="cross-totals">
+          <div class="cross-total">
+            <span class="cross-total-label">Ad spend / month · total (demo)</span>
+            <span class="cross-total-val mono">{euro(adsTotals.ad_spend_monthly_total || 0)}</span>
+          </div>
+          <div class="cross-total cross-total-risk">
+            <span class="cross-total-label">At risk · all drifting prompts</span>
+            <span class="cross-total-val mono">{euro(adsTotals.ad_spend_at_risk_total || 0)}</span>
+          </div>
+          <div class="cross-total">
+            <span class="cross-total-label">Prompts &gt; €100 spend at risk</span>
+            <span class="cross-total-val mono">{adsTotals.prompts_at_risk || 0} / {Object.keys(adsPayload?.by_prompt || {}).length}</span>
+          </div>
+        </div>
+
+        <div class="cross-table-wrap">
+          <table class="cross-table">
+            <thead>
+              <tr>
+                <th class="mono">#</th>
+                <th>Prompt</th>
+                <th class="mono">Divergence</th>
+                <th class="mono">Clicks/mo</th>
+                <th class="mono">CPC</th>
+                <th class="mono">Spend/mo</th>
+                <th class="mono">Spend at risk</th>
+              </tr>
+            </thead>
+            <tbody>
+              {adsTop.map((row: any, idx: number) => (
+                <tr>
+                  <td class="mono">{idx + 1}</td>
+                  <td><span class="cross-prompt">»{row.prompt_text}«</span></td>
+                  <td class="mono">{row.divergence_score.toFixed(2)}</td>
+                  <td class="mono">{row.ad_clicks_monthly.toLocaleString('en-US')}</td>
+                  <td class="mono">{euro(row.ad_cpc)}</td>
+                  <td class="mono">{euro(row.ad_spend_monthly)}</td>
+                  <td class="mono cross-priority">
+                    <span class="priority-bar-wrap"><span class="priority-bar priority-bar-risk" style={`width: ${(row.ad_spend_at_risk / adsMaxRisk) * 100}%`}></span></span>
+                    <span>{euro(row.ad_spend_at_risk)}</span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="caption cross-howto">
+          Connect an account: add <code>GOOGLE_ADS_DEVELOPER_TOKEN</code> and <code>GOOGLE_ADS_CUSTOMER_ID</code> to the repo secrets. The connector stub lives at <a href="https://github.com/flo-meier/drift-radar/blob/main/pipeline/connectors/google_ads.py" target="_blank" rel="noopener noreferrer">pipeline/connectors/google_ads.py</a>. Once live, search-term-report data lets performance teams see exactly which paid keywords are funding the same drift the SEO team is racing.
+        </p>
+      </div>
+
+      <div class="cross-block" id="stack-ahrefs">
         <div class="cross-head">
           <h3 class="serif">Drift × Ahrefs</h3>
           <span class={`cross-badge cross-badge-${ahrefsSource}`}>{ahrefsSource === 'demo' ? 'partial demo data' : ahrefsSource}</span>
@@ -2235,7 +2324,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </section>
 
-  <section class="section methodology" data-tab="underhood">
+  <section class="section methodology" data-tab="underhood" id="sec-methodology">
     <div class="container">
       <div class="section-header-editorial">
         <div>
@@ -2274,6 +2363,20 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <p style="margin-top: 8px;">Active engines in this snapshot: {active_models.map((m: any) => m.name).join(', ')}.</p>
         </div>
         <div class="method-block">
+          <h3>Cross-source scoring · how the Stack-tab columns are computed</h3>
+          <p style="margin-top: 8px;">Every connector ranks its rows with a bounded <code>[0, 1]</code> heuristic. These are deliberately heuristic, not probabilistic: their job is to surface the prompts where the AI signal compounds with a classical-source weakness. The weights and thresholds are constants at the top of each connector module – <code>pipeline/connectors/gsc.py</code>, <code>ga4.py</code>, <code>google_ads.py</code>, <code>ahrefs.py</code> – and can be retuned per project without touching the rest of the pipeline.</p>
+          <pre class="formula">GSC priority    = 0.55 · divergence + 0.30 · ctr_penalty + 0.15 · position_penalty
+                  ctr_penalty      = clamp(1 − CTR / 0.15, 0, 1)         · 15 % CTR is the »healthy« anchor
+                  position_penalty = clamp((position − 1) / 19, 0, 1)    · pos. 1 = 0, pos. 20+ = 1
+                  no-classical-search row → both penalties default to 1
+
+GA4 / Ads risk  = revenue · (0.5 + 0.5 · divergence)                    · floor 0.5, top 1.0
+                  + 0.30 surcharge if own_only or full silence (capped at 1.0)
+
+Ahrefs opp.     = divergence · (100 − keyword_difficulty) / 100         · drift × headroom</pre>
+          <p style="margin-top: 8px;">The 0.5 risk-floor encodes the baseline AI-substitution risk every tracked prompt carries: even when engines are aligned today, the AI surface itself keeps reshaping how that question is answered. Operators who want strict drift-only risk flip the floor to 0 directly in <code>ga4.py</code> / <code>google_ads.py</code> – the column re-ranks deterministically on the next run.</p>
+        </div>
+        <div class="method-block">
           <h3>Slash-command spec · ready to ship as a Peec-native prompt</h3>
           <p style="margin-top: 8px;">The full <code>peec_drift_radar</code> specification lives in the repo: signature, MCP-call sequence, output schema, error contract, output channels. Designed to drop into Peec's existing slash-command family with no dependencies beyond the read-only MCP toolset already shipped.</p>
           <p style="margin-top: 12px;">
@@ -2285,7 +2388,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
   </section>
 
   {(data as any).rules && (
-    <section class="section rules-section" data-tab="underhood">
+    <section class="section rules-section" data-tab="underhood" id="sec-rules">
       <div class="container">
         <div class="section-header-editorial">
           <div>
@@ -2347,14 +2450,14 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </section>
   )}
 
-  <section class="section limitations" data-tab="underhood">
+  <section class="section limitations" data-tab="underhood" id="sec-limitations">
     <div class="container">
       <div class="section-header-editorial">
         <div>
           <div class="kicker">What this report is not</div>
           <h2>Limitations &amp; honest caveats</h2>
           <p class="caption" style="margin-top: 12px; max-width: 720px;">
-            The divergence score is a ranking signal, not a forecasting model. Three directions where the numbers deserve scepticism before they drive an investment decision.
+            The divergence score is a ranking signal, not a forecasting model. Five directions where the numbers deserve scepticism before they drive an investment decision.
           </p>
         </div>
       </div>
@@ -2379,11 +2482,16 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <h3 class="limit-title">Three engines – ChatGPT, Gemini, AI Overview</h3>
           <p class="limit-body">Peec's Pro plan tracks three engines in parallel; Perplexity, Copilot and Claude web are not in this snapshot. The engine-spread ratio would move when the engine set changes. When comparing runs, hold the engine set constant.</p>
         </div>
+        <div class="limit-card">
+          <div class="limit-kicker">Cross-source scores</div>
+          <h3 class="limit-title">Priority and risk are heuristics, not validated probabilities</h3>
+          <p class="limit-body">The Stack-tab columns – GSC priority, GA4 / Google Ads risk, Ahrefs opportunity – are bounded weighted heuristics, not outcome-validated forecasts. Two stances deserve scrutiny: the 55 / 30 / 15 weighting in <code>GSC priority</code> is a setting that puts divergence first, by design; the 0.5 floor in the GA4 / Ads <code>risk_factor</code> encodes baseline AI-substitution risk and overstates risk on perfectly aligned prompts. Both live as plain numbers at the top of <code>pipeline/connectors/gsc.py</code>, <code>ga4.py</code> and <code>google_ads.py</code>; flip the floor to 0 for strict drift-only ranking, retune weights per project. Top-N rankings are stable across both settings because divergence dominates.</p>
+        </div>
       </div>
     </div>
   </section>
 
-  <section class="section underhood" data-tab="underhood">
+  <section class="section underhood" data-tab="underhood" id="sec-pipeline-detail">
     <div class="container">
       <div class="section-header-editorial">
         <div>
@@ -2550,6 +2658,55 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
       // Tab routing – URL-hash driven
       var TABS = ['overview', 'heatmap', 'deepdives', 'exports', 'stack', 'underhood'];
 
+      // Sub-nav data — section anchors per tab
+      var SUBNAV_BY_TAB = {
+        overview: [
+          { id: 'sec-strip', label: 'Strip plot' },
+          { id: 'sec-keyvisual', label: 'Key visual' },
+          { id: 'sec-numbers', label: 'Numbers' },
+          { id: 'sec-narrative', label: 'Narrative' },
+          { id: 'sec-pipeline', label: 'Pipeline' },
+          { id: 'sec-family', label: 'Peec family' }
+        ],
+        heatmap: [
+          { id: 'sec-heatmap', label: 'Heatmap' },
+          { id: 'sec-competitors', label: 'Competitors cited' },
+          { id: 'sec-ownonly', label: 'Own-only silence' },
+          { id: 'sec-fullsilence', label: 'Full silence' }
+        ],
+        underhood: [
+          { id: 'sec-methodology', label: 'Methodology' },
+          { id: 'sec-rules', label: 'Rules' },
+          { id: 'sec-limitations', label: 'Limitations' },
+          { id: 'sec-pipeline-detail', label: 'Pipeline' }
+        ],
+        stack: [
+          { id: 'stack-built', label: 'Stack map' },
+          { id: 'stack-gsc', label: 'GSC' },
+          { id: 'stack-ga4', label: 'GA4' },
+          { id: 'stack-ads', label: 'Google Ads' },
+          { id: 'stack-ahrefs', label: 'Ahrefs' }
+        ]
+      };
+
+      function renderSubnav(tabName) {
+        var items = SUBNAV_BY_TAB[tabName];
+        var subnav = document.querySelector('.subnav');
+        var inner = document.getElementById('subnav-inner');
+        if (!subnav || !inner) return;
+        if (!items || items.length === 0) {
+          subnav.classList.remove('has-items');
+          inner.innerHTML = '';
+          return;
+        }
+        subnav.classList.add('has-items');
+        var html = '<span class="subnav-eyebrow">On this tab</span>';
+        for (var i = 0; i < items.length; i++) {
+          html += '<a class="subnav-link" href="#' + items[i].id + '" data-target="' + items[i].id + '">' + items[i].label + '</a>';
+        }
+        inner.innerHTML = html;
+      }
+
       function activateTab(tabName, scrollToId) {
         var valid = TABS.indexOf(tabName) >= 0 ? tabName : 'overview';
         var body = document.body;
@@ -2558,6 +2715,7 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
         document.querySelectorAll('.tab-nav-btn').forEach(function(b) {
           b.classList.toggle('is-active', b.getAttribute('data-tab') === valid);
         });
+        renderSubnav(valid);
         if (scrollToId) {
           setTimeout(function() {
             var el = document.getElementById(scrollToId);
@@ -2567,6 +2725,39 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
           window.scrollTo(0, 0);
         }
       }
+
+      // Sub-nav click — smooth-scroll to section without changing tab hash
+      document.addEventListener('click', function(ev) {
+        var link = ev.target && ev.target.closest && ev.target.closest('.subnav-link');
+        if (!link) return;
+        ev.preventDefault();
+        var targetId = link.getAttribute('data-target');
+        var el = document.getElementById(targetId);
+        if (!el) return;
+        var offset = 110; // tab-nav 60 + subnav ~40 + buffer
+        var top = el.getBoundingClientRect().top + window.scrollY - offset;
+        window.scrollTo({ top: top, behavior: 'smooth' });
+      });
+
+      // Active-section highlight via IntersectionObserver
+      var subnavIds = [];
+      Object.keys(SUBNAV_BY_TAB).forEach(function(t) {
+        SUBNAV_BY_TAB[t].forEach(function(it) { subnavIds.push(it.id); });
+      });
+      var subnavObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            var id = entry.target.id;
+            document.querySelectorAll('.subnav-link').forEach(function(l) {
+              l.classList.toggle('is-active', l.getAttribute('data-target') === id);
+            });
+          }
+        });
+      }, { rootMargin: '-20% 0px -70% 0px', threshold: 0 });
+      subnavIds.forEach(function(id) {
+        var el = document.getElementById(id);
+        if (el) subnavObserver.observe(el);
+      });
 
       function resolveFromHash() {
         var h = (window.location.hash || '').replace('#', '');
@@ -2936,6 +3127,11 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   .tab-nav-btn:hover { color: var(--ink); border-color: var(--rule); }
   .tab-nav-btn.is-active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
   .tab-nav-btn.is-active .tab-badge { color: var(--bg); opacity: 0.75; }
+
+  /* Sub-navigation container (in static markup, scoped) */
+  .subnav { position: sticky; top: 60px; z-index: 99; background: var(--bg-alt); border-bottom: 1px solid var(--rule); display: none; }
+  .subnav.has-items { display: block; }
+  .subnav-inner { max-width: 1400px; margin: 0 auto; padding: 8px 32px; display: flex; align-items: center; gap: 4px; flex-wrap: wrap; }
   .tab-badge { font-size: 11px; color: var(--ink-mute); font-weight: 500; padding: 0 4px; }
 
   /* Scan-freshness strip – sits directly under the sticky tab-nav */
@@ -2974,6 +3170,11 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
 
   /* Stack tab – cross-reference sections */
   .stack-section { padding: 64px 0 96px; }
+  .cross-headline { background: var(--drift-soft); border-left: 3px solid var(--drift); padding: 14px 18px; margin: 18px 0 24px; font-size: 14px; line-height: 1.55; color: var(--ink); }
+  .cross-headline strong.drift { color: var(--drift); }
+  .cross-row-no-classical { background: rgba(204, 122, 0, 0.04); }
+  .cross-row-no-classical td { color: var(--ink-soft); }
+  .no-google-badge { display: inline-block; margin-left: 8px; padding: 2px 8px; background: var(--drift-soft); color: var(--drift); border-radius: 10px; font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase; vertical-align: middle; }
   .cross-block { margin-top: 48px; border: 1px solid var(--rule); padding: 28px 32px 24px; background: var(--bg); }
   .cross-block + .cross-block { margin-top: 32px; }
   .cross-head { display: flex; align-items: baseline; gap: 16px; margin-bottom: 6px; flex-wrap: wrap; }
@@ -3515,6 +3716,62 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
   /* Divergence-score helpers */
   .heatmap-score { cursor: help; }
   .deepdive-score-block { cursor: help; }
+
+  /* Custom hover tooltip for divergence-score cells (heatmap + deep dive).
+     Replaces native title= so the explanation actually appears. */
+  .heatmap-score[data-tip],
+  .deepdive-score-block[data-tip] { position: relative; outline: none; }
+  .heatmap-score[data-tip]:hover::after,
+  .heatmap-score[data-tip]:focus-visible::after,
+  .deepdive-score-block[data-tip]:hover::after,
+  .deepdive-score-block[data-tip]:focus-visible::after {
+    content: attr(data-tip);
+    position: absolute;
+    left: 0;
+    bottom: calc(100% + 12px);
+    background: var(--ink);
+    color: var(--bg);
+    padding: 12px 16px 11px;
+    width: max-content;
+    max-width: 300px;
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: 0.01em;
+    text-transform: none;
+    text-align: left;
+    white-space: pre-line;
+    box-shadow: 0 8px 24px rgba(26, 22, 20, 0.28);
+    pointer-events: none;
+    z-index: 20;
+  }
+  .heatmap-score[data-tip]:hover::before,
+  .heatmap-score[data-tip]:focus-visible::before,
+  .deepdive-score-block[data-tip]:hover::before,
+  .deepdive-score-block[data-tip]:focus-visible::before {
+    content: '';
+    position: absolute;
+    left: 22px;
+    bottom: calc(100% + 7px);
+    width: 10px;
+    height: 10px;
+    background: var(--ink);
+    transform: rotate(45deg);
+    pointer-events: none;
+    z-index: 21;
+  }
+  .heatmap-row.has-deepdive:hover .heatmap-score::after,
+  .heatmap-row.has-deepdive:hover .heatmap-score::before { /* keep tooltip readable on hovered row */ }
+  @media (max-width: 720px) {
+    .heatmap-score[data-tip]:hover::after,
+    .heatmap-score[data-tip]:focus-visible::after,
+    .deepdive-score-block[data-tip]:hover::after,
+    .deepdive-score-block[data-tip]:focus-visible::after {
+      max-width: min(280px, calc(100vw - 32px));
+      font-size: 11.5px;
+    }
+  }
   .drift-score-legend { font-family: var(--mono); font-size: 11px; color: var(--ink-mute); letter-spacing: 0.02em; margin-top: 6px; }
   .drift-score-reading { margin-top: 4px; font-size: 11px; color: var(--drift); font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; }
 
@@ -3734,4 +3991,12 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
 
   .masthead-inner { display: flex; justify-content: space-between; align-items: flex-end; padding-top: 20px; gap: 24px; }
   @media (max-width: 900px) { .masthead-inner { flex-direction: column; align-items: flex-start; gap: 12px; } }
+</style>
+
+<style is:global>
+  /* Sub-nav inner items injected via JS innerHTML — must be global to escape Astro scoping */
+  .subnav-eyebrow { color: #8A7F75; letter-spacing: 0.14em; font-size: 10px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; margin-right: 16px; text-transform: uppercase; }
+  .subnav-link { padding: 5px 12px; color: #4A413B; text-decoration: none; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 11px; letter-spacing: 0.04em; transition: all 120ms ease; border: 1px solid transparent; border-radius: 14px; cursor: pointer; display: inline-block; }
+  .subnav-link:hover { color: #1A1614; border-color: #DEDCD7; text-decoration: none; }
+  .subnav-link.is-active { color: #1A1614; background: #FAFAF9; border-color: #1A1614; }
 </style>
