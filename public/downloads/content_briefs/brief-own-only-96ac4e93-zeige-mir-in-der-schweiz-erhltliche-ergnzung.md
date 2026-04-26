@@ -49,4 +49,4 @@ _The deterministic suggestion above is generated from silence type and search-vo
 - **Re-measure in 14 days** to confirm visibility lift.
 
 ---
-Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #BuiltWithPeec
+Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

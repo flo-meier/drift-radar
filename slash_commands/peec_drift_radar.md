@@ -70,4 +70,4 @@ Two instruments on the same problem, different altitudes. A team running both ge
 - Computation is stateless and deterministic, so caching is trivial at Peec side.
 - Frontend reference implementation: [drift-radar.pages.dev](https://drift-radar.pages.dev).
 
-— Drift Radar · #BuiltWithPeec
+— Drift Radar · #builtWithPeec

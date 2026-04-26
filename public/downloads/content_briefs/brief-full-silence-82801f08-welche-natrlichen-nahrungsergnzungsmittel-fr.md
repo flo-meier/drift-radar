@@ -46,4 +46,4 @@ _The deterministic suggestion above is generated from silence type and search-vo
 - **Re-measure in 30 days** – opportunity windows close fast.
 
 ---
-Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #BuiltWithPeec
+Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

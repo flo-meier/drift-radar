@@ -73,4 +73,4 @@ _The deterministic suggestion above is generated from silence type and search-vo
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
 
 ---
-Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #BuiltWithPeec
+Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

@@ -1,6 +1,6 @@
 # Drift Radar
 
-> Cross-model divergence + brand-silence radar. Built on Peec AI MCP. #BuiltWithPeec
+> Cross-model divergence + brand-silence radar. Built on Peec AI MCP. #builtWithPeec
 
 Drift Radar finds the prompts where ChatGPT, Gemini and AI Overview describe the same brand *differently* – and the prompts where they stay brand-silent entirely. Both are brand risks, and both are invisible to classic visibility metrics.
 
@@ -82,4 +82,4 @@ MIT. The Peec MCP Challenge IP-clause grants Peec a royalty-free worldwide licen
 
 ---
 
-Maintainer: Florian Meier · Challenge submission, April 2026 · #BuiltWithPeec
+Maintainer: Florian Meier · Challenge submission, April 2026 · #builtWithPeec

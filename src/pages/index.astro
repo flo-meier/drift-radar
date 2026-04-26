@@ -287,7 +287,7 @@ function datasetMdTable(promptList: any[], title: string): string {
   }
   lines.push('');
   lines.push('---');
-  lines.push('Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #BuiltWithPeec');
+  lines.push('Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec');
   return lines.join('\n');
 }
 
@@ -342,7 +342,7 @@ function buildMarkdown(p: any): string {
   }
   lines.push('---');
   lines.push(`> **Source:** [Drift Radar deep dive ↗](${deepDiveUrl(p.prompt_id)})`);
-  lines.push(`Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #BuiltWithPeec`);
+  lines.push(`Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec`);
   return lines.join('\n');
 }
 
@@ -369,7 +369,7 @@ function buildSlackText(p: any): string {
   }
   lines.push(`Next: • ${actions[0]}  • ${actions[1]}`);
   lines.push(`↳ Deep dive: ${deepDiveUrl(p.prompt_id)}`);
-  lines.push(`Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar #BuiltWithPeec`);
+  lines.push(`Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar #builtWithPeec`);
   return lines.join('\n');
 }
 
@@ -463,7 +463,7 @@ ${actionLines}
 
 Reference: [Drift Radar deep dive](${deepDiveUrl(p.prompt_id)})
 
-Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar #BuiltWithPeec`;
+Source: Peec AI MCP · ${date_range.start} → ${date_range.end} · Drift Radar #builtWithPeec`;
 }
 const ownOnly = prompts
   .filter((p: any) => p.silence_type === 'own_only')
@@ -3119,7 +3119,7 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
           <span class="text-mute">&nbsp;– a field report on how AI engines describe the same brand differently.</span>
         </div>
         <div class="text-mute mono" style="font-size: 12px;">
-          Built for the <a href="https://peec.ai">Peec AI</a> MCP Challenge 2026 &nbsp;·&nbsp; #BuiltWithPeec &nbsp;·&nbsp; {date_range.start} → {date_range.end}
+          Built for the <a href="https://peec.ai">Peec AI</a> MCP Challenge 2026 &nbsp;·&nbsp; #builtWithPeec &nbsp;·&nbsp; {date_range.start} → {date_range.end}
         </div>
       </div>
     </div>
