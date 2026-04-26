@@ -9,9 +9,11 @@ Snapshot of 50 tracked prompts across 3 engines: ChatGPT, Gemini, AI Overview.
 - Full silence: 16 prompts
 - Average own-brand visibility: 4.0 %
 
-## What this means
+## Movement vs previous run
 
-First run – no previous snapshot to compare against. Next run will report movement.
+- 0 prompts moved into drifting range
+- 0 prompts moved out of drifting range
+- 0 prompts changed silence-type
 
 ## Top drifting prompts
 
@@ -28,4 +30,4 @@ First run – no previous snapshot to compare against. Next run will report move
 
 ---
 
-*Generated: 2026-04-25T18:36:52Z*
+*Generated: 2026-04-26T07:13:29Z*
