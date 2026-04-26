@@ -593,6 +593,15 @@ function sumCounts(counts: Record<string, number> | undefined): number {
     </div>
   </header>
 
+  <section class="section keyvisual-section" data-tab="overview" id="sec-keyvisual">
+    <div class="container-wide">
+      <KeyVisual />
+      <p class="caption" style="margin-top: 28px; margin-left: auto; margin-right: auto; text-align: center; max-width: 720px;">
+        One real prompt from the {own_brand} prompt set. Three AI engines. Three brands at position one. This is not an outlier – it is the pattern Drift Radar quantifies.
+      </p>
+    </div>
+  </section>
+
   <section class="section strip-section" data-tab="overview" aria-labelledby="strip-title" id="sec-strip">
     <div class="container-wide">
       <div class="strip-header">
@@ -655,15 +664,6 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         <div class="strip-legend-item"><span class="strip-legend-swatch strip-legend-swatch-full"></span>Full silence <span class="strip-legend-count mono">{stripCounts.full}</span></div>
         <div class="strip-legend-item"><span class="strip-legend-swatch strip-legend-swatch-active"></span>Active, aligned <span class="strip-legend-count mono">{stripCounts.active}</span></div>
       </div>
-    </div>
-  </section>
-
-  <section class="section keyvisual-section" data-tab="overview" id="sec-keyvisual">
-    <div class="container-wide">
-      <KeyVisual />
-      <p class="caption" style="margin-top: 28px; margin-left: auto; margin-right: auto; text-align: center; max-width: 720px;">
-        One real prompt from the {own_brand} prompt set. Three AI engines. Three brands at position one. This is not an outlier – it is the pattern Drift Radar quantifies.
-      </p>
     </div>
   </section>
 
@@ -2673,8 +2673,8 @@ const deepDives = sortedPrompts.filter(p => p.chat_sample);
       // Sub-nav data — section anchors per tab
       var SUBNAV_BY_TAB = {
         overview: [
-          { id: 'sec-strip', label: 'Strip plot' },
           { id: 'sec-keyvisual', label: 'Key visual' },
+          { id: 'sec-strip', label: 'Strip plot' },
           { id: 'sec-numbers', label: 'Numbers' },
           { id: 'sec-narrative', label: 'Narrative' },
           { id: 'sec-pipeline', label: 'Pipeline' },
