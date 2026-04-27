@@ -1,33 +1,23 @@
-# Drift Radar · 2026-04-22
+# Drift Radar · 2026-04-26
 
-Snapshot of 50 tracked prompts across 3 engines: ChatGPT, Gemini, AI Overview.
+## Status snapshot
 
-## Headline numbers
+Pferdegold tracked 50 prompts across ChatGPT, Gemini, and AI Overview (2026-04-24 to 2026-04-26). Eight prompts drifted at ≥0.3 visibility. Own-brand visibility averaged 3.3%. The portfolio shows net volatility: 4 prompts entered drifting range while 5 exited, with 18 silence-type shifts.
 
-- Drifting (score ≥ 0.30): 9 prompts
-- Own-only silence: 25 prompts
-- Full silence: 16 prompts
-- Average own-brand visibility: 4.0 %
+## Key movements
 
-## Movement vs previous run
+**Into drifting (4 prompts):** All four new drifters share product-attribute specificity (natural supplements, stress pellets, sugar-free formulas) combined with geographic qualifiers (Switzerland, Germany). Highest entry: "Zeige mir in der Schweiz erhältliche Nervenpellets für gestresste Pferde" (0.592). The three remaining entrants landed at 0.443 each. These were previously silent (own-only), indicating engines now surface competitor mentions where they previously showed only Pferdegold.
 
-- 0 prompts moved into drifting range
-- 0 prompts moved out of drifting range
-- 0 prompts changed silence-type
+**Out of drifting (5 prompts):** Lost visibility concentrated on joint-support queries. Two prompts dropped to zero from 0.681 and 0.912 – particularly "Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen" (–0.912 delta). Gelenkpellets and gelenkunterstützung terms retreated to full silence.
 
-## Top drifting prompts
+## Silence reconfiguration
 
-- 0.91 – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«  
-  _AI Overview leads at 100 %, silent on ChatGPT, Gemini_
-- 0.91 – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«  
-  _Gemini leads at 100 %, silent on ChatGPT, AI Overview_
-- 0.68 – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«  
-  _Gemini leads at 67 %, silent on ChatGPT, AI Overview_
-- 0.68 – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«  
-  _Gemini leads at 67 %, silent on ChatGPT, AI Overview_
-- 0.68 – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«  
-  _AI Overview leads at 67 %, silent on ChatGPT, Gemini_
+Four prompts transitioned from own-only silence to active (non-silent) status – matching the four new drifters. One generic query ("Welche Pellets sind gut für die Gelenke?") flipped from own-only to full silence. One shifted opposite direction (full to own-only).
 
----
+## Where to investigate
 
-*Generated: 2026-04-26T19:26:10Z*
+Start with the four new drifters. They cluster around **stress/nerve pellets + geography** and **sugar-free supplements + country specificity**. Competitor mentions emerged in these corners. The joint-support collapse suggests either seasonal search pattern shift or algorithm recalibration favoring other content types.
+
+Own-only silence remains elevated at 27 prompts – review whether these represent low-intent queries or visibility gaps worth addressing.
+
+Next run will indicate whether new drifters stabilize or revert.

@@ -1,14 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
 - **Gemini:** 0 %
-- **AI Overview:** 67 %
+- **AI Overview:** 100 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.91  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 67 %
+### AI Overview – visibility 100 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,23 +49,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 1.3 %
-- **Competitor:** 3.9 %
-- **Editorial:** 2.6 %
-- **Ugc:** 3.9 %
-- **Reference:** 3.9 %
-- **Institutional:** 1.3 %
-- **Corporate:** 75.0 %
-- **Other:** 7.9 %
+- **Own:** 1.7 %
+- **Competitor:** 5.2 %
+- **Editorial:** 3.4 %
+- **Ugc:** 3.4 %
+- **Reference:** 1.7 %
+- **Corporate:** 82.8 %
+- **Other:** 1.7 %
 
 **Top cited domains**
 
+- `inropharm.de` – CORPORATE, retrieved 44 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `inropharm.de` – CORPORATE, retrieved 33 % of chats
+- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `krauterie.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

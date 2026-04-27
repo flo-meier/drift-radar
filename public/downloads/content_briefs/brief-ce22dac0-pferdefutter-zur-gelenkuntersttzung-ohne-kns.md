@@ -1,14 +1,16 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
-- **Gemini:** 100 %
+- **Gemini:** 0 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.91  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+
+**Silence type:** `own_only`
 
 ## What the engines say
 
@@ -21,7 +23,7 @@
 - _brand_ – Pavo offers joint support
 - _criterion_ – These brands offer natural joint support
 
-### Gemini – visibility 100 %
+### Gemini – visibility 0 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -40,15 +42,16 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Suggested article
 
-- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
-- **Length:** 1 500 – 2 500 words
-- **Headline starting point:** »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen. – what Pferdegold actually does«
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Pavo: Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
+- **Own-only silence.** Pavo, St. Hippolyt already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

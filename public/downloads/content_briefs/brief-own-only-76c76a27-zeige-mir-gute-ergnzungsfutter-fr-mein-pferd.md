@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
 
 ## Engine visibility
 
@@ -14,37 +14,34 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Reference:** 9.1 %
-- **Corporate:** 81.8 %
-- **Other:** 9.1 %
+- **Own:** 5.9 %
+- **Editorial:** 5.9 %
+- **Corporate:** 88.2 %
 
 **Top cited domains**
 
-- `fundis-reitsport.de` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
-- `emma-care.de` – CORPORATE, retrieved 17 % of chats
-- `equiva.com` – CORPORATE, retrieved 17 % of chats
-- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `madbarn.com` – CORPORATE, retrieved 17 % of chats
+- `agrobs.de` – CORPORATE, retrieved 17 % of chats
+- `amazon.de` – CORPORATE, retrieved 17 % of chats
+- `biozymeinc.com` – CORPORATE, retrieved 17 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
+- `equine-america.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Zeige mir gute Ergänzungsfutter für mein Pferd.«
+- **Headline starting point:** »Pferdegold vs Pavo: Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

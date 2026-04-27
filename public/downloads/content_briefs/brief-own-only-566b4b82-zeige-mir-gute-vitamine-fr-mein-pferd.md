@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
 
 ## Engine visibility
 
@@ -14,26 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
-- **Höveler** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 1.9 %
-- **Reference:** 3.7 %
-- **Institutional:** 7.6 %
-- **Corporate:** 75.4 %
-- **Other:** 11.4 %
+- **Editorial:** 4.7 %
+- **Reference:** 2.3 %
+- **Institutional:** 4.7 %
+- **Corporate:** 81.4 %
+- **Other:** 7.0 %
 
 **Top cited domains**
 
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `petmd.com` – REFERENCE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 17 % of chats
+- `feedmark.com` – CORPORATE, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `ker.com` – OTHER, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -45,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Eggersmann, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

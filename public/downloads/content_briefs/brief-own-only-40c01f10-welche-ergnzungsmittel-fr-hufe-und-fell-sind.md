@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Ergänzungsmittel für Hufe und Fell sind empfehlenswert?«
 
-**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
 
 ## Engine visibility
 
@@ -15,7 +15,19 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+
+## Citation source mix
+
+- **Corporate:** 100.0 %
+
+**Top cited domains**
+
+- `dochorse.com` – CORPORATE, retrieved 17 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 17 % of chats
+- `annimally.de` – CORPORATE, retrieved 17 % of chats
+- `arenus.com` – CORPORATE, retrieved 17 % of chats
+- `deuka.de` – CORPORATE, retrieved 17 % of chats
+- `feedmark.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -27,7 +39,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

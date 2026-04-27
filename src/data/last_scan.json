@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-26T19:26:10Z",
+  "timestamp": "2026-04-27T04:23:03Z",
   "source": "workflow_dispatch",
-  "next_scheduled": "2026-05-03T02:00:00Z",
+  "next_scheduled": "2026-04-28T02:00:00Z",
   "workflow_url": "https://github.com/flo-meier/drift-radar/actions/workflows/drift-radar-weekly.yml",
-  "last_run_url": "https://github.com/flo-meier/drift-radar/actions/runs/24965051004",
-  "peec_api_key_present": false,
-  "date_range_days": 7
+  "last_run_url": "https://github.com/flo-meier/drift-radar/actions/runs/24976418785",
+  "peec_api_key_present": true,
+  "date_range_days": 3
 }

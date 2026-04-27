@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
 
 ## Engine visibility
 
@@ -14,9 +14,22 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+
+## Citation source mix
+
+- **Corporate:** 100.0 %
+
+**Top cited domains**
+
+- `equine74.com` – CORPORATE, retrieved 17 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `sapodoris.de` – CORPORATE, retrieved 17 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 17 % of chats
+- `equine-america.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -28,7 +41,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

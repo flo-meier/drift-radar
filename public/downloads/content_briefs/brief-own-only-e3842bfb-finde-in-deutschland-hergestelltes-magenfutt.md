@@ -1,6 +1,6 @@
 # Drift Radar – »Finde in Deutschland hergestelltes Magenfutter für mein Pferd.«
 
-**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
 
 ## Engine visibility
 
@@ -14,28 +14,27 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 100 %, ChatGPT 67 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %, ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %, AI Overview 33 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.3 %
-- **Editorial:** 4.3 %
-- **Ugc:** 4.3 %
-- **Reference:** 1.4 %
-- **Institutional:** 2.9 %
+- **Competitor:** 4.8 %
+- **Ugc:** 7.1 %
+- **Institutional:** 2.4 %
 - **Corporate:** 78.6 %
-- **Other:** 4.3 %
+- **Other:** 7.1 %
 
 **Top cited domains**
 
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `louven-shop.de` – CORPORATE, retrieved 44 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `facebook.com` – UGC, retrieved 33 % of chats
-- `german-horse-fit.de` – CORPORATE, retrieved 33 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 33 % of chats
+- `german-horse-fit.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -47,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

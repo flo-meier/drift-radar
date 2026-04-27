@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
 
 ## Engine visibility
 
@@ -11,21 +11,6 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
-
-## Citation source mix
-
-- **Institutional:** 11.1 %
-- **Corporate:** 77.8 %
-- **Other:** 11.1 %
-
-**Top cited domains**
-
-- `masterhorse.de` – CORPORATE, retrieved 17 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 17 % of chats
-- `hipposport.de` – CORPORATE, retrieved 17 % of chats
-- `horseflex.de` – CORPORATE, retrieved 17 % of chats
-- `kraemer.de` – OTHER, retrieved 17 % of chats
 
 ## Suggested article
 
