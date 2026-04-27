@@ -3,7 +3,7 @@
     "source": "demo",
     "property_url": null,
     "note": "Demo data seeded deterministically from Peec prompt_id. Setting GSC_SERVICE_ACCOUNT_JSON and GSC_PROPERTY_URL switches the connector to live-stub status; wire the Google API Python client in connectors/gsc.py → fetch_live() to populate live values (under 50 lines around the existing demo-mode plumbing).",
-    "generated_at": "2026-04-27T04:22:56.006146+00:00",
+    "generated_at": "2026-04-27T04:33:19.987685+00:00",
     "by_prompt": {
       "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
         "ctr": 0.04,
@@ -794,7 +794,7 @@
     "property_id": null,
     "property_name": "Pferdegold Shop (demo)",
     "note": "Demo data seeded deterministically from Peec prompt_id. Setting GA4_SERVICE_ACCOUNT_JSON and GA4_PROPERTY_ID switches the connector to live-stub status; wire the Google Analytics Data API client in connectors/ga4.py → fetch_live() to populate live values (under 50 lines around the existing demo-mode plumbing).",
-    "generated_at": "2026-04-27T04:22:56.006862+00:00",
+    "generated_at": "2026-04-27T04:33:19.988357+00:00",
     "by_prompt": {
       "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
         "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
@@ -1494,7 +1494,7 @@
     "customer_id": null,
     "account_name": "Pferdegold Performance (demo)",
     "note": "Demo data seeded deterministically from Peec prompt_id. Setting GOOGLE_ADS_DEVELOPER_TOKEN and GOOGLE_ADS_CUSTOMER_ID switches the connector to live-stub status; wire the google-ads-python client in connectors/google_ads.py → fetch_live() to populate live values (roughly 50 lines around the demo-mode plumbing).",
-    "generated_at": "2026-04-27T04:22:56.007560+00:00",
+    "generated_at": "2026-04-27T04:33:19.989027+00:00",
     "by_prompt": {
       "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
         "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
@@ -2364,7 +2364,7 @@
   "ahrefs": {
     "source": "demo",
     "note": "Top-ranking URLs are real – harvested by Peec MCP from data/raw/gap_urls_digested.json. Keyword difficulty, search volume and backlink counts are deterministic mock rows per (prompt, domain) pair. Setting AHREFS_API_KEY switches the connector to live-stub status; wire the Ahrefs v3 client in connectors/ahrefs.py → fetch_live() to populate live metrics (under 50 lines around the existing demo-mode plumbing).",
-    "generated_at": "2026-04-27T04:22:56.008457+00:00",
+    "generated_at": "2026-04-27T04:33:19.989922+00:00",
     "by_prompt": {
       "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
         "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",

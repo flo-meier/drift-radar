@@ -1,23 +1,21 @@
 # Drift Radar · 2026-04-26
 
-## Status snapshot
+## Summary
 
-Pferdegold tracked 50 prompts across ChatGPT, Gemini, and AI Overview (2026-04-24 to 2026-04-26). Eight prompts drifted at ≥0.3 visibility. Own-brand visibility averaged 3.3%. The portfolio shows net volatility: 4 prompts entered drifting range while 5 exited, with 18 silence-type shifts.
+Pferdegold tracking held steady across April 24–26. No prompts entered or exited the drifting range (≥ 0.3). No silence-type transitions occurred. The 8 drifting prompts remain at their previous positions.
 
-## Key movements
+## Stability markers
 
-**Into drifting (4 prompts):** All four new drifters share product-attribute specificity (natural supplements, stress pellets, sugar-free formulas) combined with geographic qualifiers (Switzerland, Germany). Highest entry: "Zeige mir in der Schweiz erhältliche Nervenpellets für gestresste Pferde" (0.592). The three remaining entrants landed at 0.443 each. These were previously silent (own-only), indicating engines now surface competitor mentions where they previously showed only Pferdegold.
+50 prompts tracked across ChatGPT, Gemini, and AI Overview. Own-brand visibility averaged 3.3%. The composition remained unchanged: 8 drifting, 27 own-only silence, 15 full silence.
 
-**Out of drifting (5 prompts):** Lost visibility concentrated on joint-support queries. Two prompts dropped to zero from 0.681 and 0.912 – particularly "Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen" (–0.912 delta). Gelenkpellets and gelenkunterstützung terms retreated to full silence.
+The five largest scores – all stable week-over-week – cluster in two categories. Ingredient comparisons and product selection queries ("Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde", score 0.912; "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde", 0.841) show the strongest drift. Regional availability queries ("Zeige mir in der Schweiz erhältliche Nervenpellets für gestresste Pferde", 0.592) and sugar-free feed searches ("Suche natürliches Zusatzfutter für Pferde ohne Zucker", 0.443; "Suche gesundes Zusatzfutter für Pferde in Deutschland", 0.443) occupy the middle tier.
 
-## Silence reconfiguration
+## Action items
 
-Four prompts transitioned from own-only silence to active (non-silent) status – matching the four new drifters. One generic query ("Welche Pellets sind gut für die Gelenke?") flipped from own-only to full silence. One shifted opposite direction (full to own-only).
+No recovery needed. No new risks detected. The absence of movement suggests either stable positioning or insufficient prompt volume to trigger rank shifts. The 27 own-only silence prompts merit review – these represent queries where Pferdegold appears but competitors do not, indicating potential content gaps or indexing delays rather than competitive pressure.
 
-## Where to investigate
+The 15 full-silence prompts should be audited for relevance to product scope.
 
-Start with the four new drifters. They cluster around **stress/nerve pellets + geography** and **sugar-free supplements + country specificity**. Competitor mentions emerged in these corners. The joint-support collapse suggests either seasonal search pattern shift or algorithm recalibration favoring other content types.
+## Forward look
 
-Own-only silence remains elevated at 27 prompts – review whether these represent low-intent queries or visibility gaps worth addressing.
-
-Next run will indicate whether new drifters stabilize or revert.
+Next run will show whether the drifting cohort holds or if weekly volatility returns.
