@@ -118,7 +118,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
-            git commit -m "chore(data): daily drift radar refresh [skip ci]"
+            git commit -m "chore(data): daily drift radar refresh"
             git push
           fi
 
