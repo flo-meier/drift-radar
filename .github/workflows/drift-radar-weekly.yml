@@ -1,15 +1,15 @@
-name: Drift Radar – weekly scan
+name: Drift Radar – daily scan
 
 on:
   schedule:
-    # Sunday 02:00 UTC – fresh report ready for Monday standups.
-    - cron: "0 2 * * 0"
+    # Daily 02:00 UTC – fresh report before EU/US business hours.
+    - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
       date_range_days:
         description: "Peec look-back window in days"
         required: false
-        default: "7"
+        default: "3"
 
 permissions:
   contents: write  # needed to commit refreshed data/ to main
@@ -37,7 +37,7 @@ jobs:
         env:
           PEEC_API_KEY: ${{ secrets.PEEC_API_KEY }}
           PEEC_PROJECT_ID: ${{ secrets.PEEC_PROJECT_ID }}
-          PEEC_DATE_RANGE_DAYS: ${{ github.event.inputs.date_range_days || '7' }}
+          PEEC_DATE_RANGE_DAYS: ${{ github.event.inputs.date_range_days || '3' }}
         run: python fetch_peec.py
 
       - name: Extract narrative claims (optional, requires ANTHROPIC_API_KEY)
@@ -68,7 +68,7 @@ jobs:
           GSC_PROPERTY_URL: ${{ secrets.GSC_PROPERTY_URL }}
         run: python build_cross_refs.py
 
-      - name: Generate weekly narrative (Haiku diff vs previous run)
+      - name: Generate narrative (Haiku diff vs previous run)
         working-directory: pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -82,7 +82,7 @@ jobs:
         env:
           KEY_PRESENT: ${{ secrets.PEEC_API_KEY != '' }}
           TRIGGER: ${{ github.event_name }}
-          DATE_RANGE: ${{ github.event.inputs.date_range_days || '7' }}
+          DATE_RANGE: ${{ github.event.inputs.date_range_days || '3' }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
           WF_URL: ${{ github.server_url }}/${{ github.repository }}/actions/workflows/drift-radar-weekly.yml
         run: |
@@ -91,11 +91,10 @@ jobs:
           from datetime import datetime, timedelta, timezone
 
           now = datetime.now(timezone.utc).replace(microsecond=0)
-          # Next cron: next Sunday 02:00 UTC
-          days_ahead = (6 - now.weekday()) % 7
-          if days_ahead == 0 and now.hour >= 2:
-              days_ahead = 7
-          next_run = (now + timedelta(days=days_ahead)).replace(hour=2, minute=0, second=0)
+          # Next cron: tomorrow 02:00 UTC (or today if before 02:00)
+          next_run = now.replace(hour=2, minute=0, second=0)
+          if now.hour >= 2:
+              next_run += timedelta(days=1)
 
           payload = {
               "timestamp": now.isoformat().replace("+00:00", "Z"),
@@ -119,13 +118,13 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
-            git commit -m "chore(data): weekly drift radar refresh [skip ci]"
+            git commit -m "chore(data): daily drift radar refresh [skip ci]"
             git push
           fi
 
       - name: Summarise run
         run: |
-          echo "### Drift Radar weekly scan" >> $GITHUB_STEP_SUMMARY
+          echo "### Drift Radar daily scan" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "- Trigger: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
           echo "- PEEC_API_KEY present: ${{ secrets.PEEC_API_KEY != '' }}" >> $GITHUB_STEP_SUMMARY
