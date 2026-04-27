@@ -559,7 +559,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
         <div class="scan-strip-item">
           <span class="scan-strip-label">Next scheduled</span>
           <span class="scan-strip-val mono">{scanNextLabel}</span>
-          <span class="scan-strip-sub mono">· weekly cron</span>
+          <span class="scan-strip-sub mono">· daily cron</span>
         </div>
         <div class="scan-strip-actions">
           <button type="button" id="scan-trigger-btn" class="scan-strip-trigger" data-trigger-url="https://drift-radar-trigger.florian-meier-meier.workers.dev/dispatch">Trigger run now</button>
@@ -2061,7 +2061,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <ul class="stack-map-list">
             <li><strong>Peec AI MCP</strong> <span class="mono">→</span> brand reports, chats, domain reports, search &amp; shopping queries, tags</li>
             <li><strong>Astro + Cloudflare Pages</strong> <span class="mono">→</span> the public report you are reading</li>
-            <li><strong>GitHub Action</strong> <span class="mono">→</span> weekly cron + one-click rerun, commits fresh data to main</li>
+            <li><strong>GitHub Action</strong> <span class="mono">→</span> daily cron + one-click rerun, commits fresh data to main</li>
             <li><strong>WordPress WXR export</strong> <span class="mono">→</span> every drifting brief as a draft post, ready to import</li>
             <li><strong>Slack webhook</strong> <span class="mono">→</span> digest posted to any incoming-webhook URL, client-side, no proxy</li>
             <li><strong>Clipboard handoffs</strong> <span class="mono">→</span> Notion · Google Docs · Google Sheets · Linear · ChatGPT · Claude</li>
