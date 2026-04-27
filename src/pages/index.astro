@@ -10,6 +10,7 @@ import narrativeLatest from '../data/narrative_latest.md?raw';
 
 const { project, own_brand, date_range, active_models, competitors, summary, prompts, source_overview, source_classifications } = data as any;
 const peecTopActions = (peecActions as any).top_actions || [];
+const peecActionsSnapshotDate = ((peecActions as any).fetched_at || '').split('T')[0] || '2026-04-23';
 const SITE_URL = 'https://drift-radar.pages.dev';
 function deepDiveUrl(promptId: string): string { return `${SITE_URL}/#deepdive-${promptId}`; }
 
@@ -954,7 +955,7 @@ function sumCounts(counts: Record<string, number> | undefined): number {
           <div class="kicker">Peec-native next steps · <span class="mono">peec.get_actions</span></div>
           <h2>What Peec already recommends</h2>
           <p class="caption" style="margin-top: 12px; max-width: 720px;">
-            Drift Radar never pretends to replace Peec's own recommendation engine. These are the four highest-opportunity actions Peec returned for {own_brand} on the same window – product pages to clone, editorial outlets to get featured on. Drift Radar adds two things Peec's actions do not yet surface: <em>which</em> prompts the brand loses on cross-model, and <em>which</em> prompts nobody is named on yet.
+            Drift Radar never pretends to replace Peec's own recommendation engine. These are the four highest-opportunity actions Peec returned for {own_brand} – snapshot from <span class="mono">{peecActionsSnapshotDate}</span> via the Peec MCP <code>get_actions</code> tool, kept frozen because the Customer REST API does not expose an actions endpoint yet. Product pages to clone, editorial outlets to get featured on. Drift Radar adds two things Peec's actions do not yet surface: <em>which</em> prompts the brand loses on cross-model, and <em>which</em> prompts nobody is named on yet.
           </p>
         </div>
       </div>
