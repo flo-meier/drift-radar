@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 1.2 %
-- **Editorial:** 7.0 %
-- **Ugc:** 3.5 %
-- **Reference:** 8.1 %
-- **Institutional:** 3.5 %
-- **Corporate:** 73.3 %
-- **Other:** 3.5 %
+- **Own:** 1.1 %
+- **Editorial:** 6.7 %
+- **Ugc:** 4.4 %
+- **Reference:** 6.7 %
+- **Institutional:** 5.6 %
+- **Corporate:** 72.2 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
 - `pernaturam.de` – CORPORATE, retrieved 44 % of chats
 - `madbarn.com` – CORPORATE, retrieved 44 % of chats
-- `medpets.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
-- `tierheilkundezentrum.de` – CORPORATE, retrieved 33 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

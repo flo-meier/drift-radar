@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -15,27 +15,29 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Eggersmann** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 31.4 %
-- **Ugc:** 5.7 %
-- **Reference:** 8.6 %
-- **Institutional:** 20.0 %
-- **Corporate:** 25.7 %
-- **Other:** 8.6 %
+- **Own:** 1.6 %
+- **Competitor:** 1.6 %
+- **Editorial:** 25.0 %
+- **Ugc:** 1.6 %
+- **Reference:** 6.2 %
+- **Institutional:** 12.5 %
+- **Corporate:** 43.7 %
+- **Other:** 7.8 %
 
 **Top cited domains**
 
+- `cavallo.de` – EDITORIAL, retrieved 44 % of chats
 - `hs-osnabrueck.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `pm-forum-digital.de` – EDITORIAL, retrieved 33 % of chats
 - `sphericalinsights.com` – REFERENCE, retrieved 33 % of chats
 - `tagesspiegel.de` – EDITORIAL, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 22 % of chats
-- `checkforpet.de` – UGC, retrieved 22 % of chats
+- `deuka.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

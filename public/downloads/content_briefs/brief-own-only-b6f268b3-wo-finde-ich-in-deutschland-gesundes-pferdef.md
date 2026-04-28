@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in Deutschland gesundes Pferdefutter?«
 
-**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -15,25 +15,25 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 33 %)
-- **Pavo** – top visibility 100 %  (AI Overview 100 %, ChatGPT 67 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 50 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %, ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %)
+- **Nösenberger** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 7.0 %
-- **Institutional:** 7.0 %
-- **Corporate:** 86.0 %
+- **Ugc:** 6.7 %
+- **Institutional:** 6.7 %
+- **Corporate:** 86.5 %
 
 **Top cited domains**
 
 - `youtube.com` – UGC, retrieved 25 % of chats
+- `baywa.com` – CORPORATE, retrieved 25 % of chats
+- `kraeuterwiese.de` – CORPORATE, retrieved 25 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `loesdau.de` – CORPORATE, retrieved 25 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
 - `okapi-online.de` – CORPORATE, retrieved 25 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

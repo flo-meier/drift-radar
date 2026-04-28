@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -18,18 +18,20 @@
 
 ## Citation source mix
 
-- **Competitor:** 9.1 %
-- **Corporate:** 81.8 %
-- **Other:** 9.1 %
+- **Competitor:** 2.4 %
+- **Editorial:** 4.8 %
+- **Institutional:** 4.8 %
+- **Corporate:** 76.2 %
+- **Other:** 11.9 %
 
 **Top cited domains**
 
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `ker.com` – OTHER, retrieved 17 % of chats
 - `aleo-pferdesport.de` – CORPORATE, retrieved 17 % of chats
-- `einhuf.com` – CORPORATE, retrieved 17 % of chats
-- `equusvitalis.ch` – OTHER, retrieved 17 % of chats
-- `gladiatorplus.com` – CORPORATE, retrieved 17 % of chats
-- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `amazon.com` – CORPORATE, retrieved 17 % of chats
+- `badkissingen-erleben.de` – OTHER, retrieved 17 % of chats
+- `bauer-schlichter.de` – OTHER, retrieved 17 % of chats
 
 ## Suggested article
 

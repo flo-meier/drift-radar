@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -15,23 +15,7 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
-
-## Citation source mix
-
-- **Institutional:** 5.2 %
-- **Corporate:** 89.5 %
-- **Other:** 5.2 %
-
-**Top cited domains**
-
-- `pharmahorse.de` – CORPORATE, retrieved 28 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 14 % of chats
-- `votana-pferd.de` – CORPORATE, retrieved 14 % of chats
-- `barynesse.com` – CORPORATE, retrieved 14 % of chats
-- `bieros.de` – CORPORATE, retrieved 14 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 
@@ -43,7 +27,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

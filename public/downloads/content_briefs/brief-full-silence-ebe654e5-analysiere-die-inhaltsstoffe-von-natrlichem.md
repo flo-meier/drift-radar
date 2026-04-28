@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 3.1 %
-- **Editorial:** 3.1 %
-- **Reference:** 9.4 %
-- **Institutional:** 14.1 %
-- **Corporate:** 51.6 %
-- **Other:** 18.8 %
+- **Own:** 2.3 %
+- **Competitor:** 1.1 %
+- **Editorial:** 3.4 %
+- **Reference:** 9.1 %
+- **Institutional:** 17.0 %
+- **Corporate:** 47.7 %
+- **Other:** 19.3 %
 
 **Top cited domains**
 
+- `iastate.edu` – INSTITUTIONAL, retrieved 44 % of chats
 - `metazoa.nl` – OTHER, retrieved 44 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
 - `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `madbarn.com` – CORPORATE, retrieved 33 % of chats
 - `horsewellness.de` – OTHER, retrieved 33 % of chats
-- `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 22 % of chats
-- `agrobs.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

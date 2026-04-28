@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -42,16 +42,18 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Editorial:** 5.6 %
+- **Reference:** 11.1 %
+- **Corporate:** 83.3 %
 
 **Top cited domains**
 
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `medpets.de` – CORPORATE, retrieved 17 % of chats
+- `emma-care.de` – CORPORATE, retrieved 17 % of chats
 - `plantavet.de` – CORPORATE, retrieved 17 % of chats
 - `vetripharm.de` – CORPORATE, retrieved 17 % of chats
 - `votana-pferd.de` – CORPORATE, retrieved 17 % of chats
-- `dr-hawes.de` – CORPORATE, retrieved 17 % of chats
-- `equidrol.de` – CORPORATE, retrieved 17 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

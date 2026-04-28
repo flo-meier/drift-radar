@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -14,22 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 5.9 %
-- **Editorial:** 5.9 %
-- **Corporate:** 88.2 %
+- **Own:** 1.9 %
+- **Editorial:** 5.7 %
+- **Reference:** 1.9 %
+- **Institutional:** 7.6 %
+- **Corporate:** 77.2 %
+- **Other:** 5.7 %
 
 **Top cited domains**
 
-- `madbarn.com` – CORPORATE, retrieved 17 % of chats
-- `agrobs.de` – CORPORATE, retrieved 17 % of chats
-- `amazon.de` – CORPORATE, retrieved 17 % of chats
-- `biozymeinc.com` – CORPORATE, retrieved 17 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
-- `equine-america.com` – CORPORATE, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `madbarn.com` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

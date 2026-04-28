@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -14,18 +14,19 @@
 
 ## Citation source mix
 
-- **Reference:** 9.1 %
-- **Corporate:** 81.8 %
-- **Other:** 9.1 %
+- **Editorial:** 5.1 %
+- **Reference:** 10.0 %
+- **Institutional:** 2.5 %
+- **Corporate:** 82.5 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
-- `baywa.de` – CORPORATE, retrieved 17 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
-- `emma-care.de` – CORPORATE, retrieved 17 % of chats
-- `equiva.com` – CORPORATE, retrieved 17 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
+- `emma-care.de` – CORPORATE, retrieved 50 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 50 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 33 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
+- `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

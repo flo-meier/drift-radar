@@ -1,21 +1,26 @@
-# Drift Radar · 2026-04-26
+# Drift Radar · 2026-04-27
 
 ## Summary
 
-Pferdegold tracking held steady across April 24–26. No prompts entered or exited the drifting range (≥ 0.3). No silence-type transitions occurred. The 8 drifting prompts remain at their previous positions.
+Pferdegold tracked 50 prompts across three engines (ChatGPT, Gemini, AI Overview) in the 2026-04-25 to 2026-04-27 window. Ten prompts drifted at or above 0.3 visibility; own-brand visibility remained at 3.5%. Net movement: +2 drifting prompts week-over-week, with eight prompts shifting silence categories.
 
-## Stability markers
+## Drifting Movements
 
-50 prompts tracked across ChatGPT, Gemini, and AI Overview. Own-brand visibility averaged 3.3%. The composition remained unchanged: 8 drifting, 27 own-only silence, 15 full silence.
+Three prompts entered drifting range (0.443 each):
+– "Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde"
+– "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit"
+– "Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen"
 
-The five largest scores – all stable week-over-week – cluster in two categories. Ingredient comparisons and product selection queries ("Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde", score 0.912; "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde", 0.841) show the strongest drift. Regional availability queries ("Zeige mir in der Schweiz erhältliche Nervenpellets für gestresste Pferde", 0.592) and sugar-free feed searches ("Suche natürliches Zusatzfutter für Pferde ohne Zucker", 0.443; "Suche gesundes Zusatzfutter für Pferde in Deutschland", 0.443) occupy the middle tier.
+All three shifted from silence (full or own-only) to mixed-engine visibility. The pattern suggests competitor content is gaining ground on supplementary feed positioning – particularly around digestive health, natural formulations, and joint support.
 
-## Action items
+One prompt exited drifting: "Suche gesundes Zusatzfutter für Pferde in Deutschland" dropped to 0.0 from 0.443. This previously drifting query has reverted to own-only silence.
 
-No recovery needed. No new risks detected. The absence of movement suggests either stable positioning or insufficient prompt volume to trigger rank shifts. The 27 own-only silence prompts merit review – these represent queries where Pferdegold appears but competitors do not, indicating potential content gaps or indexing delays rather than competitive pressure.
+## Silence Reallocation
 
-The 15 full-silence prompts should be audited for relevance to product scope.
+Eight prompts changed silence status. Most significant: the three new drifters eliminated full silence entirely. One established drifter ("Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde") softened from 0.912 to 0.681, indicating competitor pullback on stress-supplement queries but maintained measurable presence.
 
-## Forward look
+## Action Items
 
-Next run will show whether the drifting cohort holds or if weekly volatility returns.
+Prioritize the three new drifters in content review – these represent active competition gaps. The natural/supplement angle across all three warrants immediate audit of competitor messaging. Monitor the exited drift prompt for rebound; silence changes may be temporary.
+
+Next window: Watch whether joint-support and digestive-health drifters stabilize or strengthen further.

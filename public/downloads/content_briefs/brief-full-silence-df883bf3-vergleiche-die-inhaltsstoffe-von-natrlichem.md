@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -14,21 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 2.0 %
-- **Ugc:** 3.9 %
+- **Editorial:** 9.8 %
+- **Ugc:** 11.8 %
 - **Reference:** 3.9 %
 - **Institutional:** 9.8 %
-- **Corporate:** 74.5 %
-- **Other:** 5.9 %
+- **Corporate:** 64.7 %
 
 **Top cited domains**
 
-- `emma-care.de` – CORPORATE, retrieved 44 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `equicrown.de` – CORPORATE, retrieved 33 % of chats
-- `tierheilkundezentrum.de` – CORPORATE, retrieved 33 % of chats
-- `medalistfeed.com` – OTHER, retrieved 22 % of chats
+- `facebook.com` – UGC, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `laurelnature.com` – CORPORATE, retrieved 33 % of chats
+- `welt.de` – EDITORIAL, retrieved 33 % of chats
+- `medalistfeed.com` – CORPORATE, retrieved 22 % of chats
+- `youtube.com` – UGC, retrieved 22 % of chats
 
 ## Suggested article
 

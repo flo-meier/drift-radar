@@ -65,7 +65,7 @@
       "is_active": false
     },
     "gemini-2.5-flash": {
-      "name": "Gemini 1.5 Flash",
+      "name": "Gemini",
       "is_active": false
     },
     "gemini-scraper": {
@@ -89,7 +89,7 @@
       "is_active": false
     },
     "grok-4": {
-      "name": "Grok API",
+      "name": "Grok 4",
       "is_active": false
     },
     "grok-scraper": {
@@ -113,7 +113,7 @@
       "is_active": false
     },
     "sonar": {
-      "name": "Sonar",
+      "name": "Perplexity",
       "is_active": false
     }
   },

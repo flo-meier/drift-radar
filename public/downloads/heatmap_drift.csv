@@ -1,9 +1,11 @@
 prompt_id,prompt_text,topic,volume,divergence_score,silence_type,own_silence,visibility_chatgpt,visibility_gemini,visibility_ai_overview,top_competitors,source_classes
-pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd,Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.,Natürliche Pferdepflege,2,0.912,,False,0,0,1,,"CORPORATE 82%, COMPETITOR 5%, EDITORIAL 3%, UGC 3%, OTHER 1%, OWN 1%, REFERENCE 1%"
-pr_f430c245-6e0b-45f6-ae50-b96facca7aee,Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.,Natürliche Pferdepflege,2,0.841,,False,0.33,0,1,,"CORPORATE 86%, COMPETITOR 5%, UGC 3%, OTHER 1%, REFERENCE 1%"
-pr_ec467175-1c22-4484-8f1d-d818f7b40a5e,Zeige mir in der Schweiz erhältliche Nervenpellets für gestresste Pferde.,Pferde Vitamine und Mineralstoffe,2,0.592,,False,0.67,0,0.33,,"CORPORATE 90%, OTHER 3%, INSTITUTIONAL 3%, EDITORIAL 1%"
-pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f,Suche natürliches Zusatzfutter für Pferde ohne Zucker.,Natürliche Pferdepflege,2,0.443,,False,0,0.33,0,,
-pr_9ff7ac49-9b59-4fcc-976d-59646e809e01,Suche gesundes Zusatzfutter für Pferde in Deutschland.,Pferde Nahrungsergänzungsmittel,2,0.443,,False,0,0.33,0,,"CORPORATE 84%, EDITORIAL 10%, OTHER 5%"
-pr_2ba844fe-a638-44f2-bc07-e04b26bc411b,Finde Nervenpellets für gestresste Pferde ohne Industriezucker.,Pferde Nahrungsergänzung,2,0.443,,False,0,0.33,0,,
-pr_47e52da7-8646-4683-846d-2af8c113a1fc,Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?,Pferde Nahrungsergänzung,3,0.443,,False,0,0.33,0,,CORPORATE 100%
+pr_f430c245-6e0b-45f6-ae50-b96facca7aee,Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.,Natürliche Pferdepflege,2,0.841,,False,0.33,0,1,,"CORPORATE 84%, COMPETITOR 5%, UGC 5%, OTHER 3%, EDITORIAL 1%"
+pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd,Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.,Natürliche Pferdepflege,2,0.681,,False,0,0,0.67,,"CORPORATE 80%, COMPETITOR 4%, UGC 4%, EDITORIAL 3%, OTHER 3%, OWN 1%, REFERENCE 1%"
+pr_ec467175-1c22-4484-8f1d-d818f7b40a5e,Zeige mir in der Schweiz erhältliche Nervenpellets für gestresste Pferde.,Pferde Vitamine und Mineralstoffe,2,0.681,,False,0.67,0,0,,"CORPORATE 76%, OTHER 10%, EDITORIAL 5%, INSTITUTIONAL 2%, UGC 2%, REFERENCE 1%"
+pr_47e52da7-8646-4683-846d-2af8c113a1fc,Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?,Pferde Nahrungsergänzung,3,0.443,,False,0,0.33,0,,"CORPORATE 83%, REFERENCE 11%, EDITORIAL 5%"
+pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f,Suche natürliches Zusatzfutter für Pferde ohne Zucker.,Natürliche Pferdepflege,2,0.443,,False,0,0.33,0,,"CORPORATE 90%, UGC 4%, OWN 4%"
+pr_0b9644fb-0bec-4847-b388-b12ea14991da,Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.,Magen-Darm-Gesundheit Pferd,2,0.443,,False,0,0.33,0,,"CORPORATE 91%, REFERENCE 4%, OTHER 4%"
+pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592,Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.,Pferde Nahrungsergänzung,2,0.443,,False,0,0.33,0,,"CORPORATE 71%, UGC 15%, EDITORIAL 12%"
+pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6,Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.,Gelenkunterstützung für Pferde,2,0.443,,False,0,0.33,0,,"CORPORATE 89%, UGC 5%, OWN 5%"
 pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8,Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?,Pferdefutter Ergänzungsmittel,2,0.443,,False,0,0.33,0,,"CORPORATE 91%, COMPETITOR 4%, EDITORIAL 4%"
+pr_2ba844fe-a638-44f2-bc07-e04b26bc411b,Finde Nervenpellets für gestresste Pferde ohne Industriezucker.,Pferde Nahrungsergänzung,2,0.337,,False,0.33,0.33,0,,"CORPORATE 52%, OTHER 47%"

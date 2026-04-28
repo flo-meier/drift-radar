@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -14,37 +14,37 @@
 
 ## Who is cited instead
 
-- **Eggersmann** – top visibility 33 %  (AI Overview 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 5.0 %
-- **Ugc:** 10.0 %
-- **Reference:** 10.0 %
-- **Institutional:** 2.5 %
-- **Corporate:** 67.5 %
-- **Other:** 5.0 %
+- **Editorial:** 6.0 %
+- **Ugc:** 6.0 %
+- **Reference:** 7.5 %
+- **Institutional:** 4.5 %
+- **Corporate:** 73.1 %
+- **Other:** 3.0 %
 
 **Top cited domains**
 
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `youtube.com` – UGC, retrieved 33 % of chats
-- `krauterie.de` – CORPORATE, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 22 % of chats
-- `hipposport.de` – CORPORATE, retrieved 22 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Eggersmann: Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
+- **Headline starting point:** »Pferdegold vs Pavo: Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

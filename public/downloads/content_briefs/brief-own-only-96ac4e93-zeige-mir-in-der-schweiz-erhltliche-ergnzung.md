@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -14,22 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
+- **Institutional:** 1.6 %
 - **Corporate:** 92.2 %
-- **Other:** 7.8 %
+- **Other:** 6.2 %
 
 **Top cited domains**
 
-- `horseandmore.ch` – CORPORATE, retrieved 44 % of chats
-- `felix-buehler.ch` – CORPORATE, retrieved 44 % of chats
+- `horseandmore.ch` – CORPORATE, retrieved 56 % of chats
+- `felix-buehler.ch` – CORPORATE, retrieved 56 % of chats
+- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 56 % of chats
+- `ipet.ch` – CORPORATE, retrieved 44 % of chats
 - `hypona.ch` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 44 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `reitsport.ch` – CORPORATE, retrieved 33 % of chats
+- `pferde-reformhaus.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -41,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

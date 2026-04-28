@@ -1,6 +1,6 @@
-# Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
+# Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -14,23 +14,27 @@
 
 ## Citation source mix
 
-- **Ugc:** 4.1 %
-- **Corporate:** 95.9 %
+- **Editorial:** 8.1 %
+- **Ugc:** 2.0 %
+- **Reference:** 3.9 %
+- **Institutional:** 4.0 %
+- **Corporate:** 77.9 %
+- **Other:** 4.0 %
 
 **Top cited domains**
 
-- `migocki.de` – CORPORATE, retrieved 28 % of chats
-- `equanis.de` – CORPORATE, retrieved 28 % of chats
-- `horseflex.de` – CORPORATE, retrieved 28 % of chats
-- `emma-care.de` – CORPORATE, retrieved 14 % of chats
-- `makana.de` – CORPORATE, retrieved 14 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 14 % of chats
+- `madbarn.com` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `npchealth.co.nz` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 2 000 – 3 500 words
-- **Headline starting point:** »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde. – the Pferdegold guide«
+- **Length:** 2 400 – 4 300 words
+- **Headline starting point:** »Zeige mir gute Vitamine für mein Pferd. – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
 
 ## Engine visibility
 
@@ -47,20 +47,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 5.7 %
-- **Ugc:** 3.8 %
-- **Reference:** 1.9 %
-- **Corporate:** 86.8 %
-- **Other:** 1.9 %
+- **Competitor:** 5.4 %
+- **Editorial:** 1.1 %
+- **Ugc:** 5.4 %
+- **Corporate:** 84.8 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `sapodoris.de` – CORPORATE, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 22 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 56 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 56 % of chats
+- `amazon.de` – CORPORATE, retrieved 44 % of chats
+- `marstall.de` – COMPETITOR, retrieved 44 % of chats
+- `sapodoris.de` – CORPORATE, retrieved 44 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
