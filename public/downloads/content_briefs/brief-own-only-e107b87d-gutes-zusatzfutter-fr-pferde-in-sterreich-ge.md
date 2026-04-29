@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Pferde in Österreich gesucht.«
 
-**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -16,23 +16,7 @@
 
 - **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 - **Havens** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-
-## Citation source mix
-
-- **Corporate:** 85.7 %
-- **Other:** 14.3 %
-
-**Top cited domains**
-
-- `kraemer.at` – OTHER, retrieved 17 % of chats
-- `annimally.at` – CORPORATE, retrieved 17 % of chats
-- `lexa-pferdefutter.at` – CORPORATE, retrieved 17 % of chats
-- `pegushorsefeed.at` – CORPORATE, retrieved 17 % of chats
-- `salvana-pferde.de` – CORPORATE, retrieved 17 % of chats
-- `vetapo-austria.at` – CORPORATE, retrieved 17 % of chats
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Suggested article
 
@@ -44,7 +28,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Havens, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Havens, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

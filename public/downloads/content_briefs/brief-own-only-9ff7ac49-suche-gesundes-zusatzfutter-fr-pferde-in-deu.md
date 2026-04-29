@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Zusatzfutter für Pferde in Deutschland.«
 
-**Prompt ID:** `pr_9ff7ac49-9b59-4fcc-976d-59646e809e01`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_9ff7ac49-9b59-4fcc-976d-59646e809e01`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -14,26 +14,10 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %)
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-
-## Citation source mix
-
-- **Editorial:** 10.0 %
-- **Corporate:** 85.0 %
-- **Other:** 5.0 %
-
-**Top cited domains**
-
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
-- `horze.eu` – CORPORATE, retrieved 17 % of chats
-- `kraemer.de` – CORPORATE, retrieved 17 % of chats
-- `agrobs.de` – CORPORATE, retrieved 17 % of chats
-- `bense-eicke.de` – CORPORATE, retrieved 17 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

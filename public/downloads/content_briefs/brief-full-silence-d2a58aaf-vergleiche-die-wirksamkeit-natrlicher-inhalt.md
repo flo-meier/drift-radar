@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -14,17 +14,20 @@
 
 ## Citation source mix
 
-- **Ugc:** 4.1 %
-- **Corporate:** 95.9 %
+- **Editorial:** 4.3 %
+- **Ugc:** 4.3 %
+- **Reference:** 4.3 %
+- **Corporate:** 78.3 %
+- **Other:** 8.7 %
 
 **Top cited domains**
 
-- `migocki.de` – CORPORATE, retrieved 28 % of chats
-- `equanis.de` – CORPORATE, retrieved 28 % of chats
-- `horseflex.de` – CORPORATE, retrieved 28 % of chats
-- `emma-care.de` – CORPORATE, retrieved 14 % of chats
-- `makana.de` – CORPORATE, retrieved 14 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 14 % of chats
+- `migocki.de` – CORPORATE, retrieved 14 % of chats
+- `viovet.co.uk` – OTHER, retrieved 14 % of chats
+- `agradi.de` – CORPORATE, retrieved 14 % of chats
+- `alpurial.de` – CORPORATE, retrieved 14 % of chats
+- `begreen-fit.de` – CORPORATE, retrieved 14 % of chats
+- `corkfarmequestrian.co.uk` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

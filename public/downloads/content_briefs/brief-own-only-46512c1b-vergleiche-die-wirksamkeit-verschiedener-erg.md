@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %)
+- **Pavo** – top visibility 50 %  (AI Overview 50 %)
 
 ## Citation source mix
 
-- **Ugc:** 7.3 %
-- **Reference:** 4.3 %
-- **Institutional:** 1.4 %
-- **Corporate:** 78.5 %
-- **Other:** 8.5 %
+- **Competitor:** 1.6 %
+- **Ugc:** 6.6 %
+- **Reference:** 3.2 %
+- **Corporate:** 80.4 %
+- **Other:** 8.1 %
 
 **Top cited domains**
 
-- `madbarn.com` – CORPORATE, retrieved 38 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 38 % of chats
-- `animondo.de` – CORPORATE, retrieved 38 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 38 % of chats
 - `et-hoofcare.ch` – CORPORATE, retrieved 25 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
-- `aleo-pferdesport.de` – CORPORATE, retrieved 25 % of chats
+- `amazon.co.uk` – CORPORATE, retrieved 25 % of chats
+- `animondo.de` – CORPORATE, retrieved 25 % of chats
+- `emma-care.de` – CORPORATE, retrieved 25 % of chats
+- `facebook.com` – UGC, retrieved 25 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -14,18 +14,18 @@
 
 ## Citation source mix
 
-- **Reference:** 7.0 %
-- **Corporate:** 86.0 %
-- **Other:** 7.0 %
+- **Reference:** 5.3 %
+- **Corporate:** 89.5 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
-- `bluefarm.co` – CORPORATE, retrieved 25 % of chats
-- `densenutrition.com` – CORPORATE, retrieved 25 % of chats
-- `gigasnutrition.com` – CORPORATE, retrieved 25 % of chats
-- `biomol.pl` – CORPORATE, retrieved 12 % of chats
-- `energeticanatura.com` – CORPORATE, retrieved 12 % of chats
-- `gse.bio` – CORPORATE, retrieved 12 % of chats
+- `bluefarm.co` – CORPORATE, retrieved 33 % of chats
+- `densenutrition.com` – CORPORATE, retrieved 33 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 33 % of chats
+- `zeinpharma.de` – CORPORATE, retrieved 22 % of chats
+- `biomol.pl` – CORPORATE, retrieved 11 % of chats
+- `energeticanatura.com` – CORPORATE, retrieved 11 % of chats
 
 ## Suggested article
 

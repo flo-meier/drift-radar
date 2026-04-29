@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -11,6 +11,21 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
+
+## Citation source mix
+
+- **Editorial:** 10.0 %
+- **Corporate:** 80.0 %
+- **Other:** 10.0 %
+
+**Top cited domains**
+
+- `louven-shop.de` – CORPORATE, retrieved 17 % of chats
+- `bibo-natur.de` – CORPORATE, retrieved 17 % of chats
+- `german-horse-fit.de` – CORPORATE, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `kraeuterbine.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

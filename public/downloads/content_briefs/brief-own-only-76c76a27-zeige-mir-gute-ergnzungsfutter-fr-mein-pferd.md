@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -18,21 +18,20 @@
 
 ## Citation source mix
 
-- **Own:** 1.9 %
-- **Editorial:** 5.7 %
-- **Reference:** 1.9 %
-- **Institutional:** 7.6 %
-- **Corporate:** 77.2 %
-- **Other:** 5.7 %
+- **Editorial:** 5.6 %
+- **Reference:** 2.8 %
+- **Institutional:** 11.1 %
+- **Corporate:** 72.2 %
+- **Other:** 8.3 %
 
 **Top cited domains**
 
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `foranequine.com` – CORPORATE, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `ker.com` – OTHER, retrieved 17 % of chats
+- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

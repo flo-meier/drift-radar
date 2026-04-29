@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **Havens** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %)
+- **Havens** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.8 %
-- **Corporate:** 86.0 %
-- **Other:** 9.3 %
+- **Ugc:** 4.6 %
+- **Corporate:** 86.6 %
+- **Other:** 8.8 %
 
 **Top cited domains**
 
 - `google.com` – OTHER, retrieved 33 % of chats
-- `horsefeed.nl` – CORPORATE, retrieved 17 % of chats
-- `agradi.de` – CORPORATE, retrieved 17 % of chats
-- `amazon.nl` – CORPORATE, retrieved 17 % of chats
-- `animaderm.com` – CORPORATE, retrieved 17 % of chats
-- `annimally.nl` – CORPORATE, retrieved 17 % of chats
+- `feedmark.com` – CORPORATE, retrieved 17 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 17 % of chats
+- `totalequipro.de` – CORPORATE, retrieved 17 % of chats
+- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,14 +1,14 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
-- **Gemini:** 33 %
+- **Gemini:** 67 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -21,7 +21,7 @@
 - _brand_ – Pavo offers joint support
 - _criterion_ – These brands offer natural joint support
 
-### Gemini – visibility 33 %
+### Gemini – visibility 67 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -40,18 +40,18 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 5.3 %
-- **Ugc:** 5.3 %
-- **Corporate:** 89.5 %
+- **Own:** 4.0 %
+- **Ugc:** 4.0 %
+- **Corporate:** 92.0 %
 
 **Top cited domains**
 
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `alpurial.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
 - `equibiotic.com` – CORPORATE, retrieved 17 % of chats
 - `horseflex.com` – UGC, retrieved 17 % of chats
-- `pferdeliebehealthy.de` – CORPORATE, retrieved 17 % of chats
-- `seewinkler-naturprodukte.com` – CORPORATE, retrieved 17 % of chats
-- `stallbedarf24.de` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

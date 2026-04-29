@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -14,35 +14,36 @@
 
 ## Who is cited instead
 
+- **Eggersmann** – top visibility 100 %  (Gemini 100 %)
 - **Pavo** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Corporate:** 91.7 %
+- **Other:** 8.3 %
 
 **Top cited domains**
 
-- `barynesse.com` – CORPORATE, retrieved 17 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
-- `semhof.de` – CORPORATE, retrieved 17 % of chats
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
-- `hipposport.de` – CORPORATE, retrieved 17 % of chats
-- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 17 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
+- `einhuf.com` – CORPORATE, retrieved 17 % of chats
+- `equanis.de` – CORPORATE, retrieved 17 % of chats
+- `equifarm.de` – CORPORATE, retrieved 17 % of chats
+- `equiva.com` – CORPORATE, retrieved 17 % of chats
+- `hbd-agrar.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
+- **Headline starting point:** »Pferdegold vs Eggersmann: Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Eggersmann, Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

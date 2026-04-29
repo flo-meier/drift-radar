@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -14,22 +14,23 @@
 
 ## Citation source mix
 
-- **Own:** 2.3 %
-- **Competitor:** 1.1 %
-- **Editorial:** 3.4 %
-- **Reference:** 9.1 %
-- **Institutional:** 17.0 %
-- **Corporate:** 47.7 %
-- **Other:** 19.3 %
+- **Own:** 1.5 %
+- **Competitor:** 1.5 %
+- **Editorial:** 4.5 %
+- **Ugc:** 1.5 %
+- **Reference:** 7.5 %
+- **Institutional:** 13.4 %
+- **Corporate:** 52.2 %
+- **Other:** 17.9 %
 
 **Top cited domains**
 
-- `iastate.edu` – INSTITUTIONAL, retrieved 44 % of chats
-- `metazoa.nl` – OTHER, retrieved 44 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
+- `metazoa.nl` – OTHER, retrieved 33 % of chats
+- `iastate.edu` – INSTITUTIONAL, retrieved 33 % of chats
 - `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
-- `horsewellness.de` – OTHER, retrieved 33 % of chats
+- `ker.com` – OTHER, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `gettyequinenutrition.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

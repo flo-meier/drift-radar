@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.1 %
-- **Ugc:** 2.0 %
-- **Reference:** 3.9 %
-- **Institutional:** 4.0 %
-- **Corporate:** 77.9 %
-- **Other:** 4.0 %
+- **Editorial:** 7.1 %
+- **Ugc:** 3.5 %
+- **Reference:** 3.4 %
+- **Institutional:** 3.5 %
+- **Corporate:** 78.9 %
+- **Other:** 3.5 %
 
 **Top cited domains**
 
+- `feedmark.com` – CORPORATE, retrieved 33 % of chats
 - `madbarn.com` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `horze.eu` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
-- `npchealth.co.nz` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

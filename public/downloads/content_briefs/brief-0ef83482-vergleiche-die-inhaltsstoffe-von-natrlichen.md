@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -49,22 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 1.6 %
-- **Competitor:** 4.9 %
-- **Editorial:** 3.3 %
-- **Ugc:** 4.9 %
-- **Reference:** 1.6 %
-- **Corporate:** 80.3 %
-- **Other:** 3.3 %
+- **Competitor:** 3.1 %
+- **Editorial:** 3.1 %
+- **Ugc:** 3.1 %
+- **Reference:** 3.1 %
+- **Corporate:** 81.5 %
+- **Other:** 6.2 %
 
 **Top cited domains**
 
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – OTHER, retrieved 33 % of chats
 - `inropharm.de` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

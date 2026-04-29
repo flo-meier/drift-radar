@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -14,23 +14,10 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **Pavo** – top visibility 67 %  (Gemini 67 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
-
-## Citation source mix
-
-- **Corporate:** 100.0 %
-
-**Top cited domains**
-
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
-- `barynesse.com` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
-- `hansetier.de` – CORPORATE, retrieved 17 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

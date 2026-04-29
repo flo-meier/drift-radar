@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -15,20 +15,20 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.4 %
-- **Editorial:** 4.8 %
-- **Institutional:** 4.8 %
-- **Corporate:** 76.2 %
-- **Other:** 11.9 %
+- **Editorial:** 4.9 %
+- **Institutional:** 4.9 %
+- **Corporate:** 80.5 %
+- **Other:** 9.8 %
 
 **Top cited domains**
 
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 17 % of chats
 - `ker.com` – OTHER, retrieved 17 % of chats
-- `aleo-pferdesport.de` – CORPORATE, retrieved 17 % of chats
 - `amazon.com` – CORPORATE, retrieved 17 % of chats
 - `badkissingen-erleben.de` – OTHER, retrieved 17 % of chats
 - `bauer-schlichter.de` – OTHER, retrieved 17 % of chats
@@ -43,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -57,7 +57,7 @@
       "is_active": false
     },
     "claude-sonnet-4": {
-      "name": "Claude Sonnet 4",
+      "name": "Claude Sonnet 4.6",
       "is_active": false
     },
     "deepseek-r1": {

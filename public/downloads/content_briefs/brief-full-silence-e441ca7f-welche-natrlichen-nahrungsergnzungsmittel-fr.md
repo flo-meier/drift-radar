@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -11,22 +11,6 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
-
-## Citation source mix
-
-- **Reference:** 11.1 %
-- **Institutional:** 11.1 %
-- **Corporate:** 66.7 %
-- **Other:** 11.1 %
-
-**Top cited domains**
-
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
-- `emma-care.de` – CORPORATE, retrieved 17 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
-- `laurelnature.com` – CORPORATE, retrieved 17 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
-- `margareteliesegang.de` – INSTITUTIONAL, retrieved 17 % of chats
 
 ## Suggested article
 

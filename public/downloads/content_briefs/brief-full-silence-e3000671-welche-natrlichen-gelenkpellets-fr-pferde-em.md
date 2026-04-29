@@ -1,6 +1,6 @@
-# Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
+# Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -12,28 +12,11 @@
 
 **Silence type:** `full`
 
-## Citation source mix
-
-- **Own:** 1.6 %
-- **Ugc:** 6.6 %
-- **Institutional:** 6.6 %
-- **Corporate:** 83.6 %
-- **Other:** 1.6 %
-
-**Top cited domains**
-
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
-- `curafyt.com` – CORPORATE, retrieved 33 % of chats
-- `et-hoofcare.ch` – CORPORATE, retrieved 33 % of chats
-
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
 - **Length:** 2 000 – 3 500 words
-- **Headline starting point:** »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert? – the Pferdegold guide«
+- **Headline starting point:** »Welche natürlichen Gelenkpellets für Pferde empfiehlst du? – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

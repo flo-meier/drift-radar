@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
 
 ## Engine visibility
 
@@ -18,21 +18,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 6.0 %
-- **Ugc:** 6.0 %
-- **Reference:** 7.5 %
-- **Institutional:** 4.5 %
-- **Corporate:** 73.1 %
-- **Other:** 3.0 %
+- **Editorial:** 9.4 %
+- **Ugc:** 5.7 %
+- **Reference:** 9.4 %
+- **Institutional:** 3.8 %
+- **Corporate:** 67.9 %
+- **Other:** 3.8 %
 
 **Top cited domains**
 
 - `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `youtube.com` – UGC, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
 - `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
