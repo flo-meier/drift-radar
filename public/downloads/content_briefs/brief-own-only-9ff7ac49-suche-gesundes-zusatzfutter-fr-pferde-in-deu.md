@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Zusatzfutter für Pferde in Deutschland.«
 
-**Prompt ID:** `pr_9ff7ac49-9b59-4fcc-976d-59646e809e01`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_9ff7ac49-9b59-4fcc-976d-59646e809e01`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
@@ -14,10 +14,11 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %)
 - **Eggersmann** – top visibility 67 %  (Gemini 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Suggested article
 
@@ -29,7 +30,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Eggersmann, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
@@ -14,22 +14,36 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %)
 - **Pavo** – top visibility 67 %  (Gemini 67 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+
+## Citation source mix
+
+- **Corporate:** 94.7 %
+- **Other:** 5.3 %
+
+**Top cited domains**
+
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `sapodoris.de` – CORPORATE, retrieved 17 % of chats
+- `naturanima.de` – CORPORATE, retrieved 17 % of chats
+- `agrobs.de` – CORPORATE, retrieved 17 % of chats
+- `aniforte.de` – CORPORATE, retrieved 17 % of chats
+- `annimally.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 900 – 1 200 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Zeig mir Magenpellets ohne Zuckerzusatz.«
+- **Headline starting point:** »Pferdegold vs Marstall: Zeig mir Magenpellets ohne Zuckerzusatz.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

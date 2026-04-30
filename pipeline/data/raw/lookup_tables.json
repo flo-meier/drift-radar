@@ -65,7 +65,7 @@
       "is_active": false
     },
     "gemini-2.5-flash": {
-      "name": "Gemini",
+      "name": "Gemini 2.5 Flash",
       "is_active": false
     },
     "gemini-scraper": {
@@ -113,7 +113,7 @@
       "is_active": false
     },
     "sonar": {
-      "name": "Perplexity",
+      "name": "Sonar",
       "is_active": false
     }
   },

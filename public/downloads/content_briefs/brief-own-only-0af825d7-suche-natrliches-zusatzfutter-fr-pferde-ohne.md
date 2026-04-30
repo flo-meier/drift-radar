@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 

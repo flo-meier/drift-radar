@@ -1,18 +1,18 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 0 %
 - **Gemini:** 0 %
 - **AI Overview:** 100 %
 
-**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.91  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 0 %
 
 **Brands cited (tracked):** _none_
 
@@ -47,20 +47,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 4.8 %
-- **Editorial:** 1.2 %
-- **Ugc:** 4.8 %
-- **Corporate:** 85.6 %
-- **Other:** 3.6 %
+- **Competitor:** 5.3 %
+- **Editorial:** 2.1 %
+- **Ugc:** 4.2 %
+- **Reference:** 1.1 %
+- **Institutional:** 1.1 %
+- **Corporate:** 82.0 %
+- **Other:** 4.2 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 56 % of chats
+- `amazon.de` – CORPORATE, retrieved 56 % of chats
+- `equine74.com` – CORPORATE, retrieved 56 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 56 % of chats
-- `equine74.com` – CORPORATE, retrieved 44 % of chats
-- `amazon.de` – CORPORATE, retrieved 44 % of chats
 - `baywa.de` – CORPORATE, retrieved 44 % of chats
-- `sapodoris.de` – CORPORATE, retrieved 44 % of chats
+- `marstall.de` – COMPETITOR, retrieved 44 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
 
 ## Suggested article
 

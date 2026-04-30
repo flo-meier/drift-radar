@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
@@ -14,20 +14,16 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.8 %
-- **Reference:** 2.8 %
-- **Institutional:** 2.8 %
-- **Corporate:** 86.0 %
-- **Other:** 5.6 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
 - `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `emma-care.de` – CORPORATE, retrieved 17 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
+- `problempferde.info` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

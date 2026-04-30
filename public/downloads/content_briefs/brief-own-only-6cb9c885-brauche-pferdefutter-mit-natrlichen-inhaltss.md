@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
@@ -14,25 +14,25 @@
 
 ## Who is cited instead
 
-- **Havens** – top visibility 67 %  (AI Overview 67 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Havens** – top visibility 33 %  (AI Overview 33 %)
 - **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Reference:** 1.7 %
-- **Institutional:** 1.7 %
-- **Corporate:** 89.7 %
-- **Other:** 6.9 %
+- **Reference:** 5.1 %
+- **Institutional:** 1.3 %
+- **Corporate:** 87.2 %
+- **Other:** 6.4 %
 
 **Top cited domains**
 
 - `natuerlich-pferd.com` – CORPORATE, retrieved 56 % of chats
+- `hof-jantscher.at` – CORPORATE, retrieved 44 % of chats
+- `lavisano.de` – CORPORATE, retrieved 44 % of chats
+- `pegushorsefeed.at` – CORPORATE, retrieved 44 % of chats
+- `solan.at` – CORPORATE, retrieved 44 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `garant.co.at` – CORPORATE, retrieved 33 % of chats
-- `hof-jantscher.at` – CORPORATE, retrieved 33 % of chats
-- `lavisano.de` – CORPORATE, retrieved 33 % of chats
-- `onfarming.at` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -44,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Havens, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Havens, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

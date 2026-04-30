@@ -1,25 +1,23 @@
-# Drift Radar · 2026-04-28
+# Drift Radar · 2026-04-29
 
-## Overview
+## Summary
 
-Pferdegold tracked 50 prompts across ChatGPT, Gemini, and AI Overview. Ten prompts show drift (≥0.3 visibility score). Own-brand visibility averaged 4.1%. Net movement: one prompt entered drifting range, one exited. Three prompts shifted silence classification.
+Pferdegold tracked 50 prompts across ChatGPT, Gemini, and AI Overview (2026-04-27 to 2026-04-29). Drifting exposure sits at 11 prompts (22%). Own-brand visibility averaged 3.8%. One prompt crossed into drifting territory; no exits from the range.
 
 ## Movement
 
-**Into drifting:** "Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe" jumped from full silence to 0.562 visibility. This composition-analysis query now surfaces competing brand mentions across engines.
+**New drifting prompt:** "Welche natürlichen Gelenkpellets für Pferde empfiehlst du?" entered drifting at 0.443, moving from full silence. This joint-supplement query now surfaces Pferdegold alongside competitors across at least one engine.
 
-**Out of drifting:** "Suche natürliches Zusatzfutter für Pferde ohne Zucker" dropped from 0.443 to complete silence (own-only). The natural supplement angle moved back into Pferdegold-exclusive territory.
+**Silence shift:** The same prompt transitioned from full silence to active competition. Separately, a hoof-and-coat effectiveness comparison ("Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden") dropped into full silence after being own-only, indicating loss of category presence.
 
-## Silence shifts
+## Score volatility
 
-The composition query transitioned from full silence to active drift – a direct loss of exclusive visibility. Conversely, the natural supplement query moved into own-only silence, meaning Pferdegold now owns the answer space without competitor intrusion. A third query about natural joint pellets recommendations shifted the opposite direction: from own-only into full silence, indicating competitors gained ground on recommendation-style prompts.
+The largest swing occurred in feed-based joint support ("Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen"), which climbed +0.231 to 0.912 – now heavily competitive. Two ingredient-comparison prompts dropped 0.344 points each, settling at 0.337. A Swiss-market nerve-pellet query fell 0.238 but remains drifting at 0.443.
 
-## Biggest swings
+The joint-supplement category shows instability. Four of five biggest movers concern pellets or feeds for joint and nerve support, suggesting engine volatility in this vertical or recent indexing changes affecting Pferdegold's positioning.
 
-Joint pellet composition (+0.562) and joint pellet recommendations (+0.238) both show competitor emergence in technical/analytical queries. The natural supplement query (–0.443) represents recovery in Pferdegold's owned territory. Joint support feed without artificial flavors held steady at 0.681 drift.
+## Next steps
 
-## Priority
+Audit the joint-supplement cluster (prompts targeting Gelenkpellets and Nervenpellets). Verify whether 0.443–0.912 drifting prompts are being captured by competitive content or missing from Pferdegold's owned pages. Check why hoof-coat effectiveness flipped to full silence.
 
-Focus on the composition analysis prompt first. Competitors now answer this query; Pferdegold needs visibility recovery here. Review how competitor content frames pellet quality and filler concerns. Secondary: audit recommendation-type queries, where full silence indicates competitive penetration.
-
-Next week's run should reveal whether composition drift stabilizes or accelerates.
+Pferdegold should prioritize content alignment in the joint-supplement segment before wider drift occurs.

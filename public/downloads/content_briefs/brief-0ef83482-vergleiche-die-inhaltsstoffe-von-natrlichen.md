@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
-- **ChatGPT:** 0 %
+- **ChatGPT:** 33 %
 - **Gemini:** 0 %
-- **AI Overview:** 67 %
+- **AI Overview:** 33 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 0 %
+### ChatGPT – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 67 %
+### AI Overview – visibility 33 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 3.1 %
-- **Editorial:** 3.1 %
-- **Ugc:** 3.1 %
-- **Reference:** 3.1 %
-- **Corporate:** 81.5 %
-- **Other:** 6.2 %
+- **Competitor:** 4.2 %
+- **Editorial:** 2.8 %
+- **Ugc:** 2.8 %
+- **Reference:** 4.2 %
+- **Corporate:** 80.3 %
+- **Other:** 5.6 %
 
 **Top cited domains**
 
-- `vetripharm.de` – OTHER, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 44 % of chats
+- `kraemer.de` – CORPORATE, retrieved 44 % of chats
 - `inropharm.de` – CORPORATE, retrieved 33 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

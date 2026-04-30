@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
@@ -14,19 +14,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.9 %
-- **Reference:** 11.6 %
-- **Institutional:** 3.9 %
-- **Corporate:** 80.6 %
+- **Reference:** 18.2 %
+- **Institutional:** 9.1 %
+- **Corporate:** 72.7 %
 
 **Top cited domains**
 
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
-- `madbarn.com` – CORPORATE, retrieved 17 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 17 % of chats
+- `zooplus.de` – CORPORATE, retrieved 17 % of chats
+- `emma-care.de` – CORPORATE, retrieved 17 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 17 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
@@ -20,8 +20,10 @@
 
 ## Citation source mix
 
-- **Reference:** 5.2 %
-- **Corporate:** 94.8 %
+- **Reference:** 4.8 %
+- **Institutional:** 2.5 %
+- **Corporate:** 90.2 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 

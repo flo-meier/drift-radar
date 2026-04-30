@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
@@ -11,6 +11,24 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
+
+## Citation source mix
+
+- **Editorial:** 5.0 %
+- **Ugc:** 2.5 %
+- **Reference:** 5.0 %
+- **Institutional:** 7.5 %
+- **Corporate:** 75.0 %
+- **Other:** 5.0 %
+
+**Top cited domains**
+
+- `ker.com` – OTHER, retrieved 17 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
+- `equineamerica.co.nz` – CORPORATE, retrieved 17 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `auburnlabs.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Finde in Deutschland hergestelltes Magenfutter für mein Pferd.«
 
-**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
@@ -16,25 +16,26 @@
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 33 %)
 - **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.9 %
-- **Ugc:** 7.8 %
-- **Corporate:** 84.3 %
-- **Other:** 3.9 %
+- **Competitor:** 1.8 %
+- **Ugc:** 7.3 %
+- **Institutional:** 1.8 %
+- **Corporate:** 85.5 %
+- **Other:** 3.6 %
 
 **Top cited domains**
 
 - `alpurial.de` – CORPORATE, retrieved 44 % of chats
-- `agrobs.de` – CORPORATE, retrieved 33 % of chats
 - `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `facebook.com` – UGC, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -46,7 +47,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

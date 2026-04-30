@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Ergänzungsmittel für Hufe und Fell sind empfehlenswert?«
 
-**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
 
 ## Engine visibility
 
@@ -15,7 +15,7 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 67 %  (Gemini 67 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
