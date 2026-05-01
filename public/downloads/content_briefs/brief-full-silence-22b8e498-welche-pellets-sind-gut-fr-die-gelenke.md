@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
 
 ## Engine visibility
 
@@ -11,6 +11,21 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
+
+## Citation source mix
+
+- **Editorial:** 12.5 %
+- **Institutional:** 18.8 %
+- **Corporate:** 68.7 %
+
+**Top cited domains**
+
+- `amazon.de` – CORPORATE, retrieved 17 % of chats
+- `aarp.org` – INSTITUTIONAL, retrieved 17 % of chats
+- `bbcgoodfood.com` – EDITORIAL, retrieved 17 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

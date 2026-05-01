@@ -1,14 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
 
 ## Engine visibility
 
 - **ChatGPT:** 33 %
-- **Gemini:** 0 %
+- **Gemini:** 33 %
 - **AI Overview:** 33 %
 
-**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -23,7 +23,7 @@
 
 > ChatGPT answers the question as stated – pure ingredient comparison – and never transitions to brand recommendations.
 
-### Gemini – visibility 0 %
+### Gemini – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 4.2 %
-- **Editorial:** 2.8 %
-- **Ugc:** 2.8 %
-- **Reference:** 4.2 %
-- **Corporate:** 80.3 %
-- **Other:** 5.6 %
+- **Competitor:** 3.6 %
+- **Editorial:** 2.4 %
+- **Ugc:** 2.4 %
+- **Reference:** 4.8 %
+- **Corporate:** 82.1 %
+- **Other:** 4.8 %
 
 **Top cited domains**
 
 - `vetripharm.de` – CORPORATE, retrieved 44 % of chats
+- `inropharm.de` – CORPORATE, retrieved 44 % of chats
 - `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `inropharm.de` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `louven-shop.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

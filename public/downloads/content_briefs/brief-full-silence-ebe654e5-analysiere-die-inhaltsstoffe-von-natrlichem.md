@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.1 %
-- **Editorial:** 2.2 %
-- **Ugc:** 1.1 %
-- **Reference:** 10.9 %
-- **Institutional:** 14.1 %
-- **Corporate:** 51.1 %
-- **Other:** 19.6 %
+- **Competitor:** 1.4 %
+- **Editorial:** 2.7 %
+- **Ugc:** 1.4 %
+- **Reference:** 9.5 %
+- **Institutional:** 14.9 %
+- **Corporate:** 51.4 %
+- **Other:** 18.9 %
 
 **Top cited domains**
 
-- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
-- `metazoa.nl` – OTHER, retrieved 33 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `iastate.edu` – INSTITUTIONAL, retrieved 33 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 44 % of chats
 - `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `ker.com` – OTHER, retrieved 33 % of chats
+- `laurelnature.com` – CORPORATE, retrieved 33 % of chats
+- `masterhorse-infowissen.de` – OTHER, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `metazoa.nl` – OTHER, retrieved 22 % of chats
 
 ## Suggested article
 

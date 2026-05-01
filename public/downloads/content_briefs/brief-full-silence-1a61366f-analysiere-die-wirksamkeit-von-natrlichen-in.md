@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.0 %
-- **Ugc:** 1.7 %
-- **Reference:** 1.7 %
-- **Institutional:** 6.7 %
-- **Corporate:** 73.3 %
-- **Other:** 11.7 %
+- **Editorial:** 4.1 %
+- **Ugc:** 1.4 %
+- **Reference:** 2.7 %
+- **Institutional:** 12.3 %
+- **Corporate:** 71.3 %
+- **Other:** 8.2 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
+- `iwest.de` – CORPORATE, retrieved 56 % of chats
+- `equine74.com` – CORPORATE, retrieved 44 % of chats
 - `krauterie.de` – CORPORATE, retrieved 44 % of chats
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `horseandmore.ch` – CORPORATE, retrieved 22 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

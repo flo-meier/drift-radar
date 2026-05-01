@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?«
 
-**Prompt ID:** `pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
 
 ## Engine visibility
 
@@ -14,23 +14,22 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 95.2 %
-- **Other:** 4.8 %
+- **Corporate:** 93.3 %
+- **Other:** 6.7 %
 
 **Top cited domains**
 
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `hbd-agrar.de` – CORPORATE, retrieved 17 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
 - `equithrive.com` – CORPORATE, retrieved 17 % of chats
-- `hansetier.de` – CORPORATE, retrieved 17 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
-- `cosequin.com` – CORPORATE, retrieved 17 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -42,7 +41,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?«
 
-**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
 
 ## Engine visibility
 
@@ -14,26 +14,27 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %, ChatGPT 67 %, Gemini 33 %)
-- **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 67 %, ChatGPT 67 %)
-- **Nösenberger** – top visibility 67 %  (AI Overview 67 %)
-- **St. Hippolyt** – top visibility 67 %  (AI Overview 67 %, Gemini 33 %)
-- **Höveler** – top visibility 33 %  (Gemini 33 %, AI Overview 33 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %, Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (AI Overview 100 %, ChatGPT 67 %, Gemini 67 %)
+- **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %, AI Overview 50 %)
+- **Nösenberger** – top visibility 50 %  (AI Overview 50 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.2 %
-- **Corporate:** 87.7 %
-- **Other:** 11.0 %
+- **Competitor:** 1.3 %
+- **Reference:** 1.3 %
+- **Corporate:** 90.6 %
+- **Other:** 6.7 %
 
 **Top cited domains**
 
-- `equusvitalis.ch` – CORPORATE, retrieved 67 % of chats
-- `cavale-schweiz.ch` – CORPORATE, retrieved 67 % of chats
-- `hypona.ch` – CORPORATE, retrieved 56 % of chats
-- `hauptner.ch` – CORPORATE, retrieved 56 % of chats
-- `lexa-pferdefutter.ch` – CORPORATE, retrieved 56 % of chats
-- `reitsport.ch` – CORPORATE, retrieved 56 % of chats
+- `equusvitalis.ch` – CORPORATE, retrieved 62 % of chats
+- `hypona.ch` – CORPORATE, retrieved 62 % of chats
+- `reitsport.ch` – CORPORATE, retrieved 62 % of chats
+- `cavale-schweiz.ch` – CORPORATE, retrieved 50 % of chats
+- `lexa-pferdefutter.ch` – CORPORATE, retrieved 50 % of chats
+- `hauptner.ch` – CORPORATE, retrieved 50 % of chats
 
 ## Suggested article
 
@@ -45,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Nösenberger for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
 
 ## Engine visibility
 
@@ -42,19 +42,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 3.4 %
-- **Editorial:** 10.1 %
-- **Reference:** 13.2 %
-- **Corporate:** 73.3 %
+- **Own:** 3.3 %
+- **Editorial:** 6.5 %
+- **Reference:** 6.5 %
+- **Corporate:** 83.7 %
 
 **Top cited domains**
 
-- `feedmark.eu` – CORPORATE, retrieved 33 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 50 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
-- `medpets.de` – CORPORATE, retrieved 17 % of chats
-- `emma-care.de` – CORPORATE, retrieved 17 % of chats
+- `equidrol.de` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `feedmark.eu` – CORPORATE, retrieved 17 % of chats
+- `feedmark.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

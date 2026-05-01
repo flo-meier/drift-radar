@@ -48,6 +48,10 @@
     }
   },
   "models": {
+    "amazon-rufus-scraper": {
+      "name": "Rufus",
+      "is_active": false
+    },
     "chatgpt-scraper": {
       "name": "ChatGPT",
       "is_active": true

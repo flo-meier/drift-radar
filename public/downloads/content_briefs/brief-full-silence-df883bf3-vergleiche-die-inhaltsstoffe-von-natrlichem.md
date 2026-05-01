@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.0 %
-- **Ugc:** 17.5 %
-- **Reference:** 7.5 %
-- **Institutional:** 15.0 %
-- **Corporate:** 52.5 %
-- **Other:** 2.5 %
+- **Editorial:** 2.0 %
+- **Ugc:** 9.8 %
+- **Reference:** 11.8 %
+- **Institutional:** 7.8 %
+- **Corporate:** 66.7 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
+- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
 - `facebook.com` – UGC, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
-- `aleo-pferdesport.de` – CORPORATE, retrieved 22 % of chats
-- `horsedeal.com` – UGC, retrieved 22 % of chats
-- `laurelnature.com` – CORPORATE, retrieved 22 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `tiergarten.de` – INSTITUTIONAL, retrieved 22 % of chats
+- `tierheilkundezentrum.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
