@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
 
 ## Engine visibility
 
@@ -14,18 +14,17 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.3 %
-- **Corporate:** 85.9 %
-- **Other:** 4.8 %
+- **Editorial:** 4.4 %
+- **Corporate:** 95.6 %
 
 **Top cited domains**
 
-- `german-horse-fit.de` – CORPORATE, retrieved 33 % of chats
-- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
-- `louven-shop.de` – CORPORATE, retrieved 17 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
 - `cdvet.de` – CORPORATE, retrieved 17 % of chats
-- `bibo-natur.de` – CORPORATE, retrieved 17 % of chats
-- `deers-tackstore.de` – CORPORATE, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

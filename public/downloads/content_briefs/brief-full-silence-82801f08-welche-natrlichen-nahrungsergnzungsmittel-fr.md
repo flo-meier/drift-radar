@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.1 %
-- **Editorial:** 3.4 %
-- **Ugc:** 4.6 %
-- **Reference:** 3.4 %
-- **Institutional:** 4.6 %
-- **Corporate:** 73.6 %
-- **Other:** 9.2 %
+- **Competitor:** 2.1 %
+- **Editorial:** 3.2 %
+- **Ugc:** 4.3 %
+- **Reference:** 3.2 %
+- **Institutional:** 3.2 %
+- **Corporate:** 76.4 %
+- **Other:** 7.5 %
 
 **Top cited domains**
 
 - `pernaturam.de` – CORPORATE, retrieved 56 % of chats
+- `kraemer.de` – CORPORATE, retrieved 44 % of chats
 - `youtube.com` – UGC, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `care4vet.de` – CORPORATE, retrieved 22 % of chats
+- `care4vet.de` – CORPORATE, retrieved 33 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
 - `madbarn.com` – CORPORATE, retrieved 22 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 22 % of chats
 
 ## Suggested article
 

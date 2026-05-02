@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.4 %
-- **Editorial:** 2.7 %
-- **Ugc:** 1.4 %
-- **Reference:** 9.5 %
-- **Institutional:** 14.9 %
-- **Corporate:** 51.4 %
-- **Other:** 18.9 %
+- **Competitor:** 1.2 %
+- **Editorial:** 2.5 %
+- **Ugc:** 1.2 %
+- **Reference:** 7.4 %
+- **Institutional:** 13.6 %
+- **Corporate:** 54.3 %
+- **Other:** 19.8 %
 
 **Top cited domains**
 
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 44 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `laurelnature.com` – CORPORATE, retrieved 33 % of chats
-- `masterhorse-infowissen.de` – OTHER, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `metazoa.nl` – OTHER, retrieved 22 % of chats
+- `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 22 % of chats
+- `equiflora.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

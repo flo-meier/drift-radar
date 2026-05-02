@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
 
 ## Engine visibility
 
@@ -14,19 +14,20 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Eggersmann** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 17.5 %
-- **Ugc:** 3.2 %
-- **Reference:** 14.3 %
-- **Institutional:** 15.9 %
-- **Corporate:** 47.6 %
-- **Other:** 1.6 %
+- **Editorial:** 21.6 %
+- **Ugc:** 5.9 %
+- **Reference:** 15.7 %
+- **Institutional:** 15.7 %
+- **Corporate:** 39.2 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
@@ -34,8 +35,8 @@
 - `lkvsachsen.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `pferdegruenland.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `sphericalinsights.com` – REFERENCE, retrieved 33 % of chats
-- `idealo.de` – CORPORATE, retrieved 22 % of chats
-- `kaaloon.de` – CORPORATE, retrieved 22 % of chats
+- `kraemer.de` – CORPORATE, retrieved 22 % of chats
+- `opti-ration.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

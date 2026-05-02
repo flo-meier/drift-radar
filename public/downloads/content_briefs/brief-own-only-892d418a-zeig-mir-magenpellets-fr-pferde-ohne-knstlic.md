@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
 
 ## Engine visibility
 
@@ -14,26 +14,24 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
-- **Havens** – top visibility 33 %  (Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 100 %  (ChatGPT 100 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 4.2 %
-- **Reference:** 2.1 %
-- **Institutional:** 2.1 %
-- **Corporate:** 89.5 %
-- **Other:** 2.1 %
+- **Ugc:** 5.4 %
+- **Institutional:** 2.7 %
+- **Corporate:** 89.2 %
+- **Other:** 2.7 %
 
 **Top cited domains**
 
-- `sapodoris.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `naturanima.de` – CORPORATE, retrieved 33 % of chats
-- `pferdeliebehealthy.de` – CORPORATE, retrieved 33 % of chats
 - `equine74.com` – CORPORATE, retrieved 17 % of chats
 - `amazon.de` – CORPORATE, retrieved 17 % of chats
+- `facebook.com` – UGC, retrieved 17 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -45,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, Havens, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

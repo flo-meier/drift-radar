@@ -1,14 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
 
 ## Engine visibility
 
 - **ChatGPT:** 33 %
 - **Gemini:** 33 %
-- **AI Overview:** 33 %
+- **AI Overview:** 0 %
 
-**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 33 %
+### AI Overview – visibility 0 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,21 +49,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 3.6 %
-- **Editorial:** 2.4 %
-- **Ugc:** 2.4 %
-- **Reference:** 4.8 %
-- **Corporate:** 82.1 %
-- **Other:** 4.8 %
+- **Own:** 1.3 %
+- **Competitor:** 3.9 %
+- **Editorial:** 2.6 %
+- **Ugc:** 3.9 %
+- **Reference:** 6.5 %
+- **Corporate:** 76.6 %
+- **Other:** 5.2 %
 
 **Top cited domains**
 
-- `vetripharm.de` – CORPORATE, retrieved 44 % of chats
 - `inropharm.de` – CORPORATE, retrieved 44 % of chats
 - `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
+- `youtube.com` – UGC, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 33 % of chats
+- `st-hippolyt.de` – COMPETITOR, retrieved 33 % of chats
 
 ## Suggested article
 

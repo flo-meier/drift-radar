@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
 
 ## Engine visibility
 
@@ -18,22 +18,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.1 %
-- **Editorial:** 4.2 %
-- **Ugc:** 5.2 %
-- **Reference:** 3.1 %
-- **Institutional:** 1.0 %
-- **Corporate:** 79.2 %
-- **Other:** 5.2 %
+- **Competitor:** 1.0 %
+- **Editorial:** 4.8 %
+- **Ugc:** 4.8 %
+- **Reference:** 4.8 %
+- **Institutional:** 2.9 %
+- **Corporate:** 77.9 %
+- **Other:** 3.8 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
-- `emma-care.de` – CORPORATE, retrieved 44 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `animondo.de` – CORPORATE, retrieved 33 % of chats
-- `horseandmore.ch` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 56 % of chats
+- `kraemer.de` – CORPORATE, retrieved 44 % of chats
+- `animondo.de` – CORPORATE, retrieved 44 % of chats
+- `madbarn.com` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

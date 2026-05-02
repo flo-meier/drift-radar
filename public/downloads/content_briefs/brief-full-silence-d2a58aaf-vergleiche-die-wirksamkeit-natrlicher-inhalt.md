@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.7 %
-- **Ugc:** 0.9 %
-- **Reference:** 8.7 %
-- **Institutional:** 6.9 %
-- **Corporate:** 67.9 %
-- **Other:** 6.9 %
+- **Own:** 0.8 %
+- **Editorial:** 9.7 %
+- **Ugc:** 2.4 %
+- **Reference:** 8.9 %
+- **Institutional:** 8.9 %
+- **Corporate:** 65.4 %
+- **Other:** 4.0 %
 
 **Top cited domains**
 
-- `migocki.de` – CORPORATE, retrieved 56 % of chats
-- `viovet.co.uk` – CORPORATE, retrieved 56 % of chats
+- `migocki.de` – CORPORATE, retrieved 67 % of chats
+- `foranequine.com` – CORPORATE, retrieved 56 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
+- `viovet.co.uk` – CORPORATE, retrieved 44 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 44 % of chats
 - `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `foranequine.com` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `krauterie.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

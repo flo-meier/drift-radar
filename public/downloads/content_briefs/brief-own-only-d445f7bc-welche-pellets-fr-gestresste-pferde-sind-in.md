@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
-**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
 
 ## Engine visibility
 
@@ -14,23 +14,25 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %)
+- **Pavo** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 60.0 %
-- **Other:** 40.0 %
+- **Competitor:** 3.9 %
+- **Corporate:** 92.3 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
-- `makana.de` – CORPORATE, retrieved 17 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
-- `ess-supplements.de` – CORPORATE, retrieved 17 % of chats
-- `inpetto.com` – OTHER, retrieved 17 % of chats
-- `meinfuttermittelshop.de` – OTHER, retrieved 17 % of chats
-- `meinonlinelager.de` – OTHER, retrieved 17 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 17 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `annimally.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
