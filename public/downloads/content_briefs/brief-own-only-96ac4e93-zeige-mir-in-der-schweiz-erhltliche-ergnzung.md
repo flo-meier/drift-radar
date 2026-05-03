@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
 
 ## Engine visibility
 
@@ -14,37 +14,37 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 3.7 %
-- **Corporate:** 90.2 %
-- **Other:** 6.2 %
+- **Institutional:** 2.6 %
+- **Corporate:** 86.0 %
+- **Other:** 11.5 %
 
 **Top cited domains**
 
 - `felix-buehler.ch` – CORPORATE, retrieved 56 % of chats
 - `horseandmore.ch` – CORPORATE, retrieved 56 % of chats
-- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 56 % of chats
-- `hypona.ch` – CORPORATE, retrieved 44 % of chats
+- `horze.ch` – CORPORATE, retrieved 56 % of chats
+- `hypona.ch` – CORPORATE, retrieved 56 % of chats
 - `ipet.ch` – CORPORATE, retrieved 44 % of chats
-- `pferde-reformhaus.ch` – CORPORATE, retrieved 44 % of chats
+- `equusvitalis.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
+- **Headline starting point:** »Pferdegold vs St. Hippolyt: Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

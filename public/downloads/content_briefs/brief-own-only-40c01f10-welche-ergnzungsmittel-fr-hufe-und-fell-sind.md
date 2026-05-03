@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Ergänzungsmittel für Hufe und Fell sind empfehlenswert?«
 
-**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
+**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
 
 ## Engine visibility
 
@@ -18,18 +18,19 @@
 
 ## Citation source mix
 
-- **Competitor:** 7.7 %
-- **Institutional:** 7.7 %
-- **Corporate:** 84.6 %
+- **Competitor:** 2.9 %
+- **Reference:** 5.8 %
+- **Institutional:** 2.9 %
+- **Corporate:** 88.5 %
 
 **Top cited domains**
 
+- `vetena.de` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `petvet-gmbh.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `emma-care.de` – CORPORATE, retrieved 17 % of chats
-- `vetena.de` – CORPORATE, retrieved 17 % of chats
-- `calapo.com` – CORPORATE, retrieved 17 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 17 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

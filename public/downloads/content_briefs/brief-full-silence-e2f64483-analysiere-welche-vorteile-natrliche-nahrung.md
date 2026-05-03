@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
 
 ## Engine visibility
 
@@ -14,14 +14,16 @@
 
 ## Citation source mix
 
-- **Editorial:** 4.3 %
-- **Institutional:** 4.3 %
-- **Corporate:** 91.3 %
+- **Editorial:** 11.6 %
+- **Reference:** 9.3 %
+- **Institutional:** 9.3 %
+- **Corporate:** 67.4 %
+- **Other:** 2.3 %
 
 **Top cited domains**
 
+- `gigasnutrition.com` – CORPORATE, retrieved 44 % of chats
 - `densenutrition.com` – CORPORATE, retrieved 33 % of chats
-- `gigasnutrition.com` – CORPORATE, retrieved 33 % of chats
 - `biomol.pl` – CORPORATE, retrieved 22 % of chats
 - `ep-nutrition.de` – CORPORATE, retrieved 22 % of chats
 - `surpresanatural.de` – CORPORATE, retrieved 22 % of chats

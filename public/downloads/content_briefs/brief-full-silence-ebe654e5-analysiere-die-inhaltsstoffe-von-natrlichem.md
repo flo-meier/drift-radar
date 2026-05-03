@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.2 %
-- **Editorial:** 2.5 %
-- **Ugc:** 1.2 %
-- **Reference:** 7.4 %
-- **Institutional:** 13.6 %
-- **Corporate:** 54.3 %
-- **Other:** 19.8 %
+- **Competitor:** 3.1 %
+- **Editorial:** 4.6 %
+- **Ugc:** 3.1 %
+- **Reference:** 3.1 %
+- **Institutional:** 12.3 %
+- **Corporate:** 52.3 %
+- **Other:** 21.5 %
 
 **Top cited domains**
 
-- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 22 % of chats
-- `equiflora.de` – CORPORATE, retrieved 22 % of chats
+- `youtube.com` – UGC, retrieved 22 % of chats
+- `horsewellness.de` – OTHER, retrieved 22 % of chats
+- `iastate.edu` – INSTITUTIONAL, retrieved 22 % of chats
+- `ker.com` – OTHER, retrieved 22 % of chats
+- `marstall.de` – COMPETITOR, retrieved 22 % of chats
 
 ## Suggested article
 

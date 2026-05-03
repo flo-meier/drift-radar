@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
 
 ## Engine visibility
 
@@ -14,18 +14,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.0 %
-- **Institutional:** 12.0 %
-- **Corporate:** 80.0 %
+- **Editorial:** 6.0 %
+- **Institutional:** 8.9 %
+- **Corporate:** 85.1 %
 
 **Top cited domains**
 
-- `amazon.de` – CORPORATE, retrieved 17 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
-- `lamicell.de` – CORPORATE, retrieved 17 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 17 % of chats
-- `aarp.org` – INSTITUTIONAL, retrieved 17 % of chats
-- `bbcgoodfood.com` – EDITORIAL, retrieved 17 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `dr-hawes.de` – CORPORATE, retrieved 33 % of chats
+- `hyjoint-gelenke.de` – CORPORATE, retrieved 33 % of chats
+- `medilutions.de` – CORPORATE, retrieved 33 % of chats
+- `medpets.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

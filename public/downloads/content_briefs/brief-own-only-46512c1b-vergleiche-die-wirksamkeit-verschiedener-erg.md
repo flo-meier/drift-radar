@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
 
 ## Engine visibility
 
@@ -18,22 +18,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.0 %
-- **Editorial:** 4.8 %
-- **Ugc:** 4.8 %
-- **Reference:** 4.8 %
-- **Institutional:** 2.9 %
-- **Corporate:** 77.9 %
-- **Other:** 3.8 %
+- **Competitor:** 0.9 %
+- **Editorial:** 2.7 %
+- **Ugc:** 4.4 %
+- **Reference:** 6.2 %
+- **Institutional:** 4.4 %
+- **Corporate:** 75.3 %
+- **Other:** 6.2 %
 
 **Top cited domains**
 
 - `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 56 % of chats
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
 - `animondo.de` – CORPORATE, retrieved 44 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
+- `youtube.com` – UGC, retrieved 33 % of chats
+- `foranequine.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

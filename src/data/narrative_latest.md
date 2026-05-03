@@ -1,32 +1,36 @@
-# Drift Radar · 2026-05-01
+# Drift Radar · 2026-05-02
 
 ## Summary
 
-Pferdegold's tracked keyword space shows 14 prompts now drifting (≥0.3 score), up from 9 last run. Own-brand visibility remains flat at 4.6%. Five prompts entered drifting range; one exited. Ten prompts shifted between silence categories.
+Pferdegold's tracked prompt set expanded into drifting territory this week. Three prompts moved from own-only silence into competitive visibility (0.443 score each), while two existing drifting prompts strengthened their positions. No prompts fell out of competitive range. Overall drifting count rose to 17 from 14.
 
-## Movement into drifting
+## New Drifting Prompts
 
-Four prompts scored 0.443 this week after registering 0.0 previously. All target natural supplementation angles:
+Three prompts entered the 0.3+ threshold:
 
-– "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd"
-– "Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen"
-– "Gelenkunterstützung für mein Pferd gesucht"
-– "Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?"
+– "Welche Gelankpellets ohne Zuckerzusatz gibt es für Pferde?" (0.443)
+– "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd." (0.443)
+– "Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?" (0.443)
 
-A fifth entry, "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde," scored 0.337.
+All three shifted from own-only silence, indicating competitor visibility emerged across supplement-specific and stress-focused queries. These represent product-adjacent search intent where Pferdegold currently lacks recognized positioning.
 
-These four shifted from own-only silence into competitor visibility. The supplementation-focused cluster suggests AI systems now regularly surface competing brands for ingredient-based queries.
+## Strengthening Positions
 
-## Movement out of drifting
+Two existing drifting prompts gained ground:
 
-"Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?" dropped from 0.443 to 0.0 – returning to full silence. This reversal warrants verification; it may indicate temporal variation in AI indexing rather than sustained improvement.
+– "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?" moved from 0.337 to 0.681 (+0.344)
+– "Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen." rose from 0.443 to 0.681 (+0.238)
 
-## Silence category changes
+Both queries emphasize natural ingredients and quality ratings – areas where competitive presence is consolidating.
 
-Six prompts changed silence status. Three of the newly-drifting four moved from own-only silence to active competitor presence. One drifting prompt ("Finde natürliche Pellets zur Unterstützung der Pferdegesundheit") reversed into full silence, offsetting gains elsewhere.
+## Silence Shift
 
-## Action items
+One prompt transitioned from full silence to own-only silence: "Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht." This suggests competitor entry into digestive health supplementation, a previously uncontested segment.
 
-Check whether the four 0.443-scoring prompts reflect consistent competitor positioning or single-engine anomalies. Verify the reversal on the stress-pellets query. Cross-reference drifting prompts against current content strategy – the supplement-ingredient pattern indicates an addressable gap.
+## Action Priority
 
-**Forward:** Monitor whether drifting cluster stabilizes or contracts in the next two runs; one-week volatility may indicate seasonal query pattern noise.
+Focus first on the three newly drifting prompts. All cluster around ingredient transparency (sugar-free, natural) and specific use cases (joint health, stress management). Check which competitors are capturing these queries and what product angles they emphasize. The 0.681 scorers indicate where competitive pressure is already sustained.
+
+Average brand visibility remains at 5.8%, unchanged – the gains are relative positioning within drifting queries rather than absolute share growth.
+
+Recheck this segment in seven days; the trajectory suggests further consolidation around supplement-specific searches.

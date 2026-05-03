@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
 
 ## Engine visibility
 
@@ -19,20 +19,17 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.4 %
-- **Ugc:** 2.4 %
-- **Reference:** 2.4 %
-- **Institutional:** 4.7 %
-- **Corporate:** 88.1 %
+- **Institutional:** 8.5 %
+- **Corporate:** 91.5 %
 
 **Top cited domains**
 
 - `vetrigold.de` – CORPORATE, retrieved 33 % of chats
 - `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `feedmark.com` – CORPORATE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `naf-equine.eu` – CORPORATE, retrieved 17 % of chats
+- `emma-care.de` – CORPORATE, retrieved 17 % of chats
+- `vetena.de` – CORPORATE, retrieved 17 % of chats
+- `hestevard.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

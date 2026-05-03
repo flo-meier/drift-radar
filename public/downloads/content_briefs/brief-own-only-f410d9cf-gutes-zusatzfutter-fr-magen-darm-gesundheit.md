@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
 
 ## Engine visibility
 
@@ -18,17 +18,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.3 %
-- **Ugc:** 3.3 %
-- **Corporate:** 93.5 %
+- **Editorial:** 2.5 %
+- **Ugc:** 2.5 %
+- **Corporate:** 92.4 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `dochorse.de` – CORPORATE, retrieved 33 % of chats
-- `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
-- `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
-- `noeltgen.de` – CORPORATE, retrieved 17 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 50 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 50 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `discount-equestrian.co.uk` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
