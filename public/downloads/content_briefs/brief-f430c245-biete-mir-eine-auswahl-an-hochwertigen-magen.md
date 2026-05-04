@@ -1,6 +1,6 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -47,21 +47,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 4.3 %
-- **Editorial:** 3.2 %
-- **Ugc:** 4.3 %
+- **Competitor:** 5.3 %
+- **Editorial:** 2.1 %
+- **Ugc:** 2.1 %
 - **Institutional:** 3.2 %
-- **Corporate:** 82.8 %
+- **Corporate:** 85.3 %
 - **Other:** 2.1 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 56 % of chats
+- `stroeh.de` – CORPORATE, retrieved 56 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
 - `amazon.de` – CORPORATE, retrieved 44 % of chats
-- `equine74.com` – CORPORATE, retrieved 44 % of chats
-- `stroeh.de` – CORPORATE, retrieved 44 % of chats
 - `baywa.de` – CORPORATE, retrieved 44 % of chats
-- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `equidocs.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

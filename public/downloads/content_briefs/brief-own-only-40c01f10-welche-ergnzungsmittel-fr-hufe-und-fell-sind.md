@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Ergänzungsmittel für Hufe und Fell sind empfehlenswert?«
 
-**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -14,23 +14,25 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.9 %
-- **Reference:** 5.8 %
-- **Institutional:** 2.9 %
-- **Corporate:** 88.5 %
+- **Competitor:** 4.9 %
+- **Reference:** 5.1 %
+- **Institutional:** 4.9 %
+- **Corporate:** 85.1 %
 
 **Top cited domains**
 
-- `vetena.de` – CORPORATE, retrieved 33 % of chats
+- `vetena.de` – CORPORATE, retrieved 50 % of chats
+- `petvet-gmbh.de` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
 - `vetripharm.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `petvet-gmbh.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -42,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

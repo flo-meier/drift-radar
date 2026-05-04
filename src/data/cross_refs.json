@@ -3,7 +3,7 @@
     "source": "demo",
     "property_url": null,
     "note": "Demo data seeded deterministically from Peec prompt_id. Setting GSC_SERVICE_ACCOUNT_JSON and GSC_PROPERTY_URL switches the connector to live-stub status; wire the Google API Python client in connectors/gsc.py → fetch_live() to populate live values (under 50 lines around the existing demo-mode plumbing).",
-    "generated_at": "2026-05-03T08:24:45.728883+00:00",
+    "generated_at": "2026-05-04T10:24:21.307855+00:00",
     "by_prompt": {
       "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": {
         "ctr": 0.0,
@@ -15,6 +15,19 @@
         "priority_score": 0.952,
         "prompt_id": "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e",
         "prompt_text": "Zeige mir in der Schweiz erhältliche Nervenpellets für gestresste Pferde.",
+        "divergence_score": 0.912,
+        "silence_type": "active"
+      },
+      "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
+        "ctr": 0.0314,
+        "position": 14.3,
+        "impressions": 11526,
+        "clicks": 362,
+        "volume_band": "high",
+        "no_classical_search": false,
+        "priority_score": 0.844,
+        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
+        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
         "divergence_score": 0.912,
         "silence_type": "active"
       },
@@ -44,19 +57,6 @@
         "divergence_score": 0.681,
         "silence_type": "active"
       },
-      "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
-        "ctr": 0.036,
-        "position": 13.2,
-        "impressions": 11526,
-        "clicks": 415,
-        "volume_band": "high",
-        "no_classical_search": false,
-        "priority_score": 0.699,
-        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
-        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
-        "divergence_score": 0.681,
-        "silence_type": "active"
-      },
       "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01": {
         "ctr": 0.0,
         "position": 0.0,
@@ -83,16 +83,42 @@
         "divergence_score": 0.592,
         "silence_type": "active"
       },
-      "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
-        "ctr": 0.043,
-        "position": 10.2,
-        "impressions": 1800,
-        "clicks": 77,
+      "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": {
+        "ctr": 0.0239,
+        "position": 13.8,
+        "impressions": 17175,
+        "clicks": 410,
+        "volume_band": "high",
+        "no_classical_search": false,
+        "priority_score": 0.662,
+        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
+        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+        "divergence_score": 0.562,
+        "silence_type": "active"
+      },
+      "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
+        "ctr": 0.0239,
+        "position": 13.7,
+        "impressions": 17623,
+        "clicks": 421,
+        "volume_band": "high",
+        "no_classical_search": false,
+        "priority_score": 0.596,
+        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
+        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
+        "divergence_score": 0.443,
+        "silence_type": "active"
+      },
+      "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
+        "ctr": 0.0664,
+        "position": 10.1,
+        "impressions": 2526,
+        "clicks": 168,
         "volume_band": "medium",
         "no_classical_search": false,
-        "priority_score": 0.53,
-        "prompt_id": "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744",
-        "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
+        "priority_score": 0.483,
+        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
+        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
         "divergence_score": 0.443,
         "silence_type": "active"
       },
@@ -109,42 +135,16 @@
         "divergence_score": 0.443,
         "silence_type": "active"
       },
-      "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": {
-        "ctr": 0.0253,
-        "position": 13.3,
-        "impressions": 17175,
-        "clicks": 435,
-        "volume_band": "high",
-        "no_classical_search": false,
-        "priority_score": 0.59,
-        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
-        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
-        "divergence_score": 0.443,
-        "silence_type": "active"
-      },
-      "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
-        "ctr": 0.0518,
-        "position": 10.7,
-        "impressions": 2397,
-        "clicks": 124,
+      "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": {
+        "ctr": 0.0456,
+        "position": 11.1,
+        "impressions": 705,
+        "clicks": 32,
         "volume_band": "medium",
         "no_classical_search": false,
-        "priority_score": 0.517,
-        "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
-        "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
-        "divergence_score": 0.443,
-        "silence_type": "active"
-      },
-      "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
-        "ctr": 0.0863,
-        "position": 9.9,
-        "impressions": 2524,
-        "clicks": 218,
-        "volume_band": "medium",
-        "no_classical_search": false,
-        "priority_score": 0.441,
-        "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
-        "prompt_text": "Finde in Deutschland hergestelltes Magenfutter für mein Pferd.",
+        "priority_score": 0.532,
+        "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
+        "prompt_text": "Finde Nervenpellets für gestresste Pferde ohne Industriezucker.",
         "divergence_score": 0.443,
         "silence_type": "active"
       },
@@ -171,19 +171,6 @@
         "priority_score": 0.458,
         "prompt_id": "pr_ad86aab8-1689-4374-b2eb-816d091ee9ad",
         "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
-        "divergence_score": 0.443,
-        "silence_type": "active"
-      },
-      "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": {
-        "ctr": 0.0456,
-        "position": 11.1,
-        "impressions": 705,
-        "clicks": 32,
-        "volume_band": "medium",
-        "no_classical_search": false,
-        "priority_score": 0.532,
-        "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
-        "prompt_text": "Finde Nervenpellets für gestresste Pferde ohne Industriezucker.",
         "divergence_score": 0.443,
         "silence_type": "active"
       },
@@ -226,7 +213,20 @@
         "divergence_score": 0.443,
         "silence_type": "active"
       },
-      "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
+      "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
+        "ctr": 0.043,
+        "position": 10.2,
+        "impressions": 1800,
+        "clicks": 77,
+        "volume_band": "medium",
+        "no_classical_search": false,
+        "priority_score": 0.53,
+        "prompt_id": "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744",
+        "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
+        "divergence_score": 0.443,
+        "silence_type": "active"
+      },
+      "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": {
         "ctr": 0.0,
         "position": 0.0,
         "impressions": 0,
@@ -234,21 +234,21 @@
         "volume_band": "high",
         "no_classical_search": true,
         "priority_score": 0.45,
-        "prompt_id": "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad",
-        "prompt_text": "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.",
+        "prompt_id": "pr_e229fc63-4622-49a9-99d3-65436ec2ee19",
+        "prompt_text": "Nenne mir empfehlenswerte Mineralstoffe für Pferde.",
         "divergence_score": 0.0,
         "silence_type": "own_only"
       },
-      "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
+      "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
         "ctr": 0.0,
         "position": 0.0,
         "impressions": 0,
         "clicks": 0,
-        "volume_band": "high",
+        "volume_band": "medium",
         "no_classical_search": true,
         "priority_score": 0.45,
-        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
-        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
+        "prompt_id": "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4",
+        "prompt_text": "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.",
         "divergence_score": 0.0,
         "silence_type": "own_only"
       },
@@ -343,6 +343,19 @@
         "divergence_score": 0.0,
         "silence_type": "own_only"
       },
+      "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
+        "ctr": 0.0,
+        "position": 0.0,
+        "impressions": 0,
+        "clicks": 0,
+        "volume_band": "medium",
+        "no_classical_search": true,
+        "priority_score": 0.45,
+        "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
+        "prompt_text": "Finde in Deutschland hergestelltes Magenfutter für mein Pferd.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only"
+      },
       "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f": {
         "ctr": 0.0,
         "position": 0.0,
@@ -356,7 +369,7 @@
         "divergence_score": 0.0,
         "silence_type": "own_only"
       },
-      "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
+      "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
         "ctr": 0.0,
         "position": 0.0,
         "impressions": 0,
@@ -364,10 +377,10 @@
         "volume_band": "medium",
         "no_classical_search": true,
         "priority_score": 0.45,
-        "prompt_id": "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4",
-        "prompt_text": "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.",
+        "prompt_id": "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592",
+        "prompt_text": "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.",
         "divergence_score": 0.0,
-        "silence_type": "own_only"
+        "silence_type": "full"
       },
       "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a": {
         "ctr": 0.0,
@@ -379,6 +392,19 @@
         "priority_score": 0.45,
         "prompt_id": "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a",
         "prompt_text": "Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?",
+        "divergence_score": 0.0,
+        "silence_type": "full"
+      },
+      "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
+        "ctr": 0.0,
+        "position": 0.0,
+        "impressions": 0,
+        "clicks": 0,
+        "volume_band": "high",
+        "no_classical_search": true,
+        "priority_score": 0.45,
+        "prompt_id": "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad",
+        "prompt_text": "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.",
         "divergence_score": 0.0,
         "silence_type": "own_only"
       },
@@ -392,6 +418,19 @@
         "priority_score": 0.45,
         "prompt_id": "pr_0b9644fb-0bec-4847-b388-b12ea14991da",
         "prompt_text": "Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only"
+      },
+      "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
+        "ctr": 0.0,
+        "position": 0.0,
+        "impressions": 0,
+        "clicks": 0,
+        "volume_band": "medium",
+        "no_classical_search": true,
+        "priority_score": 0.45,
+        "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
+        "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
         "divergence_score": 0.0,
         "silence_type": "own_only"
       },
@@ -538,19 +577,6 @@
         "divergence_score": 0.0,
         "silence_type": "full"
       },
-      "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
-        "ctr": 0.0,
-        "position": 0.0,
-        "impressions": 0,
-        "clicks": 0,
-        "volume_band": "medium",
-        "no_classical_search": true,
-        "priority_score": 0.45,
-        "prompt_id": "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592",
-        "prompt_text": "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.",
-        "divergence_score": 0.0,
-        "silence_type": "full"
-      },
       "pr_919e94f2-5a66-46fd-b425-6ae88721d518": {
         "ctr": 0.0,
         "position": 0.0,
@@ -587,32 +613,6 @@
         "priority_score": 0.45,
         "prompt_id": "pr_292a6b04-8dee-4ea2-969b-6a83c709753f",
         "prompt_text": "Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.",
-        "divergence_score": 0.0,
-        "silence_type": "own_only"
-      },
-      "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": {
-        "ctr": 0.0,
-        "position": 0.0,
-        "impressions": 0,
-        "clicks": 0,
-        "volume_band": "high",
-        "no_classical_search": true,
-        "priority_score": 0.45,
-        "prompt_id": "pr_e229fc63-4622-49a9-99d3-65436ec2ee19",
-        "prompt_text": "Nenne mir empfehlenswerte Mineralstoffe für Pferde.",
-        "divergence_score": 0.0,
-        "silence_type": "own_only"
-      },
-      "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
-        "ctr": 0.0,
-        "position": 0.0,
-        "impressions": 0,
-        "clicks": 0,
-        "volume_band": "medium",
-        "no_classical_search": true,
-        "priority_score": 0.45,
-        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
-        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
         "divergence_score": 0.0,
         "silence_type": "own_only"
       },
@@ -671,6 +671,19 @@
         "silence_type": "active"
       },
       {
+        "ctr": 0.0314,
+        "position": 14.3,
+        "impressions": 11526,
+        "clicks": 362,
+        "volume_band": "high",
+        "no_classical_search": false,
+        "priority_score": 0.844,
+        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
+        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
+        "divergence_score": 0.912,
+        "silence_type": "active"
+      },
+      {
         "ctr": 0.0,
         "position": 0.0,
         "impressions": 0,
@@ -697,19 +710,6 @@
         "silence_type": "active"
       },
       {
-        "ctr": 0.036,
-        "position": 13.2,
-        "impressions": 11526,
-        "clicks": 415,
-        "volume_band": "high",
-        "no_classical_search": false,
-        "priority_score": 0.699,
-        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
-        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
-        "divergence_score": 0.681,
-        "silence_type": "active"
-      },
-      {
         "ctr": 0.0,
         "position": 0.0,
         "impressions": 0,
@@ -720,6 +720,19 @@
         "prompt_id": "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce",
         "prompt_text": "Welche natürlichen Gelenkpellets für Pferde empfiehlst du?",
         "divergence_score": 0.443,
+        "silence_type": "active"
+      },
+      {
+        "ctr": 0.0239,
+        "position": 13.8,
+        "impressions": 17175,
+        "clicks": 410,
+        "volume_band": "high",
+        "no_classical_search": false,
+        "priority_score": 0.662,
+        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
+        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+        "divergence_score": 0.562,
         "silence_type": "active"
       },
       {
@@ -749,15 +762,15 @@
         "silence_type": "active"
       },
       {
-        "ctr": 0.0253,
-        "position": 13.3,
-        "impressions": 17175,
-        "clicks": 435,
+        "ctr": 0.0239,
+        "position": 13.7,
+        "impressions": 17623,
+        "clicks": 421,
         "volume_band": "high",
         "no_classical_search": false,
-        "priority_score": 0.59,
-        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
-        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+        "priority_score": 0.596,
+        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
+        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
         "divergence_score": 0.443,
         "silence_type": "active"
       },
@@ -773,19 +786,6 @@
         "prompt_text": "Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?",
         "divergence_score": 0.443,
         "silence_type": "active"
-      },
-      {
-        "ctr": 0.0456,
-        "position": 11.1,
-        "impressions": 705,
-        "clicks": 32,
-        "volume_band": "medium",
-        "no_classical_search": false,
-        "priority_score": 0.532,
-        "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
-        "prompt_text": "Finde Nervenpellets für gestresste Pferde ohne Industriezucker.",
-        "divergence_score": 0.443,
-        "silence_type": "active"
       }
     ]
   },
@@ -794,7 +794,7 @@
     "property_id": null,
     "property_name": "Pferdegold Shop (demo)",
     "note": "Demo data seeded deterministically from Peec prompt_id. Setting GA4_SERVICE_ACCOUNT_JSON and GA4_PROPERTY_ID switches the connector to live-stub status; wire the Google Analytics Data API client in connectors/ga4.py → fetch_live() to populate live values (under 50 lines around the existing demo-mode plumbing).",
-    "generated_at": "2026-05-03T08:24:45.729488+00:00",
+    "generated_at": "2026-05-04T10:24:21.308520+00:00",
     "by_prompt": {
       "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": {
         "prompt_id": "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e",
@@ -807,6 +807,18 @@
         "revenue_monthly": 0.0,
         "risk_factor": 0.956,
         "revenue_at_risk": 0.0
+      },
+      "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
+        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
+        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
+        "divergence_score": 0.912,
+        "silence_type": "active",
+        "clicks_monthly": 362,
+        "conversion_rate": 0.0087,
+        "avg_order_value": 111.67,
+        "revenue_monthly": 351.69,
+        "risk_factor": 0.956,
+        "revenue_at_risk": 336.22
       },
       "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": {
         "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
@@ -832,18 +844,6 @@
         "risk_factor": 0.841,
         "revenue_at_risk": 244.98
       },
-      "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
-        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
-        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
-        "divergence_score": 0.681,
-        "silence_type": "active",
-        "clicks_monthly": 415,
-        "conversion_rate": 0.0087,
-        "avg_order_value": 111.67,
-        "revenue_monthly": 403.18,
-        "risk_factor": 0.841,
-        "revenue_at_risk": 338.87
-      },
       "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01": {
         "prompt_id": "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01",
         "prompt_text": "Suche gesundes Zusatzfutter für Pferde in Deutschland.",
@@ -868,17 +868,41 @@
         "risk_factor": 0.796,
         "revenue_at_risk": 234.84
       },
-      "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
-        "prompt_id": "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744",
-        "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
+      "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": {
+        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
+        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+        "divergence_score": 0.562,
+        "silence_type": "active",
+        "clicks_monthly": 410,
+        "conversion_rate": 0.0091,
+        "avg_order_value": 84.63,
+        "revenue_monthly": 315.75,
+        "risk_factor": 0.781,
+        "revenue_at_risk": 246.6
+      },
+      "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
+        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
+        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
         "divergence_score": 0.443,
         "silence_type": "active",
-        "clicks_monthly": 77,
-        "conversion_rate": 0.0215,
-        "avg_order_value": 99.36,
-        "revenue_monthly": 164.49,
+        "clicks_monthly": 421,
+        "conversion_rate": 0.0082,
+        "avg_order_value": 84.26,
+        "revenue_monthly": 290.88,
         "risk_factor": 0.722,
-        "revenue_at_risk": 118.68
+        "revenue_at_risk": 209.87
+      },
+      "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
+        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
+        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
+        "divergence_score": 0.443,
+        "silence_type": "active",
+        "clicks_monthly": 168,
+        "conversion_rate": 0.0257,
+        "avg_order_value": 58.02,
+        "revenue_monthly": 250.51,
+        "risk_factor": 0.722,
+        "revenue_at_risk": 180.74
       },
       "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": {
         "prompt_id": "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce",
@@ -892,41 +916,17 @@
         "risk_factor": 0.722,
         "revenue_at_risk": 0.0
       },
-      "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": {
-        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
-        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+      "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": {
+        "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
+        "prompt_text": "Finde Nervenpellets für gestresste Pferde ohne Industriezucker.",
         "divergence_score": 0.443,
         "silence_type": "active",
-        "clicks_monthly": 435,
-        "conversion_rate": 0.0091,
-        "avg_order_value": 84.63,
-        "revenue_monthly": 335.01,
+        "clicks_monthly": 32,
+        "conversion_rate": 0.0184,
+        "avg_order_value": 86.95,
+        "revenue_monthly": 51.2,
         "risk_factor": 0.722,
-        "revenue_at_risk": 241.71
-      },
-      "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
-        "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
-        "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "clicks_monthly": 124,
-        "conversion_rate": 0.0224,
-        "avg_order_value": 78.2,
-        "revenue_monthly": 217.21,
-        "risk_factor": 0.722,
-        "revenue_at_risk": 156.72
-      },
-      "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
-        "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
-        "prompt_text": "Finde in Deutschland hergestelltes Magenfutter für mein Pferd.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "clicks_monthly": 218,
-        "conversion_rate": 0.0252,
-        "avg_order_value": 95.02,
-        "revenue_monthly": 522.0,
-        "risk_factor": 0.722,
-        "revenue_at_risk": 376.62
+        "revenue_at_risk": 36.94
       },
       "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba": {
         "prompt_id": "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba",
@@ -951,18 +951,6 @@
         "revenue_monthly": 170.93,
         "risk_factor": 0.722,
         "revenue_at_risk": 123.33
-      },
-      "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": {
-        "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
-        "prompt_text": "Finde Nervenpellets für gestresste Pferde ohne Industriezucker.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "clicks_monthly": 32,
-        "conversion_rate": 0.0184,
-        "avg_order_value": 86.95,
-        "revenue_monthly": 51.2,
-        "risk_factor": 0.722,
-        "revenue_at_risk": 36.94
       },
       "pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b": {
         "prompt_id": "pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b",
@@ -1000,26 +988,38 @@
         "risk_factor": 0.722,
         "revenue_at_risk": 115.05
       },
-      "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
-        "prompt_id": "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad",
-        "prompt_text": "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.",
+      "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
+        "prompt_id": "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744",
+        "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
+        "divergence_score": 0.443,
+        "silence_type": "active",
+        "clicks_monthly": 77,
+        "conversion_rate": 0.0215,
+        "avg_order_value": 99.36,
+        "revenue_monthly": 164.49,
+        "risk_factor": 0.722,
+        "revenue_at_risk": 118.68
+      },
+      "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": {
+        "prompt_id": "pr_e229fc63-4622-49a9-99d3-65436ec2ee19",
+        "prompt_text": "Nenne mir empfehlenswerte Mineralstoffe für Pferde.",
         "divergence_score": 0.0,
         "silence_type": "own_only",
         "clicks_monthly": 0,
-        "conversion_rate": 0.0117,
-        "avg_order_value": 112.24,
+        "conversion_rate": 0.0104,
+        "avg_order_value": 69.66,
         "revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "revenue_at_risk": 0.0
       },
-      "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
-        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
-        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
+      "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
+        "prompt_id": "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4",
+        "prompt_text": "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.",
         "divergence_score": 0.0,
         "silence_type": "own_only",
         "clicks_monthly": 0,
-        "conversion_rate": 0.0082,
-        "avg_order_value": 84.26,
+        "conversion_rate": 0.0273,
+        "avg_order_value": 101.44,
         "revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "revenue_at_risk": 0.0
@@ -1108,6 +1108,18 @@
         "risk_factor": 0.8,
         "revenue_at_risk": 0.0
       },
+      "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
+        "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
+        "prompt_text": "Finde in Deutschland hergestelltes Magenfutter für mein Pferd.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only",
+        "clicks_monthly": 0,
+        "conversion_rate": 0.0252,
+        "avg_order_value": 95.02,
+        "revenue_monthly": 0.0,
+        "risk_factor": 0.8,
+        "revenue_at_risk": 0.0
+      },
       "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f": {
         "prompt_id": "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f",
         "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.",
@@ -1120,14 +1132,14 @@
         "risk_factor": 0.8,
         "revenue_at_risk": 0.0
       },
-      "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
-        "prompt_id": "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4",
-        "prompt_text": "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.",
+      "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
+        "prompt_id": "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592",
+        "prompt_text": "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.",
         "divergence_score": 0.0,
-        "silence_type": "own_only",
+        "silence_type": "full",
         "clicks_monthly": 0,
-        "conversion_rate": 0.0273,
-        "avg_order_value": 101.44,
+        "conversion_rate": 0.0294,
+        "avg_order_value": 112.58,
         "revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "revenue_at_risk": 0.0
@@ -1136,10 +1148,22 @@
         "prompt_id": "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a",
         "prompt_text": "Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?",
         "divergence_score": 0.0,
-        "silence_type": "own_only",
+        "silence_type": "full",
         "clicks_monthly": 0,
         "conversion_rate": 0.0195,
         "avg_order_value": 107.42,
+        "revenue_monthly": 0.0,
+        "risk_factor": 0.8,
+        "revenue_at_risk": 0.0
+      },
+      "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
+        "prompt_id": "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad",
+        "prompt_text": "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only",
+        "clicks_monthly": 0,
+        "conversion_rate": 0.0117,
+        "avg_order_value": 112.24,
         "revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "revenue_at_risk": 0.0
@@ -1152,6 +1176,18 @@
         "clicks_monthly": 0,
         "conversion_rate": 0.0297,
         "avg_order_value": 74.14,
+        "revenue_monthly": 0.0,
+        "risk_factor": 0.8,
+        "revenue_at_risk": 0.0
+      },
+      "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
+        "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
+        "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only",
+        "clicks_monthly": 0,
+        "conversion_rate": 0.0224,
+        "avg_order_value": 78.2,
         "revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "revenue_at_risk": 0.0
@@ -1288,18 +1324,6 @@
         "risk_factor": 0.8,
         "revenue_at_risk": 0.0
       },
-      "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
-        "prompt_id": "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592",
-        "prompt_text": "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.",
-        "divergence_score": 0.0,
-        "silence_type": "full",
-        "clicks_monthly": 0,
-        "conversion_rate": 0.0294,
-        "avg_order_value": 112.58,
-        "revenue_monthly": 0.0,
-        "risk_factor": 0.8,
-        "revenue_at_risk": 0.0
-      },
       "pr_919e94f2-5a66-46fd-b425-6ae88721d518": {
         "prompt_id": "pr_919e94f2-5a66-46fd-b425-6ae88721d518",
         "prompt_text": "Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.",
@@ -1332,30 +1356,6 @@
         "clicks_monthly": 0,
         "conversion_rate": 0.0221,
         "avg_order_value": 70.29,
-        "revenue_monthly": 0.0,
-        "risk_factor": 0.8,
-        "revenue_at_risk": 0.0
-      },
-      "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": {
-        "prompt_id": "pr_e229fc63-4622-49a9-99d3-65436ec2ee19",
-        "prompt_text": "Nenne mir empfehlenswerte Mineralstoffe für Pferde.",
-        "divergence_score": 0.0,
-        "silence_type": "own_only",
-        "clicks_monthly": 0,
-        "conversion_rate": 0.0104,
-        "avg_order_value": 69.66,
-        "revenue_monthly": 0.0,
-        "risk_factor": 0.8,
-        "revenue_at_risk": 0.0
-      },
-      "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
-        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
-        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
-        "divergence_score": 0.0,
-        "silence_type": "own_only",
-        "clicks_monthly": 0,
-        "conversion_rate": 0.0257,
-        "avg_order_value": 58.02,
         "revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "revenue_at_risk": 0.0
@@ -1399,28 +1399,28 @@
     },
     "top_risk": [
       {
-        "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
-        "prompt_text": "Finde in Deutschland hergestelltes Magenfutter für mein Pferd.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "clicks_monthly": 218,
-        "conversion_rate": 0.0252,
-        "avg_order_value": 95.02,
-        "revenue_monthly": 522.0,
-        "risk_factor": 0.722,
-        "revenue_at_risk": 376.62
-      },
-      {
         "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
         "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
-        "divergence_score": 0.681,
+        "divergence_score": 0.912,
         "silence_type": "active",
-        "clicks_monthly": 415,
+        "clicks_monthly": 362,
         "conversion_rate": 0.0087,
         "avg_order_value": 111.67,
-        "revenue_monthly": 403.18,
-        "risk_factor": 0.841,
-        "revenue_at_risk": 338.87
+        "revenue_monthly": 351.69,
+        "risk_factor": 0.956,
+        "revenue_at_risk": 336.22
+      },
+      {
+        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
+        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+        "divergence_score": 0.562,
+        "silence_type": "active",
+        "clicks_monthly": 410,
+        "conversion_rate": 0.0091,
+        "avg_order_value": 84.63,
+        "revenue_monthly": 315.75,
+        "risk_factor": 0.781,
+        "revenue_at_risk": 246.6
       },
       {
         "prompt_id": "pr_052a6419-3a6e-49c5-9995-e2812de6cb50",
@@ -1433,18 +1433,6 @@
         "revenue_monthly": 291.47,
         "risk_factor": 0.841,
         "revenue_at_risk": 244.98
-      },
-      {
-        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
-        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "clicks_monthly": 435,
-        "conversion_rate": 0.0091,
-        "avg_order_value": 84.63,
-        "revenue_monthly": 335.01,
-        "risk_factor": 0.722,
-        "revenue_at_risk": 241.71
       },
       {
         "prompt_id": "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6",
@@ -1471,6 +1459,18 @@
         "revenue_at_risk": 230.91
       },
       {
+        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
+        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
+        "divergence_score": 0.443,
+        "silence_type": "active",
+        "clicks_monthly": 421,
+        "conversion_rate": 0.0082,
+        "avg_order_value": 84.26,
+        "revenue_monthly": 290.88,
+        "risk_factor": 0.722,
+        "revenue_at_risk": 209.87
+      },
+      {
         "prompt_id": "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba",
         "prompt_text": "Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?",
         "divergence_score": 0.443,
@@ -1483,16 +1483,16 @@
         "revenue_at_risk": 184.24
       },
       {
-        "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
-        "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
+        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
+        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
         "divergence_score": 0.443,
         "silence_type": "active",
-        "clicks_monthly": 124,
-        "conversion_rate": 0.0224,
-        "avg_order_value": 78.2,
-        "revenue_monthly": 217.21,
+        "clicks_monthly": 168,
+        "conversion_rate": 0.0257,
+        "avg_order_value": 58.02,
+        "revenue_monthly": 250.51,
         "risk_factor": 0.722,
-        "revenue_at_risk": 156.72
+        "revenue_at_risk": 180.74
       },
       {
         "prompt_id": "pr_ad86aab8-1689-4374-b2eb-816d091ee9ad",
@@ -1520,8 +1520,8 @@
       }
     ],
     "totals": {
-      "revenue_monthly_total": 3226.22,
-      "revenue_at_risk_total": 2489.0,
+      "revenue_monthly_total": 2957.65,
+      "revenue_at_risk_total": 2348.51,
       "prompts_at_risk": 12
     }
   },
@@ -1530,7 +1530,7 @@
     "customer_id": null,
     "account_name": "Pferdegold Performance (demo)",
     "note": "Demo data seeded deterministically from Peec prompt_id. Setting GOOGLE_ADS_DEVELOPER_TOKEN and GOOGLE_ADS_CUSTOMER_ID switches the connector to live-stub status; wire the google-ads-python client in connectors/google_ads.py → fetch_live() to populate live values (roughly 50 lines around the demo-mode plumbing).",
-    "generated_at": "2026-05-03T08:24:45.730163+00:00",
+    "generated_at": "2026-05-04T10:24:21.309213+00:00",
     "by_prompt": {
       "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": {
         "prompt_id": "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e",
@@ -1546,6 +1546,21 @@
         "ad_revenue_monthly": 0.0,
         "risk_factor": 0.956,
         "ad_spend_at_risk": 0.0
+      },
+      "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
+        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
+        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
+        "divergence_score": 0.912,
+        "silence_type": "active",
+        "no_classical_search": false,
+        "ad_clicks_monthly": 1134,
+        "ad_cpc": 1.12,
+        "ad_spend_monthly": 1270.08,
+        "ad_conversion_rate": 0.0109,
+        "ad_avg_order_value": 114.3,
+        "ad_revenue_monthly": 1412.82,
+        "risk_factor": 0.956,
+        "ad_spend_at_risk": 1214.2
       },
       "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": {
         "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
@@ -1577,21 +1592,6 @@
         "risk_factor": 0.841,
         "ad_spend_at_risk": 48.54
       },
-      "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
-        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
-        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
-        "divergence_score": 0.681,
-        "silence_type": "active",
-        "no_classical_search": false,
-        "ad_clicks_monthly": 1134,
-        "ad_cpc": 1.12,
-        "ad_spend_monthly": 1270.08,
-        "ad_conversion_rate": 0.0109,
-        "ad_avg_order_value": 114.3,
-        "ad_revenue_monthly": 1412.82,
-        "risk_factor": 0.841,
-        "ad_spend_at_risk": 1067.5
-      },
       "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01": {
         "prompt_id": "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01",
         "prompt_text": "Suche gesundes Zusatzfutter für Pferde in Deutschland.",
@@ -1622,20 +1622,50 @@
         "risk_factor": 0.796,
         "ad_spend_at_risk": 74.51
       },
-      "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
-        "prompt_id": "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744",
-        "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
+      "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": {
+        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
+        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+        "divergence_score": 0.562,
+        "silence_type": "active",
+        "no_classical_search": false,
+        "ad_clicks_monthly": 1697,
+        "ad_cpc": 0.76,
+        "ad_spend_monthly": 1289.72,
+        "ad_conversion_rate": 0.0084,
+        "ad_avg_order_value": 66.85,
+        "ad_revenue_monthly": 952.93,
+        "risk_factor": 0.781,
+        "ad_spend_at_risk": 1007.27
+      },
+      "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
+        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
+        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
         "divergence_score": 0.443,
         "silence_type": "active",
         "no_classical_search": false,
-        "ad_clicks_monthly": 285,
-        "ad_cpc": 1.15,
-        "ad_spend_monthly": 327.75,
-        "ad_conversion_rate": 0.0156,
-        "ad_avg_order_value": 67.69,
-        "ad_revenue_monthly": 300.95,
+        "ad_clicks_monthly": 1769,
+        "ad_cpc": 1.38,
+        "ad_spend_monthly": 2441.22,
+        "ad_conversion_rate": 0.0069,
+        "ad_avg_order_value": 92.96,
+        "ad_revenue_monthly": 1134.68,
         "risk_factor": 0.722,
-        "ad_spend_at_risk": 236.47
+        "ad_spend_at_risk": 1761.34
+      },
+      "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
+        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
+        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
+        "divergence_score": 0.443,
+        "silence_type": "active",
+        "no_classical_search": false,
+        "ad_clicks_monthly": 177,
+        "ad_cpc": 0.91,
+        "ad_spend_monthly": 161.07,
+        "ad_conversion_rate": 0.0157,
+        "ad_avg_order_value": 78.27,
+        "ad_revenue_monthly": 217.5,
+        "risk_factor": 0.722,
+        "ad_spend_at_risk": 116.21
       },
       "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": {
         "prompt_id": "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce",
@@ -1652,50 +1682,20 @@
         "risk_factor": 0.722,
         "ad_spend_at_risk": 0.0
       },
-      "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": {
-        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
-        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+      "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": {
+        "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
+        "prompt_text": "Finde Nervenpellets für gestresste Pferde ohne Industriezucker.",
         "divergence_score": 0.443,
         "silence_type": "active",
         "no_classical_search": false,
-        "ad_clicks_monthly": 1697,
-        "ad_cpc": 0.76,
-        "ad_spend_monthly": 1289.72,
-        "ad_conversion_rate": 0.0084,
-        "ad_avg_order_value": 66.85,
-        "ad_revenue_monthly": 952.93,
+        "ad_clicks_monthly": 253,
+        "ad_cpc": 1.08,
+        "ad_spend_monthly": 273.24,
+        "ad_conversion_rate": 0.0223,
+        "ad_avg_order_value": 62.89,
+        "ad_revenue_monthly": 354.82,
         "risk_factor": 0.722,
-        "ad_spend_at_risk": 930.53
-      },
-      "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
-        "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
-        "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "no_classical_search": false,
-        "ad_clicks_monthly": 87,
-        "ad_cpc": 0.66,
-        "ad_spend_monthly": 57.42,
-        "ad_conversion_rate": 0.0203,
-        "ad_avg_order_value": 60.28,
-        "ad_revenue_monthly": 106.46,
-        "risk_factor": 0.722,
-        "ad_spend_at_risk": 41.43
-      },
-      "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
-        "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
-        "prompt_text": "Finde in Deutschland hergestelltes Magenfutter für mein Pferd.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "no_classical_search": false,
-        "ad_clicks_monthly": 143,
-        "ad_cpc": 0.47,
-        "ad_spend_monthly": 67.21,
-        "ad_conversion_rate": 0.0189,
-        "ad_avg_order_value": 75.29,
-        "ad_revenue_monthly": 203.49,
-        "risk_factor": 0.722,
-        "ad_spend_at_risk": 48.49
+        "ad_spend_at_risk": 197.14
       },
       "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba": {
         "prompt_id": "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba",
@@ -1726,21 +1726,6 @@
         "ad_revenue_monthly": 268.45,
         "risk_factor": 0.722,
         "ad_spend_at_risk": 117.14
-      },
-      "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": {
-        "prompt_id": "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b",
-        "prompt_text": "Finde Nervenpellets für gestresste Pferde ohne Industriezucker.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "no_classical_search": false,
-        "ad_clicks_monthly": 253,
-        "ad_cpc": 1.08,
-        "ad_spend_monthly": 273.24,
-        "ad_conversion_rate": 0.0223,
-        "ad_avg_order_value": 62.89,
-        "ad_revenue_monthly": 354.82,
-        "risk_factor": 0.722,
-        "ad_spend_at_risk": 197.14
       },
       "pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b": {
         "prompt_id": "pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b",
@@ -1787,32 +1772,47 @@
         "risk_factor": 0.722,
         "ad_spend_at_risk": 214.07
       },
-      "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
-        "prompt_id": "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad",
-        "prompt_text": "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.",
+      "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
+        "prompt_id": "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744",
+        "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
+        "divergence_score": 0.443,
+        "silence_type": "active",
+        "no_classical_search": false,
+        "ad_clicks_monthly": 285,
+        "ad_cpc": 1.15,
+        "ad_spend_monthly": 327.75,
+        "ad_conversion_rate": 0.0156,
+        "ad_avg_order_value": 67.69,
+        "ad_revenue_monthly": 300.95,
+        "risk_factor": 0.722,
+        "ad_spend_at_risk": 236.47
+      },
+      "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": {
+        "prompt_id": "pr_e229fc63-4622-49a9-99d3-65436ec2ee19",
+        "prompt_text": "Nenne mir empfehlenswerte Mineralstoffe für Pferde.",
         "divergence_score": 0.0,
         "silence_type": "own_only",
         "no_classical_search": true,
         "ad_clicks_monthly": 0,
         "ad_cpc": 0.0,
         "ad_spend_monthly": 0.0,
-        "ad_conversion_rate": 0.0106,
-        "ad_avg_order_value": 92.41,
+        "ad_conversion_rate": 0.0092,
+        "ad_avg_order_value": 77.31,
         "ad_revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "ad_spend_at_risk": 0.0
       },
-      "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
-        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
-        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
+      "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
+        "prompt_id": "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4",
+        "prompt_text": "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.",
         "divergence_score": 0.0,
         "silence_type": "own_only",
         "no_classical_search": true,
         "ad_clicks_monthly": 0,
         "ad_cpc": 0.0,
         "ad_spend_monthly": 0.0,
-        "ad_conversion_rate": 0.0108,
-        "ad_avg_order_value": 88.73,
+        "ad_conversion_rate": 0.0187,
+        "ad_avg_order_value": 97.18,
         "ad_revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "ad_spend_at_risk": 0.0
@@ -1922,6 +1922,21 @@
         "risk_factor": 0.8,
         "ad_spend_at_risk": 0.0
       },
+      "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
+        "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
+        "prompt_text": "Finde in Deutschland hergestelltes Magenfutter für mein Pferd.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only",
+        "no_classical_search": true,
+        "ad_clicks_monthly": 0,
+        "ad_cpc": 0.0,
+        "ad_spend_monthly": 0.0,
+        "ad_conversion_rate": 0.023,
+        "ad_avg_order_value": 66.58,
+        "ad_revenue_monthly": 0.0,
+        "risk_factor": 0.8,
+        "ad_spend_at_risk": 0.0
+      },
       "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f": {
         "prompt_id": "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f",
         "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.",
@@ -1937,17 +1952,17 @@
         "risk_factor": 0.8,
         "ad_spend_at_risk": 0.0
       },
-      "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
-        "prompt_id": "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4",
-        "prompt_text": "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.",
+      "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
+        "prompt_id": "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592",
+        "prompt_text": "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.",
         "divergence_score": 0.0,
-        "silence_type": "own_only",
+        "silence_type": "full",
         "no_classical_search": true,
         "ad_clicks_monthly": 0,
         "ad_cpc": 0.0,
         "ad_spend_monthly": 0.0,
-        "ad_conversion_rate": 0.0187,
-        "ad_avg_order_value": 97.18,
+        "ad_conversion_rate": 0.0134,
+        "ad_avg_order_value": 109.96,
         "ad_revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "ad_spend_at_risk": 0.0
@@ -1956,13 +1971,28 @@
         "prompt_id": "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a",
         "prompt_text": "Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?",
         "divergence_score": 0.0,
-        "silence_type": "own_only",
+        "silence_type": "full",
         "no_classical_search": true,
         "ad_clicks_monthly": 0,
         "ad_cpc": 0.0,
         "ad_spend_monthly": 0.0,
         "ad_conversion_rate": 0.0149,
         "ad_avg_order_value": 84.72,
+        "ad_revenue_monthly": 0.0,
+        "risk_factor": 0.8,
+        "ad_spend_at_risk": 0.0
+      },
+      "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
+        "prompt_id": "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad",
+        "prompt_text": "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only",
+        "no_classical_search": true,
+        "ad_clicks_monthly": 0,
+        "ad_cpc": 0.0,
+        "ad_spend_monthly": 0.0,
+        "ad_conversion_rate": 0.0106,
+        "ad_avg_order_value": 92.41,
         "ad_revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "ad_spend_at_risk": 0.0
@@ -1978,6 +2008,21 @@
         "ad_spend_monthly": 0.0,
         "ad_conversion_rate": 0.0233,
         "ad_avg_order_value": 88.4,
+        "ad_revenue_monthly": 0.0,
+        "risk_factor": 0.8,
+        "ad_spend_at_risk": 0.0
+      },
+      "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
+        "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
+        "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only",
+        "no_classical_search": true,
+        "ad_clicks_monthly": 0,
+        "ad_cpc": 0.0,
+        "ad_spend_monthly": 0.0,
+        "ad_conversion_rate": 0.0128,
+        "ad_avg_order_value": 89.15,
         "ad_revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "ad_spend_at_risk": 0.0
@@ -2147,21 +2192,6 @@
         "risk_factor": 0.8,
         "ad_spend_at_risk": 0.0
       },
-      "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
-        "prompt_id": "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592",
-        "prompt_text": "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.",
-        "divergence_score": 0.0,
-        "silence_type": "full",
-        "no_classical_search": true,
-        "ad_clicks_monthly": 0,
-        "ad_cpc": 0.0,
-        "ad_spend_monthly": 0.0,
-        "ad_conversion_rate": 0.0134,
-        "ad_avg_order_value": 109.96,
-        "ad_revenue_monthly": 0.0,
-        "risk_factor": 0.8,
-        "ad_spend_at_risk": 0.0
-      },
       "pr_919e94f2-5a66-46fd-b425-6ae88721d518": {
         "prompt_id": "pr_919e94f2-5a66-46fd-b425-6ae88721d518",
         "prompt_text": "Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.",
@@ -2203,36 +2233,6 @@
         "ad_spend_monthly": 0.0,
         "ad_conversion_rate": 0.0225,
         "ad_avg_order_value": 87.81,
-        "ad_revenue_monthly": 0.0,
-        "risk_factor": 0.8,
-        "ad_spend_at_risk": 0.0
-      },
-      "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": {
-        "prompt_id": "pr_e229fc63-4622-49a9-99d3-65436ec2ee19",
-        "prompt_text": "Nenne mir empfehlenswerte Mineralstoffe für Pferde.",
-        "divergence_score": 0.0,
-        "silence_type": "own_only",
-        "no_classical_search": true,
-        "ad_clicks_monthly": 0,
-        "ad_cpc": 0.0,
-        "ad_spend_monthly": 0.0,
-        "ad_conversion_rate": 0.0092,
-        "ad_avg_order_value": 77.31,
-        "ad_revenue_monthly": 0.0,
-        "risk_factor": 0.8,
-        "ad_spend_at_risk": 0.0
-      },
-      "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
-        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
-        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
-        "divergence_score": 0.0,
-        "silence_type": "own_only",
-        "no_classical_search": true,
-        "ad_clicks_monthly": 0,
-        "ad_cpc": 0.0,
-        "ad_spend_monthly": 0.0,
-        "ad_conversion_rate": 0.015,
-        "ad_avg_order_value": 55.02,
         "ad_revenue_monthly": 0.0,
         "risk_factor": 0.8,
         "ad_spend_at_risk": 0.0
@@ -2285,9 +2285,24 @@
     },
     "top_risk": [
       {
+        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
+        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
+        "divergence_score": 0.443,
+        "silence_type": "active",
+        "no_classical_search": false,
+        "ad_clicks_monthly": 1769,
+        "ad_cpc": 1.38,
+        "ad_spend_monthly": 2441.22,
+        "ad_conversion_rate": 0.0069,
+        "ad_avg_order_value": 92.96,
+        "ad_revenue_monthly": 1134.68,
+        "risk_factor": 0.722,
+        "ad_spend_at_risk": 1761.34
+      },
+      {
         "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
         "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
-        "divergence_score": 0.681,
+        "divergence_score": 0.912,
         "silence_type": "active",
         "no_classical_search": false,
         "ad_clicks_monthly": 1134,
@@ -2296,13 +2311,13 @@
         "ad_conversion_rate": 0.0109,
         "ad_avg_order_value": 114.3,
         "ad_revenue_monthly": 1412.82,
-        "risk_factor": 0.841,
-        "ad_spend_at_risk": 1067.5
+        "risk_factor": 0.956,
+        "ad_spend_at_risk": 1214.2
       },
       {
         "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
         "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
-        "divergence_score": 0.443,
+        "divergence_score": 0.562,
         "silence_type": "active",
         "no_classical_search": false,
         "ad_clicks_monthly": 1697,
@@ -2311,8 +2326,8 @@
         "ad_conversion_rate": 0.0084,
         "ad_avg_order_value": 66.85,
         "ad_revenue_monthly": 952.93,
-        "risk_factor": 0.722,
-        "ad_spend_at_risk": 930.53
+        "risk_factor": 0.781,
+        "ad_spend_at_risk": 1007.27
       },
       {
         "prompt_id": "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba",
@@ -2418,34 +2433,19 @@
         "ad_revenue_monthly": 268.45,
         "risk_factor": 0.722,
         "ad_spend_at_risk": 117.14
-      },
-      {
-        "prompt_id": "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6",
-        "prompt_text": "Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.",
-        "divergence_score": 0.592,
-        "silence_type": "active",
-        "no_classical_search": false,
-        "ad_clicks_monthly": 104,
-        "ad_cpc": 0.9,
-        "ad_spend_monthly": 93.6,
-        "ad_conversion_rate": 0.0145,
-        "ad_avg_order_value": 108.92,
-        "ad_revenue_monthly": 164.25,
-        "risk_factor": 0.796,
-        "ad_spend_at_risk": 74.51
       }
     ],
     "totals": {
-      "ad_spend_monthly_total": 5171.37,
-      "ad_spend_at_risk_total": 3952.55,
-      "prompts_at_risk": 9,
+      "ad_spend_monthly_total": 7649.03,
+      "ad_spend_at_risk_total": 5963.62,
+      "prompts_at_risk": 11,
       "prompts_no_classical": 36
     }
   },
   "ahrefs": {
     "source": "demo",
     "note": "Top-ranking URLs are real – harvested by Peec MCP from data/raw/gap_urls_digested.json. Keyword difficulty, search volume and backlink counts are deterministic mock rows per (prompt, domain) pair. Setting AHREFS_API_KEY switches the connector to live-stub status; wire the Ahrefs v3 client in connectors/ahrefs.py → fetch_live() to populate live metrics (under 50 lines around the existing demo-mode plumbing).",
-    "generated_at": "2026-05-03T08:24:45.731119+00:00",
+    "generated_at": "2026-05-04T10:24:21.310131+00:00",
     "by_prompt": {
       "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": {
         "prompt_id": "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e",
@@ -2460,6 +2460,20 @@
         "monthly_search_volume": 2830,
         "backlinks_to_url": 238,
         "opportunity_score": 0.492
+      },
+      "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
+        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
+        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
+        "divergence_score": 0.912,
+        "silence_type": "active",
+        "top_ranking_url": "https://pferde-heilkunde.com/2025/08/06/zusatzfutter-gelenke-pferd-test",
+        "top_ranking_domain": "pferde-heilkunde.com",
+        "top_ranking_title": "Zusatzfutter Gelenke Pferd: Test 2026 | Was hilft wirklich?",
+        "top_ranking_classification": "LISTICLE",
+        "keyword_difficulty": 34,
+        "monthly_search_volume": 6797,
+        "backlinks_to_url": 128,
+        "opportunity_score": 0.602
       },
       "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": {
         "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
@@ -2489,20 +2503,6 @@
         "backlinks_to_url": 113,
         "opportunity_score": 0.436
       },
-      "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
-        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
-        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
-        "divergence_score": 0.681,
-        "silence_type": "active",
-        "top_ranking_url": "https://pferde-heilkunde.com/2025/08/06/zusatzfutter-gelenke-pferd-test",
-        "top_ranking_domain": "pferde-heilkunde.com",
-        "top_ranking_title": "Zusatzfutter Gelenke Pferd: Test 2026 | Was hilft wirklich?",
-        "top_ranking_classification": "LISTICLE",
-        "keyword_difficulty": 34,
-        "monthly_search_volume": 6797,
-        "backlinks_to_url": 128,
-        "opportunity_score": 0.449
-      },
       "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01": {
         "prompt_id": "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01",
         "prompt_text": "Suche gesundes Zusatzfutter für Pferde in Deutschland.",
@@ -2517,19 +2517,47 @@
         "backlinks_to_url": 275,
         "opportunity_score": 0.388
       },
-      "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
-        "prompt_id": "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744",
-        "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
+      "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": {
+        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
+        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+        "divergence_score": 0.562,
+        "silence_type": "active",
+        "top_ranking_url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung/Hufrehe",
+        "top_ranking_domain": "pferdefuttershop.de",
+        "top_ranking_title": "Pferdefutter für Hufrehe online kaufen",
+        "top_ranking_classification": "CATEGORY_PAGE",
+        "keyword_difficulty": 40,
+        "monthly_search_volume": 31783,
+        "backlinks_to_url": 259,
+        "opportunity_score": 0.337
+      },
+      "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
+        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
+        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
         "divergence_score": 0.443,
         "silence_type": "active",
-        "top_ranking_url": "https://pavo-futter.de/pferdefutter/allround/pavo-vital",
-        "top_ranking_domain": "pavo-futter.de",
-        "top_ranking_title": "Pavo Vital",
+        "top_ranking_url": "https://pferdefutter.de",
+        "top_ranking_domain": "pferdefutter.de",
+        "top_ranking_title": "Futter für dein Pferd bestellen",
+        "top_ranking_classification": "HOMEPAGE",
+        "keyword_difficulty": 37,
+        "monthly_search_volume": 31105,
+        "backlinks_to_url": 116,
+        "opportunity_score": 0.279
+      },
+      "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
+        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
+        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
+        "divergence_score": 0.443,
+        "silence_type": "active",
+        "top_ranking_url": "https://stallbedarf24.de/st.hippolyt-ricelein-pellets",
+        "top_ranking_domain": "stallbedarf24.de",
+        "top_ranking_title": "ST.HIPPOLYT® RICELEIN – stärke- und zuckerarm für dein Pferd!",
         "top_ranking_classification": "PRODUCT_PAGE",
-        "keyword_difficulty": 64,
-        "monthly_search_volume": 2721,
-        "backlinks_to_url": 271,
-        "opportunity_score": 0.159
+        "keyword_difficulty": 37,
+        "monthly_search_volume": 539,
+        "backlinks_to_url": 142,
+        "opportunity_score": 0.279
       },
       "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": {
         "prompt_id": "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce",
@@ -2544,48 +2572,6 @@
         "monthly_search_volume": 2094,
         "backlinks_to_url": 141,
         "opportunity_score": 0.297
-      },
-      "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": {
-        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
-        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "top_ranking_url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung/Hufrehe",
-        "top_ranking_domain": "pferdefuttershop.de",
-        "top_ranking_title": "Pferdefutter für Hufrehe online kaufen",
-        "top_ranking_classification": "CATEGORY_PAGE",
-        "keyword_difficulty": 40,
-        "monthly_search_volume": 31783,
-        "backlinks_to_url": 259,
-        "opportunity_score": 0.266
-      },
-      "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
-        "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
-        "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "top_ranking_url": "https://pavo-futter.de/beratung/futterung-von-nervosen-dunnen-pferden",
-        "top_ranking_domain": "pavo-futter.de",
-        "top_ranking_title": "Nervöse und dünne Pferde mit dem richtigen Futter unterstützen",
-        "top_ranking_classification": "OTHER",
-        "keyword_difficulty": 56,
-        "monthly_search_volume": 4050,
-        "backlinks_to_url": 317,
-        "opportunity_score": 0.195
-      },
-      "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
-        "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
-        "prompt_text": "Finde in Deutschland hergestelltes Magenfutter für mein Pferd.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "top_ranking_url": "https://marstall.de/gastro/20kg",
-        "top_ranking_domain": "marstall.de",
-        "top_ranking_title": "Gastro - Getreidefreies Magen-Müsli für Pferde",
-        "top_ranking_classification": "PRODUCT_PAGE",
-        "keyword_difficulty": 48,
-        "monthly_search_volume": 608,
-        "backlinks_to_url": 183,
-        "opportunity_score": 0.23
       },
       "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba": {
         "prompt_id": "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba",
@@ -2629,32 +2615,32 @@
         "backlinks_to_url": 247,
         "opportunity_score": 0.279
       },
-      "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
-        "prompt_id": "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad",
-        "prompt_text": "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.",
-        "divergence_score": 0.0,
-        "silence_type": "own_only",
-        "top_ranking_url": "https://pavo-futter.de/beratung/wie-erganzungsfutter-die-pferdegesundheit-unterstutzen-kann",
+      "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
+        "prompt_id": "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744",
+        "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
+        "divergence_score": 0.443,
+        "silence_type": "active",
+        "top_ranking_url": "https://pavo-futter.de/pferdefutter/allround/pavo-vital",
         "top_ranking_domain": "pavo-futter.de",
-        "top_ranking_title": "Ergänzungsfutter zur Unterstützung der Pferdegesundheit | Pavo",
-        "top_ranking_classification": "OTHER",
-        "keyword_difficulty": 52,
-        "monthly_search_volume": 14544,
-        "backlinks_to_url": 285,
-        "opportunity_score": 0.0
+        "top_ranking_title": "Pavo Vital",
+        "top_ranking_classification": "PRODUCT_PAGE",
+        "keyword_difficulty": 64,
+        "monthly_search_volume": 2721,
+        "backlinks_to_url": 271,
+        "opportunity_score": 0.159
       },
-      "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
-        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
-        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
+      "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
+        "prompt_id": "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4",
+        "prompt_text": "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.",
         "divergence_score": 0.0,
         "silence_type": "own_only",
-        "top_ranking_url": "https://pferdefutter.de",
-        "top_ranking_domain": "pferdefutter.de",
-        "top_ranking_title": "Futter für dein Pferd bestellen",
-        "top_ranking_classification": "HOMEPAGE",
-        "keyword_difficulty": 37,
-        "monthly_search_volume": 31105,
-        "backlinks_to_url": 116,
+        "top_ranking_url": "https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Huf",
+        "top_ranking_domain": "hipposport.de",
+        "top_ranking_title": "Biotin und mehr - Zusatzfutter für gesunde Hufe kaufen",
+        "top_ranking_classification": "CATEGORY_PAGE",
+        "keyword_difficulty": 43,
+        "monthly_search_volume": 4551,
+        "backlinks_to_url": 228,
         "opportunity_score": 0.0
       },
       "pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5": {
@@ -2713,6 +2699,20 @@
         "backlinks_to_url": 148,
         "opportunity_score": 0.0
       },
+      "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
+        "prompt_id": "pr_e3842bfb-9e30-414e-9765-88d2faadce04",
+        "prompt_text": "Finde in Deutschland hergestelltes Magenfutter für mein Pferd.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only",
+        "top_ranking_url": "https://marstall.de/gastro/20kg",
+        "top_ranking_domain": "marstall.de",
+        "top_ranking_title": "Gastro - Getreidefreies Magen-Müsli für Pferde",
+        "top_ranking_classification": "PRODUCT_PAGE",
+        "keyword_difficulty": 48,
+        "monthly_search_volume": 608,
+        "backlinks_to_url": 183,
+        "opportunity_score": 0.0
+      },
       "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f": {
         "prompt_id": "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f",
         "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.",
@@ -2727,25 +2727,25 @@
         "backlinks_to_url": 233,
         "opportunity_score": 0.0
       },
-      "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
-        "prompt_id": "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4",
-        "prompt_text": "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.",
+      "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
+        "prompt_id": "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592",
+        "prompt_text": "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.",
         "divergence_score": 0.0,
-        "silence_type": "own_only",
-        "top_ranking_url": "https://hipposport.de/Pferdefutter-Ergaenzungsfutter-Huf",
-        "top_ranking_domain": "hipposport.de",
-        "top_ranking_title": "Biotin und mehr - Zusatzfutter für gesunde Hufe kaufen",
+        "silence_type": "full",
+        "top_ranking_url": "https://pferdefuttershop.de/Pferdefutter/Eigenschaften/Getreidefrei/Pellets",
+        "top_ranking_domain": "pferdefuttershop.de",
+        "top_ranking_title": "Getreidefreie Pellets für Pferde hier bestellen",
         "top_ranking_classification": "CATEGORY_PAGE",
-        "keyword_difficulty": 43,
-        "monthly_search_volume": 4551,
-        "backlinks_to_url": 228,
+        "keyword_difficulty": 44,
+        "monthly_search_volume": 3529,
+        "backlinks_to_url": 149,
         "opportunity_score": 0.0
       },
       "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a": {
         "prompt_id": "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a",
         "prompt_text": "Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?",
         "divergence_score": 0.0,
-        "silence_type": "own_only",
+        "silence_type": "full",
         "top_ranking_url": "https://equitana.com/essen/de-de/blog/gesundheit/fuetterung-fuer-freizeitpferde.html",
         "top_ranking_domain": "equitana.com",
         "top_ranking_title": "Das richtige Pferdefutter - 7 wichtige Grundsätze",
@@ -2753,6 +2753,20 @@
         "keyword_difficulty": 32,
         "monthly_search_volume": 1517,
         "backlinks_to_url": 173,
+        "opportunity_score": 0.0
+      },
+      "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
+        "prompt_id": "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad",
+        "prompt_text": "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only",
+        "top_ranking_url": "https://pavo-futter.de/beratung/wie-erganzungsfutter-die-pferdegesundheit-unterstutzen-kann",
+        "top_ranking_domain": "pavo-futter.de",
+        "top_ranking_title": "Ergänzungsfutter zur Unterstützung der Pferdegesundheit | Pavo",
+        "top_ranking_classification": "OTHER",
+        "keyword_difficulty": 52,
+        "monthly_search_volume": 14544,
+        "backlinks_to_url": 285,
         "opportunity_score": 0.0
       },
       "pr_0b9644fb-0bec-4847-b388-b12ea14991da": {
@@ -2767,6 +2781,20 @@
         "keyword_difficulty": 41,
         "monthly_search_volume": 1562,
         "backlinks_to_url": 95,
+        "opportunity_score": 0.0
+      },
+      "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
+        "prompt_id": "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd",
+        "prompt_text": "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.",
+        "divergence_score": 0.0,
+        "silence_type": "own_only",
+        "top_ranking_url": "https://pavo-futter.de/beratung/futterung-von-nervosen-dunnen-pferden",
+        "top_ranking_domain": "pavo-futter.de",
+        "top_ranking_title": "Nervöse und dünne Pferde mit dem richtigen Futter unterstützen",
+        "top_ranking_classification": "OTHER",
+        "keyword_difficulty": 56,
+        "monthly_search_volume": 4050,
+        "backlinks_to_url": 317,
         "opportunity_score": 0.0
       },
       "pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f": {
@@ -2853,20 +2881,6 @@
         "backlinks_to_url": 308,
         "opportunity_score": 0.0
       },
-      "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
-        "prompt_id": "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592",
-        "prompt_text": "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.",
-        "divergence_score": 0.0,
-        "silence_type": "full",
-        "top_ranking_url": "https://pferdefuttershop.de/Pferdefutter/Eigenschaften/Getreidefrei/Pellets",
-        "top_ranking_domain": "pferdefuttershop.de",
-        "top_ranking_title": "Getreidefreie Pellets für Pferde hier bestellen",
-        "top_ranking_classification": "CATEGORY_PAGE",
-        "keyword_difficulty": 44,
-        "monthly_search_volume": 3529,
-        "backlinks_to_url": 149,
-        "opportunity_score": 0.0
-      },
       "pr_292a6b04-8dee-4ea2-969b-6a83c709753f": {
         "prompt_id": "pr_292a6b04-8dee-4ea2-969b-6a83c709753f",
         "prompt_text": "Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.",
@@ -2879,20 +2893,6 @@
         "keyword_difficulty": 31,
         "monthly_search_volume": 1703,
         "backlinks_to_url": 141,
-        "opportunity_score": 0.0
-      },
-      "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
-        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
-        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
-        "divergence_score": 0.0,
-        "silence_type": "own_only",
-        "top_ranking_url": "https://stallbedarf24.de/st.hippolyt-ricelein-pellets",
-        "top_ranking_domain": "stallbedarf24.de",
-        "top_ranking_title": "ST.HIPPOLYT® RICELEIN – stärke- und zuckerarm für dein Pferd!",
-        "top_ranking_classification": "PRODUCT_PAGE",
-        "keyword_difficulty": 37,
-        "monthly_search_volume": 539,
-        "backlinks_to_url": 142,
         "opportunity_score": 0.0
       },
       "pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa": {
@@ -2926,6 +2926,20 @@
     },
     "top_opportunity": [
       {
+        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
+        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
+        "divergence_score": 0.912,
+        "silence_type": "active",
+        "top_ranking_url": "https://pferde-heilkunde.com/2025/08/06/zusatzfutter-gelenke-pferd-test",
+        "top_ranking_domain": "pferde-heilkunde.com",
+        "top_ranking_title": "Zusatzfutter Gelenke Pferd: Test 2026 | Was hilft wirklich?",
+        "top_ranking_classification": "LISTICLE",
+        "keyword_difficulty": 34,
+        "monthly_search_volume": 6797,
+        "backlinks_to_url": 128,
+        "opportunity_score": 0.602
+      },
+      {
         "prompt_id": "pr_f430c245-6e0b-45f6-ae50-b96facca7aee",
         "prompt_text": "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.",
         "divergence_score": 0.912,
@@ -2952,20 +2966,6 @@
         "monthly_search_volume": 2830,
         "backlinks_to_url": 238,
         "opportunity_score": 0.492
-      },
-      {
-        "prompt_id": "pr_47e52da7-8646-4683-846d-2af8c113a1fc",
-        "prompt_text": "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?",
-        "divergence_score": 0.681,
-        "silence_type": "active",
-        "top_ranking_url": "https://pferde-heilkunde.com/2025/08/06/zusatzfutter-gelenke-pferd-test",
-        "top_ranking_domain": "pferde-heilkunde.com",
-        "top_ranking_title": "Zusatzfutter Gelenke Pferd: Test 2026 | Was hilft wirklich?",
-        "top_ranking_classification": "LISTICLE",
-        "keyword_difficulty": 34,
-        "monthly_search_volume": 6797,
-        "backlinks_to_url": 128,
-        "opportunity_score": 0.449
       },
       {
         "prompt_id": "pr_052a6419-3a6e-49c5-9995-e2812de6cb50",
@@ -2996,6 +2996,20 @@
         "opportunity_score": 0.388
       },
       {
+        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
+        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+        "divergence_score": 0.562,
+        "silence_type": "active",
+        "top_ranking_url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung/Hufrehe",
+        "top_ranking_domain": "pferdefuttershop.de",
+        "top_ranking_title": "Pferdefutter für Hufrehe online kaufen",
+        "top_ranking_classification": "CATEGORY_PAGE",
+        "keyword_difficulty": 40,
+        "monthly_search_volume": 31783,
+        "backlinks_to_url": 259,
+        "opportunity_score": 0.337
+      },
+      {
         "prompt_id": "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce",
         "prompt_text": "Welche natürlichen Gelenkpellets für Pferde empfiehlst du?",
         "divergence_score": 0.443,
@@ -3024,46 +3038,32 @@
         "opportunity_score": 0.288
       },
       {
-        "prompt_id": "pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f",
-        "prompt_text": "Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.",
+        "prompt_id": "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d",
+        "prompt_text": "Wo finde ich in Deutschland gesundes Pferdefutter?",
         "divergence_score": 0.443,
         "silence_type": "active",
-        "top_ranking_url": "https://pferdefuttershop.de/Pferdefutter/Misch-Ergaenzungsfutter/Pellets",
-        "top_ranking_domain": "pferdefuttershop.de",
-        "top_ranking_title": "Pellets für Pferde bequem online kaufen",
-        "top_ranking_classification": "CATEGORY_PAGE",
+        "top_ranking_url": "https://pferdefutter.de",
+        "top_ranking_domain": "pferdefutter.de",
+        "top_ranking_title": "Futter für dein Pferd bestellen",
+        "top_ranking_classification": "HOMEPAGE",
         "keyword_difficulty": 37,
-        "monthly_search_volume": 341,
-        "backlinks_to_url": 247,
+        "monthly_search_volume": 31105,
+        "backlinks_to_url": 116,
         "opportunity_score": 0.279
       },
       {
-        "prompt_id": "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362",
-        "prompt_text": "Gelenkunterstützung für mein Pferd gesucht.",
+        "prompt_id": "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28",
+        "prompt_text": "Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?",
         "divergence_score": 0.443,
         "silence_type": "active",
-        "top_ranking_url": "https://pferdefuttershop.de/Spezialfutter/Zur-Unterstuetzung/Hufrehe",
-        "top_ranking_domain": "pferdefuttershop.de",
-        "top_ranking_title": "Pferdefutter für Hufrehe online kaufen",
-        "top_ranking_classification": "CATEGORY_PAGE",
-        "keyword_difficulty": 40,
-        "monthly_search_volume": 31783,
-        "backlinks_to_url": 259,
-        "opportunity_score": 0.266
-      },
-      {
-        "prompt_id": "pr_ad86aab8-1689-4374-b2eb-816d091ee9ad",
-        "prompt_text": "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.",
-        "divergence_score": 0.443,
-        "silence_type": "active",
-        "top_ranking_url": "https://equiva.com/ratgeber/pferdefuetterung/mineralfutter-und-ergaenzungsfutter",
-        "top_ranking_domain": "equiva.com",
-        "top_ranking_title": "EQUIVA Onlineshop",
-        "top_ranking_classification": "OTHER",
-        "keyword_difficulty": 45,
-        "monthly_search_volume": 4352,
-        "backlinks_to_url": 203,
-        "opportunity_score": 0.244
+        "top_ranking_url": "https://stallbedarf24.de/st.hippolyt-ricelein-pellets",
+        "top_ranking_domain": "stallbedarf24.de",
+        "top_ranking_title": "ST.HIPPOLYT® RICELEIN – stärke- und zuckerarm für dein Pferd!",
+        "top_ranking_classification": "PRODUCT_PAGE",
+        "keyword_difficulty": 37,
+        "monthly_search_volume": 539,
+        "backlinks_to_url": 142,
+        "opportunity_score": 0.279
       }
     ],
     "coverage": {

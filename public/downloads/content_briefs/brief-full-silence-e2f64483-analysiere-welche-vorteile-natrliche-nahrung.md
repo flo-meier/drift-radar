@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -14,20 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 11.6 %
-- **Reference:** 9.3 %
-- **Institutional:** 9.3 %
-- **Corporate:** 67.4 %
-- **Other:** 2.3 %
+- **Editorial:** 10.9 %
+- **Ugc:** 1.4 %
+- **Reference:** 8.2 %
+- **Institutional:** 13.7 %
+- **Corporate:** 63.1 %
+- **Other:** 2.7 %
 
 **Top cited domains**
 
-- `gigasnutrition.com` – CORPORATE, retrieved 44 % of chats
-- `densenutrition.com` – CORPORATE, retrieved 33 % of chats
-- `biomol.pl` – CORPORATE, retrieved 22 % of chats
-- `ep-nutrition.de` – CORPORATE, retrieved 22 % of chats
-- `surpresanatural.de` – CORPORATE, retrieved 22 % of chats
-- `vitalundfitmit100.de` – CORPORATE, retrieved 22 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 56 % of chats
+- `densenutrition.com` – CORPORATE, retrieved 44 % of chats
+- `vitaminfit.eu` – CORPORATE, retrieved 44 % of chats
+- `biomol.pl` – CORPORATE, retrieved 33 % of chats
+- `ep-nutrition.de` – CORPORATE, retrieved 33 % of chats
+- `zeinpharma.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

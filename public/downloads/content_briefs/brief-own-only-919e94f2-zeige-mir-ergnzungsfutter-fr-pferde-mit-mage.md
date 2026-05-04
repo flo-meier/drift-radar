@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -15,20 +15,24 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Havens** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 73.2 %
-- **Other:** 26.8 %
+- **Competitor:** 2.4 %
+- **Editorial:** 2.4 %
+- **Institutional:** 2.4 %
+- **Corporate:** 78.0 %
+- **Other:** 14.6 %
 
 **Top cited domains**
 
-- `google.com` – OTHER, retrieved 33 % of chats
-- `horse-reitsport.com` – CORPORATE, retrieved 33 % of chats
+- `horsefeed.nl` – CORPORATE, retrieved 17 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 17 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `annimally.at` – CORPORATE, retrieved 17 % of chats
 - `bol.com` – CORPORATE, retrieved 17 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -40,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Havens for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

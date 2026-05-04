@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Pferde in Österreich gesucht.«
 
-**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -14,25 +14,27 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Reference:** 3.3 %
-- **Institutional:** 3.3 %
-- **Corporate:** 83.3 %
-- **Other:** 10.0 %
+- **Editorial:** 3.5 %
+- **Ugc:** 6.9 %
+- **Reference:** 3.5 %
+- **Institutional:** 3.5 %
+- **Corporate:** 75.8 %
+- **Other:** 6.9 %
 
 **Top cited domains**
 
 - `kraemer.at` – CORPORATE, retrieved 33 % of chats
 - `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.at` – CORPORATE, retrieved 17 % of chats
 - `marstall.at` – INSTITUTIONAL, retrieved 17 % of chats
 - `wahl-agrar.at` – CORPORATE, retrieved 17 % of chats
-- `agrarzone.at` – CORPORATE, retrieved 17 % of chats
 - `alphahorse.at` – OTHER, retrieved 17 % of chats
 
 ## Suggested article

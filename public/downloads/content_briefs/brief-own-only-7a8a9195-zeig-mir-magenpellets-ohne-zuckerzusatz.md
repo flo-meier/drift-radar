@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -20,18 +20,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.7 %
-- **Institutional:** 3.7 %
-- **Corporate:** 92.5 %
+- **Editorial:** 5.3 %
+- **Institutional:** 5.3 %
+- **Corporate:** 89.5 %
 
 **Top cited domains**
 
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `carepet.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `dm.de` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
+- `mambocare.de` – CORPORATE, retrieved 17 % of chats
+- `bodfeld-apotheke.de` – CORPORATE, retrieved 17 % of chats
+- `bukephalos-minerals.de` – CORPORATE, retrieved 17 % of chats
+- `carepet.de` – CORPORATE, retrieved 17 % of chats
+- `cdvet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

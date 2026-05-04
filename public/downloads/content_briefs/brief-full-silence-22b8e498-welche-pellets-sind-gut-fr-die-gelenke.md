@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -14,9 +14,10 @@
 
 ## Citation source mix
 
-- **Editorial:** 6.0 %
-- **Institutional:** 8.9 %
-- **Corporate:** 85.1 %
+- **Editorial:** 3.5 %
+- **Reference:** 3.5 %
+- **Corporate:** 82.5 %
+- **Other:** 10.5 %
 
 **Top cited domains**
 

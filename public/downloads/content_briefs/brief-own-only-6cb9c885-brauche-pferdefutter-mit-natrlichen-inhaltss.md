@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -14,27 +14,26 @@
 
 ## Who is cited instead
 
-- **Havens** – top visibility 67 %  (AI Overview 67 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
+- **Havens** – top visibility 100 %  (AI Overview 100 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 1.4 %
-- **Institutional:** 4.1 %
-- **Corporate:** 82.1 %
-- **Other:** 12.4 %
+- **Institutional:** 5.3 %
+- **Corporate:** 89.5 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
-- `solan.at` – OTHER, retrieved 56 % of chats
-- `onfarming.at` – CORPORATE, retrieved 44 % of chats
-- `lexa-pferdefutter.at` – CORPORATE, retrieved 33 % of chats
+- `solan.at` – CORPORATE, retrieved 44 % of chats
+- `havenspferdefutter.at` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `onfarming.at` – CORPORATE, retrieved 33 % of chats
 - `pegushorsefeed.at` – CORPORATE, retrieved 33 % of chats
-- `auer-garsten.at` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -46,7 +45,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Havens, Höveler, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Havens, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

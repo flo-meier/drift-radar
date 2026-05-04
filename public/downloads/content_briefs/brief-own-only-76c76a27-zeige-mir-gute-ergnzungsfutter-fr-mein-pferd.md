@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -20,20 +20,16 @@
 
 ## Citation source mix
 
-- **Editorial:** 17.9 %
-- **Ugc:** 3.6 %
-- **Reference:** 7.2 %
-- **Institutional:** 3.6 %
-- **Corporate:** 67.8 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
-- `zooplus.de` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
 - `emma-care.de` – CORPORATE, retrieved 17 % of chats
-- `tiergesundheitsshop.de` – CORPORATE, retrieved 17 % of chats
 - `alpurial.de` – CORPORATE, retrieved 17 % of chats
 - `canina.de` – CORPORATE, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

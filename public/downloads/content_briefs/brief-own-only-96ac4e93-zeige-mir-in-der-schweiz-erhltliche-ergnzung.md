@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -21,17 +21,17 @@
 
 ## Citation source mix
 
-- **Institutional:** 2.6 %
-- **Corporate:** 86.0 %
-- **Other:** 11.5 %
+- **Institutional:** 3.7 %
+- **Corporate:** 88.8 %
+- **Other:** 7.5 %
 
 **Top cited domains**
 
 - `felix-buehler.ch` – CORPORATE, retrieved 56 % of chats
 - `horseandmore.ch` – CORPORATE, retrieved 56 % of chats
-- `horze.ch` – CORPORATE, retrieved 56 % of chats
 - `hypona.ch` – CORPORATE, retrieved 56 % of chats
 - `ipet.ch` – CORPORATE, retrieved 44 % of chats
+- `horze.ch` – CORPORATE, retrieved 44 % of chats
 - `equusvitalis.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article

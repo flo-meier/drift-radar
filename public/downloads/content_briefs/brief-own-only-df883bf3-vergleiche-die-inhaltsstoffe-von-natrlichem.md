@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-30 → 2026-05-02
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
 
 ## Engine visibility
 
@@ -18,21 +18,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.0 %
-- **Ugc:** 5.0 %
-- **Reference:** 8.7 %
-- **Institutional:** 5.0 %
-- **Corporate:** 72.5 %
-- **Other:** 3.7 %
+- **Editorial:** 6.1 %
+- **Ugc:** 4.5 %
+- **Reference:** 6.1 %
+- **Institutional:** 6.1 %
+- **Corporate:** 72.7 %
+- **Other:** 4.5 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
-- `facebook.com` – UGC, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `laurelnature.com` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `facebook.com` – UGC, retrieved 22 % of chats
 
 ## Suggested article
 
