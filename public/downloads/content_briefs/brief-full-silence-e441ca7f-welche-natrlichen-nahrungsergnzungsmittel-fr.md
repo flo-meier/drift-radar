@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
@@ -14,21 +14,16 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.8 %
-- **Ugc:** 1.9 %
-- **Reference:** 7.7 %
-- **Institutional:** 7.7 %
-- **Corporate:** 75.0 %
-- **Other:** 3.8 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
-- `ker.com` – OTHER, retrieved 17 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
-- `equineamerica.co.nz` – CORPORATE, retrieved 17 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
-- `auburnlabs.com` – CORPORATE, retrieved 17 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 17 % of chats
+- `aniforte.de` – CORPORATE, retrieved 17 % of chats
+- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
+- `fellnasenfutter.de` – CORPORATE, retrieved 17 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
+- `petphysio-shop.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

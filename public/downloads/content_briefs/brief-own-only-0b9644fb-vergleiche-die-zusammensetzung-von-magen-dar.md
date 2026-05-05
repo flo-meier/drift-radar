@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
@@ -18,19 +18,18 @@
 
 ## Citation source mix
 
-- **Reference:** 6.1 %
-- **Institutional:** 2.0 %
-- **Corporate:** 89.8 %
-- **Other:** 2.0 %
+- **Reference:** 7.3 %
+- **Corporate:** 90.2 %
+- **Other:** 2.4 %
 
 **Top cited domains**
 
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 44 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
 - `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `honeyprovet.com.au` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

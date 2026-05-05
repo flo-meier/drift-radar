@@ -1,16 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
 - **Gemini:** 0 %
-- **AI Overview:** 0 %
+- **AI Overview:** 33 %
 
-**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
-
-**Silence type:** `own_only`
+**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -36,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 0 %
+### AI Overview – visibility 33 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -51,35 +49,34 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 4.3 %
-- **Competitor:** 4.3 %
-- **Editorial:** 2.9 %
-- **Ugc:** 7.1 %
-- **Reference:** 7.1 %
-- **Corporate:** 68.6 %
-- **Other:** 5.7 %
+- **Own:** 2.2 %
+- **Competitor:** 3.3 %
+- **Editorial:** 2.2 %
+- **Ugc:** 5.6 %
+- **Reference:** 10.0 %
+- **Corporate:** 72.2 %
+- **Other:** 4.4 %
 
 **Top cited domains**
 
 - `youtube.com` – UGC, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
 - `st-hippolyt.de` – COMPETITOR, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 22 % of chats
+- `madbarn.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
-- **Format:** Head-to-head comparison page
-- **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
+- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
+- **Length:** 1 500 – 2 500 words
+- **Headline starting point:** »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde. – what Pferdegold actually does«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
-- **Own-only silence.** St. Hippolyt, Pavo already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
@@ -14,22 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 6.3 %
-- **Corporate:** 93.8 %
+- **Reference:** 10.5 %
+- **Institutional:** 26.3 %
+- **Corporate:** 63.2 %
 
 **Top cited domains**
 
-- `naf-equine.eu` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
 - `vetena.de` – CORPORATE, retrieved 17 % of chats
-- `hestevard.de` – CORPORATE, retrieved 17 % of chats
+- `umn.edu` – INSTITUTIONAL, retrieved 17 % of chats
 - `canina.de` – CORPORATE, retrieved 17 % of chats
 - `care4animals.de` – CORPORATE, retrieved 17 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 17 % of chats
+- `dochorse.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

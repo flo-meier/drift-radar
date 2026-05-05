@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 3.4 %
-- **Editorial:** 5.1 %
-- **Ugc:** 5.1 %
-- **Reference:** 5.1 %
-- **Institutional:** 10.2 %
-- **Corporate:** 52.5 %
-- **Other:** 18.6 %
+- **Competitor:** 2.3 %
+- **Editorial:** 2.3 %
+- **Ugc:** 2.3 %
+- **Reference:** 6.8 %
+- **Institutional:** 19.3 %
+- **Corporate:** 52.3 %
+- **Other:** 14.8 %
 
 **Top cited domains**
 
-- `youtube.com` – UGC, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 33 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `laurelnature.com` – CORPORATE, retrieved 33 % of chats
 - `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
 - `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 22 % of chats
-- `laurelnature.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

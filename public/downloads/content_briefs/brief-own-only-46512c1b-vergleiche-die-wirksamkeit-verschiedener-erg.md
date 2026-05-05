@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
@@ -18,22 +18,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 0.7 %
-- **Editorial:** 1.5 %
-- **Ugc:** 3.0 %
-- **Reference:** 6.7 %
-- **Institutional:** 7.5 %
-- **Corporate:** 71.7 %
-- **Other:** 8.9 %
+- **Competitor:** 0.8 %
+- **Editorial:** 0.8 %
+- **Ugc:** 2.4 %
+- **Reference:** 6.4 %
+- **Institutional:** 8.0 %
+- **Corporate:** 68.8 %
+- **Other:** 12.8 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 67 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
-- `animondo.de` – CORPORATE, retrieved 44 % of chats
-- `summitanimalhealth.com` – CORPORATE, retrieved 44 % of chats
-- `youtube.com` – UGC, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
+- `madbarn.com` – OTHER, retrieved 33 % of chats
 - `researchgate.net` – OTHER, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `animondo.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

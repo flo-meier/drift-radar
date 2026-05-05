@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Pferde in Österreich gesucht.«
 
-**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
+**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
@@ -14,40 +14,40 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.5 %
-- **Ugc:** 6.9 %
-- **Reference:** 3.5 %
-- **Institutional:** 3.5 %
-- **Corporate:** 75.8 %
-- **Other:** 6.9 %
+- **Editorial:** 2.2 %
+- **Ugc:** 4.4 %
+- **Reference:** 2.2 %
+- **Institutional:** 2.2 %
+- **Corporate:** 76.1 %
+- **Other:** 12.9 %
 
 **Top cited domains**
 
-- `kraemer.at` – CORPORATE, retrieved 33 % of chats
-- `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.at` – CORPORATE, retrieved 17 % of chats
-- `marstall.at` – INSTITUTIONAL, retrieved 17 % of chats
-- `wahl-agrar.at` – CORPORATE, retrieved 17 % of chats
-- `alphahorse.at` – OTHER, retrieved 17 % of chats
+- `kraemer.at` – OTHER, retrieved 50 % of chats
+- `horze.at` – CORPORATE, retrieved 33 % of chats
+- `wahl-agrar.at` – CORPORATE, retrieved 33 % of chats
+- `annimally.at` – CORPORATE, retrieved 33 % of chats
+- `alphahorse.at` – OTHER, retrieved 33 % of chats
+- `equusvitalis.at` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Gutes Zusatzfutter für Pferde in Österreich gesucht.«
+- **Headline starting point:** »Pferdegold vs Höveler: Gutes Zusatzfutter für Pferde in Österreich gesucht.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, Marstall, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

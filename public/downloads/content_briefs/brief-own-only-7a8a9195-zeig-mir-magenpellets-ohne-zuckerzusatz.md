@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
@@ -14,24 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (Gemini 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 5.3 %
-- **Institutional:** 5.3 %
-- **Corporate:** 89.5 %
+- **Editorial:** 3.8 %
+- **Ugc:** 3.8 %
+- **Institutional:** 7.3 %
+- **Corporate:** 77.7 %
+- **Other:** 7.5 %
 
 **Top cited domains**
 
-- `dm.de` – CORPORATE, retrieved 17 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
-- `bodfeld-apotheke.de` – CORPORATE, retrieved 17 % of chats
-- `bukephalos-minerals.de` – CORPORATE, retrieved 17 % of chats
-- `carepet.de` – CORPORATE, retrieved 17 % of chats
-- `cdvet.de` – CORPORATE, retrieved 17 % of chats
+- `dm.de` – CORPORATE, retrieved 33 % of chats
+- `central-apo.com` – CORPORATE, retrieved 33 % of chats
+- `dm.at` – CORPORATE, retrieved 33 % of chats
+- `gastrobalance.at` – INSTITUTIONAL, retrieved 33 % of chats
+- `ludwigs-apotheke.at` – CORPORATE, retrieved 33 % of chats
+- `valsona.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -43,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
@@ -14,35 +14,36 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, AI Overview 33 %)
-- **Marstall** – top visibility 33 %  (AI Overview 33 %)
+- **Marstall** – top visibility 100 %  (AI Overview 100 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.9 %
-- **Institutional:** 2.9 %
-- **Corporate:** 94.1 %
+- **Competitor:** 4.4 %
+- **Ugc:** 6.3 %
+- **Corporate:** 83.0 %
+- **Other:** 6.3 %
 
 **Top cited domains**
 
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `fs-animal-health.com` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `josera.de` – CORPORATE, retrieved 22 % of chats
-- `migocki.de` – CORPORATE, retrieved 22 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 25 % of chats
+- `emma-care.de` – CORPORATE, retrieved 25 % of chats
+- `marstall.de` – COMPETITOR, retrieved 25 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
+- `migocki.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 600 – 2 600 words
-- **Headline starting point:** »Pferdegold vs Pavo: Gelenkunterstützung für mein Pferd gesucht.«
+- **Headline starting point:** »Pferdegold vs Marstall: Gelenkunterstützung für mein Pferd gesucht.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

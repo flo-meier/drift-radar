@@ -1,18 +1,18 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
-- **ChatGPT:** 0 %
-- **Gemini:** 100 %
+- **ChatGPT:** 33 %
+- **Gemini:** 67 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.91  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 0 %
+### ChatGPT – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -23,7 +23,7 @@
 
 > All five product brands ChatGPT recommends are outside Peec's tracked competitor list – none of them are the peer set Pferdegold competes with in the SERP.
 
-### Gemini – visibility 100 %
+### Gemini – visibility 67 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -42,18 +42,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Reference:** 12.5 %
-- **Corporate:** 81.2 %
-- **Other:** 6.3 %
+- **Editorial:** 3.9 %
+- **Reference:** 7.8 %
+- **Corporate:** 80.8 %
+- **Other:** 7.5 %
 
 **Top cited domains**
 
+- `dr-hawes.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `leoswc.com` – OTHER, retrieved 33 % of chats
+- `shop-apotheke.com` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
-- `dr-hawes.de` – CORPORATE, retrieved 17 % of chats
-- `equidocs.de` – CORPORATE, retrieved 17 % of chats
-- `equidrol.de` – CORPORATE, retrieved 17 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

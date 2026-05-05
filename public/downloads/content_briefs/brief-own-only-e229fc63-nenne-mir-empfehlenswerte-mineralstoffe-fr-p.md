@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-01 → 2026-05-03
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
 
 ## Engine visibility
 
@@ -19,22 +19,21 @@
 
 ## Citation source mix
 
-- **Own:** 1.7 %
-- **Competitor:** 1.7 %
-- **Editorial:** 5.1 %
-- **Reference:** 5.1 %
-- **Institutional:** 13.6 %
-- **Corporate:** 65.9 %
-- **Other:** 6.8 %
+- **Competitor:** 1.5 %
+- **Editorial:** 4.5 %
+- **Reference:** 8.8 %
+- **Institutional:** 16.1 %
+- **Corporate:** 61.8 %
+- **Other:** 7.4 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 50 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `horsesport.com` – REFERENCE, retrieved 33 % of chats
 - `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `canina.de` – CORPORATE, retrieved 33 % of chats
 - `ehorses.de` – CORPORATE, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `equiplanet.it` – OTHER, retrieved 33 % of chats
 
 ## Suggested article
 
