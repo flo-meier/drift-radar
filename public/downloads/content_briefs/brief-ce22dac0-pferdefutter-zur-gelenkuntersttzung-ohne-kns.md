@@ -1,18 +1,18 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 0 %
 - **Gemini:** 67 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 0 %
 
 **Brands cited (tracked):** #1 Pavo
 
@@ -40,17 +40,18 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Corporate:** 93.7 %
-- **Other:** 6.3 %
+- **Ugc:** 3.0 %
+- **Corporate:** 88.2 %
+- **Other:** 8.9 %
 
 **Top cited domains**
 
 - `stallbedarf24.de` – CORPORATE, retrieved 50 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `powerpferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `hestevard.de` – CORPORATE, retrieved 17 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
-- `raiffeisenmarkt.de` – CORPORATE, retrieved 17 % of chats
+- `chewy.com` – CORPORATE, retrieved 17 % of chats
+- `tributeequinenutrition.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

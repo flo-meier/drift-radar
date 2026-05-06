@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
@@ -16,23 +16,23 @@
 
 - **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
 - **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 91.9 %
-- **Other:** 8.1 %
+- **Corporate:** 90.5 %
+- **Other:** 9.5 %
 
 **Top cited domains**
 
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `fuettern-mit-spass.de` – CORPORATE, retrieved 50 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 50 % of chats
-- `dehner.de` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `futter-und-tierbedarf.de` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `eurital.de` – CORPORATE, retrieved 33 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

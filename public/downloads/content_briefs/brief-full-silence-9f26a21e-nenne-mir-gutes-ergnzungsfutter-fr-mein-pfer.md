@@ -1,6 +1,6 @@
-# Drift Radar – »Welche Pellets sind gut für die Gelenke?«
+# Drift Radar – »Nenne mir gutes Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
@@ -14,25 +14,26 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.3 %
-- **Reference:** 3.3 %
-- **Corporate:** 67.9 %
-- **Other:** 25.6 %
+- **Editorial:** 9.4 %
+- **Reference:** 3.8 %
+- **Institutional:** 9.4 %
+- **Corporate:** 73.6 %
+- **Other:** 3.8 %
 
 **Top cited domains**
 
-- `hundefreuden.de` – OTHER, retrieved 50 % of chats
-- `der-onlinehund.de` – OTHER, retrieved 33 % of chats
-- `hansetier.de` – CORPORATE, retrieved 33 % of chats
-- `vetmedpro.de` – CORPORATE, retrieved 33 % of chats
-- `apotheke.de` – EDITORIAL, retrieved 17 % of chats
-- `mammaly.de` – OTHER, retrieved 17 % of chats
+- `equiva.com` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `ker.com` – OTHER, retrieved 17 % of chats
+- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 1 700 – 2 900 words
-- **Headline starting point:** »Welche Pellets sind gut für die Gelenke? – the Pferdegold guide«
+- **Length:** 2 000 – 3 500 words
+- **Headline starting point:** »Nenne mir gutes Ergänzungsfutter für mein Pferd. – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

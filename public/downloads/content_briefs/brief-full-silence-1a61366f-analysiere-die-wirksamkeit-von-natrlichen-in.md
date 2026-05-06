@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.8 %
-- **Ugc:** 4.3 %
-- **Reference:** 7.2 %
-- **Institutional:** 10.1 %
-- **Corporate:** 65.2 %
-- **Other:** 7.2 %
+- **Own:** 1.2 %
+- **Editorial:** 7.0 %
+- **Ugc:** 3.5 %
+- **Reference:** 8.1 %
+- **Institutional:** 11.6 %
+- **Corporate:** 58.1 %
+- **Other:** 10.5 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
 - `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `researchgate.net` – OTHER, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 33 % of chats
 - `madbarn.com` – CORPORATE, retrieved 33 % of chats
-- `ucdavis.edu` – INSTITUTIONAL, retrieved 33 % of chats
-- `aronialand-shop.de` – CORPORATE, retrieved 22 % of chats
-- `equine74.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

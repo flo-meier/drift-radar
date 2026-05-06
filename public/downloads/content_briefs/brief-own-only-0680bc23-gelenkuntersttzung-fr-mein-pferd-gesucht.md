@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
@@ -14,24 +14,25 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (AI Overview 100 %)
+- **Marstall** – top visibility 50 %  (AI Overview 50 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.4 %
-- **Ugc:** 6.3 %
-- **Corporate:** 83.0 %
-- **Other:** 6.3 %
+- **Competitor:** 1.9 %
+- **Ugc:** 3.7 %
+- **Institutional:** 1.9 %
+- **Corporate:** 87.0 %
+- **Other:** 5.6 %
 
 **Top cited domains**
 
+- `emma-care.de` – CORPORATE, retrieved 38 % of chats
 - `amazon.de` – CORPORATE, retrieved 25 % of chats
-- `stallbedarf24.de` – CORPORATE, retrieved 25 % of chats
-- `emma-care.de` – CORPORATE, retrieved 25 % of chats
-- `marstall.de` – COMPETITOR, retrieved 25 % of chats
+- `mambocare.de` – CORPORATE, retrieved 25 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 25 % of chats
-- `migocki.de` – CORPORATE, retrieved 25 % of chats
+- `hipposport.de` – CORPORATE, retrieved 25 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

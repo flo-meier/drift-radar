@@ -64,8 +64,8 @@
       "name": "Claude Sonnet 4.6",
       "is_active": false
     },
-    "deepseek-r1": {
-      "name": "DeepSeek R1",
+    "deepseek-v4-pro": {
+      "name": "DeepSeek V4 Pro",
       "is_active": false
     },
     "gemini-2.5-flash": {

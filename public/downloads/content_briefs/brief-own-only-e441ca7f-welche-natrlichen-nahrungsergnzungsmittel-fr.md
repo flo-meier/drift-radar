@@ -1,6 +1,6 @@
-# Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
+# Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
@@ -18,28 +18,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 0.8 %
-- **Editorial:** 4.6 %
-- **Ugc:** 4.6 %
-- **Reference:** 2.3 %
-- **Institutional:** 3.9 %
-- **Corporate:** 79.1 %
-- **Other:** 4.6 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 56 % of chats
-- `youtube.com` – UGC, retrieved 44 % of chats
-- `madbarn.com` – CORPORATE, retrieved 44 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 44 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `aniforte.de` – CORPORATE, retrieved 17 % of chats
+- `barynesse.com` – CORPORATE, retrieved 17 % of chats
+- `canina.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Höveler: Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
+- **Headline starting point:** »Pferdegold vs Höveler: Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

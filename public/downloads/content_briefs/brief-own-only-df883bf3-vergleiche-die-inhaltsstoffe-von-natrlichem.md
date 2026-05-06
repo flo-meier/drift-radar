@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
@@ -18,21 +18,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 6.3 %
-- **Ugc:** 4.8 %
-- **Reference:** 7.9 %
-- **Institutional:** 6.3 %
-- **Corporate:** 71.4 %
-- **Other:** 3.2 %
+- **Editorial:** 5.6 %
+- **Ugc:** 3.7 %
+- **Reference:** 9.3 %
+- **Institutional:** 7.4 %
+- **Corporate:** 74.1 %
 
 **Top cited domains**
 
+- `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
 - `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `laurelnature.com` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `pernaturam.de` – CORPORATE, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `tierheilkundezentrum.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

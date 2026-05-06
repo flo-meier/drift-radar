@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-28 → 2026-04-30
+**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
@@ -18,17 +18,21 @@
 
 ## Citation source mix
 
-- **Reference:** 22.2 %
-- **Corporate:** 77.8 %
+- **Own:** 1.9 %
+- **Editorial:** 1.9 %
+- **Reference:** 7.3 %
+- **Institutional:** 1.9 %
+- **Corporate:** 83.3 %
+- **Other:** 3.8 %
 
 **Top cited domains**
 
-- `zooplus.de` – CORPORATE, retrieved 17 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
-- `kraeuterwiese.de` – CORPORATE, retrieved 17 % of chats
-- `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `madbarn.com` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `aniforte.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

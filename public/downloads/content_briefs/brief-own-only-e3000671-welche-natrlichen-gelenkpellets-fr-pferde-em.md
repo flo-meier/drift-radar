@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.3 %
-- **Reference:** 1.7 %
-- **Corporate:** 88.1 %
-- **Other:** 6.9 %
+- **Editorial:** 2.1 %
+- **Reference:** 2.1 %
+- **Corporate:** 83.0 %
+- **Other:** 12.8 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 50 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 38 % of chats
 - `discountfutter.shop` – CORPORATE, retrieved 38 % of chats
-- `hipposport.de` – CORPORATE, retrieved 38 % of chats
-- `krauterie.de` – CORPORATE, retrieved 25 % of chats
-- `migocki.de` – CORPORATE, retrieved 25 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 38 % of chats
+- `bieros.de` – CORPORATE, retrieved 25 % of chats
+- `hipposport.de` – CORPORATE, retrieved 25 % of chats
+- `kingfisherdublin.com` – OTHER, retrieved 25 % of chats
 
 ## Suggested article
 

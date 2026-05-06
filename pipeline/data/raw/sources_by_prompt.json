@@ -1,7 +1,7 @@
 {
   "date_range": {
-    "start": "2026-05-02",
-    "end": "2026-05-04"
+    "start": "2026-05-03",
+    "end": "2026-05-05"
   },
   "classifications": [
     "COMPETITOR",
@@ -17,10 +17,10 @@
     "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": {
       "by_class": {
         "CORPORATE": 6.070000000000003,
-        "OTHER": 0.66,
-        "EDITORIAL": 0.22,
-        "INSTITUTIONAL": 0.33,
-        "UGC": 0.11
+        "OTHER": 0.77,
+        "INSTITUTIONAL": 0.44,
+        "UGC": 0.11,
+        "EDITORIAL": 0.11
       },
       "top_domains": [
         {
@@ -28,7 +28,7 @@
           "classification": "CORPORATE",
           "retrieved_percentage": 0.56,
           "retrieval_rate": 1.33,
-          "citation_rate": 1.8
+          "citation_rate": 1.4
         },
         {
           "domain": "equusvitalis.ch",
@@ -40,16 +40,9 @@
         {
           "domain": "felix-buehler.ch",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.78,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "hypona.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0.5
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0.67
         },
         {
           "domain": "agro-kessler.ch",
@@ -59,1032 +52,165 @@
           "citation_rate": 0
         },
         {
-          "domain": "tier-im-mittelpunkt.ch",
+          "domain": "hypona.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "starhorse.ch",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1.67
+        },
+        {
+          "domain": "myhorses.ch",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.22,
           "retrieval_rate": 0.44,
           "citation_rate": 1
         },
         {
-          "domain": "annimally.ch",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "lexa-pferdefutter.ch",
+          "domain": "tier-im-mittelpunkt.ch",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
+          "retrieval_rate": 0.44,
+          "citation_rate": 1
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.8213802435723951,
-        "OTHER": 0.0893098782138024,
-        "EDITORIAL": 0.0297699594046008,
-        "INSTITUTIONAL": 0.0446549391069012,
-        "UGC": 0.0148849797023004
+        "CORPORATE": 0.8093333333333335,
+        "OTHER": 0.10266666666666663,
+        "INSTITUTIONAL": 0.058666666666666645,
+        "UGC": 0.014666666666666661,
+        "EDITORIAL": 0.014666666666666661
       },
-      "total_retrieved": 7.390000000000003
-    },
-    "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": {
-      "by_class": {
-        "CORPORATE": 5.0,
-        "OTHER": 1.17
-      },
-      "top_domains": [
-        {
-          "domain": "stroeh.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.5,
-          "retrieval_rate": 2.17,
-          "citation_rate": 0.67
-        },
-        {
-          "domain": "fuetternundfit.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.5,
-          "retrieval_rate": 1,
-          "citation_rate": 1
-        },
-        {
-          "domain": "hipposport.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0
-        },
-        {
-          "domain": "cdvet.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 0
-        },
-        {
-          "domain": "louven-shop.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 1
-        },
-        {
-          "domain": "care4animals.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "diefutterkammer.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "equestrian-horses.de",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.8103727714748784,
-        "OTHER": 0.18962722852512154
-      },
-      "total_retrieved": 6.17
-    },
-    "pr_a513316a-939f-4130-a4e6-e5361bba66f4": {
-      "by_class": {
-        "CORPORATE": 3.84,
-        "OTHER": 0.34
-      },
-      "top_domains": [
-        {
-          "domain": "pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.5,
-          "retrieval_rate": 2,
-          "citation_rate": 2.67
-        },
-        {
-          "domain": "fuettern-mit-spass.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.5,
-          "retrieval_rate": 1,
-          "citation_rate": 0
-        },
-        {
-          "domain": "fressnapf.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.5,
-          "retrieval_rate": 0.5,
-          "citation_rate": 0
-        },
-        {
-          "domain": "dehner.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "eohippos-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "futter-und-tierbedarf.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "icelandic-horse.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pernaturam.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 1.33,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.9186602870813397,
-        "OTHER": 0.0813397129186603
-      },
-      "total_retrieved": 4.18
+      "total_retrieved": 7.500000000000003
     },
     "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": {
       "by_class": {
-        "CORPORATE": 9.36,
-        "COMPETITOR": 0.55,
-        "UGC": 0.33,
-        "EDITORIAL": 0.33,
-        "INSTITUTIONAL": 0.44,
+        "CORPORATE": 7.930000000000007,
+        "UGC": 0.44,
+        "INSTITUTIONAL": 0.22,
+        "COMPETITOR": 0.11,
+        "EDITORIAL": 0.11,
         "OTHER": 0.11
       },
       "top_domains": [
         {
           "domain": "stroeh.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 1.33,
-          "citation_rate": 1.2
+          "retrieved_percentage": 0.67,
+          "retrieval_rate": 1.67,
+          "citation_rate": 1.17
         },
         {
-          "domain": "amazon.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.78,
-          "citation_rate": 0.25
-        },
-        {
-          "domain": "baywa.de",
+          "domain": "carepet.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.44,
           "retrieval_rate": 0.44,
-          "citation_rate": 0
+          "citation_rate": 1
         },
         {
           "domain": "equine74.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.78,
-          "citation_rate": 0.67
-        },
-        {
-          "domain": "masterhorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
           "retrieval_rate": 0.67,
-          "citation_rate": 0.33
-        },
-        {
-          "domain": "carepet.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
           "citation_rate": 0.67
-        },
-        {
-          "domain": "equidocs.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "equiplanet.it",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.841726618705036,
-        "COMPETITOR": 0.049460431654676264,
-        "UGC": 0.029676258992805758,
-        "EDITORIAL": 0.029676258992805758,
-        "INSTITUTIONAL": 0.03956834532374101,
-        "OTHER": 0.009892086330935253
-      },
-      "total_retrieved": 11.12
-    },
-    "pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f": {
-      "by_class": {
-        "CORPORATE": 7.270000000000011,
-        "EDITORIAL": 0.66,
-        "REFERENCE": 0.55,
-        "OTHER": 0.44,
-        "UGC": 0.11,
-        "INSTITUTIONAL": 0.11
-      },
-      "top_domains": [
-        {
-          "domain": "pharmahorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 1.22,
-          "citation_rate": 2.2
         },
         {
           "domain": "amazon.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.67,
-          "citation_rate": 1
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.56,
+          "citation_rate": 0.33
         },
         {
-          "domain": "foranequine.com",
+          "domain": "mambocare.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0
+        },
+        {
+          "domain": "baywa.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 0.33
         },
         {
-          "domain": "smartpakequine.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1.67
-        },
-        {
-          "domain": "masterhorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "kraemer.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1.5
-        },
-        {
-          "domain": "madbarn.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "cavallo.de",
-          "classification": "EDITORIAL",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 1.5
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.7954048140043766,
-        "EDITORIAL": 0.07221006564551413,
-        "REFERENCE": 0.06017505470459512,
-        "OTHER": 0.04814004376367609,
-        "UGC": 0.012035010940919022,
-        "INSTITUTIONAL": 0.012035010940919022
-      },
-      "total_retrieved": 9.140000000000011
-    },
-    "pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f": {
-      "by_class": {
-        "CORPORATE": 6.060000000000007,
-        "REFERENCE": 0.33,
-        "INSTITUTIONAL": 0.33,
-        "OTHER": 0.11,
-        "EDITORIAL": 0.11
-      },
-      "top_domains": [
-        {
-          "domain": "migocki.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 1,
-          "citation_rate": 0.4
-        },
-        {
-          "domain": "natural-horse-care.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0.25
-        },
-        {
-          "domain": "kraemer.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0
-        },
-        {
-          "domain": "masterhorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0
-        },
-        {
-          "domain": "discountfutter.shop",
-          "classification": "CORPORATE",
+          "domain": "facebook.com",
+          "classification": "UGC",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 0.67
         },
         {
-          "domain": "foranequine.com",
+          "domain": "pferdperfekt.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
-          "citation_rate": 0.33
-        },
-        {
-          "domain": "hippoplus.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1.33
-        },
-        {
-          "domain": "emma-care.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
+          "citation_rate": 3
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.873198847262248,
-        "REFERENCE": 0.04755043227665702,
-        "INSTITUTIONAL": 0.04755043227665702,
-        "OTHER": 0.015850144092219007,
-        "EDITORIAL": 0.015850144092219007
+        "CORPORATE": 0.8890134529147983,
+        "UGC": 0.04932735426008965,
+        "INSTITUTIONAL": 0.024663677130044824,
+        "COMPETITOR": 0.012331838565022412,
+        "EDITORIAL": 0.012331838565022412,
+        "OTHER": 0.012331838565022412
       },
-      "total_retrieved": 6.940000000000007
+      "total_retrieved": 8.920000000000007
     },
-    "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
+    "pr_1a61366f-4ec1-46f7-b5c8-949393e84550": {
       "by_class": {
+        "REFERENCE": 0.77,
         "INSTITUTIONAL": 1.1,
-        "OTHER": 1.7600000000000002,
-        "CORPORATE": 9.470000000000002,
+        "CORPORATE": 5.5000000000000036,
+        "OTHER": 0.99,
+        "EDITORIAL": 0.66,
         "UGC": 0.33,
-        "REFERENCE": 0.88,
-        "COMPETITOR": 0.11,
-        "EDITORIAL": 0.11
+        "OWN": 0.11
       },
       "top_domains": [
         {
-          "domain": "natural-horse-care.com",
+          "domain": "iwest.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0.2
-        },
-        {
-          "domain": "madbarn.com",
-          "classification": "OTHER",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.44,
-          "citation_rate": 0
+          "citation_rate": 1.33
+        },
+        {
+          "domain": "natural-horse-care.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 1.67
         },
         {
           "domain": "researchgate.net",
           "classification": "OTHER",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0
-        },
-        {
-          "domain": "iwest.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
           "retrieval_rate": 0.44,
-          "citation_rate": 0
-        },
-        {
-          "domain": "reiter-guide.de",
-          "classification": "REFERENCE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.44,
-          "citation_rate": 1.33
-        },
-        {
-          "domain": "animondo.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "hartog.eu",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "horseandmore.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
           "citation_rate": 0.33
-        }
-      ],
-      "by_class_normalized": {
-        "INSTITUTIONAL": 0.07994186046511627,
-        "OTHER": 0.12790697674418602,
-        "CORPORATE": 0.6882267441860466,
-        "UGC": 0.023982558139534878,
-        "REFERENCE": 0.06395348837209301,
-        "COMPETITOR": 0.007994186046511626,
-        "EDITORIAL": 0.007994186046511626
-      },
-      "total_retrieved": 13.760000000000003
-    },
-    "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a": {
-      "by_class": {
-        "CORPORATE": 11.799999999999983,
-        "UGC": 0.66,
-        "INSTITUTIONAL": 0.66,
-        "EDITORIAL": 0.77,
-        "REFERENCE": 0.66,
-        "OTHER": 0.66
-      },
-      "top_domains": [
-        {
-          "domain": "pernaturam.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.67,
-          "retrieval_rate": 1.11,
-          "citation_rate": 0.83
         },
         {
-          "domain": "kraemer.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.67,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0.83
-        },
-        {
-          "domain": "madbarn.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0.8
-        },
-        {
-          "domain": "youtube.com",
-          "classification": "UGC",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0.25
-        },
-        {
-          "domain": "cavallo.de",
-          "classification": "EDITORIAL",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "natural-horse-care.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "muehldorfer-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0
-        },
-        {
-          "domain": "tiergarten.de",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0.33
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.7758053911900064,
-        "UGC": 0.04339250493096652,
-        "INSTITUTIONAL": 0.04339250493096652,
-        "EDITORIAL": 0.0506245890861276,
-        "REFERENCE": 0.04339250493096652,
-        "OTHER": 0.04339250493096652
-      },
-      "total_retrieved": 15.209999999999983
-    },
-    "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
-      "by_class": {
-        "UGC": 0.55,
-        "CORPORATE": 7.15000000000001,
-        "REFERENCE": 0.99,
-        "COMPETITOR": 0.33,
-        "OWN": 0.22,
-        "EDITORIAL": 0.22,
-        "OTHER": 0.44
-      },
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "classification": "UGC",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.67,
-          "citation_rate": 1.33
-        },
-        {
-          "domain": "kraemer.de",
+          "domain": "equine74.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 1.67
         },
         {
-          "domain": "louven-shop.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "reiter-guide.de",
-          "classification": "REFERENCE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 2.33
-        },
-        {
-          "domain": "st-hippolyt.de",
-          "classification": "COMPETITOR",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "madbarn.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pandalis-tiergesundheit.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0
-        },
-        {
-          "domain": "amazon.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "UGC": 0.0555555555555555,
-        "CORPORATE": 0.7222222222222224,
-        "REFERENCE": 0.0999999999999999,
-        "COMPETITOR": 0.0333333333333333,
-        "OWN": 0.0222222222222222,
-        "EDITORIAL": 0.0222222222222222,
-        "OTHER": 0.0444444444444444
-      },
-      "total_retrieved": 9.900000000000011
-    },
-    "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933": {
-      "by_class": {
-        "CORPORATE": 3.5199999999999996,
-        "OTHER": 0.34,
-        "INSTITUTIONAL": 0.33,
-        "EDITORIAL": 0.17,
-        "UGC": 0.17
-      },
-      "top_domains": [
-        {
-          "domain": "dm.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 1.33,
-          "citation_rate": 2.5
-        },
-        {
-          "domain": "central-apo.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "dm.at",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "gastrobalance.at",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "ludwigs-apotheke.at",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "valsona.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "hundefreuden.de",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0
-        },
-        {
-          "domain": "bio-apo.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.7770419426048565,
-        "OTHER": 0.07505518763796912,
-        "INSTITUTIONAL": 0.07284768211920531,
-        "EDITORIAL": 0.03752759381898456,
-        "UGC": 0.03752759381898456
-      },
-      "total_retrieved": 4.529999999999999
-    },
-    "pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e": {
-      "by_class": {
-        "CORPORATE": 7.160000000000004,
-        "OTHER": 1.2100000000000002,
-        "EDITORIAL": 0.11,
-        "COMPETITOR": 0.22,
-        "INSTITUTIONAL": 0.11,
-        "REFERENCE": 0.11
-      },
-      "top_domains": [
-        {
-          "domain": "pferde-reformhaus.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0
-        },
-        {
-          "domain": "reitsport.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.78,
-          "citation_rate": 0.25
-        },
-        {
-          "domain": "hauptner.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "equusvitalis.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0
-        },
-        {
-          "domain": "kristallkraft-schweiz.ch",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0
-        },
-        {
-          "domain": "lexa-pferdefutter.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 1
-        },
-        {
-          "domain": "sbline.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 1.25
-        },
-        {
-          "domain": "cavale-schweiz.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.78,
-          "citation_rate": 0.33
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.8026905829596414,
-        "OTHER": 0.1356502242152466,
-        "EDITORIAL": 0.012331838565022417,
-        "COMPETITOR": 0.024663677130044834,
-        "INSTITUTIONAL": 0.012331838565022417,
-        "REFERENCE": 0.012331838565022417
-      },
-      "total_retrieved": 8.920000000000003
-    },
-    "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
-      "by_class": {
-        "CORPORATE": 6.740000000000004,
-        "OTHER": 1.7600000000000007,
-        "INSTITUTIONAL": 0.22
-      },
-      "top_domains": [
-        {
-          "domain": "felix-buehler.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 0.78,
-          "citation_rate": 1
-        },
-        {
-          "domain": "horseandmore.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0.8
-        },
-        {
-          "domain": "hypona.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0
-        },
-        {
-          "domain": "ipet.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0.25
-        },
-        {
-          "domain": "horze.ch",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "huf24.ch",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0.67
-        },
-        {
-          "domain": "lexa-pferdefutter.de",
+          "domain": "futter-simon.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 0.33
-        },
-        {
-          "domain": "natural-horse-care-schweiz.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0.67
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.7729357798165138,
-        "OTHER": 0.20183486238532108,
-        "INSTITUTIONAL": 0.025229357798165125
-      },
-      "total_retrieved": 8.720000000000004
-    },
-    "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba": {
-      "by_class": {
-        "CORPORATE": 4.209999999999999,
-        "OTHER": 0.68
-      },
-      "top_domains": [
-        {
-          "domain": "pferde-reformhaus.ch",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.5,
-          "retrieval_rate": 0.5,
-          "citation_rate": 1
-        },
-        {
-          "domain": "fressnapf.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 1.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "equidocs.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "hyjoint-gelenke.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "cosequin.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pharmahorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 3
-        },
-        {
-          "domain": "alpurial.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "equestriancollections.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.8609406952965235,
-        "OTHER": 0.13905930470347652
-      },
-      "total_retrieved": 4.889999999999999
-    },
-    "pr_3b705cc9-5167-44e0-83c3-d105b97744ad": {
-      "by_class": {
-        "CORPORATE": 3.5199999999999987,
-        "EDITORIAL": 0.99,
-        "COMPETITOR": 0.11,
-        "INSTITUTIONAL": 1.5400000000000005,
-        "REFERENCE": 1.1,
-        "OTHER": 0.66,
-        "UGC": 0.33
-      },
-      "top_domains": [
-        {
-          "domain": "cavallo.de",
-          "classification": "EDITORIAL",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 1
-        },
-        {
-          "domain": "hs-osnabrueck.de",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0.33
-        },
-        {
-          "domain": "pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.78,
-          "citation_rate": 4.5
-        },
-        {
-          "domain": "muehldorfer-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0
-        },
-        {
-          "domain": "endlich-wachstum.de",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "furago.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 5
-        },
-        {
-          "domain": "kraemer.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "onovo.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 1
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.4266666666666665,
-        "EDITORIAL": 0.12,
-        "COMPETITOR": 0.013333333333333334,
-        "INSTITUTIONAL": 0.18666666666666673,
-        "REFERENCE": 0.13333333333333333,
-        "OTHER": 0.08,
-        "UGC": 0.04
-      },
-      "total_retrieved": 8.25
-    },
-    "pr_1a61366f-4ec1-46f7-b5c8-949393e84550": {
-      "by_class": {
-        "REFERENCE": 0.55,
-        "CORPORATE": 4.950000000000002,
-        "INSTITUTIONAL": 0.77,
-        "EDITORIAL": 0.44,
-        "OTHER": 0.55,
-        "UGC": 0.33
-      },
-      "top_domains": [
-        {
-          "domain": "natural-horse-care.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.56,
-          "citation_rate": 1.5
-        },
-        {
-          "domain": "iwest.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.56,
-          "citation_rate": 1.67
         },
         {
           "domain": "madbarn.com",
@@ -1098,155 +224,248 @@
           "classification": "INSTITUTIONAL",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
-          "citation_rate": 0.33
+          "citation_rate": 1
         },
         {
-          "domain": "aronialand-shop.de",
-          "classification": "CORPORATE",
+          "domain": "sciencedirect.com",
+          "classification": "REFERENCE",
           "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 0
-        },
-        {
-          "domain": "equine74.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 2
-        },
-        {
-          "domain": "erlenbacheroelmuehle.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "futter-simon.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 0
+          "retrieval_rate": 1.56,
+          "citation_rate": 2.5
         }
       ],
       "by_class_normalized": {
-        "REFERENCE": 0.07246376811594202,
-        "CORPORATE": 0.6521739130434784,
-        "INSTITUTIONAL": 0.10144927536231882,
-        "EDITORIAL": 0.05797101449275361,
-        "OTHER": 0.07246376811594202,
-        "UGC": 0.04347826086956521
+        "REFERENCE": 0.08139534883720927,
+        "INSTITUTIONAL": 0.11627906976744182,
+        "CORPORATE": 0.5813953488372094,
+        "OTHER": 0.10465116279069762,
+        "EDITORIAL": 0.06976744186046509,
+        "UGC": 0.034883720930232544,
+        "OWN": 0.01162790697674418
       },
-      "total_retrieved": 7.590000000000002
+      "total_retrieved": 9.460000000000004
     },
-    "pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5": {
+    "pr_a513316a-939f-4130-a4e6-e5361bba66f4": {
       "by_class": {
-        "CORPORATE": 4.950000000000002,
-        "UGC": 0.33,
-        "INSTITUTIONAL": 0.44,
-        "EDITORIAL": 0.44,
-        "REFERENCE": 0.55,
-        "OTHER": 0.22
+        "CORPORATE": 4.859999999999999,
+        "OTHER": 0.51
       },
       "top_domains": [
         {
-          "domain": "tiergarten.de",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0.33
+          "domain": "pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 1.83,
+          "citation_rate": 2.67
         },
         {
-          "domain": "laurelnature.com",
+          "domain": "fuettern-mit-spass.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1.33
-        },
-        {
-          "domain": "natural-horse-care.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pavo-futter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.83,
           "citation_rate": 0
         },
         {
           "domain": "pernaturam.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0.67
+          "retrieval_rate": 1.83,
+          "citation_rate": 0
         },
         {
-          "domain": "reiter-guide.de",
-          "classification": "REFERENCE",
+          "domain": "muehldorfer-pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 1.67,
+          "citation_rate": 0
+        },
+        {
+          "domain": "eurital.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "fressnapf.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "top-futtermittel.de",
+          "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 1
         },
         {
-          "domain": "stroeh.de",
+          "domain": "wielensdiervoeders.nl",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.78,
-          "citation_rate": 2.5
-        },
-        {
-          "domain": "facebook.com",
-          "classification": "UGC",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.44,
-          "citation_rate": 2
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.7142857142857143,
-        "UGC": 0.0476190476190476,
-        "INSTITUTIONAL": 0.06349206349206347,
-        "EDITORIAL": 0.06349206349206347,
-        "REFERENCE": 0.07936507936507935,
-        "OTHER": 0.03174603174603174
+        "CORPORATE": 0.9050279329608939,
+        "OTHER": 0.09497206703910616
       },
-      "total_retrieved": 6.930000000000002
+      "total_retrieved": 5.369999999999999
     },
-    "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01": {
+    "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": {
       "by_class": {
-        "CORPORATE": 6.029999999999999
+        "CORPORATE": 4.049999999999999,
+        "OTHER": 0.68
       },
       "top_domains": [
         {
           "domain": "stroeh.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.5,
-          "retrieval_rate": 1.17,
-          "citation_rate": 1.33
+          "retrieval_rate": 1.83,
+          "citation_rate": 0
         },
         {
-          "domain": "canina.de",
+          "domain": "fuetternundfit.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.5,
+          "retrieval_rate": 1.33,
+          "citation_rate": 2
+        },
+        {
+          "domain": "hipposport.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.83,
+          "citation_rate": 0
+        },
+        {
+          "domain": "cdvet.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "louven-shop.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 2
+        },
+        {
+          "domain": "bieros.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "care4animals.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "diefutterkammer.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 2
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8562367864693446,
+        "OTHER": 0.14376321353065544
+      },
+      "total_retrieved": 4.729999999999999
+    },
+    "pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f": {
+      "by_class": {
+        "CORPORATE": 4.869999999999999,
+        "COMPETITOR": 0.5,
+        "OTHER": 1.01,
+        "UGC": 0.34
+      },
+      "top_domains": [
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 1.67,
+          "citation_rate": 1.67
+        },
+        {
+          "domain": "marstall.de",
+          "classification": "COMPETITOR",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 1.17,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "barynesse.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.83,
+          "citation_rate": 2.33
+        },
+        {
+          "domain": "squeed.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 2.5
+        },
+        {
+          "domain": "duvalhorseproducts.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 1
+        },
+        {
+          "domain": "horsyd.com",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.33,
           "retrieval_rate": 0.5,
           "citation_rate": 0
         },
         {
-          "domain": "alpurial.de",
+          "domain": "lecksteine-shop.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 2
+        },
+        {
+          "domain": "pernaturam.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 0
-        },
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.7247023809523809,
+        "COMPETITOR": 0.07440476190476192,
+        "OTHER": 0.15029761904761907,
+        "UGC": 0.05059523809523811
+      },
+      "total_retrieved": 6.719999999999999
+    },
+    "pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b": {
+      "by_class": {
+        "CORPORATE": 2.6899999999999995
+      },
+      "top_domains": [
         {
-          "domain": "cp-futter.de",
+          "domain": "votana-pferd.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
+          "retrieval_rate": 1.67,
           "citation_rate": 3
         },
         {
@@ -1257,163 +476,42 @@
           "citation_rate": 1
         },
         {
-          "domain": "hipposport.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "kraemer.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "vetrigold.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 1.0
-      },
-      "total_retrieved": 6.029999999999999
-    },
-    "pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f": {
-      "by_class": {
-        "CORPORATE": 2.5299999999999994,
-        "COMPETITOR": 0.33,
-        "OTHER": 0.34,
-        "UGC": 0.17
-      },
-      "top_domains": [
-        {
           "domain": "stroeh.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 1.17,
-          "citation_rate": 1
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
         },
         {
-          "domain": "marstall.de",
-          "classification": "COMPETITOR",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.83,
+          "domain": "aniforte.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
           "citation_rate": 0
         },
         {
           "domain": "barynesse.com",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 2.5
-        },
-        {
-          "domain": "natural-horse-care.com",
-          "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.5,
+          "retrieval_rate": 0.17,
           "citation_rate": 0
         },
         {
-          "domain": "squeed.de",
+          "domain": "canina.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.5,
-          "citation_rate": 3
-        },
-        {
-          "domain": "duvalhorseproducts.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 2
-        },
-        {
-          "domain": "horsyd.com",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
+          "retrieval_rate": 0.17,
           "citation_rate": 0
         },
         {
-          "domain": "natural-horse-care-schweiz.ch",
+          "domain": "cp-futter.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 2
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.7507418397626112,
-        "COMPETITOR": 0.09792284866468845,
-        "OTHER": 0.10089020771513356,
-        "UGC": 0.05044510385756678
-      },
-      "total_retrieved": 3.369999999999999
-    },
-    "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": {
-      "by_class": {
-        "CORPORATE": 5.219999999999999,
-        "UGC": 0.17,
-        "COMPETITOR": 0.17
-      },
-      "top_domains": [
-        {
-          "domain": "equidocs.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.5,
-          "retrieval_rate": 1,
-          "citation_rate": 0.67
-        },
-        {
-          "domain": "alpurial.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
+          "retrieval_rate": 0.17,
           "citation_rate": 0
         },
         {
-          "domain": "inropharm.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 2.5
-        },
-        {
-          "domain": "fressnapf.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "vetrigold.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "amazon.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 1,
-          "citation_rate": 2
-        },
-        {
-          "domain": "stroeh.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "annimally.de",
+          "domain": "ess-supplements.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.17,
@@ -1421,321 +519,164 @@
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.9388489208633094,
-        "UGC": 0.03057553956834533,
-        "COMPETITOR": 0.03057553956834533
+        "CORPORATE": 1.0
       },
-      "total_retrieved": 5.559999999999999
+      "total_retrieved": 2.6899999999999995
     },
-    "pr_967a4253-01c0-4020-8087-e088910e9456": {
+    "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba": {
       "by_class": {
-        "CORPORATE": 4.730000000000001,
-        "UGC": 0.33,
-        "EDITORIAL": 0.33,
-        "INSTITUTIONAL": 0.44,
-        "OTHER": 0.44,
-        "REFERENCE": 0.44
+        "CORPORATE": 5.549999999999999,
+        "OTHER": 0.8400000000000001
       },
       "top_domains": [
         {
-          "domain": "ep-nutrition.de",
+          "domain": "fressnapf.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 1.5,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "equidocs.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
           "retrieval_rate": 0.67,
-          "citation_rate": 1.25
-        },
-        {
-          "domain": "biomol.pl",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "sonnesee.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0.33
-        },
-        {
-          "domain": "surpresanatural.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
           "citation_rate": 1.33
         },
         {
-          "domain": "vitalundfitmit100.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1.33
-        },
-        {
-          "domain": "youtube.com",
-          "classification": "UGC",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 1.5
-        },
-        {
-          "domain": "equiflora.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 1.5
-        },
-        {
-          "domain": "iherb.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 2
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.7049180327868853,
-        "UGC": 0.04918032786885245,
-        "EDITORIAL": 0.04918032786885245,
-        "INSTITUTIONAL": 0.06557377049180327,
-        "OTHER": 0.06557377049180327,
-        "REFERENCE": 0.06557377049180327
-      },
-      "total_retrieved": 6.710000000000002
-    },
-    "pr_e2f64483-3123-48e4-aaee-b034f609647d": {
-      "by_class": {
-        "CORPORATE": 5.7400000000000055,
-        "EDITORIAL": 1.1,
-        "INSTITUTIONAL": 1.3200000000000003,
-        "REFERENCE": 0.77,
-        "OTHER": 0.22,
-        "UGC": 0.11
-      },
-      "top_domains": [
-        {
-          "domain": "gigasnutrition.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.67,
-          "retrieval_rate": 0.67,
-          "citation_rate": 1.17
-        },
-        {
-          "domain": "zeinpharma.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0.4
-        },
-        {
-          "domain": "densenutrition.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0.75
-        },
-        {
-          "domain": "vitaminfit.eu",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 1
-        },
-        {
-          "domain": "gse.bio",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "livefresh.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "surpresanatural.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "verbraucherzentrale.de",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1.67
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.6198704103671708,
-        "EDITORIAL": 0.11879049676025913,
-        "INSTITUTIONAL": 0.14254859611231097,
-        "REFERENCE": 0.08315334773218139,
-        "OTHER": 0.023758099352051823,
-        "UGC": 0.011879049676025911
-      },
-      "total_retrieved": 9.260000000000005
-    },
-    "pr_0b9644fb-0bec-4847-b388-b12ea14991da": {
-      "by_class": {
-        "CORPORATE": 4.069999999999999,
-        "REFERENCE": 0.33,
-        "OTHER": 0.11
-      },
-      "top_domains": [
-        {
-          "domain": "vetrigold.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 2
-        },
-        {
-          "domain": "masterhorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0
-        },
-        {
-          "domain": "eohippos-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.44,
-          "citation_rate": 1
-        },
-        {
-          "domain": "reiter-guide.de",
-          "classification": "REFERENCE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.44,
-          "citation_rate": 1
-        },
-        {
-          "domain": "hipposport.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0.33
-        },
-        {
-          "domain": "honeyprovet.com.au",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 0
-        },
-        {
-          "domain": "muehldorfer-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 0
-        },
-        {
-          "domain": "natural-horse-care.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.22,
-          "citation_rate": 1
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.9024390243902438,
-        "REFERENCE": 0.07317073170731708,
-        "OTHER": 0.024390243902439025
-      },
-      "total_retrieved": 4.51
-    },
-    "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": {
-      "by_class": {
-        "CORPORATE": 6.350000000000003,
-        "OTHER": 0.5,
-        "EDITORIAL": 0.24,
-        "REFERENCE": 0.12
-      },
-      "top_domains": [
-        {
-          "domain": "pharmahorse.de",
+          "domain": "pferde-reformhaus.ch",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.5,
           "retrieval_rate": 0.5,
-          "citation_rate": 0.75
-        },
-        {
-          "domain": "masterhorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.38,
-          "retrieval_rate": 0.75,
           "citation_rate": 1.33
         },
         {
-          "domain": "discountfutter.shop",
+          "domain": "pharmahorse.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.38,
-          "retrieval_rate": 0.38,
-          "citation_rate": 0.33
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 1.5
         },
         {
-          "domain": "hipposport.de",
+          "domain": "hyjoint-gelenke.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.38,
-          "retrieval_rate": 0.38,
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
           "citation_rate": 0
         },
         {
-          "domain": "krauterie.de",
+          "domain": "hyjoint.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.38,
-          "citation_rate": 2
-        },
-        {
-          "domain": "migocki.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.38,
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
           "citation_rate": 0
         },
         {
-          "domain": "bieros.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.25,
-          "citation_rate": 1
-        },
-        {
-          "domain": "kingfisherdublin.com",
+          "domain": "nuvallo.de",
           "classification": "OTHER",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.25,
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "cosequin.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
           "citation_rate": 0
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.8807212205270458,
-        "OTHER": 0.06934812760055475,
-        "EDITORIAL": 0.03328710124826628,
-        "REFERENCE": 0.01664355062413314
+        "CORPORATE": 0.8685446009389671,
+        "OTHER": 0.1314553990610329
       },
-      "total_retrieved": 7.2100000000000035
+      "total_retrieved": 6.389999999999999
     },
-    "pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c": {
+    "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
       "by_class": {
-        "CORPORATE": 7.710000000000011,
-        "INSTITUTIONAL": 0.55,
-        "UGC": 0.33,
-        "EDITORIAL": 0.22,
-        "OTHER": 0.11,
-        "COMPETITOR": 0.11,
-        "REFERENCE": 0.11
+        "CORPORATE": 5.0699999999999985,
+        "OTHER": 0.17
       },
       "top_domains": [
+        {
+          "domain": "pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0
+        },
+        {
+          "domain": "mambocare.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 1.5,
+          "citation_rate": 2
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.83,
+          "citation_rate": 1
+        },
+        {
+          "domain": "smartpakequine.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "vetrigold.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 2
+        },
+        {
+          "domain": "alpurial.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "amazon.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "carepet.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.9675572519083969,
+        "OTHER": 0.032442748091603066
+      },
+      "total_retrieved": 5.239999999999998
+    },
+    "pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f": {
+      "by_class": {
+        "CORPORATE": 6.840000000000006,
+        "OTHER": 0.33,
+        "REFERENCE": 0.44,
+        "EDITORIAL": 0.33,
+        "INSTITUTIONAL": 0.55
+      },
+      "top_domains": [
+        {
+          "domain": "migocki.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.56,
+          "retrieval_rate": 1,
+          "citation_rate": 0.8
+        },
         {
           "domain": "natural-horse-care.com",
           "classification": "CORPORATE",
@@ -1744,86 +685,240 @@
           "citation_rate": 0.2
         },
         {
-          "domain": "muehldorfer-pferdefutter.de",
+          "domain": "hippoplus.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 1.75
+        },
+        {
+          "domain": "emma-care.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
           "retrieval_rate": 0.56,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "masterhorse.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.56,
+          "citation_rate": 0.33
+        },
+        {
+          "domain": "equanis.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
           "citation_rate": 1
         },
         {
           "domain": "kraemer.de",
           "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.33
+        },
+        {
+          "domain": "discountfutter.shop",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.80565371024735,
+        "OTHER": 0.03886925795053001,
+        "REFERENCE": 0.051825677267373346,
+        "EDITORIAL": 0.03886925795053001,
+        "INSTITUTIONAL": 0.06478209658421669
+      },
+      "total_retrieved": 8.490000000000006
+    },
+    "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a": {
+      "by_class": {
+        "UGC": 0.66,
+        "CORPORATE": 11.229999999999984,
+        "REFERENCE": 0.33,
+        "INSTITUTIONAL": 0.55,
+        "EDITORIAL": 0.66,
+        "OTHER": 0.66,
+        "COMPETITOR": 0.11
+      },
+      "top_domains": [
+        {
+          "domain": "kraemer.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.56,
+          "retrieval_rate": 0.56,
+          "citation_rate": 1
+        },
+        {
+          "domain": "youtube.com",
+          "classification": "UGC",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0.25
+        },
+        {
+          "domain": "madbarn.com",
+          "classification": "CORPORATE",
           "retrieved_percentage": 0.44,
           "retrieval_rate": 0.44,
-          "citation_rate": 0.25
+          "citation_rate": 1
         },
         {
           "domain": "pavo-futter.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.44,
           "retrieval_rate": 0.44,
-          "citation_rate": 0
+          "citation_rate": 0.5
         },
         {
           "domain": "pernaturam.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.44,
           "retrieval_rate": 0.44,
-          "citation_rate": 0.25
-        },
-        {
-          "domain": "horseflex.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "natuerlich-pferd.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0.33
+          "citation_rate": 0.5
         },
         {
           "domain": "tiergarten.de",
           "classification": "INSTITUTIONAL",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
+          "retrieval_rate": 0.56,
           "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.8435448577680527,
-        "INSTITUTIONAL": 0.06017505470459512,
-        "UGC": 0.036105032822757066,
-        "EDITORIAL": 0.024070021881838044,
-        "OTHER": 0.012035010940919022,
-        "COMPETITOR": 0.012035010940919022,
-        "REFERENCE": 0.012035010940919022
-      },
-      "total_retrieved": 9.140000000000011
-    },
-    "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
-      "by_class": {
-        "CORPORATE": 7.310000000000001,
-        "EDITORIAL": 0.12,
-        "UGC": 0.12
-      },
-      "top_domains": [
+        },
         {
           "domain": "natural-horse-care.com",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.62,
-          "retrieval_rate": 0.75,
-          "citation_rate": 1.2
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.67
         },
         {
-          "domain": "stroeh.de",
+          "domain": "cavallo.de",
+          "classification": "EDITORIAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.67
+        }
+      ],
+      "by_class_normalized": {
+        "UGC": 0.04647887323943667,
+        "CORPORATE": 0.7908450704225349,
+        "REFERENCE": 0.023239436619718334,
+        "INSTITUTIONAL": 0.03873239436619723,
+        "EDITORIAL": 0.04647887323943667,
+        "OTHER": 0.04647887323943667,
+        "COMPETITOR": 0.0077464788732394445
+      },
+      "total_retrieved": 14.199999999999985
+    },
+    "pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e": {
+      "by_class": {
+        "CORPORATE": 7.590000000000003,
+        "OTHER": 0.88,
+        "EDITORIAL": 0.11,
+        "COMPETITOR": 0.11,
+        "INSTITUTIONAL": 0.11,
+        "REFERENCE": 0.11
+      },
+      "top_domains": [
+        {
+          "domain": "reitsport.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.78,
+          "citation_rate": 0
+        },
+        {
+          "domain": "pferde-reformhaus.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0
+        },
+        {
+          "domain": "hauptner.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.75
+        },
+        {
+          "domain": "equusvitalis.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.25
+        },
+        {
+          "domain": "cavale-schweiz.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0
+        },
+        {
+          "domain": "hypona.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 1
+        },
+        {
+          "domain": "kristallkraft-schweiz.ch",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "lexa-pferdefutter.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8518518518518519,
+        "OTHER": 0.09876543209876538,
+        "EDITORIAL": 0.012345679012345673,
+        "COMPETITOR": 0.012345679012345673,
+        "INSTITUTIONAL": 0.012345679012345673,
+        "REFERENCE": 0.012345679012345673
+      },
+      "total_retrieved": 8.910000000000004
+    },
+    "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": {
+      "by_class": {
+        "CORPORATE": 6.310000000000001,
+        "EDITORIAL": 0.12,
+        "UGC": 0.24
+      },
+      "top_domains": [
+        {
+          "domain": "masterhorse.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 1
+        },
+        {
+          "domain": "natural-horse-care.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 1.75
+        },
+        {
+          "domain": "pferdefuttershop.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.38,
           "retrieval_rate": 0.62,
-          "citation_rate": 0.33
+          "citation_rate": 1.33
         },
         {
           "domain": "amazon.de",
@@ -1847,193 +942,499 @@
           "citation_rate": 0.67
         },
         {
-          "domain": "masterhorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.38,
-          "retrieval_rate": 0.38,
-          "citation_rate": 0.67
-        },
-        {
-          "domain": "pernaturam.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.38,
-          "retrieval_rate": 0.38,
-          "citation_rate": 0.67
-        },
-        {
-          "domain": "nikolaus-nature.com",
+          "domain": "naturanima.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.62,
+          "retrieval_rate": 1,
+          "citation_rate": 3
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.5,
           "citation_rate": 0
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.9682119205298013,
-        "EDITORIAL": 0.015894039735099334,
-        "UGC": 0.015894039735099334
+        "CORPORATE": 0.9460269865067465,
+        "EDITORIAL": 0.01799100449775112,
+        "UGC": 0.03598200899550224
       },
-      "total_retrieved": 7.550000000000002
+      "total_retrieved": 6.670000000000002
+    },
+    "pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f": {
+      "by_class": {
+        "CORPORATE": 7.150000000000002,
+        "REFERENCE": 0.49,
+        "OTHER": 0.49,
+        "EDITORIAL": 0.74,
+        "INSTITUTIONAL": 0.12
+      },
+      "top_domains": [
+        {
+          "domain": "pharmahorse.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.88,
+          "citation_rate": 2.75
+        },
+        {
+          "domain": "fuetternundfit.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.38,
+          "retrieval_rate": 0.38,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "medilutions.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.38,
+          "retrieval_rate": 0.38,
+          "citation_rate": 1.33
+        },
+        {
+          "domain": "plantavet.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 1,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "drugs.com",
+          "classification": "REFERENCE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "masterhorse.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0.5
+        },
+        {
+          "domain": "amazon.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.38,
+          "citation_rate": 2
+        },
+        {
+          "domain": "horse.com",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.38,
+          "citation_rate": 1
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.7953281423804227,
+        "REFERENCE": 0.05450500556173525,
+        "OTHER": 0.05450500556173525,
+        "EDITORIAL": 0.08231368186874304,
+        "INSTITUTIONAL": 0.013348164627363735
+      },
+      "total_retrieved": 8.990000000000002
+    },
+    "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": {
+      "by_class": {
+        "CORPORATE": 5.699999999999999,
+        "OTHER": 0.17
+      },
+      "top_domains": [
+        {
+          "domain": "equidocs.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 1.17,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "fressnapf.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 1.33
+        },
+        {
+          "domain": "vetrigold.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 1,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "alpurial.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "freshfellow.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "petvet-gmbh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "vetapo-austria.at",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.9710391822827938,
+        "OTHER": 0.028960817717206138
+      },
+      "total_retrieved": 5.869999999999999
     },
     "pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83": {
       "by_class": {
-        "CORPORATE": 6.889999999999999,
-        "OTHER": 0.67,
-        "UGC": 0.17
+        "CORPORATE": 5.529999999999999,
+        "OTHER": 0.8400000000000001
       },
       "top_domains": [
         {
           "domain": "naturanima.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.5,
-          "retrieval_rate": 1,
-          "citation_rate": 2
+          "retrieval_rate": 1.17,
+          "citation_rate": 1
         },
         {
           "domain": "mambocare.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0
-        },
-        {
-          "domain": "carepet.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pernaturam.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pferdekiosk.biz",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pferdperfekt.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 2
-        },
-        {
-          "domain": "schwarz-kuemmel.biz",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.8913324708926261,
-        "OTHER": 0.0866752910737387,
-        "UGC": 0.021992238033635193
-      },
-      "total_retrieved": 7.729999999999999
-    },
-    "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
-      "by_class": {
-        "CORPORATE": 7.199999999999999,
-        "REFERENCE": 1.17,
-        "INSTITUTIONAL": 0.17,
-        "OTHER": 0.34,
-        "OWN": 0.17,
-        "EDITORIAL": 0.17
-      },
-      "top_domains": [
-        {
-          "domain": "pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.5,
-          "retrieval_rate": 1,
-          "citation_rate": 1.33
-        },
-        {
-          "domain": "pernaturam.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.5,
           "retrieval_rate": 0.83,
           "citation_rate": 0
         },
         {
-          "domain": "discountfutter.shop",
+          "domain": "stroeh.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0
+        },
+        {
+          "domain": "carepet.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "pferdekiosk.biz",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "pferdperfekt.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
           "retrieval_rate": 0.5,
           "citation_rate": 2
         },
         {
-          "domain": "madbarn.com",
+          "domain": "schwarz-kuemmel.biz",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "deers-tackstore.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 1.5
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8681318681318682,
+        "OTHER": 0.1318681318681319
+      },
+      "total_retrieved": 6.369999999999999
+    },
+    "pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c": {
+      "by_class": {
+        "CORPORATE": 8.700000000000008,
+        "INSTITUTIONAL": 0.66,
+        "UGC": 0.44,
+        "REFERENCE": 0.44,
+        "EDITORIAL": 0.33,
+        "OTHER": 0.22
+      },
+      "top_domains": [
+        {
+          "domain": "pernaturam.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.56,
+          "retrieval_rate": 0.78,
+          "citation_rate": 0.6
+        },
+        {
+          "domain": "muehldorfer-pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.56,
+          "citation_rate": 1
         },
         {
           "domain": "natural-horse-care.com",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0.25
+        },
+        {
+          "domain": "kraemer.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.25
+        },
+        {
+          "domain": "pavo-futter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
           "citation_rate": 0
+        },
+        {
+          "domain": "tiergarten.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.33
+        },
+        {
+          "domain": "horseflex.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "natuerlich-pferd.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8063021316033365,
+        "INSTITUTIONAL": 0.06116774791473582,
+        "UGC": 0.04077849860982388,
+        "REFERENCE": 0.04077849860982388,
+        "EDITORIAL": 0.03058387395736791,
+        "OTHER": 0.02038924930491194
+      },
+      "total_retrieved": 10.790000000000008
+    },
+    "pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5": {
+      "by_class": {
+        "CORPORATE": 4.3999999999999995,
+        "UGC": 0.22,
+        "REFERENCE": 0.55,
+        "INSTITUTIONAL": 0.44,
+        "EDITORIAL": 0.33
+      },
+      "top_domains": [
+        {
+          "domain": "reiter-guide.de",
+          "classification": "REFERENCE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0
+        },
+        {
+          "domain": "tiergarten.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "laurelnature.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1.33
+        },
+        {
+          "domain": "pernaturam.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "tierheilkundezentrum.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.78,
+          "citation_rate": 3.5
+        },
+        {
+          "domain": "facebook.com",
+          "classification": "UGC",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.44,
+          "citation_rate": 2
+        },
+        {
+          "domain": "krauterie.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.7407407407407407,
+        "UGC": 0.03703703703703704,
+        "REFERENCE": 0.0925925925925926,
+        "INSTITUTIONAL": 0.07407407407407408,
+        "EDITORIAL": 0.05555555555555556
+      },
+      "total_retrieved": 5.9399999999999995
+    },
+    "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": {
+      "by_class": {
+        "UGC": 0.44,
+        "CORPORATE": 6.710000000000008,
+        "REFERENCE": 0.99,
+        "OWN": 0.22,
+        "COMPETITOR": 0.33,
+        "OTHER": 0.11,
+        "EDITORIAL": 0.11
+      },
+      "top_domains": [
+        {
+          "domain": "louven-shop.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0
+        },
+        {
+          "domain": "reiter-guide.de",
+          "classification": "REFERENCE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 1.75
+        },
+        {
+          "domain": "youtube.com",
+          "classification": "UGC",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 1.33
         },
         {
           "domain": "amazon.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
+          "retrieval_rate": 0.44,
           "citation_rate": 0
         },
         {
-          "domain": "aniforte.de",
+          "domain": "gyenno.ch",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
-          "citation_rate": 1.5
+          "citation_rate": 1
         },
         {
-          "domain": "annimally.de",
+          "domain": "kraemer.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
-          "citation_rate": 2
+          "citation_rate": 1.67
+        },
+        {
+          "domain": "masterhorse.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "pavo-futter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.33
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.7809110629067245,
-        "REFERENCE": 0.12689804772234275,
-        "INSTITUTIONAL": 0.018438177874186553,
-        "OTHER": 0.036876355748373106,
-        "OWN": 0.018438177874186553,
-        "EDITORIAL": 0.018438177874186553
+        "UGC": 0.04938271604938268,
+        "CORPORATE": 0.7530864197530867,
+        "REFERENCE": 0.11111111111111102,
+        "OWN": 0.02469135802469134,
+        "COMPETITOR": 0.03703703703703701,
+        "OTHER": 0.01234567901234567,
+        "EDITORIAL": 0.01234567901234567
       },
-      "total_retrieved": 9.219999999999999
+      "total_retrieved": 8.910000000000007
     },
     "pr_76c76a27-2b6a-4e7c-9a05-7f270587a055": {
       "by_class": {
-        "CORPORATE": 2.3599999999999994
+        "CORPORATE": 5.059999999999999,
+        "EDITORIAL": 0.68,
+        "OTHER": 0.17,
+        "REFERENCE": 0.17
       },
       "top_domains": [
+        {
+          "domain": "zooplus.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 1.17,
+          "citation_rate": 0
+        },
         {
           "domain": "emma-care.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.67,
           "citation_rate": 0
+        },
+        {
+          "domain": "pferdefuttershop.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 2
         },
         {
           "domain": "stallbedarf24.de",
@@ -2043,18 +1444,11 @@
           "citation_rate": 0
         },
         {
-          "domain": "zooplus.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 1,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pferdefuttershop.de",
+          "domain": "tiergesundheitsshop.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.5,
-          "citation_rate": 4
+          "citation_rate": 0
         },
         {
           "domain": "vetrigold.de",
@@ -2071,14 +1465,7 @@
           "citation_rate": 0
         },
         {
-          "domain": "dochorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "iwest.de",
+          "domain": "chewy.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.17,
@@ -2086,92 +1473,167 @@
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 1.0
+        "CORPORATE": 0.832236842105263,
+        "EDITORIAL": 0.11184210526315792,
+        "OTHER": 0.02796052631578948,
+        "REFERENCE": 0.02796052631578948
       },
-      "total_retrieved": 2.3599999999999994
+      "total_retrieved": 6.079999999999999
     },
-    "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
+    "pr_967a4253-01c0-4020-8087-e088910e9456": {
       "by_class": {
-        "CORPORATE": 5.390000000000003,
-        "UGC": 0.44,
+        "CORPORATE": 3.8499999999999988,
+        "UGC": 0.33,
+        "EDITORIAL": 0.33,
+        "REFERENCE": 0.44,
         "OTHER": 0.22,
-        "EDITORIAL": 0.11,
-        "INSTITUTIONAL": 0.11,
-        "COMPETITOR": 0.11
+        "INSTITUTIONAL": 0.22
       },
       "top_domains": [
         {
-          "domain": "alpurial.de",
+          "domain": "ep-nutrition.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0
+          "retrieval_rate": 0.67,
+          "citation_rate": 1.25
         },
         {
-          "domain": "eohippos-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.44,
-          "retrieval_rate": 0.44,
-          "citation_rate": 0
-        },
-        {
-          "domain": "hipposport.de",
+          "domain": "biomol.pl",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.56,
-          "citation_rate": 1.33
-        },
-        {
-          "domain": "muehldorfer-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.56,
-          "citation_rate": 0.33
-        },
-        {
-          "domain": "facebook.com",
-          "classification": "UGC",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.44,
+          "retrieval_rate": 0.33,
           "citation_rate": 1
         },
         {
-          "domain": "equine74.com",
+          "domain": "nutori.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "sonnesee.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "surpresanatural.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 0.67
         },
         {
-          "domain": "lexa-pferdefutter.de",
+          "domain": "vitalundfitmit100.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1.67
+        },
+        {
+          "domain": "youtube.com",
+          "classification": "UGC",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "zkin-lab.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0.5
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.7142857142857142,
+        "UGC": 0.06122448979591839,
+        "EDITORIAL": 0.06122448979591839,
+        "REFERENCE": 0.08163265306122451,
+        "OTHER": 0.040816326530612256,
+        "INSTITUTIONAL": 0.040816326530612256
+      },
+      "total_retrieved": 5.389999999999999
+    },
+    "pr_22b8e498-4894-4fe3-b560-df45dca80819": {
+      "by_class": {
+        "OTHER": 1.3399999999999999,
+        "EDITORIAL": 0.17,
+        "CORPORATE": 3.549999999999999,
+        "REFERENCE": 0.17
+      },
+      "top_domains": [
+        {
+          "domain": "hundefreuden.de",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 1,
+          "citation_rate": 1.33
+        },
+        {
+          "domain": "der-onlinehund.de",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "hansetier.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 0
         },
         {
-          "domain": "stroeh.de",
+          "domain": "vetmedpro.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.44,
-          "citation_rate": 2.5
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "apotheke.de",
+          "classification": "EDITORIAL",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "mammaly.de",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 3
+        },
+        {
+          "domain": "aleo-pferdesport.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "annimally.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 2
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.8448275862068966,
-        "UGC": 0.06896551724137927,
-        "OTHER": 0.034482758620689634,
-        "EDITORIAL": 0.017241379310344817,
-        "INSTITUTIONAL": 0.017241379310344817,
-        "COMPETITOR": 0.017241379310344817
+        "OTHER": 0.2562141491395794,
+        "EDITORIAL": 0.03250478011472276,
+        "CORPORATE": 0.6787762906309751,
+        "REFERENCE": 0.03250478011472276
       },
-      "total_retrieved": 6.3800000000000034
+      "total_retrieved": 5.229999999999999
     },
     "pr_e107b87d-d16a-46cd-a7cd-97643c2eecea": {
       "by_class": {
-        "OTHER": 1.0,
-        "CORPORATE": 5.879999999999999,
-        "INSTITUTIONAL": 0.17,
+        "CORPORATE": 7.549999999999999,
+        "OTHER": 0.51,
         "EDITORIAL": 0.17,
         "UGC": 0.34,
         "REFERENCE": 0.17
@@ -2179,10 +1641,31 @@
       "top_domains": [
         {
           "domain": "kraemer.at",
-          "classification": "OTHER",
+          "classification": "CORPORATE",
           "retrieved_percentage": 0.5,
+          "retrieval_rate": 1,
+          "citation_rate": 1.67
+        },
+        {
+          "domain": "fromaustria.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "annimally.at",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
           "retrieval_rate": 0.83,
-          "citation_rate": 1
+          "citation_rate": 2.5
+        },
+        {
+          "domain": "sanovet.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 2.5
         },
         {
           "domain": "horze.at",
@@ -2192,154 +1675,283 @@
           "citation_rate": 0
         },
         {
-          "domain": "wahl-agrar.at",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.67,
-          "citation_rate": 0
-        },
-        {
-          "domain": "annimally.at",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 0
-        },
-        {
-          "domain": "alphahorse.at",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "equusvitalis.at",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 2
-        },
-        {
-          "domain": "fromaustria.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
           "domain": "noeltgen.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
+          "retrieval_rate": 0.5,
           "citation_rate": 1
-        }
-      ],
-      "by_class_normalized": {
-        "OTHER": 0.12936610608020702,
-        "CORPORATE": 0.7606727037516171,
-        "INSTITUTIONAL": 0.021992238033635193,
-        "EDITORIAL": 0.021992238033635193,
-        "UGC": 0.043984476067270385,
-        "REFERENCE": 0.021992238033635193
-      },
-      "total_retrieved": 7.729999999999999
-    },
-    "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": {
-      "by_class": {
-        "CORPORATE": 3.899999999999999,
-        "OTHER": 0.17
-      },
-      "top_domains": [
+        },
         {
-          "domain": "pferdefutter.de",
+          "domain": "onlineapo.at",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.5,
           "citation_rate": 0
         },
         {
-          "domain": "mambocare.de",
+          "domain": "wahl-agrar.at",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.83,
-          "citation_rate": 2
-        },
-        {
-          "domain": "smartpakequine.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
           "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8638443935926774,
+        "OTHER": 0.05835240274599544,
+        "EDITORIAL": 0.01945080091533181,
+        "UGC": 0.03890160183066362,
+        "REFERENCE": 0.01945080091533181
+      },
+      "total_retrieved": 8.739999999999998
+    },
+    "pr_0b9644fb-0bec-4847-b388-b12ea14991da": {
+      "by_class": {
+        "CORPORATE": 3.8499999999999983,
+        "OTHER": 0.22,
+        "REFERENCE": 0.33,
+        "EDITORIAL": 0.11,
+        "COMPETITOR": 0.11
+      },
+      "top_domains": [
+        {
+          "domain": "masterhorse.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0.33
         },
         {
-          "domain": "stroeh.de",
+          "domain": "hipposport.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
+          "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
-          "citation_rate": 2
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "reiter-guide.de",
+          "classification": "REFERENCE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
         },
         {
           "domain": "vetrigold.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 2
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 3.33
         },
         {
-          "domain": "alpurial.de",
+          "domain": "honeyprovet.com.au",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
           "citation_rate": 0
         },
         {
-          "domain": "amazon.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
+          "domain": "equidocs.de",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
         },
         {
-          "domain": "chewy.com",
+          "domain": "eohippos-pferdefutter.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "migocki.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 1
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.9582309582309582,
-        "OTHER": 0.04176904176904178
+        "CORPORATE": 0.8333333333333333,
+        "OTHER": 0.04761904761904764,
+        "REFERENCE": 0.07142857142857145,
+        "EDITORIAL": 0.02380952380952382,
+        "COMPETITOR": 0.02380952380952382
       },
-      "total_retrieved": 4.069999999999999
+      "total_retrieved": 4.619999999999998
     },
-    "pr_ebe654e5-8567-4eaa-b981-b302228a7121": {
+    "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": {
       "by_class": {
-        "CORPORATE": 5.060000000000001,
-        "UGC": 0.22,
-        "INSTITUTIONAL": 1.8700000000000008,
+        "INSTITUTIONAL": 0.88,
+        "CORPORATE": 8.140000000000006,
+        "UGC": 0.66,
+        "OTHER": 0.88,
+        "COMPETITOR": 0.22,
         "REFERENCE": 0.66,
-        "OTHER": 1.4300000000000004,
-        "EDITORIAL": 0.22,
-        "COMPETITOR": 0.22
+        "EDITORIAL": 0.11
       },
       "top_domains": [
         {
-          "domain": "agrobs.de",
+          "domain": "amazon.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.44,
           "citation_rate": 0.33
         },
         {
-          "domain": "dr-susanne-weyrauch.de",
-          "classification": "INSTITUTIONAL",
+          "domain": "researchgate.net",
+          "classification": "UGC",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.44,
+          "citation_rate": 1
+        },
+        {
+          "domain": "animondo.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
           "citation_rate": 0
         },
         {
+          "domain": "emma-care.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "hartog.eu",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "horseandmore.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.67
+        },
+        {
           "domain": "iwest.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "kraemer.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "INSTITUTIONAL": 0.07619047619047616,
+        "CORPORATE": 0.7047619047619049,
+        "UGC": 0.05714285714285711,
+        "OTHER": 0.07619047619047616,
+        "COMPETITOR": 0.01904761904761904,
+        "REFERENCE": 0.05714285714285711,
+        "EDITORIAL": 0.00952380952380952
+      },
+      "total_retrieved": 11.550000000000006
+    },
+    "pr_052a6419-3a6e-49c5-9995-e2812de6cb50": {
+      "by_class": {
+        "CORPORATE": 3.899999999999999,
+        "UGC": 0.17,
+        "OTHER": 0.51,
+        "COMPETITOR": 0.17
+      },
+      "top_domains": [
+        {
+          "domain": "semhof.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 1,
+          "citation_rate": 1
+        },
+        {
+          "domain": "eurital.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "original-leckerlies.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "pernaturam.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 2
+        },
+        {
+          "domain": "agrobs.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 2
+        },
+        {
+          "domain": "bieros.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "emma-care.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8210526315789474,
+        "UGC": 0.03578947368421054,
+        "OTHER": 0.1073684210526316,
+        "COMPETITOR": 0.03578947368421054
+      },
+      "total_retrieved": 4.749999999999999
+    },
+    "pr_ebe654e5-8567-4eaa-b981-b302228a7121": {
+      "by_class": {
+        "INSTITUTIONAL": 1.7600000000000007,
+        "CORPORATE": 5.060000000000001,
+        "REFERENCE": 0.77,
+        "UGC": 0.11,
+        "EDITORIAL": 0.11,
+        "OTHER": 0.88,
+        "COMPETITOR": 0.22
+      },
+      "top_domains": [
+        {
+          "domain": "dr-susanne-weyrauch.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.56,
+          "citation_rate": 0
+        },
+        {
+          "domain": "agrobs.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.44,
@@ -2357,132 +1969,279 @@
           "classification": "REFERENCE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
-          "citation_rate": 0.67
-        },
-        {
-          "domain": "tiergarten.de",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1.33
-        },
-        {
-          "domain": "youtube.com",
-          "classification": "UGC",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.56,
-          "citation_rate": 2
-        },
-        {
-          "domain": "iastate.edu",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.22,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.5227272727272727,
-        "UGC": 0.02272727272727272,
-        "INSTITUTIONAL": 0.1931818181818182,
-        "REFERENCE": 0.06818181818181816,
-        "OTHER": 0.1477272727272727,
-        "EDITORIAL": 0.02272727272727272,
-        "COMPETITOR": 0.02272727272727272
-      },
-      "total_retrieved": 9.680000000000003
-    },
-    "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
-      "by_class": {
-        "CORPORATE": 6.9400000000000075,
-        "INSTITUTIONAL": 0.33,
-        "COMPETITOR": 0.22,
-        "UGC": 0.11,
-        "EDITORIAL": 0.11,
-        "OTHER": 0.11
-      },
-      "top_domains": [
-        {
-          "domain": "salvana-pferde.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.56,
-          "retrieval_rate": 0.56,
-          "citation_rate": 1.6
-        },
-        {
-          "domain": "lexa-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.44,
           "citation_rate": 0.33
         },
         {
-          "domain": "pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.44,
-          "citation_rate": 1
-        },
-        {
-          "domain": "baywa.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "loesdau.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "okapi-online.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0.67
-        },
-        {
-          "domain": "semhof.de",
+          "domain": "iwest.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.22,
           "retrieval_rate": 0.33,
-          "citation_rate": 2
+          "citation_rate": 0
         },
         {
-          "domain": "agrobs.de",
+          "domain": "madbarn.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.5
+        },
+        {
+          "domain": "foranequine.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.22,
           "retrieval_rate": 0.22,
-          "citation_rate": 2
+          "citation_rate": 0.5
+        },
+        {
+          "domain": "pferdgerecht.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0.5
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.8874680306905373,
-        "INSTITUTIONAL": 0.042199488491048556,
-        "COMPETITOR": 0.028132992327365703,
-        "UGC": 0.014066496163682852,
-        "EDITORIAL": 0.014066496163682852,
-        "OTHER": 0.014066496163682852
+        "INSTITUTIONAL": 0.1975308641975309,
+        "CORPORATE": 0.5679012345679013,
+        "REFERENCE": 0.08641975308641973,
+        "UGC": 0.012345679012345677,
+        "EDITORIAL": 0.012345679012345677,
+        "OTHER": 0.09876543209876541,
+        "COMPETITOR": 0.024691358024691353
       },
-      "total_retrieved": 7.820000000000007
+      "total_retrieved": 8.910000000000002
     },
-    "pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f": {
+    "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": {
       "by_class": {
-        "CORPORATE": 5.390000000000002,
-        "OTHER": 0.33,
+        "CORPORATE": 5.610000000000005,
+        "OTHER": 1.1,
         "INSTITUTIONAL": 0.22
       },
       "top_domains": [
         {
-          "domain": "solan.at",
+          "domain": "felix-buehler.ch",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.44,
           "retrieval_rate": 0.56,
           "citation_rate": 0.75
         },
+        {
+          "domain": "ipet.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0
+        },
+        {
+          "domain": "horseandmore.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1.33
+        },
+        {
+          "domain": "hypona.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "lexa-pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.33
+        },
+        {
+          "domain": "natural-horse-care-schweiz.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "tierbedarf-discount.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "et-hoofcare.ch",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8095238095238096,
+        "OTHER": 0.15873015873015864,
+        "INSTITUTIONAL": 0.03174603174603172
+      },
+      "total_retrieved": 6.930000000000005
+    },
+    "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
+      "by_class": {
+        "CORPORATE": 4.869999999999999,
+        "OTHER": 0.33,
+        "INSTITUTIONAL": 0.17,
+        "EDITORIAL": 0.17,
+        "REFERENCE": 0.34
+      },
+      "top_domains": [
+        {
+          "domain": "dr-hawes.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 1.33
+        },
+        {
+          "domain": "fuetternundfit.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.83,
+          "citation_rate": 1
+        },
+        {
+          "domain": "equidrol.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "hyjoint-gelenke.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "kraemer.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "leoswc.com",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "shop-apotheke.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8282312925170068,
+        "OTHER": 0.05612244897959185,
+        "INSTITUTIONAL": 0.028911564625850348,
+        "EDITORIAL": 0.028911564625850348,
+        "REFERENCE": 0.057823129251700696
+      },
+      "total_retrieved": 5.879999999999999
+    },
+    "pr_e2f64483-3123-48e4-aaee-b034f609647d": {
+      "by_class": {
+        "CORPORATE": 5.180000000000003,
+        "INSTITUTIONAL": 1.1,
+        "REFERENCE": 0.33,
+        "EDITORIAL": 0.66,
+        "OTHER": 0.11,
+        "UGC": 0.11
+      },
+      "top_domains": [
+        {
+          "domain": "gigasnutrition.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.56,
+          "retrieval_rate": 0.56,
+          "citation_rate": 1.2
+        },
+        {
+          "domain": "densenutrition.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.75
+        },
+        {
+          "domain": "zeinpharma.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.5
+        },
+        {
+          "domain": "gse.bio",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "livefresh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "surpresanatural.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.33
+        },
+        {
+          "domain": "verbraucherzentrale.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 2
+        },
+        {
+          "domain": "vitaminfit.eu",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1.33
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.691588785046729,
+        "INSTITUTIONAL": 0.14686248331108137,
+        "REFERENCE": 0.04405874499332441,
+        "EDITORIAL": 0.08811748998664883,
+        "OTHER": 0.014686248331108136,
+        "UGC": 0.014686248331108136
+      },
+      "total_retrieved": 7.490000000000004
+    },
+    "pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f": {
+      "by_class": {
+        "CORPORATE": 5.390000000000004,
+        "OTHER": 0.44,
+        "EDITORIAL": 0.11,
+        "INSTITUTIONAL": 0.11
+      },
+      "top_domains": [
         {
           "domain": "auer-garsten.at",
           "classification": "CORPORATE",
@@ -2531,20 +2290,255 @@
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 2
+        },
+        {
+          "domain": "solan.at",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.33
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.9074074074074074,
-        "OTHER": 0.05555555555555554,
-        "INSTITUTIONAL": 0.03703703703703702
+        "CORPORATE": 0.890909090909091,
+        "OTHER": 0.07272727272727268,
+        "EDITORIAL": 0.01818181818181817,
+        "INSTITUTIONAL": 0.01818181818181817
       },
-      "total_retrieved": 5.940000000000002
+      "total_retrieved": 6.050000000000004
+    },
+    "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": {
+      "by_class": {
+        "CORPORATE": 4.790000000000002,
+        "OTHER": 0.74,
+        "REFERENCE": 0.12,
+        "EDITORIAL": 0.12
+      },
+      "top_domains": [
+        {
+          "domain": "masterhorse.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.38,
+          "retrieval_rate": 0.62,
+          "citation_rate": 1.33
+        },
+        {
+          "domain": "discountfutter.shop",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.38,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "pharmahorse.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.38,
+          "retrieval_rate": 0.38,
+          "citation_rate": 1.33
+        },
+        {
+          "domain": "bieros.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.25,
+          "citation_rate": 1
+        },
+        {
+          "domain": "hipposport.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.25,
+          "citation_rate": 0
+        },
+        {
+          "domain": "kingfisherdublin.com",
+          "classification": "OTHER",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.25,
+          "citation_rate": 1
+        },
+        {
+          "domain": "kraemer.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.25,
+          "citation_rate": 0
+        },
+        {
+          "domain": "lexa-pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.25,
+          "citation_rate": 0.5
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8301559792027731,
+        "OTHER": 0.12824956672443671,
+        "REFERENCE": 0.020797227036395142,
+        "EDITORIAL": 0.020797227036395142
+      },
+      "total_retrieved": 5.770000000000001
+    },
+    "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": {
+      "by_class": {
+        "CORPORATE": 7.549999999999999,
+        "REFERENCE": 0.66,
+        "INSTITUTIONAL": 0.17,
+        "OTHER": 0.34,
+        "OWN": 0.17,
+        "EDITORIAL": 0.17
+      },
+      "top_domains": [
+        {
+          "domain": "pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.83,
+          "citation_rate": 1
+        },
+        {
+          "domain": "discountfutter.shop",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 2
+        },
+        {
+          "domain": "madbarn.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "natural-horse-care.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "amazon.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "aniforte.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "annimally.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 2
+        },
+        {
+          "domain": "hipposport.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8333333333333334,
+        "REFERENCE": 0.07284768211920531,
+        "INSTITUTIONAL": 0.01876379690949228,
+        "OTHER": 0.03752759381898456,
+        "OWN": 0.01876379690949228,
+        "EDITORIAL": 0.01876379690949228
+      },
+      "total_retrieved": 9.059999999999999
+    },
+    "pr_3b705cc9-5167-44e0-83c3-d105b97744ad": {
+      "by_class": {
+        "CORPORATE": 3.0799999999999996,
+        "EDITORIAL": 1.8700000000000008,
+        "REFERENCE": 1.2100000000000002,
+        "INSTITUTIONAL": 1.4300000000000004,
+        "OTHER": 0.44,
+        "UGC": 0.33
+      },
+      "top_domains": [
+        {
+          "domain": "cavallo.de",
+          "classification": "EDITORIAL",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.75
+        },
+        {
+          "domain": "sphericalinsights.com",
+          "classification": "REFERENCE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "kaaloon.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "furago.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 3
+        },
+        {
+          "domain": "hs-osnabrueck.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0.5
+        },
+        {
+          "domain": "kraemer.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0.5
+        },
+        {
+          "domain": "landwirtschaft.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0
+        },
+        {
+          "domain": "lkvsachsen.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.36842105263157887,
+        "EDITORIAL": 0.22368421052631585,
+        "REFERENCE": 0.14473684210526316,
+        "INSTITUTIONAL": 0.1710526315789474,
+        "OTHER": 0.05263157894736841,
+        "UGC": 0.039473684210526314
+      },
+      "total_retrieved": 8.360000000000001
     },
     "pr_292a6b04-8dee-4ea2-969b-6a83c709753f": {
       "by_class": {
-        "CORPORATE": 5.399999999999999,
-        "COMPETITOR": 0.33,
-        "OTHER": 0.17
+        "CORPORATE": 4.579999999999999,
+        "OTHER": 0.17,
+        "COMPETITOR": 0.17
       },
       "top_domains": [
         {
@@ -2552,35 +2546,7 @@
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.83,
-          "citation_rate": 1
-        },
-        {
-          "domain": "marstall.de",
-          "classification": "COMPETITOR",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 0
-        },
-        {
-          "domain": "einhuf.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "equidocs.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "futter-simon.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
+          "citation_rate": 3
         },
         {
           "domain": "equifarm.de",
@@ -2590,83 +2556,263 @@
           "citation_rate": 2
         },
         {
-          "domain": "hipposport.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
           "domain": "madbarn.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.33,
           "citation_rate": 2
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.9152542372881356,
-        "COMPETITOR": 0.05593220338983052,
-        "OTHER": 0.02881355932203391
-      },
-      "total_retrieved": 5.899999999999999
-    },
-    "pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b": {
-      "by_class": {
-        "CORPORATE": 1.3599999999999999
-      },
-      "top_domains": [
-        {
-          "domain": "votana-pferd.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.83,
-          "citation_rate": 4
         },
         {
-          "domain": "aniforte.de",
+          "domain": "salutaria.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "cp-futter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "fellnasenfutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "fuetternundfit.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
+          "retrieval_rate": 0.33,
           "citation_rate": 2
         },
         {
-          "domain": "petphysio-shop.de",
+          "domain": "triplecrownfeed.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "customequinenutrition.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "eggersmann-shop.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "einhuf.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.9308943089430894,
+        "OTHER": 0.03455284552845529,
+        "COMPETITOR": 0.03455284552845529
+      },
+      "total_retrieved": 4.919999999999999
+    },
+    "pr_40c01f10-5541-49c6-90be-fec89294d3c5": {
+      "by_class": {
+        "CORPORATE": 6.749999999999998,
+        "COMPETITOR": 0.5,
+        "INSTITUTIONAL": 0.8400000000000001,
+        "EDITORIAL": 0.68,
+        "OTHER": 0.68
+      },
+      "top_domains": [
+        {
+          "domain": "marstall.de",
+          "classification": "COMPETITOR",
+          "retrieved_percentage": 0.5,
+          "retrieval_rate": 0.5,
+          "citation_rate": 2
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.83,
+          "citation_rate": 0
+        },
+        {
+          "domain": "vetena.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 5
+        },
+        {
+          "domain": "drhoelter.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "fressnapf.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "petvet-gmbh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "vetripharm.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "lexa-pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.7142857142857142,
+        "COMPETITOR": 0.052910052910052914,
+        "INSTITUTIONAL": 0.0888888888888889,
+        "EDITORIAL": 0.07195767195767197,
+        "OTHER": 0.07195767195767197
+      },
+      "total_retrieved": 9.45
+    },
+    "pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa": {
+      "by_class": {
+        "CORPORATE": 4.49,
+        "INSTITUTIONAL": 1.49,
+        "REFERENCE": 0.34,
+        "EDITORIAL": 0.17
+      },
+      "top_domains": [
+        {
+          "domain": "vetena.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.83,
           "citation_rate": 0
         },
         {
           "domain": "stroeh.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
           "citation_rate": 0
         },
         {
-          "domain": "tiershop.de",
+          "domain": "umn.edu",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 0
+        },
+        {
+          "domain": "extension.org",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "madbarn.ca",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "canina.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "care4animals.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "drhoelter.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.6918335901386748,
+        "INSTITUTIONAL": 0.2295839753466872,
+        "REFERENCE": 0.052388289676425275,
+        "EDITORIAL": 0.026194144838212637
+      },
+      "total_retrieved": 6.49
+    },
+    "pr_ae44d933-64c5-4032-a0a0-74999632519b": {
+      "by_class": {
+        "CORPORATE": 4.369999999999999,
+        "EDITORIAL": 0.17,
+        "UGC": 0.17,
+        "INSTITUTIONAL": 0.17,
+        "REFERENCE": 0.17
+      },
+      "top_domains": [
+        {
+          "domain": "votana-pferd.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.83,
+          "citation_rate": 2.5
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 2
+        },
+        {
+          "domain": "deganius.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "eohippos-pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "noeltgen.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "equine74.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "vetripharm.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0
+        },
+        {
+          "domain": "agrobs.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.17,
@@ -2674,52 +2820,64 @@
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 1.0
+        "CORPORATE": 0.8653465346534653,
+        "EDITORIAL": 0.03366336633663367,
+        "UGC": 0.03366336633663367,
+        "INSTITUTIONAL": 0.03366336633663367,
+        "REFERENCE": 0.03366336633663367
       },
-      "total_retrieved": 1.3599999999999999
+      "total_retrieved": 5.049999999999999
     },
     "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": {
       "by_class": {
-        "CORPORATE": 4.740000000000002,
-        "COMPETITOR": 0.25,
-        "UGC": 0.36,
-        "OTHER": 0.36
+        "CORPORATE": 5.620000000000003,
+        "INSTITUTIONAL": 0.12,
+        "OTHER": 0.36,
+        "UGC": 0.24,
+        "COMPETITOR": 0.12
       },
       "top_domains": [
+        {
+          "domain": "emma-care.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.38,
+          "retrieval_rate": 0.5,
+          "citation_rate": 0.33
+        },
         {
           "domain": "amazon.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.25,
           "retrieval_rate": 0.25,
-          "citation_rate": 1
-        },
-        {
-          "domain": "stallbedarf24.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.38,
           "citation_rate": 0.5
         },
         {
-          "domain": "emma-care.de",
+          "domain": "mambocare.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.25,
-          "citation_rate": 0
-        },
-        {
-          "domain": "marstall.de",
-          "classification": "COMPETITOR",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.25,
+          "retrieval_rate": 0.5,
           "citation_rate": 0
         },
         {
           "domain": "masterhorse.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.38,
+          "citation_rate": 0.5
+        },
+        {
+          "domain": "hipposport.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
           "retrieval_rate": 0.25,
           "citation_rate": 0
+        },
+        {
+          "domain": "lexa-pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.25,
+          "retrieval_rate": 0.25,
+          "citation_rate": 0.5
         },
         {
           "domain": "migocki.de",
@@ -2734,99 +2892,241 @@
           "retrieved_percentage": 0.25,
           "retrieval_rate": 0.25,
           "citation_rate": 0
-        },
-        {
-          "domain": "countryways.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.12,
-          "retrieval_rate": 0.25,
-          "citation_rate": 0
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.8301225919439581,
-        "COMPETITOR": 0.04378283712784587,
-        "UGC": 0.06304728546409805,
-        "OTHER": 0.06304728546409805
+        "CORPORATE": 0.8699690402476781,
+        "INSTITUTIONAL": 0.018575851393188847,
+        "OTHER": 0.05572755417956654,
+        "UGC": 0.037151702786377694,
+        "COMPETITOR": 0.018575851393188847
       },
-      "total_retrieved": 5.710000000000002
+      "total_retrieved": 6.460000000000003
     },
-    "pr_22b8e498-4894-4fe3-b560-df45dca80819": {
+    "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933": {
       "by_class": {
-        "OTHER": 1.0,
+        "CORPORATE": 3.739999999999999,
+        "OTHER": 0.51,
         "EDITORIAL": 0.17,
-        "CORPORATE": 3.719999999999999,
-        "REFERENCE": 0.17
+        "INSTITUTIONAL": 0.17,
+        "UGC": 0.17
       },
       "top_domains": [
         {
+          "domain": "dm.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.67,
+          "citation_rate": 3
+        },
+        {
           "domain": "hundefreuden.de",
           "classification": "OTHER",
-          "retrieved_percentage": 0.33,
+          "retrieved_percentage": 0.17,
           "retrieval_rate": 0.67,
-          "citation_rate": 1
+          "citation_rate": 0
         },
         {
-          "domain": "der-onlinehund.de",
+          "domain": "carepet.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "toritierwelt.de",
           "classification": "OTHER",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "medpets.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "vetmedpro.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "apotheke.de",
-          "classification": "EDITORIAL",
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.33,
           "citation_rate": 0
         },
         {
-          "domain": "fuetternundfit.de",
+          "domain": "bio-apo.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 2
-        },
-        {
-          "domain": "migocki.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
+          "retrieval_rate": 0.17,
           "citation_rate": 0
         },
         {
-          "domain": "vetripharm.de",
+          "domain": "canina.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 3
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "central-apo.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "dm.at",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
         }
       ],
       "by_class_normalized": {
-        "OTHER": 0.19762845849802377,
-        "EDITORIAL": 0.033596837944664046,
-        "CORPORATE": 0.7351778656126482,
-        "REFERENCE": 0.033596837944664046
+        "CORPORATE": 0.7857142857142857,
+        "OTHER": 0.10714285714285716,
+        "EDITORIAL": 0.035714285714285726,
+        "INSTITUTIONAL": 0.035714285714285726,
+        "UGC": 0.035714285714285726
       },
-      "total_retrieved": 5.059999999999999
+      "total_retrieved": 4.759999999999999
+    },
+    "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df": {
+      "by_class": {
+        "CORPORATE": 2.67,
+        "INSTITUTIONAL": 0.33,
+        "EDITORIAL": 0.33
+      },
+      "top_domains": [
+        {
+          "domain": "emma-care.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "pferdperfekt.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "drhoelter.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "drogerie-plappert.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "mambocare.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "pferdy.de",
+          "classification": "EDITORIAL",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "showtack.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "care4vet.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8018018018018017,
+        "INSTITUTIONAL": 0.0990990990990991,
+        "EDITORIAL": 0.0990990990990991
+      },
+      "total_retrieved": 3.33
+    },
+    "pr_e3842bfb-9e30-414e-9765-88d2faadce04": {
+      "by_class": {
+        "CORPORATE": 4.29,
+        "UGC": 0.22,
+        "COMPETITOR": 0.22,
+        "EDITORIAL": 0.11,
+        "OTHER": 0.11
+      },
+      "top_domains": [
+        {
+          "domain": "eohippos-pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0
+        },
+        {
+          "domain": "muehldorfer-pferdefutter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0
+        },
+        {
+          "domain": "alpurial.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "hipposport.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.44,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.5
+        },
+        {
+          "domain": "facebook.com",
+          "classification": "UGC",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "deganius.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0.5
+        },
+        {
+          "domain": "equine74.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0.5
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8666666666666667,
+        "UGC": 0.044444444444444446,
+        "COMPETITOR": 0.044444444444444446,
+        "EDITORIAL": 0.022222222222222223,
+        "OTHER": 0.022222222222222223
+      },
+      "total_retrieved": 4.95
     },
     "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": {
       "by_class": {
-        "CORPORATE": 7.059999999999999,
+        "CORPORATE": 7.229999999999999,
         "REFERENCE": 1.0,
         "OTHER": 0.8400000000000001,
         "INSTITUTIONAL": 1.8399999999999996,
@@ -2860,7 +3160,7 @@
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
-          "citation_rate": 1
+          "citation_rate": 0
         },
         {
           "domain": "ehorses.de",
@@ -2892,169 +3192,245 @@
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.6182136602451839,
-        "REFERENCE": 0.08756567425569178,
-        "OTHER": 0.0735551663747811,
-        "INSTITUTIONAL": 0.16112084063047286,
-        "EDITORIAL": 0.04465849387040281,
-        "COMPETITOR": 0.014886164623467604
+        "CORPORATE": 0.6238136324417601,
+        "REFERENCE": 0.08628127696289907,
+        "OTHER": 0.07247627264883522,
+        "INSTITUTIONAL": 0.15875754961173424,
+        "EDITORIAL": 0.044003451251078525,
+        "COMPETITOR": 0.014667817083692842
       },
-      "total_retrieved": 11.419999999999998
+      "total_retrieved": 11.589999999999998
     },
-    "pr_40c01f10-5541-49c6-90be-fec89294d3c5": {
+    "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": {
       "by_class": {
-        "CORPORATE": 8.939999999999998,
-        "REFERENCE": 0.34,
-        "COMPETITOR": 0.33,
-        "INSTITUTIONAL": 0.68,
-        "EDITORIAL": 0.68,
-        "OTHER": 0.68
+        "CORPORATE": 5.280000000000004,
+        "EDITORIAL": 0.22,
+        "UGC": 0.11,
+        "OTHER": 0.11,
+        "COMPETITOR": 0.11,
+        "INSTITUTIONAL": 0.11
       },
       "top_domains": [
         {
-          "domain": "kraemer.de",
+          "domain": "salvana-pferde.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 1.5
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 1
         },
         {
-          "domain": "vetena.de",
+          "domain": "muehldorfer-pferdefutter.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 4
+          "retrieval_rate": 0.44,
+          "citation_rate": 0
         },
         {
-          "domain": "vetripharm.de",
+          "domain": "pferdefutter.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 3
+          "retrieval_rate": 0.44,
+          "citation_rate": 1
         },
         {
-          "domain": "madbarn.com",
+          "domain": "baywa.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "loesdau.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "okapi-online.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.33,
+          "citation_rate": 0
+        },
+        {
+          "domain": "cavallo.de",
+          "classification": "EDITORIAL",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0.5
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.888888888888889,
+        "EDITORIAL": 0.037037037037037014,
+        "UGC": 0.018518518518518507,
+        "OTHER": 0.018518518518518507,
+        "COMPETITOR": 0.018518518518518507,
+        "INSTITUTIONAL": 0.018518518518518507
+      },
+      "total_retrieved": 5.940000000000004
+    },
+    "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f": {
+      "by_class": {
+        "CORPORATE": 4.3999999999999995,
+        "REFERENCE": 0.66,
+        "EDITORIAL": 0.66,
+        "INSTITUTIONAL": 0.55,
+        "UGC": 0.11,
+        "OTHER": 0.33,
+        "COMPETITOR": 0.11
+      },
+      "top_domains": [
+        {
+          "domain": "pavo-futter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0
+        },
+        {
+          "domain": "reiter-guide.de",
+          "classification": "REFERENCE",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.75
+        },
+        {
+          "domain": "welt.de",
+          "classification": "EDITORIAL",
+          "retrieved_percentage": 0.44,
+          "retrieval_rate": 0.44,
+          "citation_rate": 1
+        },
+        {
+          "domain": "pferdefuttershop.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.44,
+          "citation_rate": 0.67
+        },
+        {
+          "domain": "laurelnature.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
           "retrieval_rate": 0.33,
           "citation_rate": 1
         },
         {
-          "domain": "marstall.de",
-          "classification": "COMPETITOR",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 2
+          "domain": "annimally.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0
         },
         {
-          "domain": "petvet-gmbh.de",
+          "domain": "care4vet.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
+          "citation_rate": 0.5
         },
         {
-          "domain": "stallbedarf24.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1.5
-        },
-        {
-          "domain": "summitanimalhealth.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
+          "domain": "cavallo.de",
+          "classification": "EDITORIAL",
+          "retrieved_percentage": 0.22,
+          "retrieval_rate": 0.22,
           "citation_rate": 0
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.767381974248927,
-        "REFERENCE": 0.02918454935622318,
-        "COMPETITOR": 0.028326180257510734,
-        "INSTITUTIONAL": 0.05836909871244636,
-        "EDITORIAL": 0.05836909871244636,
-        "OTHER": 0.05836909871244636
+        "CORPORATE": 0.6451612903225806,
+        "REFERENCE": 0.09677419354838711,
+        "EDITORIAL": 0.09677419354838711,
+        "INSTITUTIONAL": 0.08064516129032259,
+        "UGC": 0.01612903225806452,
+        "OTHER": 0.048387096774193554,
+        "COMPETITOR": 0.01612903225806452
       },
-      "total_retrieved": 11.649999999999999
+      "total_retrieved": 6.819999999999999
     },
-    "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df": {
+    "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01": {
       "by_class": {
-        "CORPORATE": 2.6899999999999995,
-        "INSTITUTIONAL": 0.17,
-        "OTHER": 0.17,
-        "EDITORIAL": 0.17
+        "CORPORATE": 6.709999999999999,
+        "OTHER": 0.17
       },
       "top_domains": [
         {
-          "domain": "pferdperfekt.com",
+          "domain": "alpurial.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.67,
-          "citation_rate": 1
-        },
-        {
-          "domain": "emma-care.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "vetripharm.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "noeltgen.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
+          "retrieved_percentage": 0.5,
           "retrieval_rate": 0.5,
           "citation_rate": 0
         },
         {
           "domain": "stroeh.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.67,
+          "citation_rate": 1
+        },
+        {
+          "domain": "canina.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
           "retrieval_rate": 0.33,
           "citation_rate": 0
         },
         {
-          "domain": "care4vet.de",
+          "domain": "cp-futter.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 3
+        },
+        {
+          "domain": "fuetternundfit.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "hipposport.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
           "citation_rate": 0
         },
         {
-          "domain": "dochorse.de",
+          "domain": "kraemer.de",
           "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
           "citation_rate": 0
         },
         {
-          "domain": "drhoelter.de",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
+          "domain": "vetrigold.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
           "citation_rate": 0
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.840625,
-        "INSTITUTIONAL": 0.053125000000000006,
-        "OTHER": 0.053125000000000006,
-        "EDITORIAL": 0.053125000000000006
+        "CORPORATE": 0.9752906976744186,
+        "OTHER": 0.0247093023255814
       },
-      "total_retrieved": 3.1999999999999997
+      "total_retrieved": 6.879999999999999
     },
     "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6": {
       "by_class": {
-        "CORPORATE": 5.0699999999999985,
-        "OTHER": 0.34
+        "CORPORATE": 5.059999999999999,
+        "UGC": 0.17,
+        "OTHER": 0.51
       },
       "top_domains": [
         {
@@ -3062,7 +3438,7 @@
           "classification": "CORPORATE",
           "retrieved_percentage": 0.5,
           "retrieval_rate": 0.67,
-          "citation_rate": 1
+          "citation_rate": 0.33
         },
         {
           "domain": "stroeh.de",
@@ -3070,6 +3446,13 @@
           "retrieved_percentage": 0.33,
           "retrieval_rate": 0.5,
           "citation_rate": 0
+        },
+        {
+          "domain": "natural-horse-care.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
         },
         {
           "domain": "powerpferdefutter.de",
@@ -3079,28 +3462,14 @@
           "citation_rate": 0
         },
         {
-          "domain": "hestevard.de",
+          "domain": "chewy.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.33,
           "citation_rate": 0
         },
         {
-          "domain": "pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "raiffeisenmarkt.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 3
-        },
-        {
-          "domain": "seewinkler-naturprodukte.com",
+          "domain": "tributeequinenutrition.com",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.33,
@@ -3112,28 +3481,118 @@
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.17,
           "citation_rate": 0
+        },
+        {
+          "domain": "cp-futter.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 2
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.9371534195933456,
-        "OTHER": 0.06284658040665436
+        "CORPORATE": 0.8815331010452961,
+        "UGC": 0.029616724738675968,
+        "OTHER": 0.0888501742160279
       },
-      "total_retrieved": 5.409999999999998
+      "total_retrieved": 5.739999999999998
+    },
+    "pr_919e94f2-5a66-46fd-b425-6ae88721d518": {
+      "by_class": {
+        "CORPORATE": 4.559999999999999,
+        "COMPETITOR": 0.33,
+        "EDITORIAL": 0.17,
+        "OTHER": 0.17,
+        "INSTITUTIONAL": 0.17
+      },
+      "top_domains": [
+        {
+          "domain": "horsefeed.nl",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.5,
+          "citation_rate": 2
+        },
+        {
+          "domain": "equine74.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "pavo.net",
+          "classification": "COMPETITOR",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1.5
+        },
+        {
+          "domain": "sportpaardenarts.nl",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 2
+        },
+        {
+          "domain": "stroeh.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.67,
+          "citation_rate": 2
+        },
+        {
+          "domain": "alpurial.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "annimally.at",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        },
+        {
+          "domain": "care4vet.de",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
+        }
+      ],
+      "by_class_normalized": {
+        "CORPORATE": 0.8444444444444444,
+        "COMPETITOR": 0.06111111111111113,
+        "EDITORIAL": 0.03148148148148149,
+        "OTHER": 0.03148148148148149,
+        "INSTITUTIONAL": 0.03148148148148149
+      },
+      "total_retrieved": 5.399999999999999
     },
     "pr_9f26a21e-b794-4afa-965f-82573e3aafdd": {
       "by_class": {
-        "CORPORATE": 6.799999999999998,
+        "CORPORATE": 6.619999999999998,
         "OTHER": 0.34,
-        "EDITORIAL": 0.51,
+        "EDITORIAL": 0.8500000000000001,
         "INSTITUTIONAL": 0.8500000000000001,
         "REFERENCE": 0.34
       },
       "top_domains": [
         {
-          "domain": "vetrigold.de",
+          "domain": "equiva.com",
+          "classification": "CORPORATE",
+          "retrieved_percentage": 0.33,
+          "retrieval_rate": 0.33,
+          "citation_rate": 1
+        },
+        {
+          "domain": "emma-care.de",
           "classification": "CORPORATE",
           "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.67,
+          "retrieval_rate": 0.5,
           "citation_rate": 0
         },
         {
@@ -3177,469 +3636,23 @@
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.33,
           "citation_rate": 2
-        },
-        {
-          "domain": "alpurial.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.7692307692307692,
-        "OTHER": 0.03846153846153847,
-        "EDITORIAL": 0.0576923076923077,
-        "INSTITUTIONAL": 0.09615384615384619,
-        "REFERENCE": 0.03846153846153847
+        "CORPORATE": 0.7355555555555555,
+        "OTHER": 0.037777777777777785,
+        "EDITORIAL": 0.09444444444444447,
+        "INSTITUTIONAL": 0.09444444444444447,
+        "REFERENCE": 0.037777777777777785
       },
-      "total_retrieved": 8.839999999999998
-    },
-    "pr_ae44d933-64c5-4032-a0a0-74999632519b": {
-      "by_class": {
-        "CORPORATE": 4.589999999999999,
-        "INSTITUTIONAL": 0.17,
-        "REFERENCE": 0.17
-      },
-      "top_domains": [
-        {
-          "domain": "votana-pferd.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.67,
-          "citation_rate": 3
-        },
-        {
-          "domain": "muehldorfer-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "alpurial.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "aniforte.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 2
-        },
-        {
-          "domain": "chiadegracia.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "deganius.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "ebequine.org",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "eohippos-pferdefutter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.9310344827586207,
-        "INSTITUTIONAL": 0.03448275862068967,
-        "REFERENCE": 0.03448275862068967
-      },
-      "total_retrieved": 4.929999999999999
-    },
-    "pr_919e94f2-5a66-46fd-b425-6ae88721d518": {
-      "by_class": {
-        "CORPORATE": 4.389999999999999,
-        "COMPETITOR": 0.33,
-        "EDITORIAL": 0.17,
-        "OTHER": 0.8500000000000001,
-        "INSTITUTIONAL": 0.17
-      },
-      "top_domains": [
-        {
-          "domain": "horsefeed.nl",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.5,
-          "citation_rate": 2
-        },
-        {
-          "domain": "equine74.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "pavo.net",
-          "classification": "COMPETITOR",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1.5
-        },
-        {
-          "domain": "sportpaardenarts.nl",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 2
-        },
-        {
-          "domain": "alpurial.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "annimally.at",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "bol.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "care4vet.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.742808798646362,
-        "COMPETITOR": 0.05583756345177666,
-        "EDITORIAL": 0.028764805414551613,
-        "OTHER": 0.14382402707275807,
-        "INSTITUTIONAL": 0.028764805414551613
-      },
-      "total_retrieved": 5.909999999999999
-    },
-    "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f": {
-      "by_class": {
-        "CORPORATE": 3.530000000000002,
-        "REFERENCE": 0.62,
-        "EDITORIAL": 0.63,
-        "UGC": 0.12,
-        "OTHER": 0.36,
-        "INSTITUTIONAL": 0.36
-      },
-      "top_domains": [
-        {
-          "domain": "pavo-futter.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.38,
-          "retrieval_rate": 0.38,
-          "citation_rate": 0
-        },
-        {
-          "domain": "reiter-guide.de",
-          "classification": "REFERENCE",
-          "retrieved_percentage": 0.38,
-          "retrieval_rate": 0.38,
-          "citation_rate": 1
-        },
-        {
-          "domain": "welt.de",
-          "classification": "EDITORIAL",
-          "retrieved_percentage": 0.38,
-          "retrieval_rate": 0.38,
-          "citation_rate": 1
-        },
-        {
-          "domain": "laurelnature.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.38,
-          "citation_rate": 1
-        },
-        {
-          "domain": "pferdefuttershop.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.38,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "cavallo.de",
-          "classification": "EDITORIAL",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.25,
-          "citation_rate": 0
-        },
-        {
-          "domain": "natural-horse-care.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.25,
-          "retrieval_rate": 0.25,
-          "citation_rate": 0.5
-        },
-        {
-          "domain": "madbarn.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.12,
-          "retrieval_rate": 0.25,
-          "citation_rate": 2
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.6281138790035589,
-        "REFERENCE": 0.11032028469750886,
-        "EDITORIAL": 0.11209964412811384,
-        "UGC": 0.02135231316725978,
-        "OTHER": 0.06405693950177933,
-        "INSTITUTIONAL": 0.06405693950177933
-      },
-      "total_retrieved": 5.620000000000002
-    },
-    "pr_052a6419-3a6e-49c5-9995-e2812de6cb50": {
-      "by_class": {
-        "CORPORATE": 2.8899999999999992,
-        "UGC": 0.17,
-        "OTHER": 0.34
-      },
-      "top_domains": [
-        {
-          "domain": "semhof.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.5,
-          "citation_rate": 0
-        },
-        {
-          "domain": "eurital.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "pernaturam.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "agrobs.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 2
-        },
-        {
-          "domain": "bieros.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "emma-care.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "flofea.com",
-          "classification": "UGC",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "furago.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.8499999999999999,
-        "UGC": 0.05000000000000001,
-        "OTHER": 0.10000000000000002
-      },
-      "total_retrieved": 3.3999999999999995
-    },
-    "pr_47e52da7-8646-4683-846d-2af8c113a1fc": {
-      "by_class": {
-        "CORPORATE": 3.539999999999999,
-        "OTHER": 0.33,
-        "EDITORIAL": 0.17,
-        "REFERENCE": 0.34
-      },
-      "top_domains": [
-        {
-          "domain": "dr-hawes.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "kraemer.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "leoswc.com",
-          "classification": "OTHER",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 1
-        },
-        {
-          "domain": "shop-apotheke.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.33,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "stroeh.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.5,
-          "citation_rate": 0
-        },
-        {
-          "domain": "fuetternundfit.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "migocki.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 2
-        },
-        {
-          "domain": "pferdedenker.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.8082191780821918,
-        "OTHER": 0.07534246575342468,
-        "EDITORIAL": 0.038812785388127866,
-        "REFERENCE": 0.07762557077625573
-      },
-      "total_retrieved": 4.379999999999999
-    },
-    "pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa": {
-      "by_class": {
-        "CORPORATE": 2.0399999999999996,
-        "INSTITUTIONAL": 0.8500000000000001,
-        "REFERENCE": 0.34
-      },
-      "top_domains": [
-        {
-          "domain": "stroeh.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.5,
-          "citation_rate": 0
-        },
-        {
-          "domain": "vetena.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.5,
-          "citation_rate": 0
-        },
-        {
-          "domain": "umn.edu",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.33,
-          "citation_rate": 0
-        },
-        {
-          "domain": "canina.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "care4animals.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "dochorse.de",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 5
-        },
-        {
-          "domain": "drhoelter.de",
-          "classification": "INSTITUTIONAL",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        },
-        {
-          "domain": "equiplanet.it",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 0
-        }
-      ],
-      "by_class_normalized": {
-        "CORPORATE": 0.631578947368421,
-        "INSTITUTIONAL": 0.26315789473684215,
-        "REFERENCE": 0.10526315789473686
-      },
-      "total_retrieved": 3.2299999999999995
+      "total_retrieved": 8.999999999999998
     },
     "pr_ad86aab8-1689-4374-b2eb-816d091ee9ad": {
       "by_class": {
-        "CORPORATE": 1.02,
+        "CORPORATE": 0.8500000000000001,
         "REFERENCE": 0.51,
         "COMPETITOR": 0.17,
-        "INSTITUTIONAL": 0.34,
-        "OTHER": 0.17
+        "INSTITUTIONAL": 0.34
       },
       "top_domains": [
         {
@@ -3662,13 +3675,6 @@
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.17,
           "citation_rate": 0
-        },
-        {
-          "domain": "natuerlich-pferd.com",
-          "classification": "CORPORATE",
-          "retrieved_percentage": 0.17,
-          "retrieval_rate": 0.17,
-          "citation_rate": 1
         },
         {
           "domain": "natural-horse-care.com",
@@ -3697,16 +3703,22 @@
           "retrieved_percentage": 0.17,
           "retrieval_rate": 0.17,
           "citation_rate": 0
+        },
+        {
+          "domain": "tierheilpraktiker.de",
+          "classification": "INSTITUTIONAL",
+          "retrieved_percentage": 0.17,
+          "retrieval_rate": 0.17,
+          "citation_rate": 0
         }
       ],
       "by_class_normalized": {
-        "CORPORATE": 0.46153846153846156,
-        "REFERENCE": 0.23076923076923078,
-        "COMPETITOR": 0.07692307692307693,
-        "INSTITUTIONAL": 0.15384615384615385,
-        "OTHER": 0.07692307692307693
+        "CORPORATE": 0.4545454545454546,
+        "REFERENCE": 0.2727272727272727,
+        "COMPETITOR": 0.09090909090909091,
+        "INSTITUTIONAL": 0.18181818181818182
       },
-      "total_retrieved": 2.21
+      "total_retrieved": 1.87
     }
   }
 }

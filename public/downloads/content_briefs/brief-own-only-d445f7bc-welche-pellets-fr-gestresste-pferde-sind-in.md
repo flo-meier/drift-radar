@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
-**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-29 → 2026-05-01
+**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
 
 ## Engine visibility
 
@@ -15,24 +15,21 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %)
-- **Pavo** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
-- **Höveler** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.9 %
-- **Corporate:** 92.3 %
-- **Other:** 3.9 %
+- **Corporate:** 85.6 %
+- **Other:** 14.4 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 17 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 50 % of chats
+- `hipposport.de` – CORPORATE, retrieved 50 % of chats
+- `cdvet.de` – CORPORATE, retrieved 17 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 17 % of chats
+- `bieros.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -44,7 +41,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.
