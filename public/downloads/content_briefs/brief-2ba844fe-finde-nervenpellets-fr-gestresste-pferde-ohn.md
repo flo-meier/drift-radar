@@ -1,6 +1,6 @@
 # Drift Radar – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
-**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -42,17 +42,17 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Corporate:** 97.1 %
-- **Other:** 2.9 %
+- **Corporate:** 96.3 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
-- `equidocs.de` – CORPORATE, retrieved 50 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 50 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 50 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `alpurial.de` – CORPORATE, retrieved 33 % of chats
-- `freshfellow.de` – CORPORATE, retrieved 33 % of chats
+- `equidocs.de` – CORPORATE, retrieved 33 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
+- `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
+- `equineessentialhub.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

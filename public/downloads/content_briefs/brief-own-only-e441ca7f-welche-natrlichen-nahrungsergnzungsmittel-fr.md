@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -18,7 +18,10 @@
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Editorial:** 3.6 %
+- **Reference:** 10.8 %
+- **Institutional:** 10.8 %
+- **Corporate:** 74.8 %
 
 **Top cited domains**
 
@@ -27,7 +30,7 @@
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `aniforte.de` – CORPORATE, retrieved 17 % of chats
 - `barynesse.com` – CORPORATE, retrieved 17 % of chats
-- `canina.de` – CORPORATE, retrieved 17 % of chats
+- `bio-apo.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.9 %
-- **Reference:** 5.2 %
-- **Institutional:** 6.5 %
-- **Corporate:** 80.6 %
-- **Other:** 3.9 %
+- **Editorial:** 4.4 %
+- **Reference:** 5.9 %
+- **Institutional:** 5.9 %
+- **Corporate:** 77.9 %
+- **Other:** 5.9 %
 
 **Top cited domains**
 
-- `migocki.de` – CORPORATE, retrieved 56 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
-- `hippoplus.de` – CORPORATE, retrieved 44 % of chats
+- `migocki.de` – CORPORATE, retrieved 44 % of chats
+- `nuvallo.de` – OTHER, retrieved 44 % of chats
 - `emma-care.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `equanis.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

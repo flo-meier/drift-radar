@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -15,27 +15,26 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.6 %
-- **Editorial:** 9.7 %
-- **Ugc:** 1.6 %
-- **Reference:** 9.7 %
-- **Institutional:** 8.1 %
-- **Corporate:** 64.5 %
-- **Other:** 4.8 %
+- **Competitor:** 1.9 %
+- **Editorial:** 9.6 %
+- **Ugc:** 1.9 %
+- **Reference:** 9.6 %
+- **Institutional:** 5.8 %
+- **Corporate:** 67.3 %
+- **Other:** 3.8 %
 
 **Top cited domains**
 
-- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
-- `welt.de` – EDITORIAL, retrieved 44 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
 - `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `laurelnature.com` – CORPORATE, retrieved 22 % of chats
-- `annimally.de` – CORPORATE, retrieved 22 % of chats
+- `care4vet.de` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `welt.de` – EDITORIAL, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -47,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Eggersmann, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

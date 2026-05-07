@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Competitor:** 0.8 %
-- **Editorial:** 4.6 %
-- **Ugc:** 4.6 %
-- **Reference:** 2.3 %
-- **Institutional:** 3.9 %
-- **Corporate:** 79.1 %
-- **Other:** 4.6 %
+- **Competitor:** 1.0 %
+- **Editorial:** 3.9 %
+- **Ugc:** 3.9 %
+- **Reference:** 1.9 %
+- **Institutional:** 4.9 %
+- **Corporate:** 79.6 %
+- **Other:** 4.9 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 56 % of chats
-- `youtube.com` – UGC, retrieved 44 % of chats
-- `madbarn.com` – CORPORATE, retrieved 44 % of chats
+- `kraemer.de` – CORPORATE, retrieved 44 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 44 % of chats
+- `youtube.com` – UGC, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
 - `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -42,20 +42,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 2.9 %
-- **Reference:** 5.8 %
-- **Institutional:** 2.9 %
-- **Corporate:** 82.8 %
-- **Other:** 5.6 %
+- **Editorial:** 5.3 %
+- **Institutional:** 5.3 %
+- **Corporate:** 84.2 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
-- `dr-hawes.de` – CORPORATE, retrieved 50 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `equidrol.de` – CORPORATE, retrieved 33 % of chats
-- `hyjoint-gelenke.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `leoswc.com` – OTHER, retrieved 33 % of chats
+- `dr-hawes.de` – CORPORATE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
+- `migocki.de` – CORPORATE, retrieved 17 % of chats
+- `pferdedenker.de` – CORPORATE, retrieved 17 % of chats
+- `vetmedpro.de` – CORPORATE, retrieved 17 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 17 % of chats
 
 ## Suggested article
 

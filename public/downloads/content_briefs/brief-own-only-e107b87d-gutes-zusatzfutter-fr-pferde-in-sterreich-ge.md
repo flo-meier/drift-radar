@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Pferde in Österreich gesucht.«
 
-**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -14,28 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Eggersmann** – top visibility 67 %  (ChatGPT 67 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 1.9 %
-- **Ugc:** 3.9 %
-- **Reference:** 1.9 %
-- **Corporate:** 86.4 %
-- **Other:** 5.8 %
+- **Institutional:** 2.4 %
+- **Corporate:** 92.9 %
+- **Other:** 4.7 %
 
 **Top cited domains**
 
+- `annimally.at` – CORPORATE, retrieved 50 % of chats
+- `sanovet.com` – CORPORATE, retrieved 50 % of chats
+- `horze.at` – CORPORATE, retrieved 50 % of chats
 - `kraemer.at` – CORPORATE, retrieved 50 % of chats
-- `fromaustria.com` – CORPORATE, retrieved 50 % of chats
-- `annimally.at` – CORPORATE, retrieved 33 % of chats
-- `sanovet.com` – CORPORATE, retrieved 33 % of chats
-- `horze.at` – CORPORATE, retrieved 33 % of chats
-- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
+- `wahl-agrar.at` – CORPORATE, retrieved 50 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 50 % of chats
 
 ## Suggested article
 
@@ -47,7 +45,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Eggersmann, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

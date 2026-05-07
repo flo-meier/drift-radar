@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -15,21 +15,22 @@
 ## Citation source mix
 
 - **Own:** 1.2 %
-- **Editorial:** 7.0 %
-- **Ugc:** 3.5 %
-- **Reference:** 8.1 %
-- **Institutional:** 11.6 %
-- **Corporate:** 58.1 %
-- **Other:** 10.5 %
+- **Competitor:** 1.2 %
+- **Editorial:** 5.9 %
+- **Ugc:** 7.1 %
+- **Reference:** 7.1 %
+- **Institutional:** 11.9 %
+- **Corporate:** 60.8 %
+- **Other:** 4.8 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `researchgate.net` – OTHER, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 56 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
+- `equine74.com` – CORPORATE, retrieved 44 % of chats
+- `krauterie.de` – CORPORATE, retrieved 33 % of chats
+- `researchgate.net` – UGC, retrieved 33 % of chats
 - `futter-simon.de` – CORPORATE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

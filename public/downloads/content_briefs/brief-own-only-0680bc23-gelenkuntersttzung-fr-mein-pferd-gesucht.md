@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -14,25 +14,24 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 50 %  (AI Overview 50 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (AI Overview 67 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.9 %
-- **Ugc:** 3.7 %
-- **Institutional:** 1.9 %
-- **Corporate:** 87.0 %
-- **Other:** 5.6 %
+- **Competitor:** 2.9 %
+- **Ugc:** 4.3 %
+- **Institutional:** 2.9 %
+- **Corporate:** 84.1 %
+- **Other:** 5.8 %
 
 **Top cited domains**
 
-- `emma-care.de` – CORPORATE, retrieved 38 % of chats
-- `amazon.de` – CORPORATE, retrieved 25 % of chats
-- `mambocare.de` – CORPORATE, retrieved 25 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
-- `hipposport.de` – CORPORATE, retrieved 25 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `migocki.de` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -44,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -40,18 +40,18 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Ugc:** 3.0 %
-- **Corporate:** 88.2 %
-- **Other:** 8.9 %
+- **Ugc:** 1.9 %
+- **Corporate:** 90.3 %
+- **Other:** 7.8 %
 
 **Top cited domains**
 
-- `stallbedarf24.de` – CORPORATE, retrieved 50 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `powerpferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `chewy.com` – CORPORATE, retrieved 17 % of chats
-- `tributeequinenutrition.com` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 50 % of chats
+- `powerpferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `tributeequinenutrition.com` – CORPORATE, retrieved 33 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
+- `alpurial.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

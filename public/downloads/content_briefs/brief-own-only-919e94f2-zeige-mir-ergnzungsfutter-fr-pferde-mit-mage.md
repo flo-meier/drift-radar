@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -15,24 +15,22 @@
 ## Who is cited instead
 
 - **Havens** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %)
 
 ## Citation source mix
 
-- **Competitor:** 6.1 %
-- **Editorial:** 3.1 %
-- **Institutional:** 3.1 %
-- **Corporate:** 84.4 %
-- **Other:** 3.1 %
+- **Competitor:** 3.2 %
+- **Corporate:** 81.2 %
+- **Other:** 15.7 %
 
 **Top cited domains**
 
-- `horsefeed.nl` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `pavo.net` – COMPETITOR, retrieved 33 % of chats
-- `sportpaardenarts.nl` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `google.com` – OTHER, retrieved 33 % of chats
+- `horsefeed.nl` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

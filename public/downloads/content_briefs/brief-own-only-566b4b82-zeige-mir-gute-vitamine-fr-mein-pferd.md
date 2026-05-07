@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -15,23 +15,23 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 100 %  (ChatGPT 100 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 2.6 %
-- **Reference:** 5.2 %
-- **Institutional:** 23.0 %
-- **Corporate:** 69.2 %
+- **Editorial:** 3.5 %
+- **Reference:** 3.6 %
+- **Institutional:** 15.6 %
+- **Corporate:** 75.6 %
+- **Other:** 1.8 %
 
 **Top cited domains**
 
-- `vetena.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `umn.edu` – INSTITUTIONAL, retrieved 33 % of chats
-- `extension.org` – INSTITUTIONAL, retrieved 33 % of chats
-- `madbarn.ca` – CORPORATE, retrieved 33 % of chats
-- `canina.de` – CORPORATE, retrieved 33 % of chats
+- `vetena.de` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `madbarn.ca` – CORPORATE, retrieved 50 % of chats
+- `regulatorcomplete.dk` – CORPORATE, retrieved 50 % of chats
+- `canina.de` – CORPORATE, retrieved 50 % of chats
+- `care4animals.de` – CORPORATE, retrieved 50 % of chats
 
 ## Suggested article
 
@@ -43,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

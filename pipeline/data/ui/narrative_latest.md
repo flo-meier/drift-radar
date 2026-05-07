@@ -1,29 +1,34 @@
-# Drift Radar · 2026-05-05
+# Drift Radar · 2026-05-06
 
-## Overview
+## Summary
 
-Pferdegold tracked 50 prompts across ChatGPT, Gemini, and AI Overview (May 3–5). Current drifting count: 11 prompts. Own-brand visibility averaged 5.1%. No new prompts entered drifting range this week.
+Pferdegold's tracked prompts show net contraction in drifting activity. Drifting prompts rose from 8 to 10 (2 new entries), but 3 prompts exited drifting range simultaneously. Own-brand visibility remains flat at 4.3%. Silence-type volatility increased: 7 prompts changed classification between own-only and full silence.
 
-## Movement Analysis
+## Movement In
 
-Three prompts exited drifting territory, all dropping to zero visibility:
+Two prompts entered drifting territory this week:
 
-- "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd." (−0.443)
-- "Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen." (−0.443)
-- "Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?" (−0.443)
+- *Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde* (score: 0.443) – shifted from own-only silence to active drift
+- *Welche natürlichen Gelenkpellets für Pferde empfiehlst du?* (score: 0.443) – same pattern, own-only to drift
 
-These exits correlate with silence-type shifts. Two of the three moved into full silence (previously own-only). The pattern suggests content or indexing changes across engines reduced Pferdegold's mention density for basic supplement queries.
+Both target ingredient comparison and product recommendation queries. Drift signals competing visibility on supplement-specific queries.
 
-One prompt strengthened significantly: "Analysiere die Zusammensetzung von Gelenkpellets für Pferde..." climbed to 0.912 visibility (+0.231), indicating improved performance on technical product-analysis searches.
+## Movement Out
 
-## Silence Dynamics
+Three prompts dropped below drifting threshold:
 
-Eight prompts changed silence classification. Movement was split: three shifted toward full silence, three toward own-only visibility, and two represent new tracking entries. The net effect is 30 prompts now showing own-only silence – a stable position suggesting Pferdegold ranks in some engines but not others for supplement-focused queries.
+- *Suche gesundes Zusatzfutter für Pferde in Deutschland* (0.0)
+- *Wo finde ich in Deutschland gesundes Pferdefutter?* (0.0)
+- *Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?* (0.0)
 
-## Where to Look First
+Geographic and specific-product queries lost competitive pressure. All three reverted to own-only silence.
 
-Investigate the three dropped prompts' engine-by-engine performance. Determine whether visibility loss occurred uniformly or concentrated in one platform. Check whether competitor content improved or Pferdegold's content lost ranking signals.
+## Silence Reclassification
 
-The joint strength in technical queries (0.912 on composition analysis) warrants content expansion in that direction.
+Seven prompts changed silence type. The two new drifters transitioned from own-only silence (competitors absent) to active drift (competitors present). Conversely, three previously drifting prompts returned to own-only silence, indicating reduced competitive response. Two additional prompts moved from full silence to own-only, suggesting Pferdegold content is now appearing alongside silence on those queries.
 
-Next week will reveal whether the drifting-range stability holds or if silence-type shifts predict further movement.
+## Priority Focus
+
+Check the two new drifters: ingredient comparison and joint supplement recommendations. These queries show emerging competitive activity. Verify whether competitors entered these spaces or whether visibility algorithms shifted. The three exiting drifters warrant less immediate attention.
+
+Look next week for stabilization patterns – whether new drifters persist or regress to silence.

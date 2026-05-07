@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
 
 ## Engine visibility
 
@@ -14,19 +14,17 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.3 %
-- **Reference:** 3.3 %
-- **Corporate:** 67.9 %
-- **Other:** 25.6 %
+- **Corporate:** 75.2 %
+- **Other:** 24.8 %
 
 **Top cited domains**
 
-- `hundefreuden.de` – OTHER, retrieved 50 % of chats
-- `der-onlinehund.de` – OTHER, retrieved 33 % of chats
-- `hansetier.de` – CORPORATE, retrieved 33 % of chats
-- `vetmedpro.de` – CORPORATE, retrieved 33 % of chats
-- `apotheke.de` – EDITORIAL, retrieved 17 % of chats
+- `hundefreuden.de` – OTHER, retrieved 33 % of chats
 - `mammaly.de` – OTHER, retrieved 17 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 17 % of chats
+- `annimally.de` – CORPORATE, retrieved 17 % of chats
+- `annimally.nl` – CORPORATE, retrieved 17 % of chats
+- `bosali-barf.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
