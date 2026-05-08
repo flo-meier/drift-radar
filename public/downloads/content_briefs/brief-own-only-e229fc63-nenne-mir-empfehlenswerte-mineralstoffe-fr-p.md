@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
 
 ## Engine visibility
 
@@ -18,19 +18,19 @@
 
 ## Citation source mix
 
-- **Reference:** 9.4 %
-- **Institutional:** 15.7 %
-- **Corporate:** 65.6 %
-- **Other:** 9.4 %
+- **Reference:** 4.6 %
+- **Institutional:** 9.1 %
+- **Corporate:** 77.2 %
+- **Other:** 9.1 %
 
 **Top cited domains**
 
-- `canina.de` – CORPORATE, retrieved 33 % of chats
-- `horsesport.com` – REFERENCE, retrieved 17 % of chats
-- `iwest.de` – CORPORATE, retrieved 17 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `ak-pferd.de` – OTHER, retrieved 17 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `agriatierversicherung.de` – CORPORATE, retrieved 17 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 17 % of chats
+- `atcomhorse.de` – CORPORATE, retrieved 17 % of chats
+- `bio-apo.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

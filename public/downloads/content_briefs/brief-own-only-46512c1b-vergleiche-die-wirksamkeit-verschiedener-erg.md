@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.3 %
-- **Editorial:** 2.3 %
-- **Ugc:** 8.1 %
-- **Reference:** 4.7 %
-- **Institutional:** 4.7 %
-- **Corporate:** 61.6 %
-- **Other:** 16.3 %
+- **Competitor:** 2.0 %
+- **Editorial:** 3.0 %
+- **Ugc:** 9.1 %
+- **Reference:** 5.1 %
+- **Institutional:** 5.1 %
+- **Corporate:** 65.7 %
+- **Other:** 10.1 %
 
 **Top cited domains**
 
-- `vetripharm.de` – CORPORATE, retrieved 44 % of chats
+- `stroeh.de` – CORPORATE, retrieved 44 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
+- `deuka.de` – CORPORATE, retrieved 33 % of chats
+- `foranequine.com` – CORPORATE, retrieved 33 % of chats
 - `hartog.eu` – CORPORATE, retrieved 33 % of chats
-- `horseandmore.ch` – OTHER, retrieved 33 % of chats
+- `pferd.de` – UGC, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir gutes Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
 
 ## Engine visibility
 
@@ -20,14 +20,16 @@
 
 ## Citation source mix
 
-- **Editorial:** 13.2 %
-- **Reference:** 10.1 %
-- **Institutional:** 16.8 %
-- **Corporate:** 59.9 %
+- **Editorial:** 10.2 %
+- **Ugc:** 2.6 %
+- **Reference:** 12.9 %
+- **Institutional:** 12.9 %
+- **Corporate:** 58.9 %
+- **Other:** 2.6 %
 
 **Top cited domains**
 
-- `equiva.com` – CORPORATE, retrieved 33 % of chats
+- `equiva.com` – CORPORATE, retrieved 50 % of chats
 - `heypferd.de` – EDITORIAL, retrieved 33 % of chats
 - `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
 - `vetena.de` – CORPORATE, retrieved 33 % of chats

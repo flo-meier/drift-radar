@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
 
 ## Engine visibility
 
@@ -14,17 +14,16 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 67 %  (Gemini 67 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 5.4 %
-- **Ugc:** 2.7 %
-- **Institutional:** 5.3 %
-- **Corporate:** 78.4 %
-- **Other:** 8.2 %
+- **Editorial:** 5.6 %
+- **Institutional:** 5.4 %
+- **Corporate:** 86.2 %
+- **Other:** 2.8 %
 
 **Top cited domains**
 
@@ -33,7 +32,7 @@
 - `gastrobalance.at` – INSTITUTIONAL, retrieved 33 % of chats
 - `ludwigs-apotheke.at` – CORPORATE, retrieved 33 % of chats
 - `valsona.de` – CORPORATE, retrieved 33 % of chats
-- `hundefreuden.de` – OTHER, retrieved 17 % of chats
+- `carepet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

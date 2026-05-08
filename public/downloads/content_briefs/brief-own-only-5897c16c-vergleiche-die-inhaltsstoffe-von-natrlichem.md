@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
 
 ## Engine visibility
 
@@ -19,22 +19,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.9 %
-- **Editorial:** 9.6 %
-- **Ugc:** 1.9 %
-- **Reference:** 9.6 %
-- **Institutional:** 5.8 %
-- **Corporate:** 67.3 %
-- **Other:** 3.8 %
+- **Competitor:** 1.7 %
+- **Editorial:** 8.3 %
+- **Ugc:** 1.7 %
+- **Reference:** 11.7 %
+- **Institutional:** 6.7 %
+- **Corporate:** 61.7 %
+- **Other:** 8.3 %
 
 **Top cited domains**
 
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `care4vet.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `welt.de` – EDITORIAL, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
+- `profi-tack.de` – CORPORATE, retrieved 22 % of chats
+- `annimally.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

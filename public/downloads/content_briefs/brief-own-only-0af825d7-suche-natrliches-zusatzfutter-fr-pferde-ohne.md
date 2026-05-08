@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
 
 ## Engine visibility
 
@@ -14,25 +14,27 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
 - **Pavo** – top visibility 33 %  (Gemini 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.8 %
-- **Ugc:** 4.0 %
-- **Corporate:** 80.4 %
-- **Other:** 9.8 %
+- **Competitor:** 3.6 %
+- **Ugc:** 1.8 %
+- **Reference:** 1.8 %
+- **Corporate:** 87.2 %
+- **Other:** 5.5 %
 
 **Top cited domains**
 
 - `pernaturam.de` – CORPORATE, retrieved 50 % of chats
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `marstall.de` – COMPETITOR, retrieved 50 % of chats
-- `squeed.de` – CORPORATE, retrieved 50 % of chats
 - `barynesse.com` – CORPORATE, retrieved 50 % of chats
-- `dengie.com` – CORPORATE, retrieved 33 % of chats
+- `dengie.com` – CORPORATE, retrieved 50 % of chats
+- `pernaturam.ch` – CORPORATE, retrieved 50 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 
 ## Suggested article
 

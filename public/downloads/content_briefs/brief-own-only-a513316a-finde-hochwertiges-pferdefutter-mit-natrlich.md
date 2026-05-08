@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
 
 ## Engine visibility
 
@@ -14,24 +14,25 @@
 
 ## Who is cited instead
 
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Eggersmann** – top visibility 100 %  (Gemini 100 %)
 - **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
 - **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 88.3 %
-- **Other:** 11.7 %
+- **Editorial:** 3.1 %
+- **Ugc:** 3.1 %
+- **Corporate:** 87.7 %
+- **Other:** 6.2 %
 
 **Top cited domains**
 
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `fuettern-mit-spass.de` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `wielensdiervoeders.nl` – CORPORATE, retrieved 33 % of chats
+- `annimally.de` – CORPORATE, retrieved 33 % of chats
 - `eurital.de` – CORPORATE, retrieved 33 % of chats
-- `top-futtermittel.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

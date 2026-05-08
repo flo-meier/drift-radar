@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.2 %
-- **Editorial:** 2.4 %
-- **Ugc:** 1.2 %
-- **Reference:** 8.5 %
-- **Institutional:** 19.5 %
-- **Corporate:** 53.7 %
-- **Other:** 13.4 %
+- **Competitor:** 3.7 %
+- **Editorial:** 3.7 %
+- **Ugc:** 1.9 %
+- **Reference:** 7.4 %
+- **Institutional:** 9.3 %
+- **Corporate:** 59.3 %
+- **Other:** 14.8 %
 
 **Top cited domains**
 
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 44 % of chats
-- `agrobs.de` – CORPORATE, retrieved 33 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `masterhorse-infowissen.de` – OTHER, retrieved 33 % of chats
 - `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 22 % of chats
 - `dengie.com` – OTHER, retrieved 22 % of chats
 - `iwest.de` – CORPORATE, retrieved 22 % of chats
-- `madbarn.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

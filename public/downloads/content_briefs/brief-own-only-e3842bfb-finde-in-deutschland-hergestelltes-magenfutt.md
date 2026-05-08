@@ -1,6 +1,6 @@
 # Drift Radar – »Finde in Deutschland hergestelltes Magenfutter für mein Pferd.«
 
-**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 33 %)
-- **Höveler** – top visibility 100 %  (Gemini 100 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 100 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Eggersmann** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.3 %
-- **Ugc:** 1.8 %
-- **Corporate:** 87.7 %
-- **Other:** 5.3 %
+- **Competitor:** 4.6 %
+- **Ugc:** 1.5 %
+- **Corporate:** 89.2 %
+- **Other:** 4.6 %
 
 **Top cited domains**
 
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 56 % of chats
 - `alpurial.de` – CORPORATE, retrieved 44 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `deganius.de` – CORPORATE, retrieved 33 % of chats
