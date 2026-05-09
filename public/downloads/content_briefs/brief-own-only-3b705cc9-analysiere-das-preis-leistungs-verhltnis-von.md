@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -15,27 +15,26 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Eggersmann** – top visibility 67 %  (ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.9 %
-- **Editorial:** 22.0 %
-- **Reference:** 6.1 %
-- **Institutional:** 12.2 %
-- **Corporate:** 53.9 %
-- **Other:** 2.0 %
+- **Competitor:** 4.6 %
+- **Editorial:** 11.5 %
+- **Reference:** 7.1 %
+- **Institutional:** 18.7 %
+- **Corporate:** 53.6 %
+- **Other:** 4.6 %
 
 **Top cited domains**
 
 - `furago.de` – CORPORATE, retrieved 25 % of chats
+- `semhof.de` – CORPORATE, retrieved 25 % of chats
 - `agrobs.de` – CORPORATE, retrieved 25 % of chats
 - `kraemer.de` – CORPORATE, retrieved 25 % of chats
 - `landwirtschaft.de` – INSTITUTIONAL, retrieved 25 % of chats
 - `lavisano.de` – CORPORATE, retrieved 25 % of chats
-- `lkvsachsen.de` – INSTITUTIONAL, retrieved 25 % of chats
 
 ## Suggested article
 
@@ -47,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

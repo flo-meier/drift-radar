@@ -92,8 +92,8 @@
       "name": "GPT 5 Search",
       "is_active": false
     },
-    "grok-4": {
-      "name": "Grok 4",
+    "grok-4.3": {
+      "name": "Grok 4.3",
       "is_active": false
     },
     "grok-scraper": {

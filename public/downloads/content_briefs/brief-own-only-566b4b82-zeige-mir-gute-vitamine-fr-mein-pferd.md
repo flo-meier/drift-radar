@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.3 %
-- **Institutional:** 8.8 %
-- **Corporate:** 84.7 %
-- **Other:** 2.2 %
+- **Editorial:** 4.4 %
+- **Institutional:** 2.3 %
+- **Corporate:** 91.1 %
+- **Other:** 2.3 %
 
 **Top cited domains**
 
-- `vetena.de` – CORPORATE, retrieved 50 % of chats
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `vetena.de` – CORPORATE, retrieved 50 % of chats
 - `canina.de` – CORPORATE, retrieved 50 % of chats
-- `madbarn.ca` – CORPORATE, retrieved 33 % of chats
 - `horsesbestshop.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `madbarn.ca` – CORPORATE, retrieved 33 % of chats
+- `regulatorcomplete.dk` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

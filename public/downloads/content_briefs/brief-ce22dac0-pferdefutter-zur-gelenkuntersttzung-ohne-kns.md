@@ -1,14 +1,16 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
-- **Gemini:** 33 %
+- **Gemini:** 0 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+
+**Silence type:** `full`
 
 ## What the engines say
 
@@ -21,7 +23,7 @@
 - _brand_ – Pavo offers joint support
 - _criterion_ – These brands offer natural joint support
 
-### Gemini – visibility 33 %
+### Gemini – visibility 0 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -41,29 +43,31 @@ _No claims overlap across two or more engines. Every engine answers with its own
 ## Citation source mix
 
 - **Ugc:** 1.9 %
-- **Corporate:** 92.2 %
-- **Other:** 5.8 %
+- **Institutional:** 3.8 %
+- **Corporate:** 84.7 %
+- **Other:** 9.6 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `powerpferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `seewinkler-naturprodukte.com` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `tributeequinenutrition.com` – CORPORATE, retrieved 33 % of chats
-- `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
+- `actifyt.com` – CORPORATE, retrieved 33 % of chats
 - `alpurial.de` – CORPORATE, retrieved 33 % of chats
+- `deuka.de` – CORPORATE, retrieved 33 % of chats
+- `feedmark.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
-- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
-- **Length:** 1 500 – 2 500 words
-- **Headline starting point:** »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen. – what Pferdegold actually does«
+- **Format:** Pillar / category-explainer guide
+- **Length:** 2 000 – 3 500 words
+- **Headline starting point:** »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen. – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
+- **Full silence – free real estate.** Create a definitive answer page for this prompt before a competitor does.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

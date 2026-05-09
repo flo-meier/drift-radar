@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in Deutschland gesundes Pferdefutter?«
 
-**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -14,28 +14,27 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %, ChatGPT 33 %)
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, AI Overview 67 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, AI Overview 33 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %, Gemini 33 %)
 - **Marstall** – top visibility 67 %  (Gemini 67 %)
 - **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 1.4 %
-- **Ugc:** 1.4 %
-- **Institutional:** 2.9 %
-- **Corporate:** 92.8 %
-- **Other:** 1.4 %
+- **Ugc:** 2.5 %
+- **Institutional:** 3.7 %
+- **Corporate:** 91.3 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `salvana-pferde.de` – CORPORATE, retrieved 56 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 67 % of chats
+- `hipposport.de` – CORPORATE, retrieved 44 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
 - `okapi-online.de` – CORPORATE, retrieved 44 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `baywa.com` – CORPORATE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `loesdau.de` – CORPORATE, retrieved 33 % of chats
+- `semhof.de` – CORPORATE, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

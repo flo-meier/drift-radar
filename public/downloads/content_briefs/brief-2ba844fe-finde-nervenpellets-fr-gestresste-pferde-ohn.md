@@ -1,14 +1,14 @@
 # Drift Radar – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
-**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
 - **ChatGPT:** 33 %
-- **Gemini:** 33 %
+- **Gemini:** 67 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -21,7 +21,7 @@
 - _brand_ – Pavo Calm & Relax contains Magnesium and herbs
 - _substance_ – Magnesium supports nervous horse health
 
-### Gemini – visibility 33 %
+### Gemini – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -42,17 +42,17 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 3.1 %
-- **Corporate:** 96.9 %
+- **Own:** 3.9 %
+- **Corporate:** 96.1 %
 
 **Top cited domains**
 
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `equidocs.de` – CORPORATE, retrieved 33 % of chats
 - `cdvet.de` – CORPORATE, retrieved 33 % of chats
-- `diefutterkammer.de` – CORPORATE, retrieved 33 % of chats
-- `freshfellow.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 17 % of chats
 
 ## Suggested article
 

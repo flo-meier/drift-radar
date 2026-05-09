@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -14,27 +14,27 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.7 %
-- **Editorial:** 8.3 %
-- **Ugc:** 1.7 %
-- **Reference:** 11.7 %
-- **Institutional:** 6.7 %
-- **Corporate:** 61.7 %
-- **Other:** 8.3 %
+- **Editorial:** 8.7 %
+- **Ugc:** 2.9 %
+- **Reference:** 10.1 %
+- **Institutional:** 4.3 %
+- **Corporate:** 65.2 %
+- **Other:** 8.7 %
 
 **Top cited domains**
 
-- `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `welt.de` – EDITORIAL, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
-- `profi-tack.de` – CORPORATE, retrieved 22 % of chats
-- `annimally.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -46,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

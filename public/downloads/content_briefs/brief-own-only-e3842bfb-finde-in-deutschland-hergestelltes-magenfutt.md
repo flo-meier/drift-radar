@@ -1,6 +1,6 @@
 # Drift Radar – »Finde in Deutschland hergestelltes Magenfutter für mein Pferd.«
 
-**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -14,26 +14,27 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 100 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **Höveler** – top visibility 67 %  (Gemini 67 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.6 %
-- **Ugc:** 1.5 %
-- **Corporate:** 89.2 %
-- **Other:** 4.6 %
+- **Competitor:** 4.4 %
+- **Ugc:** 2.9 %
+- **Institutional:** 1.5 %
+- **Corporate:** 88.2 %
+- **Other:** 2.9 %
 
 **Top cited domains**
 
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 56 % of chats
+- `stroeh.de` – CORPORATE, retrieved 44 % of chats
 - `alpurial.de` – CORPORATE, retrieved 44 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `deganius.de` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -45,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -14,27 +14,24 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.6 %
-- **Ugc:** 1.8 %
-- **Reference:** 1.8 %
-- **Corporate:** 87.2 %
-- **Other:** 5.5 %
+- **Competitor:** 2.4 %
+- **Reference:** 2.4 %
+- **Corporate:** 95.2 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 50 % of chats
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
 - `barynesse.com` – CORPORATE, retrieved 50 % of chats
-- `dengie.com` – CORPORATE, retrieved 50 % of chats
-- `pernaturam.ch` – CORPORATE, retrieved 50 % of chats
+- `salutaria.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `dengie.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -46,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

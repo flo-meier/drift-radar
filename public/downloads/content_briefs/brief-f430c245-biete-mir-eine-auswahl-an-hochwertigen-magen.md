@@ -1,18 +1,18 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
-- **ChatGPT:** 0 %
+- **ChatGPT:** 33 %
 - **Gemini:** 0 %
 - **AI Overview:** 67 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 0 %
+### ChatGPT – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -47,19 +47,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 2.8 %
-- **Ugc:** 4.2 %
-- **Corporate:** 80.6 %
-- **Other:** 12.5 %
+- **Competitor:** 2.6 %
+- **Ugc:** 5.1 %
+- **Corporate:** 87.2 %
+- **Other:** 5.1 %
 
 **Top cited domains**
 
 - `equine74.com` – CORPORATE, retrieved 44 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – OTHER, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 22 % of chats
+- `eqx.vet` – CORPORATE, retrieved 22 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

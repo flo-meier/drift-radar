@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -16,7 +16,7 @@
 
 - **Eggersmann** – top visibility 100 %  (Gemini 100 %)
 - **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 

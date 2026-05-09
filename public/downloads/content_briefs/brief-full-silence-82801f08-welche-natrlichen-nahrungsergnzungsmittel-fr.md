@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Citation source mix
 
-- **Own:** 1.9 %
-- **Competitor:** 0.9 %
-- **Editorial:** 0.9 %
-- **Ugc:** 1.9 %
-- **Reference:** 6.6 %
-- **Institutional:** 5.7 %
-- **Corporate:** 79.2 %
-- **Other:** 2.8 %
+- **Own:** 2.0 %
+- **Competitor:** 1.0 %
+- **Editorial:** 1.0 %
+- **Ugc:** 3.0 %
+- **Reference:** 7.9 %
+- **Institutional:** 5.9 %
+- **Corporate:** 75.2 %
+- **Other:** 4.0 %
 
 **Top cited domains**
 
 - `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 44 % of chats
 - `winnies.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
 - `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `et-hoofcare.ch` – CORPORATE, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -42,20 +42,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 7.7 %
-- **Reference:** 3.9 %
-- **Institutional:** 3.9 %
-- **Corporate:** 80.6 %
-- **Other:** 3.9 %
+- **Editorial:** 8.1 %
+- **Ugc:** 16.1 %
+- **Reference:** 4.0 %
+- **Corporate:** 63.7 %
+- **Other:** 8.1 %
 
 **Top cited domains**
 
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `dr-hawes.de` – CORPORATE, retrieved 33 % of chats
-- `hyjoint-gelenke.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `ehorses.de` – CORPORATE, retrieved 33 % of chats
+- `gutefrage.net` – UGC, retrieved 17 % of chats
 - `pferde-gold.com` – CORPORATE, retrieved 17 % of chats
-- `vetmedpro.de` – CORPORATE, retrieved 17 % of chats
+- `urbia.de` – UGC, retrieved 17 % of chats
 
 ## Suggested article
 

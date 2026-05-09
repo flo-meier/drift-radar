@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?«
 
-**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -14,28 +14,28 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %, Gemini 67 %, ChatGPT 33 %)
-- **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 67 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %, AI Overview 67 %)
-- **Höveler** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %, Gemini 33 %)
-- **Nösenberger** – top visibility 67 %  (AI Overview 67 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (AI Overview 100 %, ChatGPT 67 %, Gemini 67 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 67 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %, AI Overview 67 %)
+- **Nösenberger** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.4 %
-- **Ugc:** 1.4 %
-- **Institutional:** 2.8 %
-- **Corporate:** 88.7 %
-- **Other:** 5.6 %
+- **Competitor:** 1.6 %
+- **Ugc:** 1.6 %
+- **Institutional:** 4.9 %
+- **Corporate:** 88.5 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
 - `pferde-reformhaus.ch` – CORPORATE, retrieved 44 % of chats
-- `zooplus.ch` – CORPORATE, retrieved 44 % of chats
 - `equusvitalis.ch` – CORPORATE, retrieved 44 % of chats
-- `galaxus.ch` – CORPORATE, retrieved 33 % of chats
 - `cavale-schweiz.ch` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 33 % of chats
+- `hauptner.ch` – CORPORATE, retrieved 33 % of chats
+- `hypona.ch` – CORPORATE, retrieved 33 % of chats
+- `zooplus.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

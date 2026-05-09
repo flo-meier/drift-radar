@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -14,22 +14,21 @@
 
 ## Citation source mix
 
-- **Own:** 1.1 %
-- **Competitor:** 1.1 %
-- **Editorial:** 4.5 %
-- **Ugc:** 10.1 %
-- **Reference:** 6.7 %
-- **Institutional:** 12.4 %
-- **Corporate:** 60.7 %
-- **Other:** 3.4 %
+- **Competitor:** 2.5 %
+- **Editorial:** 4.9 %
+- **Ugc:** 9.9 %
+- **Reference:** 8.6 %
+- **Institutional:** 12.3 %
+- **Corporate:** 59.3 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `researchgate.net` – UGC, retrieved 44 % of chats
 - `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `researchgate.net` – UGC, retrieved 33 % of chats
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `dr-maroske.de` – CORPORATE, retrieved 33 % of chats
 - `reitkunstzentrum-suedbaden.de` – INSTITUTIONAL, retrieved 33 % of chats
 
 ## Suggested article

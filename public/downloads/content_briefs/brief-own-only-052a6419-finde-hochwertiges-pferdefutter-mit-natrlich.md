@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
-**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-07
+**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
 
 ## Engine visibility
 
@@ -14,27 +14,27 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Höveler** – top visibility 67 %  (ChatGPT 67 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.4 %
-- **Editorial:** 4.4 %
-- **Corporate:** 82.5 %
-- **Other:** 8.7 %
+- **Own:** 3.4 %
+- **Editorial:** 6.5 %
+- **Corporate:** 83.3 %
+- **Other:** 6.7 %
 
 **Top cited domains**
 
-- `semhof.de` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
-- `cdvet.de` – CORPORATE, retrieved 17 % of chats
-- `eurital.de` – CORPORATE, retrieved 17 % of chats
-- `original-leckerlies.de` – CORPORATE, retrieved 17 % of chats
+- `semhof.de` – CORPORATE, retrieved 33 % of chats
+- `eurital.de` – CORPORATE, retrieved 33 % of chats
+- `wielensdiervoeders.nl` – CORPORATE, retrieved 33 % of chats
+- `thesprucepets.com` – EDITORIAL, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -46,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.
