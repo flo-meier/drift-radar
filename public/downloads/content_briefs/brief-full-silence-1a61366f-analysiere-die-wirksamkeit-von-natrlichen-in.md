@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.5 %
-- **Editorial:** 4.9 %
-- **Ugc:** 9.9 %
-- **Reference:** 8.6 %
-- **Institutional:** 12.3 %
-- **Corporate:** 59.3 %
-- **Other:** 2.5 %
+- **Competitor:** 1.3 %
+- **Editorial:** 5.1 %
+- **Ugc:** 5.1 %
+- **Reference:** 10.3 %
+- **Institutional:** 11.5 %
+- **Corporate:** 61.5 %
+- **Other:** 5.1 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `researchgate.net` – UGC, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `dr-maroske.de` – CORPORATE, retrieved 33 % of chats
-- `reitkunstzentrum-suedbaden.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `equine-america.com` – CORPORATE, retrieved 44 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 44 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
+- `biomedcentral.com` – EDITORIAL, retrieved 33 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
+- `researchgate.net` – OTHER, retrieved 33 % of chats
 
 ## Suggested article
 

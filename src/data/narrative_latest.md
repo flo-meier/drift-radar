@@ -1,29 +1,33 @@
-# Drift Radar · 2026-05-08
+# Drift Radar · 2026-05-09
 
-## Overview
+## Status
 
-Pferdegold tracked 50 prompts across ChatGPT, Gemini, and AI Overview from May 6–8. Drifting queries rose to 17 (34%), with own-brand visibility at 6.2%. Movement was modest but directional: 3 prompts entered drifting range, 1 left it, and 4 shifted silence classification.
+18 of 50 tracked prompts show drift (≥0.3 visibility score). Own-brand visibility averages 6.9%. Two prompts entered drifting range this week; one exited. Silence distribution shifted: 4 prompts changed classification between own-only and full silence.
 
-## Incoming Drift
+## Movement into drift
 
-Three supplement-related queries moved into drifting territory from own-only silence:
+Two price-sensitive, attribute-specific queries crossed the 0.3 threshold:
 
-- *Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe* (0.443)
-- *Zeige mir gute Ergänzungsfutter für mein Pferd* (0.443)
-- *Nenne mir gutes Ergänzungsfutter für mein Pferd* (0.443)
+- "Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro" (0.443)
+- "Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen" (0.443)
 
-All three show identical score jumps of +0.443, suggesting synchronized visibility gains across engines rather than uneven capture. These queries cluster in the core product domain – hoof supplements and feed additives – indicating drift is not peripheral noise but category-specific.
+Both moved from silence to active visibility across engines. The first transitioned from own-only silence; the second from full silence. This suggests competitors are gaining traction on budget-conscious, ingredient-focused searches.
 
-## Exiting Drift
+## Movement out of drift
 
-One query dropped from drifting into full silence: *Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen* (was 0.443, now 0.0). This reversal merits inspection – it may reflect search-intent mismatch or deprioritization by engines.
+"Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde" dropped to 0.0 and entered full silence. This comparative query is no longer surfacing Pferdegold across tracked engines.
 
-## Secondary Movement
+## Significant score increases
 
-The nerve-pellets query (*Finde Nervenpellets für gestresste Pferde ohne Industriezucker*) strengthened from 0.337 to 0.592, a +0.255 rise indicating sustained visibility growth in a narrower segment.
+Two high-value prompts strengthened their positions:
 
-## Recommendations
+- "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde" climbed 0.249 to 0.841
+- "Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe" grew 0.238 to 0.681
 
-Audit the three newly drifting supplement queries for consistency in engine rankings and snippet attribution. Cross-reference the joint silence-to-drift transition – identical deltas suggest a single algorithmic shift rather than organic distribution. Investigate the joint silence reversal on joint support claims; it may indicate competitive pressure or content-relevance gaps.
+Both remain strongly drifted. These specialized supplement queries show sustained competitive pressure.
 
-Next week will clarify whether supplement-category drift stabilizes or continues climbing.
+## Operator priority
+
+Start with the two newly drifting prompts. Audit current ranking positions for budget-tier and joint-health feed queries across ChatGPT, Gemini, and AI Overview. Assess whether this is temporary ranking fluctuation or sustained loss of visibility.
+
+Next week: monitor whether the exited prompt stabilizes in full silence or recovers visibility.

@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -14,14 +14,15 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (AI Overview 67 %)
+- **Marstall** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.2 %
-- **Ugc:** 4.8 %
-- **Institutional:** 4.8 %
-- **Corporate:** 87.1 %
+- **Competitor:** 3.1 %
+- **Ugc:** 4.7 %
+- **Institutional:** 4.7 %
+- **Corporate:** 82.8 %
+- **Other:** 4.7 %
 
 **Top cited domains**
 
@@ -30,7 +31,7 @@
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `migocki.de` – CORPORATE, retrieved 33 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

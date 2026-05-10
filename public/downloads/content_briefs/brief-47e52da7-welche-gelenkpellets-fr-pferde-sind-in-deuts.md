@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -42,20 +42,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 8.1 %
-- **Ugc:** 16.1 %
-- **Reference:** 4.0 %
-- **Corporate:** 63.7 %
-- **Other:** 8.1 %
+- **Editorial:** 8.5 %
+- **Ugc:** 11.5 %
+- **Reference:** 2.9 %
+- **Institutional:** 2.9 %
+- **Corporate:** 68.5 %
+- **Other:** 5.8 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `ehorses.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 50 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 50 % of chats
+- `ehorses.de` – CORPORATE, retrieved 50 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
+- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
 - `gutefrage.net` – UGC, retrieved 17 % of chats
-- `pferde-gold.com` – CORPORATE, retrieved 17 % of chats
-- `urbia.de` – UGC, retrieved 17 % of chats
 
 ## Suggested article
 

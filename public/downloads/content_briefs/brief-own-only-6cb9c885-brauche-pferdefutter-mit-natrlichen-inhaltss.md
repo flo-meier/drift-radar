@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -14,16 +14,17 @@
 
 ## Who is cited instead
 
+- **Marstall** – top visibility 67 %  (Gemini 67 %)
 - **Havens** – top visibility 33 %  (AI Overview 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
+- **Competitor:** 1.6 %
 - **Reference:** 1.6 %
-- **Institutional:** 6.3 %
-- **Corporate:** 81.0 %
+- **Institutional:** 7.9 %
+- **Corporate:** 77.8 %
 - **Other:** 11.1 %
 
 **Top cited domains**
@@ -39,13 +40,13 @@
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Havens: Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
+- **Headline starting point:** »Pferdegold vs Marstall: Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Havens, Marstall, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Havens, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

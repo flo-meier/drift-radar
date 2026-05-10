@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -14,26 +14,27 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.6 %
-- **Editorial:** 1.6 %
-- **Ugc:** 9.0 %
-- **Reference:** 4.9 %
-- **Institutional:** 5.7 %
-- **Corporate:** 68.1 %
-- **Other:** 9.0 %
+- **Competitor:** 0.9 %
+- **Editorial:** 0.9 %
+- **Ugc:** 8.8 %
+- **Reference:** 4.4 %
+- **Institutional:** 7.0 %
+- **Corporate:** 72.8 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 56 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `youtube.com` – UGC, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `deuka.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `animondo.de` – CORPORATE, retrieved 33 % of chats
+- `equistro.de` – CORPORATE, retrieved 33 % of chats
+- `foranequine.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -45,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

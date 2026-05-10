@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.4 %
-- **Ugc:** 4.8 %
-- **Reference:** 6.0 %
-- **Institutional:** 7.2 %
-- **Corporate:** 71.1 %
-- **Other:** 2.4 %
+- **Editorial:** 6.9 %
+- **Ugc:** 6.9 %
+- **Reference:** 5.2 %
+- **Institutional:** 8.6 %
+- **Corporate:** 70.7 %
+- **Other:** 1.7 %
 
 **Top cited domains**
 
-- `ep-nutrition.de` – CORPORATE, retrieved 56 % of chats
+- `ep-nutrition.de` – CORPORATE, retrieved 44 % of chats
+- `youtube.com` – UGC, retrieved 33 % of chats
 - `sonnesee.com` – CORPORATE, retrieved 33 % of chats
 - `surpresanatural.de` – CORPORATE, retrieved 33 % of chats
-- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `vitalundfitmit100.de` – CORPORATE, retrieved 33 % of chats
-- `healthline.com` – EDITORIAL, retrieved 22 % of chats
+- `biomol.pl` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

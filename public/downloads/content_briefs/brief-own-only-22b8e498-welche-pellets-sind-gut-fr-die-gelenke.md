@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-20 → 2026-04-22
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -15,6 +15,21 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+
+## Citation source mix
+
+- **Ugc:** 3.3 %
+- **Corporate:** 83.8 %
+- **Other:** 12.9 %
+
+**Top cited domains**
+
+- `fuetternundfit.de` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `cp-futter.de` – CORPORATE, retrieved 33 % of chats
+- `leoswc.com` – OTHER, retrieved 33 % of chats
+- `makana.de` – CORPORATE, retrieved 33 % of chats
+- `medilutions.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

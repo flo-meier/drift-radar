@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -14,26 +14,25 @@
 
 ## Who is cited instead
 
-- **Havens** – top visibility 33 %  (AI Overview 33 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Havens** – top visibility 67 %  (AI Overview 67 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 1.6 %
-- **Reference:** 3.2 %
-- **Institutional:** 4.8 %
-- **Corporate:** 85.7 %
-- **Other:** 4.8 %
+- **Editorial:** 1.4 %
+- **Reference:** 2.9 %
+- **Institutional:** 5.8 %
+- **Corporate:** 85.5 %
+- **Other:** 4.3 %
 
 **Top cited domains**
 
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
 - `reitkunstzentrum-suedbaden.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -45,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Havens, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Havens, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

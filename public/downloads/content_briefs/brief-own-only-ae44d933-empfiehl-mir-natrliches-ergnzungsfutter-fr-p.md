@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -20,19 +20,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.6 %
-- **Ugc:** 2.6 %
-- **Corporate:** 89.7 %
-- **Other:** 5.2 %
+- **Ugc:** 3.2 %
+- **Corporate:** 90.3 %
+- **Other:** 6.5 %
 
 **Top cited domains**
 
-- `votana-pferd.de` – CORPORATE, retrieved 33 % of chats
 - `noeltgen.de` – CORPORATE, retrieved 33 % of chats
 - `care4vet.de` – CORPORATE, retrieved 33 % of chats
 - `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `duvalhorseproducts.com` – CORPORATE, retrieved 17 % of chats
-- `pferdy.de` – EDITORIAL, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `boomerangnutrition.co.uk` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

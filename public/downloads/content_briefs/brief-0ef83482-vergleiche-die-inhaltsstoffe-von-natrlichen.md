@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
 
 ## Engine visibility
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 1.2 %
-- **Competitor:** 3.7 %
-- **Ugc:** 1.2 %
-- **Reference:** 3.7 %
-- **Corporate:** 84.0 %
-- **Other:** 6.2 %
+- **Own:** 2.8 %
+- **Competitor:** 4.2 %
+- **Ugc:** 2.8 %
+- **Reference:** 2.8 %
+- **Corporate:** 84.7 %
+- **Other:** 2.8 %
 
 **Top cited domains**
 
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `st-hippolyt.de` – COMPETITOR, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
+- `youtube.com` – UGC, retrieved 22 % of chats
 - `amazon.de` – CORPORATE, retrieved 22 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
