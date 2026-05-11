@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -15,20 +15,21 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 93.4 %
-- **Other:** 6.6 %
+- **Corporate:** 96.7 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
 - `naturanima.de` – CORPORATE, retrieved 50 % of chats
 - `carepet.de` – CORPORATE, retrieved 50 % of chats
 - `pferdekiosk.biz` – CORPORATE, retrieved 50 % of chats
-- `schwarz-kuemmel.biz` – CORPORATE, retrieved 50 % of chats
+- `cdvet.de` – CORPORATE, retrieved 33 % of chats
+- `okapi-online.de` – CORPORATE, retrieved 33 % of chats
 - `reitgarten.com` – CORPORATE, retrieved 33 % of chats
-- `sapodoris.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -40,7 +41,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -19,20 +19,20 @@
 
 ## Citation source mix
 
-- **Own:** 3.1 %
-- **Reference:** 6.0 %
-- **Institutional:** 15.0 %
-- **Corporate:** 63.7 %
-- **Other:** 12.3 %
+- **Own:** 4.5 %
+- **Reference:** 4.5 %
+- **Institutional:** 13.6 %
+- **Corporate:** 68.2 %
+- **Other:** 9.1 %
 
 **Top cited domains**
 
-- `atcomhorse.de` – CORPORATE, retrieved 33 % of chats
-- `bio-apo.de` – CORPORATE, retrieved 33 % of chats
-- `ehorses.de` – CORPORATE, retrieved 33 % of chats
-- `liebegg.ch` – INSTITUTIONAL, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `pferde.de` – CORPORATE, retrieved 33 % of chats
+- `horze.de` – CORPORATE, retrieved 17 % of chats
+- `atcomhorse.de` – CORPORATE, retrieved 17 % of chats
+- `bio-apo.de` – CORPORATE, retrieved 17 % of chats
+- `deganius.de` – CORPORATE, retrieved 17 % of chats
+- `ehorses.de` – CORPORATE, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

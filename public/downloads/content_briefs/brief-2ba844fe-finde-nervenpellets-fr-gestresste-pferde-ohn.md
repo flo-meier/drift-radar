@@ -1,18 +1,18 @@
 # Drift Radar – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
-**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 0 %
 - **Gemini:** 67 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 0 %
 
 **Brands cited (tracked):** #1 Pavo
 
@@ -42,17 +42,16 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 2.8 %
-- **Corporate:** 97.2 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `equidocs.de` – CORPORATE, retrieved 50 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 50 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 50 % of chats
-- `cdvet.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
+- `equidocs.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `mustax.eu` – CORPORATE, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
+- `alpurial.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

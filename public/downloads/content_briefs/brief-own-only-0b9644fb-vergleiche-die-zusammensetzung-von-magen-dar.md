@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -14,25 +14,24 @@
 
 ## Who is cited instead
 
-- **Havens** – top visibility 67 %  (AI Overview 67 %)
+- **Havens** – top visibility 33 %  (AI Overview 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 1.4 %
-- **Reference:** 2.9 %
-- **Institutional:** 5.8 %
-- **Corporate:** 85.5 %
-- **Other:** 4.3 %
+- **Reference:** 1.6 %
+- **Institutional:** 6.6 %
+- **Corporate:** 88.5 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
 - `eohippos-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `reitkunstzentrum-suedbaden.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
+- `honeyprovet.com.au` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 67 %
 - **Gemini:** 0 %
 - **AI Overview:** 33 %
 
-**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 2.8 %
-- **Competitor:** 4.2 %
-- **Ugc:** 2.8 %
-- **Reference:** 2.8 %
-- **Corporate:** 84.7 %
-- **Other:** 2.8 %
+- **Own:** 3.5 %
+- **Competitor:** 5.3 %
+- **Ugc:** 3.5 %
+- **Reference:** 3.5 %
+- **Corporate:** 82.5 %
+- **Other:** 1.8 %
 
 **Top cited domains**
 
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `st-hippolyt.de` – COMPETITOR, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
 - `youtube.com` – UGC, retrieved 22 % of chats
-- `amazon.de` – CORPORATE, retrieved 22 % of chats
+- `emma-care.de` – CORPORATE, retrieved 22 % of chats
+- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

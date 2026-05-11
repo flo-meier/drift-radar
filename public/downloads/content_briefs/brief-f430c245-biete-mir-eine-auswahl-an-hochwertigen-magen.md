@@ -1,6 +1,6 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -47,19 +47,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 1.5 %
-- **Competitor:** 1.5 %
-- **Ugc:** 7.6 %
-- **Corporate:** 89.4 %
+- **Own:** 1.4 %
+- **Ugc:** 7.1 %
+- **Reference:** 1.4 %
+- **Institutional:** 1.4 %
+- **Corporate:** 88.6 %
 
 **Top cited domains**
 
+- `stroeh.de` – CORPORATE, retrieved 44 % of chats
 - `pferdperfekt.com` – CORPORATE, retrieved 44 % of chats
 - `eqx.vet` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `hipposport.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
-# Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
+# Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -14,26 +14,28 @@
 
 ## Citation source mix
 
-- **Ugc:** 8.1 %
-- **Reference:** 2.7 %
-- **Institutional:** 10.8 %
-- **Corporate:** 75.7 %
-- **Other:** 2.7 %
+- **Competitor:** 1.6 %
+- **Editorial:** 1.6 %
+- **Ugc:** 3.2 %
+- **Reference:** 3.2 %
+- **Institutional:** 1.6 %
+- **Corporate:** 82.5 %
+- **Other:** 6.3 %
 
 **Top cited domains**
 
-- `ep-nutrition.de` – CORPORATE, retrieved 33 % of chats
-- `surpresanatural.de` – CORPORATE, retrieved 33 % of chats
-- `vitalundfitmit100.de` – CORPORATE, retrieved 33 % of chats
+- `medpets.de` – CORPORATE, retrieved 44 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `youtube.com` – UGC, retrieved 22 % of chats
-- `bluefarm.co` – CORPORATE, retrieved 22 % of chats
-- `naturavetal.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 1 700 – 2 900 words
-- **Headline starting point:** »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten. – the Pferdegold guide«
+- **Length:** 2 400 – 4 300 words
+- **Headline starting point:** »Gelenkunterstützung für mein Pferd gesucht. – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

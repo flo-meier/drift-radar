@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
-**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-04 → 2026-05-06
+**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -14,33 +14,40 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %)
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Editorial:** 6.7 %
+- **Ugc:** 13.3 %
+- **Reference:** 6.7 %
+- **Institutional:** 13.3 %
+- **Corporate:** 60.0 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `hipposport.de` – CORPORATE, retrieved 50 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `freshfellow.de` – CORPORATE, retrieved 33 % of chats
-- `louven-shop.de` – CORPORATE, retrieved 17 % of chats
-- `bieros.de` – CORPORATE, retrieved 17 % of chats
+- `youtube.com` – UGC, retrieved 14 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 14 % of chats
+- `stroeh.de` – CORPORATE, retrieved 14 % of chats
+- `annimally.de` – CORPORATE, retrieved 14 % of chats
+- `deutschakademie.de` – INSTITUTIONAL, retrieved 14 % of chats
+- `deutschplus.net` – REFERENCE, retrieved 14 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
+- **Headline starting point:** »Pferdegold vs Pavo: Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

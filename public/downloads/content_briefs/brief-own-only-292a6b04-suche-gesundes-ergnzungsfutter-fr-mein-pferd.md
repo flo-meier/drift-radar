@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -14,25 +14,25 @@
 
 ## Who is cited instead
 
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
-- **Höveler** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.4 %
-- **Editorial:** 2.8 %
-- **Ugc:** 2.8 %
-- **Corporate:** 89.0 %
+- **Own:** 4.2 %
+- **Competitor:** 8.2 %
+- **Editorial:** 4.2 %
+- **Corporate:** 83.4 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `mambocare.de` – CORPORATE, retrieved 50 % of chats
 - `einhuf.com` – CORPORATE, retrieved 50 % of chats
 - `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `mambocare.de` – CORPORATE, retrieved 33 % of chats
 - `equidocs.de` – CORPORATE, retrieved 33 % of chats
 - `hipposport.de` – CORPORATE, retrieved 17 % of chats
 
@@ -40,13 +40,13 @@
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Eggersmann: Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
+- **Headline starting point:** »Pferdegold vs St. Hippolyt: Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Eggersmann, Marstall, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

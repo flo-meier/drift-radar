@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -15,26 +15,26 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 67 %  (AI Overview 67 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Competitor:** 0.9 %
-- **Editorial:** 0.9 %
-- **Ugc:** 8.8 %
-- **Reference:** 4.4 %
-- **Institutional:** 7.0 %
-- **Corporate:** 72.8 %
-- **Other:** 5.3 %
+- **Competitor:** 2.0 %
+- **Editorial:** 1.0 %
+- **Ugc:** 7.8 %
+- **Reference:** 3.9 %
+- **Institutional:** 5.9 %
+- **Corporate:** 72.5 %
+- **Other:** 6.9 %
 
 **Top cited domains**
 
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `animondo.de` – CORPORATE, retrieved 33 % of chats
-- `equistro.de` – CORPORATE, retrieved 33 % of chats
-- `foranequine.com` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `youtube.com` – UGC, retrieved 22 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 22 % of chats
 
 ## Suggested article
 

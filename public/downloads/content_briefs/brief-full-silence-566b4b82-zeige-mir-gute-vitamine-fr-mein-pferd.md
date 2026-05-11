@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -14,19 +14,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 7.1 %
-- **Ugc:** 7.2 %
-- **Reference:** 4.7 %
-- **Corporate:** 81.0 %
+- **Editorial:** 5.3 %
+- **Institutional:** 5.3 %
+- **Corporate:** 89.5 %
 
 **Top cited domains**
 
-- `feedmark.com` – CORPORATE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `horze.eu` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `horsesbestshop.de` – CORPORATE, retrieved 17 % of chats
+- `madbarn.ca` – CORPORATE, retrieved 17 % of chats
+- `madbarn.com` – CORPORATE, retrieved 17 % of chats
+- `regulatorcomplete.dk` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `canina.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

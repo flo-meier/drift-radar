@@ -1,18 +1,18 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
-- **Gemini:** 67 %
+- **ChatGPT:** 0 %
+- **Gemini:** 100 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.91  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 0 %
 
 **Brands cited (tracked):** _none_
 
@@ -23,7 +23,7 @@
 
 > All five product brands ChatGPT recommends are outside Peec's tracked competitor list – none of them are the peer set Pferdegold competes with in the SERP.
 
-### Gemini – visibility 67 %
+### Gemini – visibility 100 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -42,21 +42,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 8.5 %
-- **Ugc:** 11.5 %
-- **Reference:** 2.9 %
-- **Institutional:** 2.9 %
-- **Corporate:** 68.5 %
-- **Other:** 5.8 %
+- **Editorial:** 14.9 %
+- **Ugc:** 18.7 %
+- **Institutional:** 3.7 %
+- **Corporate:** 58.9 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 50 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 50 % of chats
 - `ehorses.de` – CORPORATE, retrieved 50 % of chats
+- `kraemer.de` – CORPORATE, retrieved 50 % of chats
 - `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 - `gutefrage.net` – UGC, retrieved 17 % of chats
+- `medpex.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

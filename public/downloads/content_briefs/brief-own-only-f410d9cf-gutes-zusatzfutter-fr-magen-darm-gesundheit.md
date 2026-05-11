@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.4 %
-- **Institutional:** 3.4 %
-- **Corporate:** 83.2 %
-- **Other:** 10.1 %
+- **Competitor:** 5.0 %
+- **Institutional:** 5.0 %
+- **Corporate:** 85.0 %
+- **Other:** 5.0 %
 
 **Top cited domains**
 
-- `hestevard.de` – CORPORATE, retrieved 33 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
 - `vetuk.co.uk` – CORPORATE, retrieved 17 % of chats
 - `iwest.de` – CORPORATE, retrieved 17 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 17 % of chats
+- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `emma-care.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
 
 ## Engine visibility
 
@@ -18,19 +18,17 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.8 %
-- **Reference:** 11.3 %
-- **Corporate:** 73.9 %
-- **Other:** 11.1 %
+- **Corporate:** 89.0 %
+- **Other:** 11.0 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 50 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 50 % of chats
 - `votana-pferd.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `petsbiotics.de` – CORPORATE, retrieved 33 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 - `heltieanimal.com` – CORPORATE, retrieved 33 % of chats
+- `idalthi.com` – OTHER, retrieved 33 % of chats
 
 ## Suggested article
 
