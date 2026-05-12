@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Citation source mix
 
-- **Own:** 1.4 %
-- **Competitor:** 1.4 %
-- **Editorial:** 6.8 %
-- **Ugc:** 4.1 %
-- **Reference:** 2.7 %
-- **Institutional:** 16.4 %
-- **Corporate:** 60.3 %
-- **Other:** 6.8 %
+- **Own:** 0.7 %
+- **Competitor:** 3.3 %
+- **Editorial:** 4.6 %
+- **Ugc:** 3.3 %
+- **Reference:** 5.1 %
+- **Institutional:** 13.6 %
+- **Corporate:** 59.2 %
+- **Other:** 10.3 %
 
 **Top cited domains**
 
-- `carevallo.com` – CORPORATE, retrieved 33 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `psu.edu` – INSTITUTIONAL, retrieved 22 % of chats
-- `madbarn.com` – CORPORATE, retrieved 22 % of chats
-- `agrobs.de` – CORPORATE, retrieved 22 % of chats
-- `iwest.de` – CORPORATE, retrieved 22 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 28 % of chats
+- `masterhorse-infowissen.de` – OTHER, retrieved 28 % of chats
+- `tiergarten.de` – INSTITUTIONAL, retrieved 28 % of chats
+- `agrobs.de` – CORPORATE, retrieved 24 % of chats
+- `iwest.de` – CORPORATE, retrieved 24 % of chats
+- `sanoanimal.de` – REFERENCE, retrieved 24 % of chats
 
 ## Suggested article
 

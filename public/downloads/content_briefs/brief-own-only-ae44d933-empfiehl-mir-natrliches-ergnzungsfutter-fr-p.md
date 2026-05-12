@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,33 +14,39 @@
 
 ## Who is cited instead
 
-- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 28 %  (ChatGPT 28 %)
+- **Marstall** – top visibility 28 %  (ChatGPT 28 %)
+- **Nösenberger** – top visibility 14 %  (ChatGPT 14 %)
 
 ## Citation source mix
 
-- **Corporate:** 95.4 %
-- **Other:** 4.6 %
+- **Editorial:** 2.8 %
+- **Ugc:** 2.8 %
+- **Reference:** 1.4 %
+- **Institutional:** 1.4 %
+- **Corporate:** 88.6 %
+- **Other:** 2.8 %
 
 **Top cited domains**
 
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `votana-pferd.de` – CORPORATE, retrieved 17 % of chats
-- `care4vet.de` – CORPORATE, retrieved 17 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
-- `deganius.de` – CORPORATE, retrieved 17 % of chats
-- `drogerie-plappert.de` – CORPORATE, retrieved 17 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 28 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 28 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 21 % of chats
+- `care4vet.de` – CORPORATE, retrieved 21 % of chats
+- `deganius.de` – CORPORATE, retrieved 21 % of chats
+- `horsesupport.de` – CORPORATE, retrieved 21 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Nösenberger: Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
+- **Headline starting point:** »Pferdegold vs Pavo: Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Nösenberger for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Nösenberger for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

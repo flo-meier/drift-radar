@@ -1,18 +1,18 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
-- **ChatGPT:** 0 %
-- **Gemini:** 100 %
+- **ChatGPT:** 28 %
+- **Gemini:** 71 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.91  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.63  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 0 %
+### ChatGPT – visibility 28 %
 
 **Brands cited (tracked):** _none_
 
@@ -23,7 +23,7 @@
 
 > All five product brands ChatGPT recommends are outside Peec's tracked competitor list – none of them are the peer set Pferdegold competes with in the SERP.
 
-### Gemini – visibility 100 %
+### Gemini – visibility 71 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -42,20 +42,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 14.9 %
-- **Ugc:** 18.7 %
-- **Institutional:** 3.7 %
-- **Corporate:** 58.9 %
-- **Other:** 3.7 %
+- **Editorial:** 8.9 %
+- **Ugc:** 7.4 %
+- **Reference:** 3.0 %
+- **Institutional:** 3.0 %
+- **Corporate:** 73.4 %
+- **Other:** 4.4 %
 
 **Top cited domains**
 
-- `ehorses.de` – CORPORATE, retrieved 50 % of chats
-- `kraemer.de` – CORPORATE, retrieved 50 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `gutefrage.net` – UGC, retrieved 17 % of chats
-- `medpex.de` – CORPORATE, retrieved 17 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 36 % of chats
+- `kraemer.de` – CORPORATE, retrieved 28 % of chats
+- `ehorses.de` – CORPORATE, retrieved 28 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 28 % of chats
+- `dr-hawes.de` – CORPORATE, retrieved 21 % of chats
+- `equidocs.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

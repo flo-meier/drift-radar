@@ -1,14 +1,14 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
-- **Gemini:** 33 %
+- **Gemini:** 43 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.51  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -21,7 +21,7 @@
 - _brand_ – Pavo offers joint support
 - _criterion_ – These brands offer natural joint support
 
-### Gemini – visibility 33 %
+### Gemini – visibility 43 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -40,19 +40,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Ugc:** 3.0 %
-- **Institutional:** 6.1 %
-- **Corporate:** 81.8 %
-- **Other:** 9.1 %
+- **Ugc:** 2.1 %
+- **Institutional:** 2.1 %
+- **Corporate:** 88.5 %
+- **Other:** 7.3 %
 
 **Top cited domains**
 
-- `galaxus.ch` – CORPORATE, retrieved 17 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
-- `raiffeisenmarkt.de` – CORPORATE, retrieved 17 % of chats
-- `actifyt.com` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
-- `annimally.ch` – OTHER, retrieved 17 % of chats
+- `seewinkler-naturprodukte.com` – CORPORATE, retrieved 36 % of chats
+- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 28 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 21 % of chats
+- `tributeequinenutrition.com` – CORPORATE, retrieved 21 % of chats
+- `alpurial.de` – CORPORATE, retrieved 21 % of chats
 
 ## Suggested article
 

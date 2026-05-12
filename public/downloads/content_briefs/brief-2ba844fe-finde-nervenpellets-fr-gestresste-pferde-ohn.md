@@ -1,18 +1,18 @@
 # Drift Radar – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
-**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
-- **ChatGPT:** 0 %
-- **Gemini:** 67 %
+- **ChatGPT:** 28 %
+- **Gemini:** 43 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.41  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 0 %
+### ChatGPT – visibility 28 %
 
 **Brands cited (tracked):** #1 Pavo
 
@@ -21,7 +21,7 @@
 - _brand_ – Pavo Calm & Relax contains Magnesium and herbs
 - _substance_ – Magnesium supports nervous horse health
 
-### Gemini – visibility 67 %
+### Gemini – visibility 43 %
 
 **Brands cited (tracked):** _none_
 
@@ -42,16 +42,17 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Own:** 2.9 %
+- **Corporate:** 97.1 %
 
 **Top cited domains**
 
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `mustax.eu` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 36 % of chats
+- `equidocs.de` – CORPORATE, retrieved 36 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 36 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 36 % of chats
+- `vetapo-austria.at` – CORPORATE, retrieved 28 % of chats
+- `cdvet.de` – CORPORATE, retrieved 21 % of chats
 
 ## Suggested article
 

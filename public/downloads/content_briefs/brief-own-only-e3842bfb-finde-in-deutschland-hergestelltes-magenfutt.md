@@ -1,6 +1,6 @@
 # Drift Radar – »Finde in Deutschland hergestelltes Magenfutter für mein Pferd.«
 
-**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,28 +14,30 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %)
-- **Höveler** – top visibility 100 %  (Gemini 100 %)
-- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
-- **Havens** – top visibility 33 %  (Gemini 33 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 86 %)
+- **Höveler** – top visibility 71 %  (Gemini 71 %)
+- **Eggersmann** – top visibility 43 %  (Gemini 43 %, ChatGPT 28 %)
+- **St. Hippolyt** – top visibility 43 %  (Gemini 43 %, ChatGPT 14 %)
+- **Havens** – top visibility 14 %  (Gemini 14 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.9 %
-- **Ugc:** 5.9 %
-- **Institutional:** 2.0 %
-- **Corporate:** 84.3 %
-- **Other:** 2.0 %
+- **Competitor:** 4.9 %
+- **Editorial:** 0.7 %
+- **Ugc:** 2.7 %
+- **Reference:** 0.7 %
+- **Institutional:** 0.7 %
+- **Corporate:** 86.6 %
+- **Other:** 3.6 %
 
 **Top cited domains**
 
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 43 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `alpurial.de` – CORPORATE, retrieved 33 % of chats
-- `facebook.com` – UGC, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 22 % of chats
+- `marstall.de` – COMPETITOR, retrieved 28 % of chats
+- `deganius.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

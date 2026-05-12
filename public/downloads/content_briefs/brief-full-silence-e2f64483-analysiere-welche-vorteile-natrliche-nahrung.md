@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 12.7 %
-- **Ugc:** 6.3 %
-- **Reference:** 6.3 %
-- **Institutional:** 11.4 %
-- **Corporate:** 58.2 %
-- **Other:** 5.1 %
+- **Editorial:** 11.8 %
+- **Ugc:** 3.9 %
+- **Reference:** 8.0 %
+- **Institutional:** 9.8 %
+- **Corporate:** 63.3 %
+- **Other:** 3.2 %
 
 **Top cited domains**
 
-- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 44 % of chats
-- `gigasnutrition.com` – CORPORATE, retrieved 44 % of chats
-- `nutrador.com` – CORPORATE, retrieved 33 % of chats
-- `vitaminfit.eu` – CORPORATE, retrieved 33 % of chats
-- `healthline.com` – EDITORIAL, retrieved 22 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
+- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 38 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 38 % of chats
+- `biomol.pl` – CORPORATE, retrieved 28 % of chats
+- `densenutrition.com` – CORPORATE, retrieved 28 % of chats
+- `ep-nutrition.de` – CORPORATE, retrieved 28 % of chats
+- `surpresanatural.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

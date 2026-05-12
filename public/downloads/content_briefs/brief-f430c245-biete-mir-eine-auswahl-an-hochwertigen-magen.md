@@ -1,18 +1,18 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 14 %
 - **Gemini:** 0 %
-- **AI Overview:** 100 %
+- **AI Overview:** 86 %
 
-**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.77  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 14 %
 
 **Brands cited (tracked):** _none_
 
@@ -32,7 +32,7 @@
 - _brand_ – Agrobs AlpenGrün Pellet recommended for sensitive horses
 - _brand_ – St. Hippolyt Brandon Gastro supports stomach lining
 
-### AI Overview – visibility 100 %
+### AI Overview – visibility 86 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Havens
 
@@ -47,20 +47,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 1.4 %
-- **Ugc:** 7.1 %
-- **Reference:** 1.4 %
-- **Institutional:** 1.4 %
-- **Corporate:** 88.6 %
+- **Own:** 0.6 %
+- **Competitor:** 1.9 %
+- **Ugc:** 6.0 %
+- **Reference:** 0.6 %
+- **Institutional:** 0.6 %
+- **Corporate:** 88.4 %
+- **Other:** 1.9 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 44 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 44 % of chats
-- `eqx.vet` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 38 % of chats
+- `equine74.com` – CORPORATE, retrieved 38 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 28 % of chats
+- `facebook.com` – UGC, retrieved 28 % of chats
 
 ## Suggested article
 

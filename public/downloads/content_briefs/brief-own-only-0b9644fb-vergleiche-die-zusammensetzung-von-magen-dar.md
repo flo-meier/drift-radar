@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,24 +14,29 @@
 
 ## Who is cited instead
 
-- **Havens** – top visibility 33 %  (AI Overview 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Havens** – top visibility 28 %  (AI Overview 28 %)
+- **Pavo** – top visibility 14 %  (ChatGPT 14 %)
+- **Marstall** – top visibility 14 %  (ChatGPT 14 %)
+- **Eggersmann** – top visibility 14 %  (AI Overview 14 %)
+- **St. Hippolyt** – top visibility 14 %  (ChatGPT 14 %)
 
 ## Citation source mix
 
-- **Reference:** 1.6 %
-- **Institutional:** 6.6 %
-- **Corporate:** 88.5 %
-- **Other:** 3.3 %
+- **Competitor:** 0.7 %
+- **Editorial:** 1.5 %
+- **Reference:** 3.5 %
+- **Institutional:** 4.3 %
+- **Corporate:** 87.2 %
+- **Other:** 2.8 %
 
 **Top cited domains**
 
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `reitkunstzentrum-suedbaden.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
-- `honeyprovet.com.au` – CORPORATE, retrieved 22 % of chats
+- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `hipposport.de` – CORPORATE, retrieved 28 % of chats
+- `mambocare.de` – CORPORATE, retrieved 24 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 24 % of chats
 
 ## Suggested article
 
@@ -43,7 +48,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Havens, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Havens, Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

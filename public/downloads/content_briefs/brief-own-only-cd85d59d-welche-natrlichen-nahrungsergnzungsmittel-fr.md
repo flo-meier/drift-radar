@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-07 → 2026-05-09
+**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,38 +14,41 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 28 %  (ChatGPT 28 %)
+- **Pavo** – top visibility 14 %  (ChatGPT 14 %)
+- **Nösenberger** – top visibility 14 %  (ChatGPT 14 %)
 
 ## Citation source mix
 
+- **Own:** 1.1 %
 - **Competitor:** 1.6 %
-- **Editorial:** 1.6 %
-- **Ugc:** 4.7 %
-- **Reference:** 1.6 %
-- **Institutional:** 1.6 %
-- **Corporate:** 81.1 %
-- **Other:** 7.9 %
+- **Editorial:** 1.1 %
+- **Ugc:** 4.3 %
+- **Reference:** 1.1 %
+- **Institutional:** 3.2 %
+- **Corporate:** 80.5 %
+- **Other:** 7.0 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 50 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 25 % of chats
-- `josera.de` – CORPORATE, retrieved 25 % of chats
-- `peganatur.com` – CORPORATE, retrieved 25 % of chats
-- `youtube.com` – UGC, retrieved 12 % of chats
-- `naturanima.de` – CORPORATE, retrieved 12 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 35 % of chats
+- `kraemer.de` – CORPORATE, retrieved 30 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
+- `youtube.com` – UGC, retrieved 20 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 20 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 20 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
+- **Headline starting point:** »Pferdegold vs Höveler: Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, Pavo, Nösenberger for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

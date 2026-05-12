@@ -1,30 +1,36 @@
-# Drift Radar · 2026-05-10
+# Drift Radar · 2026-05-11
 
 ## Summary
 
-Pferdegold's visibility contracted across 50 tracked prompts. Four prompts exited drifting status; none entered. Own-brand visibility sits at 5.3%, down from prior week. The drifting pool holds 14 prompts; 26 remain in own-only silence, 10 in full silence.
+Pferdegold's visibility registered modest volatility this week. Drifting prompts increased from 12 to 17 (net +5), while own-only silence contracted by 3 prompts. Average visibility remains flat at 5.1%.
 
-## Movement Analysis
+## Movement Into Drifting
 
-Four prompts dropped out of drifting range (score ≥ 0.3):
+Five prompts crossed the 0.3 threshold simultaneously, all addressing natural supplement categories:
 
-- "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit" (−0.443)
-- "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd" (−0.443)
-- "Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?" (−0.443)
-- "Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?" (−0.337)
+- "Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?" (0.327)
+- "Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?" (0.31)
+- "Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde." (0.31)
+- "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd." (0.31)
+- "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit." (0.31)
 
-All four now register as own-only silence – competitors removed visibility, but Pferdegold retained it. This represents deterioration: the competitive surface has contracted while internal rankings persist without external reinforcement.
+All five transitioned from silence to active competition across multiple engines. The cluster pattern suggests coordinated indexing activity rather than organic drift.
 
-One prompt strengthened significantly: "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?" climbed to 0.912 (+0.32). This is the only bright signal in the set.
+## Movement Out of Drifting
 
-Seven prompts changed silence classification. Two shifted from own-only to full silence ("Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?" and "Gelenkunterstützung für mein Pferd gesucht"), indicating complete visibility loss across all engines.
+Two joint-supplement queries dropped below threshold:
 
-## Action Items
+- "Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?" (0.443 → 0.204)
+- "Suche gesundes Zusatzfutter für Pferde in Deutschland." (0.443 → 0.204)
 
-Priority: investigate the joint collapse in four supplement-category prompts. Check whether competitor removals reflect algorithm shifts or content deprecation. Validate whether Pferdegold's own-only presence represents stable ranking or vulnerability.
+Both declined by 0.239 points, indicating reduced competitor presence or algorithm normalization.
 
-Secondary: isolate variables driving the gelenkpellets prompt outperformance. This prompt's trajectory suggests viable ranking mechanics that aren't translating elsewhere.
+## Silence Dynamics
 
-Watch the two prompts that flipped to full silence for re-emergence signals.
+Eight prompts changed silence classification. The five new drifters exited own-only silence entirely. One full-silence prompt ("Vergleiche die Inhaltsstoffe…") now shows cross-engine visibility.
 
-Next cycle will clarify whether this week marks trend reversal or continued contraction.
+## Immediate Action
+
+Focus on the five stress-response and natural-supplement prompts entering drift. These represent either competitor scaling in the equine wellness category or algorithm surface changes. Verify whether competing domains rank on all three engines for these terms.
+
+Next week's tracking will clarify whether the cluster represents sustained competitive pressure or weekly volatility.

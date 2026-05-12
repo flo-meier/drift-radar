@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,24 +14,26 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 71 %  (Gemini 71 %)
+- **Pavo** – top visibility 56 %  (Gemini 56 %)
+- **Marstall** – top visibility 43 %  (Gemini 43 %)
+- **Eggersmann** – top visibility 14 %  (Gemini 14 %)
 
 ## Citation source mix
 
-- **Reference:** 3.9 %
-- **Corporate:** 92.2 %
-- **Other:** 3.9 %
+- **Editorial:** 2.8 %
+- **Reference:** 1.4 %
+- **Corporate:** 90.2 %
+- **Other:** 5.6 %
 
 **Top cited domains**
 
-- `dm.de` – CORPORATE, retrieved 50 % of chats
-- `apotheke24h.at` – CORPORATE, retrieved 33 % of chats
-- `rennie.de` – CORPORATE, retrieved 33 % of chats
-- `rossmann.de` – CORPORATE, retrieved 33 % of chats
-- `valsona.de` – CORPORATE, retrieved 33 % of chats
-- `abc-arznei.de` – REFERENCE, retrieved 17 % of chats
+- `dm.de` – CORPORATE, retrieved 36 % of chats
+- `valsona.de` – CORPORATE, retrieved 28 % of chats
+- `apotheke24h.at` – CORPORATE, retrieved 21 % of chats
+- `central-apo.com` – CORPORATE, retrieved 21 % of chats
+- `gastrobalance.at` – OTHER, retrieved 21 % of chats
+- `rossmann.de` – CORPORATE, retrieved 21 % of chats
 
 ## Suggested article
 

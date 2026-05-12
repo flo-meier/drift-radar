@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Havens** – top visibility 67 %  (Gemini 67 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 56 %)
+- **Havens** – top visibility 86 %  (Gemini 86 %)
 
 ## Citation source mix
 
-- **Corporate:** 65.2 %
-- **Other:** 34.8 %
+- **Corporate:** 75.9 %
+- **Other:** 24.1 %
 
 **Top cited domains**
 
-- `stalapotheek.nl` – CORPORATE, retrieved 33 % of chats
-- `dierapotheker.nl` – CORPORATE, retrieved 33 % of chats
-- `ej.nl` – OTHER, retrieved 33 % of chats
-- `petsplace.nl` – CORPORATE, retrieved 17 % of chats
-- `agradi.nl` – CORPORATE, retrieved 17 % of chats
-- `brandhofruitersport.nl` – CORPORATE, retrieved 17 % of chats
+- `google.com` – OTHER, retrieved 21 % of chats
+- `stroeh.de` – CORPORATE, retrieved 14 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 14 % of chats
+- `stalapotheek.nl` – CORPORATE, retrieved 14 % of chats
+- `dierapotheker.nl` – CORPORATE, retrieved 14 % of chats
+- `ej.nl` – OTHER, retrieved 14 % of chats
 
 ## Suggested article
 

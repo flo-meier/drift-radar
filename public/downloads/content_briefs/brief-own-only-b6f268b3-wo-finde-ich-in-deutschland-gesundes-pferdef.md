@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in Deutschland gesundes Pferdefutter?«
 
-**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,42 +14,42 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %)
-- **Marstall** – top visibility 100 %  (Gemini 100 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, AI Overview 43 %, ChatGPT 28 %)
+- **Pavo** – top visibility 86 %  (AI Overview 86 %, ChatGPT 28 %, Gemini 14 %)
+- **Marstall** – top visibility 86 %  (Gemini 86 %)
+- **Eggersmann** – top visibility 56 %  (Gemini 56 %, ChatGPT 14 %)
+- **Höveler** – top visibility 56 %  (Gemini 56 %, ChatGPT 28 %)
 
 ## Citation source mix
 
-- **Own:** 1.3 %
+- **Own:** 0.6 %
 - **Editorial:** 1.3 %
-- **Ugc:** 2.6 %
-- **Reference:** 1.3 %
-- **Institutional:** 5.2 %
-- **Corporate:** 83.2 %
-- **Other:** 5.2 %
+- **Ugc:** 2.4 %
+- **Reference:** 1.9 %
+- **Institutional:** 4.2 %
+- **Corporate:** 86.5 %
+- **Other:** 3.1 %
 
 **Top cited domains**
 
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 56 % of chats
-- `salvana-pferde.de` – CORPORATE, retrieved 56 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 44 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 52 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 38 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 38 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 38 % of chats
+- `okapi-online.de` – CORPORATE, retrieved 38 % of chats
 - `baywa.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 600 – 2 600 words
-- **Headline starting point:** »Pferdegold vs Pavo: Wo finde ich in Deutschland gesundes Pferdefutter?«
+- **Headline starting point:** »Pferdegold vs St. Hippolyt: Wo finde ich in Deutschland gesundes Pferdefutter?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

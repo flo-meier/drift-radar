@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Ergänzungsmittel für Hufe und Fell sind empfehlenswert?«
 
-**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Marstall** – top visibility 43 %  (Gemini 43 %)
+- **St. Hippolyt** – top visibility 43 %  (Gemini 43 %)
+- **Pavo** – top visibility 28 %  (ChatGPT 28 %, Gemini 14 %)
 
 ## Citation source mix
 
-- **Competitor:** 7.1 %
-- **Editorial:** 4.8 %
-- **Institutional:** 4.7 %
-- **Corporate:** 78.6 %
-- **Other:** 4.8 %
+- **Competitor:** 5.5 %
+- **Editorial:** 4.4 %
+- **Institutional:** 3.3 %
+- **Corporate:** 84.7 %
+- **Other:** 2.2 %
 
 **Top cited domains**
 
-- `vetripharm.de` – CORPORATE, retrieved 50 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `vetena.de` – CORPORATE, retrieved 33 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 43 % of chats
+- `mambocare.de` – CORPORATE, retrieved 28 % of chats
+- `vetena.de` – CORPORATE, retrieved 21 % of chats
+- `marstall.de` – COMPETITOR, retrieved 21 % of chats
+- `stroeh.de` – CORPORATE, retrieved 21 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 21 % of chats
 
 ## Suggested article
 

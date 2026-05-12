@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,25 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 28 %  (ChatGPT 28 %)
+- **Höveler** – top visibility 28 %  (ChatGPT 28 %)
 
 ## Citation source mix
 
-- **Own:** 4.5 %
-- **Reference:** 4.5 %
-- **Institutional:** 13.6 %
-- **Corporate:** 68.2 %
-- **Other:** 9.1 %
+- **Own:** 1.6 %
+- **Ugc:** 3.3 %
+- **Reference:** 8.0 %
+- **Institutional:** 9.4 %
+- **Corporate:** 71.2 %
+- **Other:** 6.6 %
 
 **Top cited domains**
 
-- `horze.de` – CORPORATE, retrieved 17 % of chats
-- `atcomhorse.de` – CORPORATE, retrieved 17 % of chats
-- `bio-apo.de` – CORPORATE, retrieved 17 % of chats
-- `deganius.de` – CORPORATE, retrieved 17 % of chats
-- `ehorses.de` – CORPORATE, retrieved 17 % of chats
-- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 27 % of chats
+- `mambocare.de` – CORPORATE, retrieved 13 % of chats
+- `stroeh.de` – CORPORATE, retrieved 13 % of chats
+- `weidezaun.info` – CORPORATE, retrieved 13 % of chats
+- `atcomhorse.de` – CORPORATE, retrieved 13 % of chats
+- `bio-apo.de` – CORPORATE, retrieved 13 % of chats
 
 ## Suggested article
 
