@@ -49,7 +49,7 @@
   },
   "models": {
     "amazon-rufus-scraper": {
-      "name": "Rufus",
+      "name": "Amazon Rufus",
       "is_active": false
     },
     "chatgpt-scraper": {
@@ -57,19 +57,19 @@
       "is_active": true
     },
     "claude-haiku-4.5": {
-      "name": "Claude Haiku 4.5",
+      "name": "Claude Haiku",
       "is_active": false
     },
     "claude-sonnet-4": {
-      "name": "Claude Sonnet 4.6",
+      "name": "Claude Sonnet",
       "is_active": false
     },
     "deepseek-v4-pro": {
-      "name": "DeepSeek V4 Pro",
+      "name": "DeepSeek API",
       "is_active": false
     },
     "gemini-2.5-flash": {
-      "name": "Gemini 2.5 Flash",
+      "name": "Gemini API",
       "is_active": false
     },
     "gemini-scraper": {
@@ -85,15 +85,15 @@
       "is_active": true
     },
     "gpt-4o": {
-      "name": "GPT 4o",
+      "name": "OpenAI",
       "is_active": false
     },
     "gpt-4o-search": {
-      "name": "GPT 5 Search",
+      "name": "OpenAI Search API",
       "is_active": false
     },
     "grok-4.3": {
-      "name": "Grok 4.3",
+      "name": "Grok API",
       "is_active": false
     },
     "grok-scraper": {
@@ -101,7 +101,7 @@
       "is_active": false
     },
     "llama-3.3-70b-instruct": {
-      "name": "Llama",
+      "name": "Meta Llama",
       "is_active": false
     },
     "microsoft-copilot-scraper": {
@@ -113,11 +113,11 @@
       "is_active": false
     },
     "qwen-3-6-plus": {
-      "name": "Qwen 3.6 Plus",
+      "name": "Qwen API",
       "is_active": false
     },
     "sonar": {
-      "name": "Sonar",
+      "name": "Perplexity API",
       "is_active": false
     }
   },

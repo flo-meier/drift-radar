@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
 
 ## Engine visibility
 
-- **ChatGPT:** 56 %
+- **ChatGPT:** 67 %
 - **Gemini:** 0 %
-- **AI Overview:** 28 %
+- **AI Overview:** 0 %
 
-**Divergence score:** 0.52  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 56 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 28 %
+### AI Overview – visibility 0 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 2.4 %
-- **Competitor:** 4.1 %
-- **Ugc:** 3.0 %
-- **Reference:** 4.7 %
-- **Corporate:** 81.4 %
-- **Other:** 4.4 %
+- **Own:** 3.4 %
+- **Competitor:** 5.2 %
+- **Ugc:** 5.2 %
+- **Reference:** 5.2 %
+- **Corporate:** 77.6 %
+- **Other:** 3.4 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 43 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
+- `youtube.com` – UGC, retrieved 33 % of chats
+- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `reiterwelt.eu` – CORPORATE, retrieved 33 % of chats
 - `st-hippolyt.de` – COMPETITOR, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 28 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 28 % of chats
-- `youtube.com` – UGC, retrieved 24 % of chats
-- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 24 % of chats
+- `inropharm.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

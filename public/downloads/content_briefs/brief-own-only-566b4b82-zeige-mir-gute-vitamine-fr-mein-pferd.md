@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,24 +14,21 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 56 %  (ChatGPT 56 %)
-- **Marstall** – top visibility 14 %  (ChatGPT 14 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.1 %
-- **Institutional:** 6.9 %
-- **Corporate:** 87.6 %
-- **Other:** 1.4 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 36 % of chats
-- `vetena.de` – CORPORATE, retrieved 36 % of chats
-- `canina.de` – CORPORATE, retrieved 36 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 28 % of chats
-- `madbarn.ca` – CORPORATE, retrieved 21 % of chats
-- `horsesbestshop.de` – CORPORATE, retrieved 21 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 17 % of chats
+- `canina.de` – CORPORATE, retrieved 17 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
+- `mustax.de` – CORPORATE, retrieved 17 % of chats
+- `vetena.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

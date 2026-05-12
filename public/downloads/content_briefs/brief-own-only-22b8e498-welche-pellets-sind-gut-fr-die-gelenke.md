@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,22 +14,21 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 14 %  (Gemini 14 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 2.4 %
-- **Corporate:** 82.9 %
-- **Other:** 14.6 %
+- **Corporate:** 70.0 %
+- **Other:** 30.0 %
 
 **Top cited domains**
 
-- `fuetternundfit.de` – CORPORATE, retrieved 21 % of chats
-- `stroeh.de` – CORPORATE, retrieved 14 % of chats
-- `feddema-nutri.de` – CORPORATE, retrieved 14 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 14 % of chats
-- `hansetier.de` – CORPORATE, retrieved 14 % of chats
-- `leoswc.com` – OTHER, retrieved 14 % of chats
+- `feddema-nutri.de` – CORPORATE, retrieved 17 % of chats
+- `hundpur.com` – CORPORATE, retrieved 17 % of chats
+- `equisio-shop.de` – CORPORATE, retrieved 17 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
+- `goodvibesforpets.de` – OTHER, retrieved 17 % of chats
+- `hansetier.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

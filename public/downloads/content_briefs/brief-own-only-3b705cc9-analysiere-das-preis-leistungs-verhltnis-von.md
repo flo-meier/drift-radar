@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,30 +14,30 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 71 %  (Gemini 71 %, ChatGPT 43 %, AI Overview 17 %)
-- **St. Hippolyt** – top visibility 56 %  (ChatGPT 56 %, Gemini 43 %)
-- **Pavo** – top visibility 28 %  (Gemini 28 %, ChatGPT 14 %)
-- **Eggersmann** – top visibility 28 %  (Gemini 28 %, ChatGPT 28 %)
-- **Höveler** – top visibility 28 %  (Gemini 28 %, AI Overview 17 %, ChatGPT 14 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 33 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %, AI Overview 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
 - **Competitor:** 2.9 %
-- **Editorial:** 17.6 %
-- **Ugc:** 1.0 %
-- **Reference:** 6.9 %
-- **Institutional:** 24.5 %
-- **Corporate:** 44.1 %
+- **Editorial:** 11.4 %
+- **Ugc:** 2.9 %
+- **Reference:** 5.7 %
+- **Institutional:** 40.0 %
+- **Corporate:** 34.3 %
 - **Other:** 2.9 %
 
 **Top cited domains**
 
-- `landwirtschaft.de` – INSTITUTIONAL, retrieved 30 % of chats
-- `kraemer.de` – CORPORATE, retrieved 25 % of chats
-- `lkvsachsen.de` – INSTITUTIONAL, retrieved 25 % of chats
-- `petonline.de` – EDITORIAL, retrieved 25 % of chats
-- `furago.de` – CORPORATE, retrieved 20 % of chats
-- `pferdegruenland.de` – INSTITUTIONAL, retrieved 20 % of chats
+- `landwirtschaft.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `petonline.de` – EDITORIAL, retrieved 33 % of chats
+- `dvtiernahrung.de` – INSTITUTIONAL, retrieved 22 % of chats
+- `sanoanimal.de` – REFERENCE, retrieved 22 % of chats
+- `endlich-wachstum.de` – INSTITUTIONAL, retrieved 22 % of chats
+- `kraemer.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -49,7 +49,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -2,35 +2,22 @@
 
 ## Summary
 
-Pferdegold's visibility registered modest volatility this week. Drifting prompts increased from 12 to 17 (net +5), while own-only silence contracted by 3 prompts. Average visibility remains flat at 5.1%.
+Pferdegold's visibility eroded across supplement-focused queries this week. Net drifting prompts fell from 18 to 10 (−44%), driven by eight prompts dropping to zero visibility. One new prompt entered drifting territory. Own-brand visibility remains at 4.2%, unchanged. Silence increased: 51 prompts now silent (up from 40).
 
-## Movement Into Drifting
+## Movement Analysis
 
-Five prompts crossed the 0.3 threshold simultaneously, all addressing natural supplement categories:
+**Out of drifting:** Eight prompts fell completely silent. The largest collapse was "Welche natürlichen Gelenkpellets für Pferde empfiehlst du?" (−0.513 score). Five queries about natural supplements and hoof care dropped from 0.31 visibility to nothing. One prompt on joint support moved from own-only to full silence.
 
-- "Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?" (0.327)
-- "Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?" (0.31)
-- "Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde." (0.31)
-- "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd." (0.31)
-- "Finde natürliche Pellets zur Unterstützung der Pferdegesundheit." (0.31)
+**Into drifting:** One prompt gained visibility – "Suche gesundes Zusatzfutter für Pferde in Deutschland" rose from 0.204 to 0.443. This is Pferdegold's sole new drifter, suggesting marginal traction on location-specific supplement searches.
 
-All five transitioned from silence to active competition across multiple engines. The cluster pattern suggests coordinated indexing activity rather than organic drift.
+**Silence transitions:** Eleven prompts changed silence classification. Most dropped into own-only silence (six cases), indicating engines still recognize Pferdegold but no longer surface it against competitors. One prompt shifted to full silence.
 
-## Movement Out of Drifting
+## Priority Actions
 
-Two joint-supplement queries dropped below threshold:
+Focus immediately on the eight fallen prompts – particularly the joint pellets and natural supplement queries. These represent lost ground in core product categories. The constellation suggests algorithmic downranking rather than content mismatch; verify competitor activity on these terms.
 
-- "Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?" (0.443 → 0.204)
-- "Suche gesundes Zusatzfutter für Pferde in Deutschland." (0.443 → 0.204)
+Monitor the new drifter ("gesundes Zusatzfutter Deutschland") for stability. It's the only growth signal and warrants reinforcement.
 
-Both declined by 0.239 points, indicating reduced competitor presence or algorithm normalization.
+Investigate whether the own-only silence reflects indexing issues or ranking penalties across supplement-related content.
 
-## Silence Dynamics
-
-Eight prompts changed silence classification. The five new drifters exited own-only silence entirely. One full-silence prompt ("Vergleiche die Inhaltsstoffe…") now shows cross-engine visibility.
-
-## Immediate Action
-
-Focus on the five stress-response and natural-supplement prompts entering drift. These represent either competitor scaling in the equine wellness category or algorithm surface changes. Verify whether competing domains rank on all three engines for these terms.
-
-Next week's tracking will clarify whether the cluster represents sustained competitive pressure or weekly volatility.
+Next week will clarify whether this is algorithmic drift or sustained repositioning.

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,30 +14,28 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 43 %  (ChatGPT 43 %, Gemini 14 %)
-- **St. Hippolyt** – top visibility 28 %  (ChatGPT 28 %, Gemini 14 %)
-- **Marstall** – top visibility 14 %  (ChatGPT 14 %)
-- **Eggersmann** – top visibility 14 %  (Gemini 14 %)
-- **Höveler** – top visibility 14 %  (ChatGPT 14 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.3 %
-- **Editorial:** 8.4 %
-- **Ugc:** 3.2 %
-- **Reference:** 7.9 %
-- **Institutional:** 4.5 %
-- **Corporate:** 68.6 %
-- **Other:** 6.0 %
+- **Competitor:** 1.4 %
+- **Editorial:** 8.7 %
+- **Ugc:** 4.3 %
+- **Reference:** 5.8 %
+- **Institutional:** 2.9 %
+- **Corporate:** 72.5 %
+- **Other:** 4.3 %
 
 **Top cited domains**
 
+- `pernaturam.de` – CORPORATE, retrieved 44 % of chats
+- `youtube.com` – UGC, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 28 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 28 % of chats
-- `welt.de` – EDITORIAL, retrieved 28 % of chats
-- `youtube.com` – UGC, retrieved 24 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `josera.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -49,7 +47,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,13 +14,13 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.6 %
-- **Editorial:** 1.6 %
-- **Ugc:** 3.2 %
-- **Reference:** 3.2 %
-- **Institutional:** 1.6 %
-- **Corporate:** 82.5 %
-- **Other:** 6.3 %
+- **Competitor:** 1.4 %
+- **Editorial:** 2.9 %
+- **Ugc:** 7.1 %
+- **Reference:** 4.3 %
+- **Institutional:** 2.9 %
+- **Corporate:** 75.7 %
+- **Other:** 5.7 %
 
 **Top cited domains**
 
@@ -29,7 +29,7 @@
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `hipposport.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 22 % of chats
 
 ## Suggested article
 

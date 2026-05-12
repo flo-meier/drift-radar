@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Eggersmann** – top visibility 86 %  (Gemini 86 %)
-- **Höveler** – top visibility 86 %  (Gemini 86 %, ChatGPT 14 %)
-- **St. Hippolyt** – top visibility 43 %  (Gemini 43 %, ChatGPT 14 %)
-- **Pavo** – top visibility 14 %  (Gemini 14 %, ChatGPT 14 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 96.5 %
-- **Other:** 3.5 %
+- **Corporate:** 92.2 %
+- **Other:** 7.8 %
 
 **Top cited domains**
 
-- `mambocare.de` – CORPORATE, retrieved 43 % of chats
-- `stroeh.de` – CORPORATE, retrieved 43 % of chats
-- `carepet.de` – CORPORATE, retrieved 43 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 28 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 28 % of chats
-- `noeltgen.de` – CORPORATE, retrieved 21 % of chats
+- `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
+- `carepet.de` – CORPORATE, retrieved 33 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
+- `alpurial.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -43,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Eggersmann, Höveler, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Eggersmann, Höveler, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

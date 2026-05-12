@@ -1,14 +1,14 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
-- **Gemini:** 43 %
+- **Gemini:** 67 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.51  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -21,7 +21,7 @@
 - _brand_ – Pavo offers joint support
 - _criterion_ – These brands offer natural joint support
 
-### Gemini – visibility 43 %
+### Gemini – visibility 67 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -40,19 +40,17 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Ugc:** 2.1 %
-- **Institutional:** 2.1 %
-- **Corporate:** 88.5 %
-- **Other:** 7.3 %
+- **Corporate:** 94.9 %
+- **Other:** 5.1 %
 
 **Top cited domains**
 
-- `seewinkler-naturprodukte.com` – CORPORATE, retrieved 36 % of chats
-- `stroeh.de` – CORPORATE, retrieved 28 % of chats
-- `stallbedarf24.de` – CORPORATE, retrieved 28 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 21 % of chats
-- `tributeequinenutrition.com` – CORPORATE, retrieved 21 % of chats
-- `alpurial.de` – CORPORATE, retrieved 21 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `raiffeisenmarkt.de` – CORPORATE, retrieved 33 % of chats
+- `carepet.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `seewinkler-naturprodukte.com` – CORPORATE, retrieved 33 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

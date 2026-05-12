@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
 
 ## Engine visibility
 
@@ -14,23 +14,27 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
 - **Editorial:** 2.1 %
+- **Ugc:** 2.1 %
 - **Reference:** 2.1 %
-- **Corporate:** 83.0 %
-- **Other:** 12.8 %
+- **Institutional:** 2.1 %
+- **Corporate:** 89.4 %
+- **Other:** 2.1 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 38 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 38 % of chats
-- `pharmahorse.de` – CORPORATE, retrieved 38 % of chats
-- `bieros.de` – CORPORATE, retrieved 25 % of chats
-- `hipposport.de` – CORPORATE, retrieved 25 % of chats
-- `kingfisherdublin.com` – OTHER, retrieved 25 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 38 % of chats
+- `kraemer.de` – CORPORATE, retrieved 38 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 38 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
+- `ehorses.de` – CORPORATE, retrieved 25 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 
@@ -42,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.
