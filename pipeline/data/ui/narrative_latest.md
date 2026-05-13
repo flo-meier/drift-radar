@@ -1,23 +1,23 @@
-# Drift Radar · 2026-05-11
+# Drift Radar · 2026-05-12
 
 ## Summary
 
-Pferdegold's visibility eroded across supplement-focused queries this week. Net drifting prompts fell from 18 to 10 (−44%), driven by eight prompts dropping to zero visibility. One new prompt entered drifting territory. Own-brand visibility remains at 4.2%, unchanged. Silence increased: 51 prompts now silent (up from 40).
+Pferdegold tracked 50 prompts across ChatGPT, Gemini, and AI Overview (May 10–12). Nine prompts drifted at ≥0.3 score. Brand visibility remains at 4.0%. Movement was modest: two prompts entered drifting range, three exited, and nine shifted silence classification.
 
-## Movement Analysis
+## Movements into drifting
 
-**Out of drifting:** Eight prompts fell completely silent. The largest collapse was "Welche natürlichen Gelenkpellets für Pferde empfiehlst du?" (−0.513 score). Five queries about natural supplements and hoof care dropped from 0.31 visibility to nothing. One prompt on joint support moved from own-only to full silence.
+"Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen" and "Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?" both climbed from 0.0 to 0.443. Both shifted simultaneously from own-only silence to active drift – meaning competitors now return results where Pferdegold previously held exclusive visibility. Both entries target natural supplements and ingredient transparency, a segment showing competitive pressure this week.
 
-**Into drifting:** One prompt gained visibility – "Suche gesundes Zusatzfutter für Pferde in Deutschland" rose from 0.204 to 0.443. This is Pferdegold's sole new drifter, suggesting marginal traction on location-specific supplement searches.
+## Movements out of drifting
 
-**Silence transitions:** Eleven prompts changed silence classification. Most dropped into own-only silence (six cases), indicating engines still recognize Pferdegold but no longer surface it against competitors. One prompt shifted to full silence.
+Three prompts fell back to 0.0: the German localized search "Suche gesundes Zusatzfutter für Pferde in Deutschland," the analytical query "Analysiere die Zusammensetzung von Gelenkpellets…," and the price-constrained variant "Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro." These retreats suggest temporary ranking fluctuations rather than sustained competitive loss.
 
-## Priority Actions
+## Silence shifts
 
-Focus immediately on the eight fallen prompts – particularly the joint pellets and natural supplement queries. These represent lost ground in core product categories. The constellation suggests algorithmic downranking rather than content mismatch; verify competitor activity on these terms.
+Two of the new drifting prompts cleared own-only silence entirely. Conversely, two variants of "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd" moved into full silence – no Pferdegold or competitor results. One prompt transitioned from full silence back to own-only, signaling inconsistent coverage in that semantic cluster.
 
-Monitor the new drifter ("gesundes Zusatzfutter Deutschland") for stability. It's the only growth signal and warrants reinforcement.
+## Action focus
 
-Investigate whether the own-only silence reflects indexing issues or ranking penalties across supplement-related content.
+Start with the two new drifting entries: determine which competitors appear and on which engines. The natural-ingredients angle represents the active threat surface this period.
 
-Next week will clarify whether this is algorithmic drift or sustained repositioning.
+Next week: monitor whether the three exited prompts restabilize or continue declining.

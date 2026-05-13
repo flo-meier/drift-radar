@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-02 → 2026-05-04
+**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -14,21 +14,19 @@
 
 ## Citation source mix
 
-- **Own:** 1.8 %
-- **Editorial:** 1.8 %
-- **Reference:** 12.7 %
-- **Institutional:** 1.8 %
-- **Corporate:** 78.1 %
-- **Other:** 3.7 %
+- **Editorial:** 11.1 %
+- **Reference:** 44.4 %
+- **Corporate:** 33.3 %
+- **Other:** 11.1 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 50 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
+- `go4vet.com` – REFERENCE, retrieved 17 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

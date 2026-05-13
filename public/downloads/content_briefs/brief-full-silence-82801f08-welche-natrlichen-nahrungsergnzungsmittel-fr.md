@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -14,22 +14,23 @@
 
 ## Citation source mix
 
-- **Own:** 2.3 %
+- **Own:** 3.3 %
 - **Competitor:** 1.1 %
-- **Editorial:** 1.1 %
-- **Ugc:** 9.2 %
-- **Institutional:** 3.4 %
-- **Corporate:** 80.5 %
-- **Other:** 2.3 %
+- **Editorial:** 2.2 %
+- **Ugc:** 7.7 %
+- **Reference:** 1.1 %
+- **Institutional:** 5.5 %
+- **Corporate:** 77.0 %
+- **Other:** 2.2 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 56 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
+- `kraemer.de` – CORPORATE, retrieved 56 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 44 % of chats
 - `youtube.com` – UGC, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `migocki.de` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
 
 ## Suggested article
 

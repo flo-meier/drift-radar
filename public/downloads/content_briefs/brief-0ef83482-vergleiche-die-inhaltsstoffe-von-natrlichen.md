@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
-- **ChatGPT:** 67 %
-- **Gemini:** 0 %
+- **ChatGPT:** 100 %
+- **Gemini:** 33 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 67 %
+### ChatGPT – visibility 100 %
 
 **Brands cited (tracked):** _none_
 
@@ -23,7 +23,7 @@
 
 > ChatGPT answers the question as stated – pure ingredient comparison – and never transitions to brand recommendations.
 
-### Gemini – visibility 0 %
+### Gemini – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 3.4 %
-- **Competitor:** 5.2 %
-- **Ugc:** 5.2 %
-- **Reference:** 5.2 %
-- **Corporate:** 77.6 %
-- **Other:** 3.4 %
+- **Own:** 3.0 %
+- **Competitor:** 4.5 %
+- **Ugc:** 4.5 %
+- **Reference:** 7.5 %
+- **Corporate:** 76.2 %
+- **Other:** 4.5 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 56 % of chats
 - `youtube.com` – UGC, retrieved 33 % of chats
 - `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
-- `reiterwelt.eu` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `preissuchmaschine.de` – REFERENCE, retrieved 33 % of chats
 - `st-hippolyt.de` – COMPETITOR, retrieved 33 % of chats
-- `inropharm.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

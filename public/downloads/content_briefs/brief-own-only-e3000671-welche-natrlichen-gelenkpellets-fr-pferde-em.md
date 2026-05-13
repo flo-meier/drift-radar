@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -23,18 +23,17 @@
 - **Editorial:** 2.1 %
 - **Ugc:** 2.1 %
 - **Reference:** 2.1 %
-- **Institutional:** 2.1 %
 - **Corporate:** 89.4 %
-- **Other:** 2.1 %
+- **Other:** 4.3 %
 
 **Top cited domains**
 
-- `fuetternundfit.de` – CORPORATE, retrieved 38 % of chats
-- `kraemer.de` – CORPORATE, retrieved 38 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 38 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
-- `ehorses.de` – CORPORATE, retrieved 25 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
+- `kraemer.de` – CORPORATE, retrieved 44 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
+- `ehorses.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

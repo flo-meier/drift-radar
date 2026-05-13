@@ -1,18 +1,18 @@
 # Drift Radar – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
-**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 67 %
 - **Gemini:** 33 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** #1 Pavo
 
@@ -42,17 +42,18 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 4.1 %
-- **Corporate:** 95.9 %
+- **Own:** 6.0 %
+- **Corporate:** 87.9 %
+- **Other:** 6.1 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `equineessentialhub.com` – CORPORATE, retrieved 33 % of chats
 - `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `petvet-gmbh.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

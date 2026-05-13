@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-06 → 2026-05-08
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -11,21 +11,6 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
-
-## Citation source mix
-
-- **Ugc:** 4.8 %
-- **Corporate:** 90.3 %
-- **Other:** 4.8 %
-
-**Top cited domains**
-
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 33 % of chats
-- `makana.de` – CORPORATE, retrieved 33 % of chats
-- `medilutions.de` – CORPORATE, retrieved 33 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

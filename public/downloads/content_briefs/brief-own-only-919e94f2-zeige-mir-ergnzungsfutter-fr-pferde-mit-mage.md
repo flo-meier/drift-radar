@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -15,21 +15,21 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Havens** – top visibility 67 %  (Gemini 67 %)
+- **Havens** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 72.7 %
-- **Other:** 27.3 %
+- **Corporate:** 91.7 %
+- **Other:** 8.3 %
 
 **Top cited domains**
 
-- `stalapotheek.nl` – CORPORATE, retrieved 17 % of chats
-- `agradi.nl` – CORPORATE, retrieved 17 % of chats
-- `brandhofruitersport.nl` – CORPORATE, retrieved 17 % of chats
-- `dierapotheker.nl` – CORPORATE, retrieved 17 % of chats
-- `ej.nl` – OTHER, retrieved 17 % of chats
-- `horsetonic.eu` – CORPORATE, retrieved 17 % of chats
+- `eqx.vet` – CORPORATE, retrieved 17 % of chats
+- `carepet.de` – CORPORATE, retrieved 17 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `fundis-reitsport.at` – CORPORATE, retrieved 17 % of chats
+- `fundis-reitsport.de` – CORPORATE, retrieved 17 % of chats
+- `google.com` – OTHER, retrieved 17 % of chats
 
 ## Suggested article
 

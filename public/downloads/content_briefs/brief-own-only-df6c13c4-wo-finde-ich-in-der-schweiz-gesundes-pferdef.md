@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?«
 
-**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -14,27 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %, Gemini 100 %, ChatGPT 67 %)
-- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 67 %)
-- **Höveler** – top visibility 100 %  (AI Overview 100 %, Gemini 33 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 67 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %, ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 100 %, ChatGPT 33 %)
+- **Höveler** – top visibility 100 %  (AI Overview 100 %, Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %, Gemini 67 %, ChatGPT 33 %)
 - **Nösenberger** – top visibility 67 %  (AI Overview 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 1.7 %
-- **Ugc:** 1.7 %
-- **Corporate:** 85.0 %
-- **Other:** 11.7 %
+- **Ugc:** 1.8 %
+- **Corporate:** 93.0 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
-- `equusvitalis.ch` – CORPORATE, retrieved 44 % of chats
+- `equusvitalis.ch` – CORPORATE, retrieved 56 % of chats
 - `cavale-schweiz.ch` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 33 % of chats
 - `hauptner.ch` – CORPORATE, retrieved 33 % of chats
+- `herzog-muelimatt.ch` – CORPORATE, retrieved 33 % of chats
 - `pferde-reformhaus.ch` – CORPORATE, retrieved 33 % of chats
-- `reitsport.ch` – CORPORATE, retrieved 33 % of chats
-- `hypona.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

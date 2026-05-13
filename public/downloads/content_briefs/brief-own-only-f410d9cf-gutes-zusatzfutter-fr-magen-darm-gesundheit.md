@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -15,7 +15,6 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
 
 ## Suggested article
 
@@ -27,7 +26,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

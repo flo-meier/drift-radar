@@ -1,6 +1,6 @@
 # Drift Radar – »Finde in Deutschland hergestelltes Magenfutter für mein Pferd.«
 
-**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -16,27 +16,26 @@
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %)
 - **Höveler** – top visibility 67 %  (Gemini 67 %)
-- **Havens** – top visibility 33 %  (Gemini 33 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.5 %
-- **Editorial:** 1.8 %
-- **Ugc:** 3.6 %
-- **Reference:** 1.8 %
-- **Corporate:** 83.6 %
-- **Other:** 3.6 %
+- **Competitor:** 5.1 %
+- **Editorial:** 1.7 %
+- **Ugc:** 3.4 %
+- **Reference:** 1.7 %
+- **Corporate:** 84.7 %
+- **Other:** 3.4 %
 
 **Top cited domains**
 
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
-- `hipposport.de` – CORPORATE, retrieved 22 % of chats
-- `equine74.com` – CORPORATE, retrieved 22 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -48,7 +47,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, Havens for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

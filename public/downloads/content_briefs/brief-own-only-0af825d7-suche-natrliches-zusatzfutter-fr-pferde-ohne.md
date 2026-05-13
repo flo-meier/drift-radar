@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -16,25 +16,25 @@
 
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 - **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 7.0 %
-- **Editorial:** 3.6 %
-- **Corporate:** 78.6 %
-- **Other:** 10.8 %
+- **Competitor:** 4.8 %
+- **Editorial:** 4.8 %
+- **Corporate:** 76.1 %
+- **Other:** 14.4 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `alpurial.de` – CORPORATE, retrieved 33 % of chats
-- `barynesse.com` – CORPORATE, retrieved 33 % of chats
-- `petsbiotics.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – OTHER, retrieved 17 % of chats
+- `marstall.de` – COMPETITOR, retrieved 17 % of chats
+- `alphahorse.at` – CORPORATE, retrieved 17 % of chats
+- `barynesse.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

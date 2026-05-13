@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -14,22 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 3.4 %
-- **Corporate:** 96.6 %
+- **Institutional:** 3.6 %
+- **Corporate:** 92.8 %
+- **Other:** 3.6 %
 
 **Top cited domains**
 
 - `vetrigold.de` – CORPORATE, retrieved 50 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `fundis-reitsport.de` – CORPORATE, retrieved 33 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 17 % of chats
+- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
+- `dochorse.de` – CORPORATE, retrieved 17 % of chats
+- `equidocs.de` – OTHER, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -41,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

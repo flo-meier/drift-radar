@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.«
 
-**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-25 → 2026-04-27
+**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
 
 ## Engine visibility
 
@@ -14,19 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 11.1 %
-- **Reference:** 9.2 %
-- **Corporate:** 77.9 %
-- **Other:** 1.8 %
+- **Editorial:** 5.1 %
+- **Reference:** 3.4 %
+- **Institutional:** 3.4 %
+- **Corporate:** 81.4 %
+- **Other:** 6.8 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 50 % of chats
-- `kraemer.de` – CORPORATE, retrieved 50 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 38 % of chats
-- `amazon.de` – CORPORATE, retrieved 25 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
-- `sanoanimal.de` – REFERENCE, retrieved 25 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 22 % of chats
+- `kraemer.de` – CORPORATE, retrieved 22 % of chats
+- `madbarn.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
