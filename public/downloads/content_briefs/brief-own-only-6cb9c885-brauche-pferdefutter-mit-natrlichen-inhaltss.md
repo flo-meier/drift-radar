@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -14,37 +14,37 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 5.0 %
-- **Corporate:** 87.5 %
-- **Other:** 7.5 %
+- **Institutional:** 11.6 %
+- **Corporate:** 81.4 %
+- **Other:** 7.0 %
 
 **Top cited domains**
 
-- `lexa-pferdefutter.at` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.at` – CORPORATE, retrieved 44 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
 - `onfarming.at` – CORPORATE, retrieved 33 % of chats
-- `solan.at` – CORPORATE, retrieved 33 % of chats
-- `baywa.de` – CORPORATE, retrieved 22 % of chats
-- `garant.co.at` – CORPORATE, retrieved 22 % of chats
+- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `agrarzone.at` – CORPORATE, retrieved 22 % of chats
+- `auer-garsten.at` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
+- **Headline starting point:** »Pferdegold vs Höveler: Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, St. Hippolyt, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in Deutschland gesundes Pferdefutter?«
 
-**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -14,30 +14,29 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %, ChatGPT 33 %)
-- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %, ChatGPT 67 %)
 - **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
-- **Höveler** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %)
+- **Pavo** – top visibility 33 %  (AI Overview 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 1.4 %
-- **Editorial:** 2.8 %
-- **Ugc:** 2.8 %
-- **Reference:** 7.0 %
-- **Institutional:** 5.6 %
-- **Corporate:** 78.9 %
-- **Other:** 1.4 %
+- **Editorial:** 5.9 %
+- **Ugc:** 2.9 %
+- **Reference:** 10.3 %
+- **Institutional:** 7.5 %
+- **Corporate:** 70.5 %
+- **Other:** 2.9 %
 
 **Top cited domains**
 
-- `salvana-pferde.de` – CORPORATE, retrieved 56 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 44 % of chats
-- `baywa.com` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `tiergarten.de` – INSTITUTIONAL, retrieved 56 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 44 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `josera.de` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -49,7 +48,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

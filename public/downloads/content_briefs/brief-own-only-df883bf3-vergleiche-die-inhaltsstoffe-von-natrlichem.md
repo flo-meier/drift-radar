@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -19,21 +19,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 4.3 %
-- **Ugc:** 5.7 %
+- **Editorial:** 6.2 %
+- **Ugc:** 3.7 %
 - **Reference:** 8.6 %
-- **Institutional:** 5.7 %
-- **Corporate:** 74.3 %
-- **Other:** 1.4 %
+- **Institutional:** 3.7 %
+- **Corporate:** 71.6 %
+- **Other:** 6.2 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `facebook.com` – UGC, retrieved 33 % of chats
+- `natural-horse-care.com` – OTHER, retrieved 44 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `facebook.com` – UGC, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
-- `annimally.de` – CORPORATE, retrieved 22 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

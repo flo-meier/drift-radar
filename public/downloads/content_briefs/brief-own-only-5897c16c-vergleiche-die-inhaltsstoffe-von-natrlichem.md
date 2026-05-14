@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -15,25 +15,25 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 8.6 %
-- **Ugc:** 6.2 %
-- **Reference:** 7.4 %
+- **Editorial:** 5.0 %
+- **Ugc:** 5.1 %
+- **Reference:** 7.6 %
 - **Institutional:** 1.2 %
-- **Corporate:** 70.4 %
-- **Other:** 6.2 %
+- **Corporate:** 76.0 %
+- **Other:** 5.1 %
 
 **Top cited domains**
 
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `youtube.com` – UGC, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `josera.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 50 % of chats
+- `kraemer.de` – CORPORATE, retrieved 38 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 25 % of chats
+- `annimally.de` – CORPORATE, retrieved 25 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
+- `profi-tack.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-05 → 2026-05-11
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 28 %  (AI Overview 28 %)
+- **Marstall** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.9 %
-- **Editorial:** 1.4 %
-- **Ugc:** 5.3 %
-- **Reference:** 2.0 %
-- **Institutional:** 3.9 %
-- **Corporate:** 82.7 %
-- **Other:** 2.7 %
+- **Competitor:** 1.4 %
+- **Editorial:** 2.8 %
+- **Ugc:** 8.5 %
+- **Reference:** 2.8 %
+- **Institutional:** 4.2 %
+- **Corporate:** 78.9 %
+- **Other:** 1.4 %
 
 **Top cited domains**
 
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `medpets.de` – CORPORATE, retrieved 33 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
 - `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `migocki.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

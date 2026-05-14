@@ -1,18 +1,18 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 67 %
 - **Gemini:** 33 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -42,19 +42,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 13.1 %
-- **Ugc:** 4.4 %
-- **Reference:** 4.4 %
-- **Corporate:** 73.8 %
-- **Other:** 4.4 %
+- **Editorial:** 8.4 %
+- **Ugc:** 4.2 %
+- **Reference:** 4.2 %
+- **Corporate:** 75.1 %
+- **Other:** 8.1 %
 
 **Top cited domains**
 
 - `equidocs.de` – CORPORATE, retrieved 33 % of chats
 - `fressnapf.de` – CORPORATE, retrieved 33 % of chats
+- `leoswc.com` – OTHER, retrieved 33 % of chats
 - `ehorses.de` – CORPORATE, retrieved 17 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `test-vergleiche.com` – EDITORIAL, retrieved 17 % of chats
 - `dogorama.app` – UGC, retrieved 17 % of chats
 
 ## Suggested article

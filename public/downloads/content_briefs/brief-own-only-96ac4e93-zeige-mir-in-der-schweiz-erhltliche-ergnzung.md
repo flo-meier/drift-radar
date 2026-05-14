@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -14,24 +14,23 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %, Gemini 33 %)
+- **Marstall** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 5.3 %
-- **Corporate:** 89.5 %
-- **Other:** 5.3 %
+- **Institutional:** 6.5 %
+- **Corporate:** 87.0 %
+- **Other:** 6.5 %
 
 **Top cited domains**
 
+- `hypona.ch` – CORPORATE, retrieved 56 % of chats
 - `pferde-reformhaus.ch` – CORPORATE, retrieved 44 % of chats
+- `tier-im-mittelpunkt.ch` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `felix-buehler.ch` – CORPORATE, retrieved 33 % of chats
-- `hypona.ch` – CORPORATE, retrieved 33 % of chats
-- `ipet.ch` – CORPORATE, retrieved 33 % of chats
-- `reitsport.ch` – CORPORATE, retrieved 33 % of chats
-- `tierbedarf-discount.ch` – CORPORATE, retrieved 33 % of chats
+- `fundis-reitsport.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -43,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

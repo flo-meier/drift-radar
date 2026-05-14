@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -19,18 +19,21 @@
 
 ## Citation source mix
 
-- **Institutional:** 3.6 %
-- **Corporate:** 92.8 %
-- **Other:** 3.6 %
+- **Editorial:** 4.7 %
+- **Ugc:** 2.3 %
+- **Reference:** 4.7 %
+- **Institutional:** 7.0 %
+- **Corporate:** 79.0 %
+- **Other:** 2.3 %
 
 **Top cited domains**
 
-- `vetrigold.de` – CORPORATE, retrieved 50 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 17 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
-- `dochorse.de` – CORPORATE, retrieved 17 % of chats
-- `equidocs.de` – OTHER, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `zooplus.de` – CORPORATE, retrieved 17 % of chats
+- `annimally.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

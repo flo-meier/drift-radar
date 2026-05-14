@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.6 %
-- **Reference:** 3.6 %
-- **Institutional:** 17.9 %
-- **Corporate:** 74.9 %
+- **Editorial:** 2.7 %
+- **Reference:** 2.7 %
+- **Institutional:** 13.3 %
+- **Corporate:** 81.4 %
 
 **Top cited domains**
 
-- `vetena.de` – CORPORATE, retrieved 33 % of chats
-- `canina.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `vetena.de` – CORPORATE, retrieved 50 % of chats
+- `canina.de` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
 - `extension.org` – INSTITUTIONAL, retrieved 17 % of chats
-- `umn.edu` – INSTITUTIONAL, retrieved 17 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

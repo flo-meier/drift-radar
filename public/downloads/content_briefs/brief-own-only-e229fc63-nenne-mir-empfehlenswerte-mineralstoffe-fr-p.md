@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -14,35 +14,37 @@
 
 ## Who is cited instead
 
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 10.5 %
-- **Reference:** 15.8 %
-- **Institutional:** 5.3 %
-- **Corporate:** 68.4 %
+- **Ugc:** 6.5 %
+- **Reference:** 9.7 %
+- **Institutional:** 12.9 %
+- **Corporate:** 64.5 %
+- **Other:** 6.5 %
 
 **Top cited domains**
 
 - `dwds.de` – REFERENCE, retrieved 14 % of chats
 - `mambocare.de` – CORPORATE, retrieved 14 % of chats
 - `weidezaun.info` – CORPORATE, retrieved 14 % of chats
+- `ak-pferd.de` – INSTITUTIONAL, retrieved 14 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 14 % of chats
 - `barynesse.com` – CORPORATE, retrieved 14 % of chats
-- `calapo.com` – CORPORATE, retrieved 14 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 600 – 2 600 words
-- **Headline starting point:** »Pferdegold vs Höveler: Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
+- **Headline starting point:** »Pferdegold vs Pavo: Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

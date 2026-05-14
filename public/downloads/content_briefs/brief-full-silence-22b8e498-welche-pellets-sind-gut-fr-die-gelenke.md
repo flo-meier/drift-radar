@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -11,6 +11,21 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
+
+## Citation source mix
+
+- **Ugc:** 7.7 %
+- **Corporate:** 61.5 %
+- **Other:** 30.8 %
+
+**Top cited domains**
+
+- `ameisapotheke.at` – OTHER, retrieved 17 % of chats
+- `annimally.nl` – CORPORATE, retrieved 17 % of chats
+- `biofeinkostland.com` – OTHER, retrieved 17 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 17 % of chats
+- `goodvibesforpets.de` – CORPORATE, retrieved 17 % of chats
+- `hundpur.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
 
 ## Engine visibility
 
@@ -15,25 +15,23 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (AI Overview 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 0.8 %
-- **Editorial:** 3.2 %
-- **Ugc:** 4.0 %
-- **Reference:** 6.4 %
-- **Institutional:** 6.4 %
-- **Corporate:** 72.8 %
-- **Other:** 6.4 %
+- **Editorial:** 4.1 %
+- **Ugc:** 4.1 %
+- **Reference:** 5.7 %
+- **Institutional:** 6.6 %
+- **Corporate:** 73.8 %
+- **Other:** 5.7 %
 
 **Top cited domains**
 
 - `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
 - `hartog.eu` – CORPORATE, retrieved 44 % of chats
 - `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `madbarn.com` – CORPORATE, retrieved 33 % of chats
+- `lifedatalabs.de` – CORPORATE, retrieved 33 % of chats
 - `petvet-gmbh.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
@@ -46,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.
