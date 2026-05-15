@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.2 %
-- **Ugc:** 6.6 %
-- **Reference:** 13.1 %
-- **Institutional:** 9.8 %
-- **Corporate:** 57.4 %
-- **Other:** 4.9 %
+- **Editorial:** 10.0 %
+- **Ugc:** 5.0 %
+- **Reference:** 16.7 %
+- **Institutional:** 10.0 %
+- **Corporate:** 55.0 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
-- `migocki.de` – CORPORATE, retrieved 33 % of chats
 - `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
+- `migocki.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `biomedcentral.com` – EDITORIAL, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `springer.com` – REFERENCE, retrieved 33 % of chats
+- `biomedcentral.com` – EDITORIAL, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

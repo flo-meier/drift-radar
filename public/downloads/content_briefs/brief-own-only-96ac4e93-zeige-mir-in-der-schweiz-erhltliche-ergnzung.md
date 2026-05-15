@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (AI Overview 67 %, Gemini 33 %, ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Institutional:** 6.5 %
-- **Corporate:** 87.0 %
-- **Other:** 6.5 %
+- **Institutional:** 5.2 %
+- **Corporate:** 85.7 %
+- **Other:** 9.1 %
 
 **Top cited domains**
 
-- `hypona.ch` – CORPORATE, retrieved 56 % of chats
-- `pferde-reformhaus.ch` – CORPORATE, retrieved 44 % of chats
+- `hypona.ch` – CORPORATE, retrieved 44 % of chats
+- `ipet.ch` – CORPORATE, retrieved 44 % of chats
 - `tier-im-mittelpunkt.ch` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-reformhaus.ch` – CORPORATE, retrieved 33 % of chats
 - `felix-buehler.ch` – CORPORATE, retrieved 33 % of chats
-- `fundis-reitsport.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

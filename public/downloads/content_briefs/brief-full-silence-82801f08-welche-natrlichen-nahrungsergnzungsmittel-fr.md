@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -15,13 +15,13 @@
 ## Citation source mix
 
 - **Own:** 1.9 %
-- **Competitor:** 0.9 %
-- **Editorial:** 3.7 %
-- **Ugc:** 6.5 %
-- **Reference:** 4.7 %
-- **Institutional:** 5.6 %
-- **Corporate:** 74.8 %
-- **Other:** 1.9 %
+- **Competitor:** 1.9 %
+- **Editorial:** 4.8 %
+- **Ugc:** 5.7 %
+- **Reference:** 4.8 %
+- **Institutional:** 5.7 %
+- **Corporate:** 72.4 %
+- **Other:** 2.9 %
 
 **Top cited domains**
 
@@ -30,7 +30,7 @@
 - `pernaturam.de` – CORPORATE, retrieved 44 % of chats
 - `youtube.com` – UGC, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `welt.de` – EDITORIAL, retrieved 33 % of chats
 
 ## Suggested article
 

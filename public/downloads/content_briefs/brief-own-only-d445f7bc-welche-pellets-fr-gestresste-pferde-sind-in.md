@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
-**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-08 → 2026-05-10
+**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,28 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 6.7 %
-- **Ugc:** 13.3 %
-- **Reference:** 6.7 %
-- **Institutional:** 13.3 %
-- **Corporate:** 60.0 %
+- **Corporate:** 95.0 %
+- **Other:** 5.0 %
 
 **Top cited domains**
 
-- `youtube.com` – UGC, retrieved 14 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 14 % of chats
-- `stroeh.de` – CORPORATE, retrieved 14 % of chats
-- `annimally.de` – CORPORATE, retrieved 14 % of chats
-- `deutschakademie.de` – INSTITUTIONAL, retrieved 14 % of chats
-- `deutschplus.net` – REFERENCE, retrieved 14 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `care4animals.de` – CORPORATE, retrieved 17 % of chats
+- `diefutterkammer.de` – CORPORATE, retrieved 17 % of chats
+- `emma-care.de` – CORPORATE, retrieved 17 % of chats
+- `equestrian-horses.de` – OTHER, retrieved 17 % of chats
 
 ## Suggested article
 

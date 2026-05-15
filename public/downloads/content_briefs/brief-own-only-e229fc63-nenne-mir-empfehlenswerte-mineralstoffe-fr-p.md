@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -15,24 +15,21 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 6.5 %
-- **Reference:** 9.7 %
-- **Institutional:** 12.9 %
-- **Corporate:** 64.5 %
-- **Other:** 6.5 %
+- **Institutional:** 25.0 %
+- **Corporate:** 58.3 %
+- **Other:** 16.7 %
 
 **Top cited domains**
 
-- `dwds.de` – REFERENCE, retrieved 14 % of chats
-- `mambocare.de` – CORPORATE, retrieved 14 % of chats
-- `weidezaun.info` – CORPORATE, retrieved 14 % of chats
-- `ak-pferd.de` – INSTITUTIONAL, retrieved 14 % of chats
-- `aleo-pferdesport.de` – CORPORATE, retrieved 14 % of chats
-- `barynesse.com` – CORPORATE, retrieved 14 % of chats
+- `ak-pferd.de` – INSTITUTIONAL, retrieved 17 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 17 % of chats
+- `bio-apo.de` – CORPORATE, retrieved 17 % of chats
+- `ehorses.de` – CORPORATE, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `iwest.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -44,7 +41,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 4.0 %
+- **Competitor:** 1.3 %
+- **Editorial:** 1.3 %
 - **Ugc:** 2.7 %
-- **Reference:** 8.0 %
-- **Institutional:** 10.7 %
-- **Corporate:** 60.0 %
-- **Other:** 14.7 %
+- **Reference:** 6.7 %
+- **Institutional:** 9.3 %
+- **Corporate:** 65.3 %
+- **Other:** 13.3 %
 
 **Top cited domains**
 
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse-infowissen.de` – OTHER, retrieved 33 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `regulatorcomplete.dk` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `youtube.com` – UGC, retrieved 22 % of chats
+- `core.ac.uk` – REFERENCE, retrieved 22 % of chats
 
 ## Suggested article
 

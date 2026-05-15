@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-24 → 2026-04-26
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,18 +14,18 @@
 
 ## Citation source mix
 
-- **Reference:** 2.2 %
-- **Corporate:** 91.3 %
-- **Other:** 6.5 %
+- **Reference:** 2.4 %
+- **Corporate:** 95.2 %
+- **Other:** 2.4 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
-- `sapodoris.de` – CORPORATE, retrieved 22 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `krauterie.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 22 % of chats
+- `hipposport.de` – CORPORATE, retrieved 22 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

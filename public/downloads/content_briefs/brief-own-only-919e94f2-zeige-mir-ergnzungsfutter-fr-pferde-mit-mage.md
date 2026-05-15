@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -15,7 +15,7 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Havens** – top visibility 67 %  (Gemini 67 %)
+- **Havens** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 

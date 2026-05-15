@@ -1,18 +1,18 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
-- **ChatGPT:** 67 %
-- **Gemini:** 33 %
+- **ChatGPT:** 33 %
+- **Gemini:** 67 %
 - **AI Overview:** 0 %
 
 **Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 67 %
+### ChatGPT – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -23,7 +23,7 @@
 
 > All five product brands ChatGPT recommends are outside Peec's tracked competitor list – none of them are the peer set Pferdegold competes with in the SERP.
 
-### Gemini – visibility 33 %
+### Gemini – visibility 67 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -42,20 +42,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 8.4 %
-- **Ugc:** 4.2 %
-- **Reference:** 4.2 %
-- **Corporate:** 75.1 %
-- **Other:** 8.1 %
+- **Editorial:** 21.1 %
+- **Ugc:** 5.3 %
+- **Reference:** 10.7 %
+- **Corporate:** 57.5 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
+- `ehorses.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `leoswc.com` – OTHER, retrieved 33 % of chats
-- `ehorses.de` – CORPORATE, retrieved 17 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `dogorama.app` – UGC, retrieved 17 % of chats
+- `medpex.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-heilkunde.com` – EDITORIAL, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

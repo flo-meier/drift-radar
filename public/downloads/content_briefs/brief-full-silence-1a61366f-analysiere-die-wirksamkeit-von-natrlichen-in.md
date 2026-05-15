@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 1.5 %
-- **Competitor:** 1.5 %
-- **Editorial:** 7.9 %
-- **Ugc:** 4.5 %
-- **Reference:** 12.4 %
-- **Institutional:** 12.4 %
-- **Corporate:** 55.1 %
-- **Other:** 4.6 %
+- **Own:** 1.8 %
+- **Competitor:** 1.8 %
+- **Editorial:** 9.5 %
+- **Ugc:** 9.5 %
+- **Reference:** 7.7 %
+- **Institutional:** 5.7 %
+- **Corporate:** 58.4 %
+- **Other:** 5.5 %
 
 **Top cited domains**
 
-- `sciencedirect.com` – REFERENCE, retrieved 38 % of chats
 - `equine74.com` – CORPORATE, retrieved 38 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 38 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 38 % of chats
 - `cavallo.de` – EDITORIAL, retrieved 38 % of chats
-- `naf-equine.eu` – CORPORATE, retrieved 38 % of chats
+- `madbarn.com` – CORPORATE, retrieved 25 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
 - `iwest.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article

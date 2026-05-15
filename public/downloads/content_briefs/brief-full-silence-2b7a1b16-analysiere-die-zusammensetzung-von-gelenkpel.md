@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.«
 
-**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,20 +14,16 @@
 
 ## Citation source mix
 
-- **Editorial:** 4.0 %
-- **Reference:** 4.0 %
-- **Institutional:** 2.0 %
-- **Corporate:** 86.0 %
-- **Other:** 4.0 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 22 % of chats
-- `madbarn.com` – CORPORATE, retrieved 22 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `migocki.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 22 % of chats
+- `amazon.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

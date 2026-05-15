@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.7 %
-- **Ugc:** 2.3 %
-- **Reference:** 4.7 %
-- **Institutional:** 7.0 %
-- **Corporate:** 79.0 %
-- **Other:** 2.3 %
+- **Editorial:** 6.3 %
+- **Ugc:** 3.1 %
+- **Reference:** 6.3 %
+- **Institutional:** 9.4 %
+- **Corporate:** 71.8 %
+- **Other:** 3.1 %
 
 **Top cited domains**
 
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
 - `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `louven-shop.de` – CORPORATE, retrieved 33 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
 - `zooplus.de` – CORPORATE, retrieved 17 % of chats
 - `annimally.de` – CORPORATE, retrieved 17 % of chats
+- `chewy.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

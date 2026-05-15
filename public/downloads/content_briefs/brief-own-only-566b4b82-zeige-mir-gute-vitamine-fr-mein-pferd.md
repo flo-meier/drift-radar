@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,24 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 2.7 %
-- **Reference:** 2.7 %
-- **Institutional:** 13.3 %
-- **Corporate:** 81.4 %
+- **Editorial:** 4.8 %
+- **Reference:** 4.8 %
+- **Institutional:** 12.0 %
+- **Corporate:** 78.4 %
 
 **Top cited domains**
 
-- `vetena.de` – CORPORATE, retrieved 50 % of chats
-- `canina.de` – CORPORATE, retrieved 50 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `horsesbestshop.de` – CORPORATE, retrieved 33 % of chats
+- `vetena.de` – CORPORATE, retrieved 33 % of chats
+- `bio-apo.de` – CORPORATE, retrieved 33 % of chats
+- `canina.de` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
 - `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `extension.org` – INSTITUTIONAL, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -43,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

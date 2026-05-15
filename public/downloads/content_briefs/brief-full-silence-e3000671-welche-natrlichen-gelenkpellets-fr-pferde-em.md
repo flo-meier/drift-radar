@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-26 → 2026-04-28
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -11,6 +11,21 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
+
+## Citation source mix
+
+- **Ugc:** 38.0 %
+- **Corporate:** 55.4 %
+- **Other:** 6.6 %
+
+**Top cited domains**
+
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
+- `bieros.de` – CORPORATE, retrieved 25 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
+- `kingfisherdublin.com` – CORPORATE, retrieved 25 % of chats
+- `masterhorse-infowissen.de` – OTHER, retrieved 25 % of chats
 
 ## Suggested article
 

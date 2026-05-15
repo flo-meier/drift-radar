@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.5 %
-- **Ugc:** 5.3 %
-- **Corporate:** 87.7 %
-- **Other:** 3.5 %
+- **Editorial:** 1.7 %
+- **Ugc:** 6.7 %
+- **Corporate:** 90.0 %
+- **Other:** 1.7 %
 
 **Top cited domains**
 
-- `agrarshop-online.com` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `aronialand-shop.de` – CORPORATE, retrieved 33 % of chats
 - `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `agrarshop-online.com` – CORPORATE, retrieved 33 % of chats
+- `aronialand-shop.de` – CORPORATE, retrieved 33 % of chats
 - `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

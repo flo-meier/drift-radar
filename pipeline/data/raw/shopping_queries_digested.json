@@ -1,74 +1,6 @@
 {
   "by_prompt": {
-    "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": [
-      {
-        "query": "gelenkunterstützung pferd ergänzungsfutter glucosamin msm hyaluron",
-        "products": [
-          "Equine america glucosamine 12000 msm + ha",
-          "HorseFlex Glucosamin-MSM",
-          "makana MSM Glucosamin Chondroitin + Hyaluronsäure Pulver"
-        ]
-      },
-      {
-        "query": "pferde gelenkschutz bandagen sprunggelenk",
-        "products": [
-          "TSM Polsterbandage für Pferde Sprunggelenk"
-        ]
-      },
-      {
-        "query": "joint support for horses supplements equine joint support",
-        "products": [
-          "Equine America Cortaflex HA Regular",
-          "Equine America Glucosamine HCI 12000",
-          "GWF Nutrition Joint Aid Plus For Horses",
-          "Naf Superflex Senior Five Star",
-          "Synequin Equine Joint Support",
-          "Synopet Horse Joint Support 500 ml",
-          "TopSpec 10:10 Joint Support",
-          "YuMOVE Horse Joint Supplement"
-        ]
-      }
-    ],
-    "pr_0b9644fb-0bec-4847-b388-b12ea14991da": [
-      {
-        "query": "equitop pronutrin",
-        "products": [
-          "EQUITOP Pronutrin Horse - 3.5kg"
-        ]
-      },
-      {
-        "query": "magen darm ergänzungsfuttermittel pferd sensibel sportpferd gastro intestinal",
-        "products": [
-          "Atcom Gastro Sensitive Comp"
-        ]
-      },
-      {
-        "query": "natures best gastrointestinal",
-        "products": [
-          "Natures Best Hefe Plus"
-        ]
-      },
-      {
-        "query": "st.hippolyt gastro relief",
-        "products": [
-          "St. Hippolyt BrandonPlus Gastrobalsam 2,5l"
-        ]
-      }
-    ],
     "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": [
-      {
-        "query": "natural nerve pellets for stressed horses ingredients",
-        "products": [
-          "Equilannoo Nerv Support",
-          "Lexa Kräutermischung Nerven",
-          "Nervenkräuter (100% Natur)",
-          "Pavo NervControl",
-          "Pferdegold Nerven 2.0",
-          "St.Hippolyt Anti‑Stress Kräuterpellets",
-          "Stiefel Nerve Herbs",
-          "TierPlus Nervenwohl Relax Pulver"
-        ]
-      },
       {
         "query": "natürliche nervenpellets pferd stress magnesium kräuter",
         "products": [
@@ -93,43 +25,18 @@
           "Pferdegold Nerven 2.0",
           "St.Hippolyt Anti-Stress Kräuterpellets"
         ]
-      }
-    ],
-    "pr_292a6b04-8dee-4ea2-969b-6a83c709753f": [
-      {
-        "query": "getreidefreies mineralfutter pferd ohne zucker",
-        "products": [
-          "Billy's Mineral ZERO",
-          "Marstall Force"
-        ]
       },
       {
-        "query": "mash pferd ohne industriezucker",
+        "query": "natürliche nervenpellets pferd magnesium tryptophan kräuter",
         "products": [
-          "Agrobs Alpengrün Mash"
-        ]
-      },
-      {
-        "query": "zuckerfreies ergänzungsfutter pferd ohne melasse",
-        "products": [
-          "Semhof BIO MASH LIGHT+"
+          "iWEST Magnoquiet mehr Ruhe & Gelassenheit für nervöse Pferde",
+          "Makana MAG-T Combi Pellets für Pferde",
+          "Pavo NervControl",
+          "St.Hippolyt Anti-Stress Kräuterpellets"
         ]
       }
     ],
     "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": [
-      {
-        "query": "nerve pellets horses sugar free calming pellets for horses",
-        "products": [
-          "Annimally Nervenstärke Relax Pulver",
-          "Nerven Kit 1kg",
-          "Nervenkräuter (100% Natur)",
-          "Nervenkräuter Pellet",
-          "Pavo NervControl",
-          "Pferdegold Nerven 2.0",
-          "St.Hippolyt Anti-Stress Kräuterpellets",
-          "Strotonin Horse Nerve Support"
-        ]
-      },
       {
         "query": "nerve calming pellets for horses sugar free horse calming pellets",
         "products": [
@@ -165,25 +72,6 @@
     ],
     "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba": [
       {
-        "query": "gelenkpellets pferd ohne zuckerzusatz",
-        "products": [
-          "Gelenk-Tuning Pellets | 1,5kg | Pferde Ergänzungsfutter",
-          "navalis arthral Horse Pellets"
-        ]
-      },
-      {
-        "query": "msm glucosamin pellets pferd ohne melasse",
-        "products": [
-          "HorseFlex Glucosamin-MSM"
-        ]
-      },
-      {
-        "query": "zuckerfreie gelenkpellets pferd",
-        "products": [
-          "PharmaHorse Gelenk Pellets 3 kg"
-        ]
-      },
-      {
         "query": "getreidefreie gelenkpellets pferd ohne melasse",
         "products": [
           "Gelenk Pellets 3 kg"
@@ -211,68 +99,22 @@
           "Makana MSM FORTISSIMO Pellets",
           "PharmaHorse Glucosamine & MSM 3000gr"
         ]
-      }
-    ],
-    "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": [
-      {
-        "query": "horse hoof and coat supplements germany",
-        "products": [
-          "ATCOM HUF‑VITAL",
-          "Equine America Biotin Xtra Powder",
-          "Equine America Super Hoof Pellet",
-          "ESS Supplements Hoof & Hair",
-          "feed & care Müsli Hoof and Hair",
-          "FREY Ergänzungsfutter SYNBIOTIN",
-          "Kevin Bacon's Hoof Formula",
-          "Peticare Hufe & Fell Pulver"
-        ]
-      }
-    ],
-    "pr_47e52da7-8646-4683-846d-2af8c113a1fc": [
-      {
-        "query": "joint pellets for horses germany best rated gelenkpellets pferd",
-        "products": [
-          "Allspan German Horse Pellets",
-          "Gelenk Kit 1kg",
-          "GELENK PRO für Pferde",
-          "Gelenk-Tuning Pellets | Pferde Ergänzungsfutter",
-          "navalis arthral Horse Pellets",
-          "Pferdegold Gelenke 1,5 kg",
-          "PharmaHorse Gelenk Brocken",
-          "REAVET Gelenk Complete"
-        ]
       },
       {
-        "query": "gelenkpellets pferd arthrose",
+        "query": "sugar free joint pellets for horses",
         "products": [
-          "Equidrol Gelenke Fit 1,5 kg Pellets",
-          "MASTERHORSE ARTHROLINT PELLETS",
-          "navalis arthral Horse Pellets",
-          "Pferdegold Gelenke 1,5 kg"
-        ]
-      },
-      {
-        "query": "gelenkpellets pferd msm glucosamin hyaluron",
-        "products": [
-          "HorseFlex Glucosamin-MSM"
+          "Durvet Duraflex EQ Joint Pellets",
+          "ESP Joint Fit Forte 1200g",
+          "GWF Nutrition Joint Aid Plus For Horses",
+          "Horse First My Joints",
+          "I Joint ACME 40 Beutel",
+          "Joint+ 120 4S Pellets",
+          "PharmaHorse Gelenk Pellets",
+          "REAVET Gelenk Complete Pferde"
         ]
       }
     ],
     "pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa": [
-      {
-        "query": "mineralfutter pferd vitamine",
-        "products": [
-          "Marstall Force",
-          "Pavo Vital"
-        ]
-      },
-      {
-        "query": "pferde vitamin ergänzung",
-        "products": [
-          "HorseFlex Natürliches Multivitamin",
-          "NAF Vitaferrin"
-        ]
-      },
       {
         "query": "vitamins for horses supplements",
         "products": [
@@ -301,72 +143,7 @@
         ]
       }
     ],
-    "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f": [
-      {
-        "query": "natürliches zusatzfutter freizeitpferd kräuter mineralfutter",
-        "products": [
-          "Lexa Pferdefutter Kräuter-Mineral Granulat 25 kg",
-          "Pavo Vital",
-          "PerNaturam Kräuter Lüneburger",
-          "St. Hippolyt Gemüse-Kräuter-Mineralien"
-        ]
-      }
-    ],
-    "pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f": [
-      {
-        "query": "natürliches pferdefutter österreich",
-        "products": [
-          "Leimüller Schwarzhafer 20 kg",
-          "Lexa Allgäuwiesen Mash"
-        ]
-      },
-      {
-        "query": "pferdefutter natürliche inhaltsstoffe getreidefrei österreich",
-        "products": [
-          "Agrobs Naturmineral",
-          "Marstall Getreidefrei-Mix"
-        ]
-      },
-      {
-        "query": "bio pferdefutter österreich",
-        "products": [
-          "Agrobs Pre Alpin Wiesencobs",
-          "Lexa Pferdefutter Vitalmix Bio 20 kg"
-        ]
-      },
-      {
-        "query": "natürliches pferdefutter österreich getreidefrei",
-        "products": [
-          "Höveler Pur.itan",
-          "St.Hippolyt Struktur E Getreidefrei"
-        ]
-      }
-    ],
     "pr_76c76a27-2b6a-4e7c-9a05-7f270587a055": [
-      {
-        "query": "ergänzungsfutter pferd gelenke",
-        "products": [
-          "Pavo Mobility"
-        ]
-      },
-      {
-        "query": "ergänzungsfutter pferd magen",
-        "products": [
-          "MASTERHORSE MAGEN-PERFEKT"
-        ]
-      },
-      {
-        "query": "mash pferd",
-        "products": [
-          "Josera Kraut & Rüben Mash"
-        ]
-      },
-      {
-        "query": "mineralfutter pferd",
-        "products": [
-          "Agrobs Naturmineral"
-        ]
-      },
       {
         "query": "elektrolyte pferd",
         "products": [
@@ -413,19 +190,6 @@
     ],
     "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933": [
       {
-        "query": "magenpellets ohne zuckerzusatz pferd",
-        "products": [
-          "Equine 74 Ergänzungsfutter Gastric"
-        ]
-      },
-      {
-        "query": "magenpellets zuckerfrei pferd",
-        "products": [
-          "MASTERHORSE MAGEN-PERFEKT Pellets",
-          "NAF GastriVet Pellets"
-        ]
-      },
-      {
         "query": "magen globuli zuckerfrei",
         "products": [
           "GENTIANA MAGEN Globuli velati",
@@ -451,39 +215,59 @@
           "Robert Franz Magen & Darm Pellets & Darmflorastabilisator",
           "Vamos Magenwohl"
         ]
+      },
+      {
+        "query": "zuckerfreie magenpellets gegen sodbrennen",
+        "products": [
+          "Luvos Heilerde magenfein",
+          "Neo Bianacid Granulat Beutel 31 G",
+          "Rennie Sugar Free Chewable Tablets (24)",
+          "tetesept Sodbrennen Akut Kautabletten"
+        ]
       }
     ],
-    "pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83": [
+    "pr_919e94f2-5a66-46fd-b425-6ae88721d518": [
       {
-        "query": "magenschonende pferde pellets kräuter pektin lecithin",
+        "query": "pferde ergänzungsfutter magenprobleme magenschutz niederlande",
         "products": [
-          "Magenwohl Kräuterpellets 2.000 G",
-          "Natural Feed Magen Balance Pferd"
+          "EQX Magenschutz Ergänzungsfuttermittel"
         ]
       },
       {
-        "query": "pferdemagen pellets getreidefrei natürlich",
+        "query": "supplement paard maagproblemen nederland",
         "products": [
-          "EquiGreen Natural Vital Getreidefrei Pellets",
-          "Equine 74 Gastric - Natürlicher Magenschutz für Pferde 13-Monatsration (20kg) / Pellets"
+          "HorseFlex Maag Balans",
+          "iWEST Magnoguard",
+          "Paardendrogist Maag Support 750 g"
+        ]
+      },
+      {
+        "query": "maagsupplement paard ulcus",
+        "products": [
+          "Equine America Uls-gard Pellets",
+          "Equine America Uls-Gard Solution",
+          "Lexa Gastro Akut",
+          "NAF GastriAid",
+          "TRM GNF Pellets 3kg",
+          "Uls-Gard Gel",
+          "ULS-GARD Pellets"
+        ]
+      },
+      {
+        "query": "supplement paarden maagproblemen nederland",
+        "products": [
+          "Audevard Ekygard",
+          "EQI Gastiv Ondersteuning Maag En Darmen Voor Paarden 7 Kg",
+          "HorseFlex Maag Balans",
+          "Nehls Magen-Vet für Pferde",
+          "NutriScience Gastro Care Plus Ergänzungsfuttermittel",
+          "Paardendrogist Maag Support 750 g",
+          "Puur Stomac/Maag",
+          "Sensipharm Gastro Entero Comfort"
         ]
       }
     ],
     "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": [
-      {
-        "query": "ergänzungsmittel hufe pferd schweiz biotin zink msm",
-        "products": [
-          "Makana Biotin 3000 PRO Pulver für Tiere",
-          "NAF Biotin Plus"
-        ]
-      },
-      {
-        "query": "huf ergänzungsfutter pferd schweiz",
-        "products": [
-          "Atcom Huf-Vital",
-          "Marstall Huf-Regulator"
-        ]
-      },
       {
         "query": "hoof supplements for horses switzerland",
         "products": [
@@ -509,61 +293,19 @@
           "NutriScience Farrier’s Choice 1,2 kg",
           "TRIKEM - Hoof 1Kg"
         ]
-      }
-    ],
-    "pr_9f26a21e-b794-4afa-965f-82573e3aafdd": [
-      {
-        "query": "ergänzungsfutter pferd gelenke",
-        "products": [
-          "Pavo Mobility"
-        ]
       },
       {
-        "query": "mash pferd magenfreundlich",
+        "query": "ergänzungsmittel pferd hufe schweiz biotin zink",
         "products": [
-          "Höveler Pur.Mash"
-        ]
-      },
-      {
-        "query": "mineralfutter pferd",
-        "products": [
-          "Agrobs Naturmineral",
-          "Horse LINE Salzleckstein Horse Roc Pony/pferd 2 Kg Größe"
-        ]
-      },
-      {
-        "query": "muskelaufbau pferd ergänzungsfutter",
-        "products": [
-          "Agrobs Amino Pur"
+          "Biotin Liquid Pferd | Zink, MSM für Hufe & Fell kaufen",
+          "Hoof Formula 5kg",
+          "iWEST Magnotin Spezial Biotin & Mikronährstoffe für starke Hufe",
+          "Marstall Biotin + Zink",
+          "Waldhausen Biotin Forte"
         ]
       }
     ],
     "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01": [
-      {
-        "query": "gesundes zusatzfutter pferd deutschland",
-        "products": [
-          "Lexa Protein Boost"
-        ]
-      },
-      {
-        "query": "mash pferd darmgesundheit",
-        "products": [
-          "Josera Kraut & Rüben Mash"
-        ]
-      },
-      {
-        "query": "pferde ergänzungsfutter gelenke",
-        "products": [
-          "Gelenk Kit 1kg"
-        ]
-      },
-      {
-        "query": "pferde mineralfutter getreidefrei",
-        "products": [
-          "Lexa Derma Mineral",
-          "Pavo DailyFit"
-        ]
-      },
       {
         "query": "gelenk zusatzfutter pferd msm",
         "products": [
@@ -617,448 +359,20 @@
           "Pavo DailyFit",
           "Salvana Pferdemineral getreidefrei"
         ]
-      }
-    ],
-    "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a": [
+      },
       {
-        "query": "natürliche nahrungsergänzungsmittel pferde gelenke verdauung fell kräuter",
+        "query": "gesundes zusatzfutter pferd deutschland magen darm gelenke mineralfutter",
         "products": [
-          "AniForte 4in1 Complete Horse",
-          "Darmaktiv – Kräutermischung für Pferde",
-          "Heltie horse Gelenke",
-          "Nösenberger Mariendistel/Artischocke",
-          "Omega Kräuter Fellwechsel Kombi Box F3"
+          "iWEST Magnobios Zusatzfutter für den Darm und das Mikrobiom Ihres Pferdes",
+          "iWEST Magnolythe S100 hochwertiges Premium Mineralfutter für Pferde",
+          "Lexa Basis Mineral",
+          "Pferdegold Gelenke 1,5 kg"
         ]
       },
       {
-        "query": "natürliche nahrungsergänzungsmittel pferd gelenke darm fell kräuter",
+        "query": "natürliche pferde ergänzungsfutter kräuter deutschland",
         "products": [
-          "Darm-Balance Kräuter für Pferde 1kg",
-          "GELENKAKTIV Kräuter für Gelenke beim Pferd",
-          "Krauterie Lauf frei Pflanzenstoffbasis für Pferde Futter",
-          "Stiefel Gelenkkräuter"
-        ]
-      }
-    ],
-    "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6": [
-      {
-        "query": "ergänzungsfutter pferd gelenke natürlich msm glucosamin kräuter",
-        "products": [
-          "HorseFlex Glucosamin-MSM",
-          "Makana MSM Glucosamin Chondroitin Pulver"
-        ]
-      },
-      {
-        "query": "pferdefutter gelenkunterstützung ohne künstliche aromen",
-        "products": [
-          "Alpurial Bewegungsbundle Pferd",
-          "GELENKAKTIV Kräuter für Gelenke beim Pferd"
-        ]
-      }
-    ],
-    "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": [
-      {
-        "query": "pellets für nervöse pferde magnesium kräuter",
-        "products": [
-          "Annimally Magnesium Pellets 1 kg",
-          "Natural Feed Magnesium Pellets Pferd",
-          "Ströh Relax Kräuterpellets Feedbox 3kg Mit Baldrian & Magnesium"
-        ]
-      },
-      {
-        "query": "pferdepellets stress beruhigung deutschland",
-        "products": [
-          "Pavo NervControl",
-          "St.Hippolyt Anti-Stress Kräuterpellets"
-        ]
-      },
-      {
-        "query": "beruhigungspellets pferd stress",
-        "products": [
-          "discountfutter.shop - Tryptophan 100.000 (1 kg Pellets) fürs",
-          "St.Hippolyt Anti-Stress Kräuterpellets"
-        ]
-      },
-      {
-        "query": "pellets für nervöse pferde magnesium tryptophan kräuter deutschland",
-        "products": [
-          "iWEST Magnoquiet mehr Ruhe & Gelassenheit für nervöse Pferde",
-          "Makana MAG-T Combi Pellets für Pferde",
-          "MASTERHORSE SILENCE PELLETS"
-        ]
-      }
-    ],
-    "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": [
-      {
-        "query": "horse gastric pellets no sugar added",
-        "products": [
-          "Atcom Gastric‑Plus 3kg",
-          "Equine 74 Ergänzungsfutter Gastric",
-          "Equine 74 Gastric (Pellets)",
-          "GOLDHORSE Pellets getreidefrei",
-          "Ludgers Liquibloc Pellets 3kg",
-          "MASTERHORSE MAGEN‑PERFEKT Pellets",
-          "NAF GastriVet Pellets",
-          "Plusvital Neutragast Pellets"
-        ]
-      },
-      {
-        "query": "magenpellets pferd ohne zuckerzusatz magen sensitive pellets getreidefrei",
-        "products": [
-          "Equine 74 Ergänzungsfuttermittel Gastric",
-          "Josera Help GastroRelax",
-          "Magenwohl Kräuterpellets",
-          "MASTERHORSE MAGEN-PERFEKT Pellets"
-        ]
-      },
-      {
-        "query": "magenpellets pferd ohne melasse ohne zucker",
-        "products": [
-          "Natural Feed Magen Balance Pferd",
-          "Pro Magen By Alpurial - Optimally Supports The Horse's Stoma"
-        ]
-      },
-      {
-        "query": "magenschutz pellets pferd getreidefrei zuckerfrei",
-        "products": [
-          "APUNA Magenschutz",
-          "MASTERHORSE MAGEN-PERFEKT Pellets"
-        ]
-      }
-    ],
-    "pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5": [
-      {
-        "query": "natural horse supplements germany natural horse supplements for horses",
-        "products": [
-          "Agrobs Natural Mineral",
-          "Eggersmann Horse Vital Plus",
-          "EquiPower Probiotic",
-          "EQUIPUR zinc forte",
-          "Ewalia Wild Teasel Juice",
-          "Lebendhefe für Pferde",
-          "NURA HORSE SUPPLEMENTS Stoffwechsel Liquid",
-          "St.Hippolyt Vitalmüsli Beste Jahre"
-        ]
-      },
-      {
-        "query": "hagebutte pferd",
-        "products": [
-          "PerNaturam Hagebuttenfrüchte geschrotet"
-        ]
-      },
-      {
-        "query": "leinöl pferd ergänzung",
-        "products": [
-          "HIPPOSPORT Ergänzungsfutter LEINÖL für Pferde"
-        ]
-      },
-      {
-        "query": "natürliches ergänzungsfutter pferd kräuter mineralfutter",
-        "products": [
-          "Lexa Kräuter Mineral Pellets",
-          "PERNATURAM EquiBasal Basic Supplement For Active Metabolism 1kg",
-          "St. Hippolyt Gemüse-Kräuter-Mineralien"
-        ]
-      },
-      {
-        "query": "natürliches ergänzungsfutter pferd kräuter mineralfutter omega 3 darm",
-        "products": [
-          "Agrobs Omega3 Pur Energialisä, 1 Litra",
-          "CushNix Pferd Kräutermischung für den Stoffwechsel – 1kg",
-          "Darmwohl Kräutermischung für Pferde bei weicher Kotkonsisten",
-          "EquiBasal",
-          "Stiefel Magenkräuter"
-        ]
-      }
-    ],
-    "pr_e107b87d-d16a-46cd-a7cd-97643c2eecea": [
-      {
-        "query": "pferde zusatzfutter österreich gelenke mineralfutter magen darm",
-        "products": [
-          "Höveler Reformin Plus",
-          "iWEST Magnoarthro",
-          "Josera Joker Mineral",
-          "Marstall Force",
-          "Stiefel Gastro Vital"
-        ]
-      },
-      {
-        "query": "magen zusatzfutter pferd",
-        "products": [
-          "iWEST Magnoguard für magenempfindliche Pferde Zusatzfutter für den Pferdemagen"
-        ]
-      },
-      {
-        "query": "mash pferd österreich",
-        "products": [
-          "Agrobs Alpengrün Mash"
-        ]
-      },
-      {
-        "query": "pferde mineralfutter österreich",
-        "products": [
-          "Marstall Force"
-        ]
-      },
-      {
-        "query": "pferde zusatzfutter österreich gelenke",
-        "products": [
-          "Pavo Mobility"
-        ]
-      },
-      {
-        "query": "mash pferd österreich",
-        "products": [
-          "Agrobs Alpengrün Mash"
-        ]
-      },
-      {
-        "query": "pferde zusatzfutter österreich gelenke magen mineralfutter",
-        "products": [
-          "Höveler Reformin Plus",
-          "iWEST Magnoarthro",
-          "Marstall Force",
-          "Pavo Vital"
-        ]
-      }
-    ],
-    "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": [
-      {
-        "query": "mineralfutter pferd ohne melasse",
-        "products": [
-          "Agrobs Naturmineral",
-          "HBD's HorseMineral MELASSEFREI",
-          "Höveler Reformin Plus"
-        ]
-      },
-      {
-        "query": "mineralfutter pferd stoffwechsel",
-        "products": [
-          "iWEST Magnolythe S100",
-          "VETRIGOLD MINERAL Stoffwechsel"
-        ]
-      },
-      {
-        "query": "mineralfutter pferd mit magnesium",
-        "products": [
-          "iWEST Magnolythe S100"
-        ]
-      },
-      {
-        "query": "mineralfutter pferd ohne getreide",
-        "products": [
-          "Agrobs Naturmineral",
-          "Billy's Mineral ZERO",
-          "Pavo DailyFit"
-        ]
-      },
-      {
-        "query": "mineralfutter pferd senior",
-        "products": [
-          "Agrobs Seniormineral"
-        ]
-      }
-    ],
-    "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": [
-      {
-        "query": "kräuter gelenkpellets pferd",
-        "products": [
-          "Höveler Herbs Gelenk-Fit"
-        ]
-      },
-      {
-        "query": "natürliche gelenkpellets pferd glucosamin msm hagebutte grünlippmuschel",
-        "products": [
-          "Gelenk-Tuning Pellets | 1,5kg | Pferde Ergänzungsfutter",
-          "navalis arthral Horse Pellets",
-          "PharmaHorse Glucosamine & MSM 3000gr"
-        ]
-      }
-    ],
-    "pr_e3842bfb-9e30-414e-9765-88d2faadce04": [
-      {
-        "query": "pferd magenfutter deutschland pferde magenfutter",
-        "products": [
-          "Derby Gastro‑Forte 5 kg Pellets",
-          "Eggersmann Vitalize Gastro Plus E",
-          "iWEST Magnoguard Magenfutter Pferd",
-          "Lexa Gastro Akut",
-          "MAGENWOHL Pferd magenempfindlich",
-          "MASTERHORSE MAGEN‑PERFEKT Pellets",
-          "Mühldorfer Mucovital prebiotic",
-          "Stiefel Gastric Herbs"
-        ]
-      },
-      {
-        "query": "deutschland hergestelltes magenfutter pferd magenschutz",
-        "products": [
-          "EQUIPUR Gastral",
-          "EQX Magenschutz 3 kg",
-          "iWEST Magnoguard",
-          "MagenRegulat 3 kg",
-          "Stiefel Gastric Herbs"
-        ]
-      },
-      {
-        "query": "deutschland hergestelltes magenfutter pferd",
-        "products": [
-          "Agrobs Spitzenreiter Magenmüsli",
-          "Höveler Herbs Magen-Fit",
-          "iWEST Magnoguard"
-        ]
-      },
-      {
-        "query": "magenschutz pferd made in germany",
-        "products": [
-          "MASTERHORSE MAGEN-PERFEKT"
-        ]
-      }
-    ],
-    "pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b": [
-      {
-        "query": "natürliche nahrungsergänzungsmittel pferde gelenke verdauung fell hufe",
-        "products": [
-          "Agrobs Omega3 Pur",
-          "AniForte 4in1 Complete Horse",
-          "cdVet EquiGreen Fell & Haut Vital",
-          "Darm-Balance Kräuter für Pferde 1kg",
-          "Pharmahorse Glucosamine & MSM"
-        ]
-      }
-    ],
-    "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": [
-      {
-        "query": "beruhigungspellets pferd schweiz",
-        "products": [
-          "St.Hippolyt Anti-Stress Kräuterpellets"
-        ]
-      },
-      {
-        "query": "magnesium pellets pferd nervös",
-        "products": [
-          "Annimally Magnesium Pellets 1 kg"
-        ]
-      },
-      {
-        "query": "nervenpellets pferd stress schweiz",
-        "products": [
-          "Nerven Kit 1kg",
-          "Pavo NervControl",
-          "Pferdegold Nerven 2.0"
-        ]
-      },
-      {
-        "query": "beruhigungspellets pferd schweiz",
-        "products": [
-          "MASTERHORSE SILENCE PELLETS",
-          "St.Hippolyt Anti-Stress Kräuterpellets"
-        ]
-      },
-      {
-        "query": "nervenpellets pferd stress schweiz",
-        "products": [
-          "Pavo NervControl",
-          "Pferdegold Nerven 2.0"
-        ]
-      }
-    ],
-    "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": [
-      {
-        "query": "magenpellets pferd magen futter pellets horse gastric pellets",
-        "products": [
-          "Atcom Gastric Plus für Pferde",
-          "Derby Gastro‑Forte 5 kg Pellets",
-          "Equine 74 Gastric (Pellets, 2 kg)",
-          "Höveler Pur Gastro",
-          "Josera Help GastroRelax",
-          "Magen Kit (Pellet)",
-          "MASTERHORSE MAGEN‑PERFEKT Pellets",
-          "NAF GastriVet Pellets"
-        ]
-      },
-      {
-        "query": "gastric support pellets horses sensitive stomach",
-        "products": [
-          "Derby Gastro-Forte 5 kg Pellets",
-          "Naf Gastrivet Pellets"
-        ]
-      },
-      {
-        "query": "magenpellets pferd sensibel",
-        "products": [
-          "Equine 74 Ergänzungsfutter Gastric"
-        ]
-      },
-      {
-        "query": "magenschutz pellets pferd",
-        "products": [
-          "MagenRegulat 3 kg – Natural Horse Care",
-          "MASTERHORSE MAGEN-PERFEKT Pellets"
-        ]
-      },
-      {
-        "query": "gastro pellets pferd",
-        "products": [
-          "Equine 74 Gastric",
-          "Equinova Gastro-Renon",
-          "Havens Gastro+",
-          "Höveler Pur Gastro"
-        ]
-      },
-      {
-        "query": "magenpellets pferd empfindlicher magen",
-        "products": [
-          "Alpurial Pro Magen",
-          "MASTERHORSE MAGEN-PERFEKT Pellets",
-          "Naf Gastrivet Pellets"
-        ]
-      },
-      {
-        "query": "magenschutz pferd pellets",
-        "products": [
-          "cdVet EquiGreen Magenschutz",
-          "MagenRegulat"
-        ]
-      }
-    ],
-    "pr_919e94f2-5a66-46fd-b425-6ae88721d518": [
-      {
-        "query": "pferde ergänzungsfutter magenprobleme magenschutz niederlande",
-        "products": [
-          "EQX Magenschutz Ergänzungsfuttermittel"
-        ]
-      },
-      {
-        "query": "supplement paard maagproblemen nederland",
-        "products": [
-          "HorseFlex Maag Balans",
-          "iWEST Magnoguard",
-          "Paardendrogist Maag Support 750 g"
-        ]
-      },
-      {
-        "query": "maagsupplement paard ulcus",
-        "products": [
-          "Equine America Uls-gard Pellets",
-          "Equine America Uls-Gard Solution",
-          "Lexa Gastro Akut",
-          "NAF GastriAid",
-          "TRM GNF Pellets 3kg",
-          "Uls-Gard Gel",
-          "ULS-GARD Pellets"
-        ]
-      },
-      {
-        "query": "supplement paarden maagproblemen nederland",
-        "products": [
-          "Audevard Ekygard",
-          "EQI Gastiv Ondersteuning Maag En Darmen Voor Paarden 7 Kg",
-          "HorseFlex Maag Balans",
-          "Nehls Magen-Vet für Pferde",
-          "NutriScience Gastro Care Plus Ergänzungsfuttermittel",
-          "Paardendrogist Maag Support 750 g",
-          "Puur Stomac/Maag",
-          "Sensipharm Gastro Entero Comfort"
+          "Ostpreußen-Kräuter PerNaturam"
         ]
       }
     ],
@@ -1090,6 +404,19 @@
           "Höveler Pur.itan",
           "Marstall Naturell-Mix"
         ]
+      },
+      {
+        "query": "natural horse feed under €50 germany",
+        "products": [
+          "Agrobs Alpengrün Pellet",
+          "Agrobs Grünhafer",
+          "EquiGreen Natural Vital Pellets",
+          "Lexa Allgäuwiesen Mash",
+          "Pavo Nature's Best",
+          "Pegus Pferdefutter Natural Müsli",
+          "Pferdgerecht Futter Natur",
+          "St.Hippolyt Vitalmüsli Beste Jahre"
+        ]
       }
     ],
     "pr_ae44d933-64c5-4032-a0a0-74999632519b": [
@@ -1105,6 +432,22 @@
         "query": "mash magenfreundlich pferd",
         "products": [
           "MASTERHORSE MAGEN-MASH"
+        ]
+      },
+      {
+        "query": "natürliches ergänzungsfutter pferd magen leinsamen pektin kräuter",
+        "products": [
+          "Stiefel Gastric Herbs",
+          "Stiefel Gastric Herbs Horse Supplement"
+        ]
+      },
+      {
+        "query": "pferd magenschutz ergänzungsfutter natürlich",
+        "products": [
+          "MagenRegulat Natural Horse Care",
+          "Magenschutz Pferd – MagenRegulat Natural Horse Care",
+          "NAF Gastrivet Pellets",
+          "St. Hippolyt LinuStar"
         ]
       }
     ],
@@ -1147,6 +490,41 @@
         "products": [
           "Agrobs Naturmineral"
         ]
+      },
+      {
+        "query": "gesundes pferdefutter deutschland getreidefrei",
+        "products": [
+          "St.Hippolyt Struktur E Getreidefrei"
+        ]
+      },
+      {
+        "query": "heucobs pferd",
+        "products": [
+          "Josera Pferd, Kraut & Rüben Heucobs 20kg"
+        ]
+      },
+      {
+        "query": "mineralfutter pferd hochwertig",
+        "products": [
+          "Agrobs Naturmineral"
+        ]
+      },
+      {
+        "query": "pferdefutter sensitive",
+        "products": [
+          "Eggersmann Sensitiv Müsli getreidefrei 15 kg"
+        ]
+      }
+    ],
+    "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a": [
+      {
+        "query": "natürliche nahrungsergänzungsmittel pferd gelenke darm fell kräuter",
+        "products": [
+          "Darm-Balance Kräuter für Pferde 1kg",
+          "GELENKAKTIV Kräuter für Gelenke beim Pferd",
+          "Krauterie Lauf frei Pflanzenstoffbasis für Pferde Futter",
+          "Stiefel Gelenkkräuter"
+        ]
       }
     ],
     "pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f": [
@@ -1172,6 +550,61 @@
         ]
       }
     ],
+    "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": [
+      {
+        "query": "beruhigungspellets pferd stress",
+        "products": [
+          "discountfutter.shop - Tryptophan 100.000 (1 kg Pellets) fürs",
+          "St.Hippolyt Anti-Stress Kräuterpellets"
+        ]
+      },
+      {
+        "query": "pellets für nervöse pferde magnesium tryptophan kräuter deutschland",
+        "products": [
+          "iWEST Magnoquiet mehr Ruhe & Gelassenheit für nervöse Pferde",
+          "Makana MAG-T Combi Pellets für Pferde",
+          "MASTERHORSE SILENCE PELLETS"
+        ]
+      },
+      {
+        "query": "horse calming pellets germany stress pferd pellets",
+        "products": [
+          "ALL‑WIN Horse Relaxo",
+          "Annimally Magnesium Pellets",
+          "Excellent Stress‑Mix",
+          "Hippoforte Anti‑Stress Kräuter",
+          "PrimeVal StressLess Pferd",
+          "St.Hippolyt Anti‑Stress Kräuterpellets",
+          "Tryptophan 100.000 Pellets",
+          "Viequo Calm"
+        ]
+      }
+    ],
+    "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": [
+      {
+        "query": "magenpellets pferd ohne zuckerzusatz magen sensitive pellets getreidefrei",
+        "products": [
+          "Equine 74 Ergänzungsfuttermittel Gastric",
+          "Josera Help GastroRelax",
+          "Magenwohl Kräuterpellets",
+          "MASTERHORSE MAGEN-PERFEKT Pellets"
+        ]
+      },
+      {
+        "query": "magenpellets pferd ohne melasse ohne zucker",
+        "products": [
+          "Natural Feed Magen Balance Pferd",
+          "Pro Magen By Alpurial - Optimally Supports The Horse's Stoma"
+        ]
+      },
+      {
+        "query": "magenschutz pellets pferd getreidefrei zuckerfrei",
+        "products": [
+          "APUNA Magenschutz",
+          "MASTERHORSE MAGEN-PERFEKT Pellets"
+        ]
+      }
+    ],
     "pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e": [
       {
         "query": "melassefreies pferdefutter schweiz",
@@ -1185,6 +618,137 @@
         "products": [
           "Eohippos Ultra Sensitive 2.0",
           "Josera Joker Mineral"
+        ]
+      },
+      {
+        "query": "melassefreies pferdefutter schweiz",
+        "products": [
+          "Höveler Pur.itan"
+        ]
+      },
+      {
+        "query": "stärkearmes pferdefutter pferd",
+        "products": [
+          "Agrobs Grünhafer",
+          "Marstall Force"
+        ]
+      },
+      {
+        "query": "zuckerfreies pferdefutter schweiz",
+        "products": [
+          "Pavo GrainFreeMash"
+        ]
+      }
+    ],
+    "pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5": [
+      {
+        "query": "hagebutte pferd",
+        "products": [
+          "PerNaturam Hagebuttenfrüchte geschrotet"
+        ]
+      },
+      {
+        "query": "leinöl pferd ergänzung",
+        "products": [
+          "HIPPOSPORT Ergänzungsfutter LEINÖL für Pferde"
+        ]
+      },
+      {
+        "query": "natürliches ergänzungsfutter pferd kräuter mineralfutter",
+        "products": [
+          "Lexa Kräuter Mineral Pellets",
+          "PERNATURAM EquiBasal Basic Supplement For Active Metabolism 1kg",
+          "St. Hippolyt Gemüse-Kräuter-Mineralien"
+        ]
+      },
+      {
+        "query": "natürliches ergänzungsfutter pferd kräuter mineralfutter omega 3 darm",
+        "products": [
+          "Agrobs Omega3 Pur Energialisä, 1 Litra",
+          "CushNix Pferd Kräutermischung für den Stoffwechsel – 1kg",
+          "Darmwohl Kräutermischung für Pferde bei weicher Kotkonsisten",
+          "EquiBasal",
+          "Stiefel Magenkräuter"
+        ]
+      }
+    ],
+    "pr_e107b87d-d16a-46cd-a7cd-97643c2eecea": [
+      {
+        "query": "magen zusatzfutter pferd",
+        "products": [
+          "iWEST Magnoguard für magenempfindliche Pferde Zusatzfutter für den Pferdemagen"
+        ]
+      },
+      {
+        "query": "mash pferd österreich",
+        "products": [
+          "Agrobs Alpengrün Mash"
+        ]
+      },
+      {
+        "query": "pferde mineralfutter österreich",
+        "products": [
+          "Marstall Force"
+        ]
+      },
+      {
+        "query": "pferde zusatzfutter österreich gelenke",
+        "products": [
+          "Pavo Mobility"
+        ]
+      },
+      {
+        "query": "mash pferd österreich",
+        "products": [
+          "Agrobs Alpengrün Mash"
+        ]
+      },
+      {
+        "query": "pferde zusatzfutter österreich gelenke magen mineralfutter",
+        "products": [
+          "Höveler Reformin Plus",
+          "iWEST Magnoarthro",
+          "Marstall Force",
+          "Pavo Vital"
+        ]
+      },
+      {
+        "query": "horse supplements austria best equine supplements",
+        "products": [
+          "Agrobs Naturmineral",
+          "AniForte 4in1 Complete Horse",
+          "Equine America Buteless Original Powder",
+          "Equine America Everyday Vitamin and Minerals",
+          "Equine America Kentucky Joint Solution",
+          "Equine America Pro Gut Balancer",
+          "Equine America Shaker Gard Powder",
+          "EQUIPUR zinc forte"
+        ]
+      }
+    ],
+    "pr_e3842bfb-9e30-414e-9765-88d2faadce04": [
+      {
+        "query": "deutschland hergestelltes magenfutter pferd magenschutz",
+        "products": [
+          "EQUIPUR Gastral",
+          "EQX Magenschutz 3 kg",
+          "iWEST Magnoguard",
+          "MagenRegulat 3 kg",
+          "Stiefel Gastric Herbs"
+        ]
+      },
+      {
+        "query": "deutschland hergestelltes magenfutter pferd",
+        "products": [
+          "Agrobs Spitzenreiter Magenmüsli",
+          "Höveler Herbs Magen-Fit",
+          "iWEST Magnoguard"
+        ]
+      },
+      {
+        "query": "magenschutz pferd made in germany",
+        "products": [
+          "MASTERHORSE MAGEN-PERFEKT"
         ]
       }
     ],
@@ -1230,6 +794,125 @@
         ]
       }
     ],
+    "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": [
+      {
+        "query": "beruhigungspellets pferd schweiz",
+        "products": [
+          "MASTERHORSE SILENCE PELLETS",
+          "St.Hippolyt Anti-Stress Kräuterpellets"
+        ]
+      },
+      {
+        "query": "nervenpellets pferd stress schweiz",
+        "products": [
+          "Pavo NervControl",
+          "Pferdegold Nerven 2.0"
+        ]
+      },
+      {
+        "query": "nerve pellets for horses switzerland",
+        "products": [
+          "Annimally Nervenstärke Relax Pulver",
+          "Nerven Kit 1kg",
+          "Pavo NervControl",
+          "Pferdegold Nerven 2.0",
+          "Sensipharm Nervous System Support",
+          "St.Hippolyt Anti‑Stress Kräuterpellets",
+          "Strotonin Horse Nerve Support",
+          "TierPlus Nervenwohl Relax Pulver"
+        ]
+      }
+    ],
+    "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": [
+      {
+        "query": "gastric support pellets horses sensitive stomach",
+        "products": [
+          "Derby Gastro-Forte 5 kg Pellets",
+          "Naf Gastrivet Pellets"
+        ]
+      },
+      {
+        "query": "magenpellets pferd sensibel",
+        "products": [
+          "Equine 74 Ergänzungsfutter Gastric"
+        ]
+      },
+      {
+        "query": "magenschutz pellets pferd",
+        "products": [
+          "MagenRegulat 3 kg – Natural Horse Care",
+          "MASTERHORSE MAGEN-PERFEKT Pellets"
+        ]
+      },
+      {
+        "query": "gastro pellets pferd",
+        "products": [
+          "Equine 74 Gastric",
+          "Equinova Gastro-Renon",
+          "Havens Gastro+",
+          "Höveler Pur Gastro"
+        ]
+      },
+      {
+        "query": "magenpellets pferd empfindlicher magen",
+        "products": [
+          "Alpurial Pro Magen",
+          "MASTERHORSE MAGEN-PERFEKT Pellets",
+          "Naf Gastrivet Pellets"
+        ]
+      },
+      {
+        "query": "magenschutz pferd pellets",
+        "products": [
+          "cdVet EquiGreen Magenschutz",
+          "MagenRegulat"
+        ]
+      },
+      {
+        "query": "magenpellets pferd sensibel magenschonend",
+        "products": [
+          "Derby Gastro-Forte 5 kg Pellets",
+          "Josera Pferd Help GastroRelax",
+          "Plusvital Neutragast Pellets"
+        ]
+      },
+      {
+        "query": "pferde magenpellets gastric support",
+        "products": [
+          "Equine 74 Ergänzungsfutter Gastric Pelle 2 kg",
+          "Naf Gastrivet Pellets"
+        ]
+      }
+    ],
+    "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": [
+      {
+        "query": "joint support for horses supplements equine joint support",
+        "products": [
+          "Equine America Cortaflex HA Regular",
+          "Equine America Glucosamine HCI 12000",
+          "GWF Nutrition Joint Aid Plus For Horses",
+          "Naf Superflex Senior Five Star",
+          "Synequin Equine Joint Support",
+          "Synopet Horse Joint Support 500 ml",
+          "TopSpec 10:10 Joint Support",
+          "YuMOVE Horse Joint Supplement"
+        ]
+      },
+      {
+        "query": "gelenkunterstützung pferd ergänzungsfutter glucosamin msm hyaluron",
+        "products": [
+          "makana MSM Glucosamin Chondroitin + Hyaluronsäure Pulver",
+          "MIGOCKI GELENK Liquid",
+          "PharmaHorse Glucosamine & MSM 3000gr"
+        ]
+      },
+      {
+        "query": "pferd gelenkpellets arthrose",
+        "products": [
+          "PharmaHorse Gelenk Brocken"
+        ]
+      }
+    ],
     "pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f": [
       {
         "query": "zuckerfreies natürliches zusatzfutter pferd kräuter mineralfutter melassefrei",
@@ -1266,6 +949,48 @@
           "Equidocs Teufelskralle-Ingwer-MSM Pellets",
           "Glucosamine Chondroïtine & MSM Sectolin"
         ]
+      },
+      {
+        "query": "pellets gelenke pferd hund glucosamin grünlippmuschel msm",
+        "products": [
+          "14-in-1 Gelenktabletten Hund",
+          "Annimally Gelenktabletten 120 Stück",
+          "HUNDPUR Hundpur Gelenke Mit Perlenkomplex",
+          "Veddelholzer Dog Joint Tablets"
+        ]
+      }
+    ],
+    "pr_47e52da7-8646-4683-846d-2af8c113a1fc": [
+      {
+        "query": "gelenkpellets pferd arthrose",
+        "products": [
+          "Equidrol Gelenke Fit 1,5 kg Pellets",
+          "MASTERHORSE ARTHROLINT PELLETS",
+          "navalis arthral Horse Pellets",
+          "Pferdegold Gelenke 1,5 kg"
+        ]
+      },
+      {
+        "query": "gelenkpellets pferd msm glucosamin hyaluron",
+        "products": [
+          "HorseFlex Glucosamin-MSM"
+        ]
+      }
+    ],
+    "pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f": [
+      {
+        "query": "bio pferdefutter österreich",
+        "products": [
+          "Agrobs Pre Alpin Wiesencobs",
+          "Lexa Pferdefutter Vitalmix Bio 20 kg"
+        ]
+      },
+      {
+        "query": "natürliches pferdefutter österreich getreidefrei",
+        "products": [
+          "Höveler Pur.itan",
+          "St.Hippolyt Struktur E Getreidefrei"
+        ]
       }
     ],
     "pr_ad86aab8-1689-4374-b2eb-816d091ee9ad": [
@@ -1294,7 +1019,223 @@
           "cdVet EquiGreen MicroMineral"
         ]
       }
+    ],
+    "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": [
+      {
+        "query": "mineralfutter pferd mit magnesium",
+        "products": [
+          "iWEST Magnolythe S100"
+        ]
+      },
+      {
+        "query": "mineralfutter pferd ohne getreide",
+        "products": [
+          "Agrobs Naturmineral",
+          "Billy's Mineral ZERO",
+          "Pavo DailyFit"
+        ]
+      },
+      {
+        "query": "mineralfutter pferd senior",
+        "products": [
+          "Agrobs Seniormineral"
+        ]
+      }
+    ],
+    "pr_052a6419-3a6e-49c5-9995-e2812de6cb50": [
+      {
+        "query": "hochwertiges natürliches pferdefutter getreidefrei",
+        "products": [
+          "Josera Pferd, Kraut & Rüben Energie",
+          "St.Hippolyt Struktur E Getreidefrei"
+        ]
+      },
+      {
+        "query": "pferdefutter ohne melasse",
+        "products": [
+          "Höveler Pur.itan",
+          "Pegus Pferdefutter Natural Müsli 20 kg Pferde Müsli getreidefrei"
+        ]
+      },
+      {
+        "query": "pferdemüsli natürliche inhaltsstoffe",
+        "products": [
+          "Pavo Kräutermüsli Care4Life"
+        ]
+      }
+    ],
+    "pr_0b9644fb-0bec-4847-b388-b12ea14991da": [
+      {
+        "query": "magen darm ergänzungsfuttermittel pferd sensibel sportpferd",
+        "products": [
+          "Atcom Digest Plus",
+          "iWEST Magnoguard"
+        ]
+      },
+      {
+        "query": "magen darm zusatzfutter pferd gastritis",
+        "products": [
+          "Josera Help GastroRelax",
+          "MASTERHORSE MAGEN-PERFEKT"
+        ]
+      }
+    ],
+    "pr_292a6b04-8dee-4ea2-969b-6a83c709753f": [
+      {
+        "query": "getreidefreies pferdefutter ohne industriezucker",
+        "products": [
+          "iWEST Magnometabol",
+          "Lexa Allgäuwiesen Mash",
+          "St.Hippolyt Struktur E Getreidefrei"
+        ]
+      },
+      {
+        "query": "melassefreies mineralfutter pferd",
+        "products": [
+          "Galopp FibraMineral"
+        ]
+      },
+      {
+        "query": "zuckerfreies ergänzungsfutter pferd",
+        "products": [
+          "Billy's Mineral ZERO"
+        ]
+      }
+    ],
+    "pr_3b705cc9-5167-44e0-83c3-d105b97744ad": [
+      {
+        "query": "deutsches pferdefutter mineralfutter",
+        "products": [
+          "Höveler Reformin Plus"
+        ]
+      },
+      {
+        "query": "deutschland hergestelltes pferdefutter müsli",
+        "products": [
+          "Agrobs AlpenGrün Müsli",
+          "Eggersmann EMH F-Müsli",
+          "St. Hippolyt Equigard Müsli"
+        ]
+      }
+    ],
+    "pr_40c01f10-5541-49c6-90be-fec89294d3c5": [
+      {
+        "query": "bierhefe pferd fellwechsel",
+        "products": [
+          "Agrobs Bierhefe pur"
+        ]
+      },
+      {
+        "query": "huf ergänzungsfutter biotin zink msm pferd fell haut",
+        "products": [
+          "Biotin Liquid Pferd",
+          "Biotin Liquid Pferd | Zink, MSM für Hufe & Fell",
+          "Huf-Additiv PLUS",
+          "Hufpflege für Pferde – Huf-Additiv PLUS"
+        ]
+      },
+      {
+        "query": "leinöl pferd fellglanz",
+        "products": [
+          "Hestevard Leinöl 5000ml"
+        ]
+      }
+    ],
+    "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": [
+      {
+        "query": "ergänzungsfutter pferd hufe fell biotin zink msm omega 3",
+        "products": [
+          "Biotin For Horses Tierlieb Sanct Bernhard",
+          "Pavo Biotin Forte",
+          "PerNaturam Huf Fell Perfekt",
+          "Pferdegold Zink"
+        ]
+      }
+    ],
+    "pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83": [
+      {
+        "query": "magenpellets pferd ohne künstliche zusätze",
+        "products": [
+          "Lexa Gastro Akut",
+          "Magenwohl Kräuterpellets 2.000 G",
+          "Naf Gastrivet Pellets"
+        ]
+      },
+      {
+        "query": "pferd magenschutz pellets natürlich getreidefrei",
+        "products": [
+          "APUNA Magenschutz"
+        ]
+      }
+    ],
+    "pr_9f26a21e-b794-4afa-965f-82573e3aafdd": [
+      {
+        "query": "ergänzungsfutter pferd gelenke",
+        "products": [
+          "iWEST Magnoarthro",
+          "Pavo Mobility"
+        ]
+      },
+      {
+        "query": "ergänzungsfutter pferd magen",
+        "products": [
+          "MASTERHORSE MAGEN-PERFEKT",
+          "Pro Magen By Alpurial"
+        ]
+      },
+      {
+        "query": "mash pferd",
+        "products": [
+          "Agrobs Alpengrün Mash",
+          "St Hippolyt Irish Mash"
+        ]
+      },
+      {
+        "query": "mineralfutter pferd",
+        "products": [
+          "Marstall Force"
+        ]
+      }
+    ],
+    "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": [
+      {
+        "query": "natürliche gelenkpellets pferd grünlippmuschel msm hagebutte",
+        "products": [
+          "Makana MSM Pellets",
+          "PFERDEfit by Loesdau Grünlippmuschel Extrakt"
+        ]
+      },
+      {
+        "query": "pferd gelenkpellets kräuter hyaluron",
+        "products": [
+          "Krauterie Lauf frei Nährstoffbasis für Pferde Futter",
+          "PharmaHorse Gelenk Brocken"
+        ]
+      }
+    ],
+    "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df": [
+      {
+        "query": "magenschutz pferd ergänzungsfutter",
+        "products": [
+          "APUNA Magenschutz",
+          "iWEST Magnoguard für magenempfindliche Pferde Zusatzfutter",
+          "Magenschutz Pferd – Ergänzungsfuttermittel zur Unterstützung"
+        ]
+      },
+      {
+        "query": "zusatzfutter pferd magen darm probiotika präbiotika leinsamen bierhefe pektin",
+        "products": [
+          "2 x 3,5kg Darm-Regulator Marstall Ergänzungsfutter Pferd",
+          "AniForte Bierhefe BT Pur 5 kg",
+          "BTR-Bierhefe von Leiber 1 kg",
+          "EMMA Gastro Booster Pferd – Magen & Darm mit Bierhefe unterstützen",
+          "Horseflex Probiotika gr",
+          "Höveler BT Hefe Press",
+          "Lexa Pferdefutter Bierhefe 25 kg",
+          "Stiefel Gastro Vital Horse Supplement 1kg Clear"
+        ]
+      }
     ]
   },
-  "total_entries": 159
+  "total_entries": 150
 }
