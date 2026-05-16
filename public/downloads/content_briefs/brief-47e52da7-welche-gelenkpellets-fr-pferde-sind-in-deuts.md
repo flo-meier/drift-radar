@@ -1,14 +1,14 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
 
 ## Engine visibility
 
 - **ChatGPT:** 33 %
-- **Gemini:** 67 %
+- **Gemini:** 100 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -23,7 +23,7 @@
 
 > All five product brands ChatGPT recommends are outside Peec's tracked competitor list – none of them are the peer set Pferdegold competes with in the SERP.
 
-### Gemini – visibility 67 %
+### Gemini – visibility 100 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -42,20 +42,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 21.1 %
-- **Ugc:** 5.3 %
-- **Reference:** 10.7 %
-- **Corporate:** 57.5 %
-- **Other:** 5.3 %
+- **Editorial:** 24.3 %
+- **Ugc:** 6.8 %
+- **Reference:** 7.0 %
+- **Corporate:** 58.4 %
+- **Other:** 3.5 %
 
 **Top cited domains**
 
-- `ehorses.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `medpex.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-heilkunde.com` – EDITORIAL, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
+- `ehorses.de` – CORPORATE, retrieved 50 % of chats
+- `kraemer.de` – CORPORATE, retrieved 50 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 50 % of chats
+- `pferde-heilkunde.com` – EDITORIAL, retrieved 50 % of chats
+- `dogorama.app` – UGC, retrieved 33 % of chats
+- `equidocs.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

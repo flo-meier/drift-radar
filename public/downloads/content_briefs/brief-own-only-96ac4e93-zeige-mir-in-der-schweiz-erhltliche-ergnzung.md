@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
 
 ## Engine visibility
 
@@ -19,18 +19,18 @@
 
 ## Citation source mix
 
-- **Institutional:** 5.2 %
-- **Corporate:** 85.7 %
-- **Other:** 9.1 %
+- **Institutional:** 6.9 %
+- **Corporate:** 77.8 %
+- **Other:** 15.3 %
 
 **Top cited domains**
 
-- `hypona.ch` – CORPORATE, retrieved 44 % of chats
-- `ipet.ch` – CORPORATE, retrieved 44 % of chats
-- `tier-im-mittelpunkt.ch` – CORPORATE, retrieved 33 % of chats
+- `horseandmore.ch` – CORPORATE, retrieved 44 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-reformhaus.ch` – CORPORATE, retrieved 33 % of chats
 - `felix-buehler.ch` – CORPORATE, retrieved 33 % of chats
+- `fundis-reitsport.ch` – CORPORATE, retrieved 33 % of chats
+- `hypona.ch` – OTHER, retrieved 33 % of chats
+- `ipet.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

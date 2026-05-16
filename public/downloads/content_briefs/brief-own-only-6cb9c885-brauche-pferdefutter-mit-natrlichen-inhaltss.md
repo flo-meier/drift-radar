@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
 
 ## Engine visibility
 
@@ -14,24 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %, AI Overview 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, AI Overview 33 %, Gemini 33 %)
 - **Höveler** – top visibility 67 %  (ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
+- **Havens** – top visibility 33 %  (ChatGPT 33 %, AI Overview 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 13.0 %
-- **Corporate:** 80.5 %
-- **Other:** 6.5 %
+- **Ugc:** 1.7 %
+- **Institutional:** 8.6 %
+- **Corporate:** 84.5 %
+- **Other:** 5.2 %
 
 **Top cited domains**
 
 - `lexa-pferdefutter.at` – CORPORATE, retrieved 56 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 44 % of chats
-- `agrarzone.at` – CORPORATE, retrieved 33 % of chats
-- `auer-garsten.at` – CORPORATE, retrieved 33 % of chats
-- `aronialand.at` – CORPORATE, retrieved 22 % of chats
-- `equusvitalis.at` – CORPORATE, retrieved 22 % of chats
+- `auer-garsten.at` – CORPORATE, retrieved 44 % of chats
+- `aronialand.at` – CORPORATE, retrieved 33 % of chats
+- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `havenspferdefutter.at` – CORPORATE, retrieved 22 % of chats
+- `agrarzone.at` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

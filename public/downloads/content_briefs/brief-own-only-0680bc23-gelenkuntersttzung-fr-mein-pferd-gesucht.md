@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
 
 ## Engine visibility
 
@@ -19,12 +19,12 @@
 ## Citation source mix
 
 - **Competitor:** 1.6 %
-- **Editorial:** 4.8 %
-- **Ugc:** 12.8 %
-- **Reference:** 3.2 %
+- **Editorial:** 4.9 %
+- **Ugc:** 13.3 %
+- **Reference:** 3.3 %
 - **Institutional:** 3.3 %
-- **Corporate:** 71.2 %
-- **Other:** 3.2 %
+- **Corporate:** 70.3 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
@@ -32,8 +32,8 @@
 - `youtube.com` – UGC, retrieved 25 % of chats
 - `amazon.de` – CORPORATE, retrieved 25 % of chats
 - `kraemer.de` – CORPORATE, retrieved 25 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 25 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
+- `emma-care.de` – CORPORATE, retrieved 25 % of chats
+- `hipposport.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

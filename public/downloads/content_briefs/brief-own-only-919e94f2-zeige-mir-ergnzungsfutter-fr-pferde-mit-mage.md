@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
 
 ## Engine visibility
 
@@ -15,21 +15,22 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Havens** – top visibility 33 %  (Gemini 33 %)
+- **Havens** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Corporate:** 87.7 %
-- **Other:** 12.3 %
+- **Competitor:** 4.3 %
+- **Corporate:** 87.0 %
+- **Other:** 8.7 %
 
 **Top cited domains**
 
-- `google.com` – OTHER, retrieved 33 % of chats
-- `eqx.vet` – CORPORATE, retrieved 17 % of chats
 - `frunos.com` – OTHER, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
 - `bol.com` – CORPORATE, retrieved 17 % of chats
-- `carepet.de` – CORPORATE, retrieved 17 % of chats
 - `dekroo.nl` – CORPORATE, retrieved 17 % of chats
+- `dierapotheker.nl` – CORPORATE, retrieved 17 % of chats
+- `duvalhorseproducts.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

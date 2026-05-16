@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
 
 ## Engine visibility
 
@@ -14,23 +14,21 @@
 
 ## Citation source mix
 
-- **Own:** 1.8 %
-- **Competitor:** 1.8 %
-- **Editorial:** 9.5 %
-- **Ugc:** 9.5 %
-- **Reference:** 7.7 %
-- **Institutional:** 5.7 %
-- **Corporate:** 58.4 %
-- **Other:** 5.5 %
+- **Editorial:** 7.6 %
+- **Ugc:** 9.1 %
+- **Reference:** 9.1 %
+- **Institutional:** 9.1 %
+- **Corporate:** 59.1 %
+- **Other:** 6.1 %
 
 **Top cited domains**
 
-- `equine74.com` – CORPORATE, retrieved 38 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 38 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 38 % of chats
-- `madbarn.com` – CORPORATE, retrieved 25 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
-- `iwest.de` – CORPORATE, retrieved 25 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 44 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `researchgate.net` – UGC, retrieved 33 % of chats
+- `madbarn.com` – CORPORATE, retrieved 22 % of chats
+- `springer.com` – REFERENCE, retrieved 22 % of chats
 
 ## Suggested article
 

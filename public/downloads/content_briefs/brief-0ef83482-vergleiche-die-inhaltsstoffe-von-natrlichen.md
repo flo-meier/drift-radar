@@ -1,14 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
 
 ## Engine visibility
 
 - **ChatGPT:** 67 %
-- **Gemini:** 67 %
+- **Gemini:** 33 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.57  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -23,7 +23,7 @@
 
 > ChatGPT answers the question as stated – pure ingredient comparison – and never transitions to brand recommendations.
 
-### Gemini – visibility 67 %
+### Gemini – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 3.8 %
-- **Competitor:** 5.1 %
-- **Ugc:** 3.8 %
-- **Reference:** 3.8 %
-- **Corporate:** 79.5 %
-- **Other:** 3.8 %
+- **Own:** 3.4 %
+- **Competitor:** 4.5 %
+- **Ugc:** 3.4 %
+- **Reference:** 3.4 %
+- **Corporate:** 80.7 %
+- **Other:** 4.5 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
 - `st-hippolyt.de` – COMPETITOR, retrieved 44 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
 - `youtube.com` – UGC, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `inropharm.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

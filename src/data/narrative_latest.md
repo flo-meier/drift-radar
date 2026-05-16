@@ -1,35 +1,27 @@
-# Drift Radar · 2026-05-14
+# Drift Radar · 2026-05-15
 
 ## Summary
 
-50 prompts tracked across ChatGPT, Gemini, and AI Overview. Drifting queries (≥0.3 visibility score) rose to 12 from 7. Own-brand visibility remains at 4.8%. Five prompts entered drifting range; two exited. Eleven prompts shifted between silence categories.
+13 of 50 tracked prompts now show drift (≥ 0.3). Two prompts entered drifting range this week; one exited. Average Pferdegold visibility remains low at 4.8%.
 
-## Movement into drifting
+## Movement
 
-Five queries moved from silence into visible competition:
+**Into drifting:** Two stomach-health queries shifted from own-only silence into active drift territory. Both target gastrointestinal supplements ("Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht" and "Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen") now score 0.443 each. Both disappeared from own-only silence tracking, suggesting competitors gained visibility across multiple engines.
 
-- "Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde" (0.562) – strongest entry
-- "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden" (0.443)
-- "Suche gesundes Zusatzfutter für Pferde in Deutschland" (0.443)
-- "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd" (0.443, two instances)
+**Out of drifting:** Joint supplement query ("Welche Gelankpellets ohne Zuckerzusatz gibt es für Pferde?") dropped to 0.0, re-entering own-only silence. This represents competitive retreat on that specific angle.
 
-All five queries center on supplement comparisons and natural feed recommendations for leisure horses. Three moved from own-only silence; one from full silence. Competitor presence is now visible on these terms.
+## Volatility
 
-## Movement out of drifting
+The largest swing belongs to "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?" – up 0.249 to 0.841, now the highest-scoring prompt in the set. This query commands strong multi-engine presence and warrants immediate content review.
 
-Two queries lost detectability:
+The stress-relief pellets query ("Finde Nervenpellets für gestresste Pferde") dropped 0.255 to 0.337, suggesting reduced competitive pressure on that segment.
 
-- "Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?" (0.444 → 0.0)
-- "Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen" (0.444 → 0.0)
+## Silence Evolution
 
-Both stress-management and joint-support queries dropped to zero visibility. Likely search volume decline or algorithmic de-prioritization.
+Seven prompts changed silence classification. Three previously full-silent queries now register own-only silence (digestibility analysis, sport-horse feed comparisons, magnesium pellets without additives), indicating Pferdegold gained ground but competitors are present.
 
-## Action items
+## Next Steps
 
-Prioritize the supplement comparison cluster – the five drifting queries share intent (natural feed ingredient evaluation). Check competitor positioning on these terms in ChatGPT and Gemini first. The 0.562 score on ingredient comparison is the highest swing; map what information AI systems are surfacing there.
+Prioritize the 0.841-scoring joint-supplement query – this is where the market is most contested. Monitor the two newly-drifting stomach-health prompts for velocity and competitive positioning over the next cycle.
 
-Investigate the joint-support query loss. If driven by feed-related query decline, it may signal seasonal shift; if algorithmic, cross-reference with broader industry trends.
-
-Watch own-only silence at 25 queries – retention is stable but opportunity for expansion exists in adjacent terminology.
-
-Next week: supplement drifting likely to stabilize or climb further.
+Review content gaps on the highest-volatility segment before competitors solidify position further.

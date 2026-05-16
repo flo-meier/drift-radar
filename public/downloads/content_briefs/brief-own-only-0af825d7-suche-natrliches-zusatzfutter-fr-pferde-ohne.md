@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-12 → 2026-05-14
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 67 %  (Gemini 67 %)
 - **Marstall** – top visibility 33 %  (Gemini 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 12.5 %
-- **Corporate:** 75.0 %
-- **Other:** 12.5 %
+- **Competitor:** 13.0 %
+- **Corporate:** 73.5 %
+- **Other:** 13.4 %
 
 **Top cited domains**
 
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `marstall.de` – COMPETITOR, retrieved 33 % of chats
 - `salutaria.de` – CORPORATE, retrieved 17 % of chats
-- `marstall.de` – COMPETITOR, retrieved 17 % of chats
 - `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 17 % of chats
+- `squeed.de` – CORPORATE, retrieved 17 % of chats
 - `equestrian-horses.de` – OTHER, retrieved 17 % of chats
-- `feedmyhorse.de` – CORPORATE, retrieved 17 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

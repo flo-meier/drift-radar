@@ -1,6 +1,6 @@
-# Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
+# Drift Radar – »Zeige mir gute Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_76c76a27-2b6a-4e7c-9a05-7f270587a055`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
 
 ## Engine visibility
 
@@ -14,27 +14,26 @@
 
 ## Citation source mix
 
-- **Editorial:** 11.1 %
-- **Ugc:** 7.4 %
-- **Reference:** 6.2 %
-- **Institutional:** 6.2 %
-- **Corporate:** 67.9 %
-- **Other:** 1.2 %
+- **Editorial:** 11.4 %
+- **Ugc:** 2.3 %
+- **Reference:** 9.1 %
+- **Institutional:** 4.6 %
+- **Corporate:** 72.7 %
 
 **Top cited domains**
 
-- `gigasnutrition.com` – CORPORATE, retrieved 56 % of chats
-- `zeinpharma.de` – CORPORATE, retrieved 44 % of chats
-- `densenutrition.com` – CORPORATE, retrieved 33 % of chats
-- `energeticanatura.com` – CORPORATE, retrieved 33 % of chats
-- `ep-nutrition.de` – CORPORATE, retrieved 33 % of chats
-- `kingnature.ch` – CORPORATE, retrieved 33 % of chats
+- `zooplus.de` – CORPORATE, retrieved 33 % of chats
+- `annimally.de` – CORPORATE, retrieved 33 % of chats
+- `chewy.com` – CORPORATE, retrieved 33 % of chats
+- `deganius.de` – CORPORATE, retrieved 33 % of chats
+- `equimed.com` – EDITORIAL, retrieved 33 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
 - **Length:** 2 000 – 3 500 words
-- **Headline starting point:** »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten. – the Pferdegold guide«
+- **Headline starting point:** »Zeige mir gute Ergänzungsfutter für mein Pferd. – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
