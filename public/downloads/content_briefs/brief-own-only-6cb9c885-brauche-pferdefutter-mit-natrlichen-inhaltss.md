@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
 
 ## Engine visibility
 
@@ -14,38 +14,39 @@
 
 ## Who is cited instead
 
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
 - **Pavo** – top visibility 67 %  (ChatGPT 67 %, AI Overview 33 %, Gemini 33 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
 - **Havens** – top visibility 33 %  (ChatGPT 33 %, AI Overview 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 1.7 %
-- **Institutional:** 8.6 %
-- **Corporate:** 84.5 %
-- **Other:** 5.2 %
+- **Ugc:** 1.8 %
+- **Institutional:** 3.6 %
+- **Corporate:** 90.9 %
+- **Other:** 3.6 %
 
 **Top cited domains**
 
-- `lexa-pferdefutter.at` – CORPORATE, retrieved 56 % of chats
-- `auer-garsten.at` – CORPORATE, retrieved 44 % of chats
-- `aronialand.at` – CORPORATE, retrieved 33 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `havenspferdefutter.at` – CORPORATE, retrieved 22 % of chats
-- `agrarzone.at` – CORPORATE, retrieved 22 % of chats
+- `lexa-pferdefutter.at` – CORPORATE, retrieved 33 % of chats
+- `aronialand.at` – CORPORATE, retrieved 22 % of chats
+- `praxmayer.at` – CORPORATE, retrieved 22 % of chats
+- `semhof.de` – CORPORATE, retrieved 22 % of chats
+- `annimally.at` – CORPORATE, retrieved 22 % of chats
+- `auer-garsten.at` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
+- **Headline starting point:** »Pferdegold vs St. Hippolyt: Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Havens for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

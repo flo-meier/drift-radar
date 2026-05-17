@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.«
 
-**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
 
 ## Engine visibility
 
@@ -14,19 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.7 %
-- **Institutional:** 2.7 %
-- **Corporate:** 91.9 %
-- **Other:** 2.7 %
+- **Editorial:** 2.4 %
+- **Reference:** 2.4 %
+- **Institutional:** 4.8 %
+- **Corporate:** 85.7 %
+- **Other:** 4.8 %
 
 **Top cited domains**
 
 - `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 22 % of chats
 - `kraemer.de` – CORPORATE, retrieved 22 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `janet-metz.de` – INSTITUTIONAL, retrieved 22 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
-- `migocki.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

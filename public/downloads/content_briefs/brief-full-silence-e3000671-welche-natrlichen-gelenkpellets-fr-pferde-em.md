@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
 
 ## Engine visibility
 
@@ -14,18 +14,18 @@
 
 ## Citation source mix
 
-- **Ugc:** 40.7 %
-- **Corporate:** 53.1 %
-- **Other:** 6.2 %
+- **Ugc:** 32.2 %
+- **Corporate:** 62.8 %
+- **Other:** 4.9 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 28 % of chats
-- `reddit.com` – UGC, retrieved 28 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 14 % of chats
-- `dogforum.de` – UGC, retrieved 14 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 14 % of chats
-- `bieros.de` – CORPORATE, retrieved 14 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 38 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
+- `kingfisherdublin.com` – CORPORATE, retrieved 25 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
+- `reddit.com` – UGC, retrieved 25 % of chats
 
 ## Suggested article
 

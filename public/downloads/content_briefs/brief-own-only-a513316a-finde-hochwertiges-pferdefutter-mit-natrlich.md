@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
 
 ## Engine visibility
 
@@ -14,28 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
 - **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
 - **Eggersmann** – top visibility 67 %  (Gemini 67 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.4 %
-- **Ugc:** 3.4 %
-- **Reference:** 13.4 %
-- **Corporate:** 76.5 %
-- **Other:** 3.4 %
+- **Ugc:** 2.9 %
+- **Corporate:** 94.2 %
+- **Other:** 2.9 %
 
 **Top cited domains**
 
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `okapi-online.de` – CORPORATE, retrieved 33 % of chats
-- `testbericht.de` – REFERENCE, retrieved 17 % of chats
-- `eurital.de` – CORPORATE, retrieved 17 % of chats
-- `faie.de` – CORPORATE, retrieved 17 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `eurital.de` – CORPORATE, retrieved 33 % of chats
+- `annimally.de` – CORPORATE, retrieved 33 % of chats
+- `cdvet.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

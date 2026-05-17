@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
 
 ## Engine visibility
 
-- **ChatGPT:** 67 %
+- **ChatGPT:** 33 %
 - **Gemini:** 33 %
-- **AI Overview:** 0 %
+- **AI Overview:** 33 %
 
-**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 67 %
+### ChatGPT – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 0 %
+### AI Overview – visibility 33 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 3.4 %
-- **Competitor:** 4.5 %
-- **Ugc:** 3.4 %
-- **Reference:** 3.4 %
-- **Corporate:** 80.7 %
-- **Other:** 4.5 %
+- **Own:** 3.5 %
+- **Competitor:** 3.5 %
+- **Ugc:** 3.5 %
+- **Reference:** 2.4 %
+- **Corporate:** 83.5 %
+- **Other:** 3.5 %
 
 **Top cited domains**
 
-- `st-hippolyt.de` – COMPETITOR, retrieved 44 % of chats
+- `stroeh.de` – CORPORATE, retrieved 44 % of chats
 - `youtube.com` – UGC, retrieved 33 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
 - `inropharm.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

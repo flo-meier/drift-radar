@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
 
 ## Engine visibility
 
@@ -18,22 +18,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.4 %
-- **Editorial:** 1.2 %
-- **Ugc:** 2.4 %
-- **Reference:** 5.9 %
-- **Institutional:** 11.8 %
-- **Corporate:** 62.4 %
-- **Other:** 14.1 %
+- **Competitor:** 2.3 %
+- **Editorial:** 2.3 %
+- **Ugc:** 3.4 %
+- **Reference:** 6.8 %
+- **Institutional:** 19.3 %
+- **Corporate:** 53.4 %
+- **Other:** 12.5 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `masterhorse-infowissen.de` – OTHER, retrieved 33 % of chats
+- `masterhorse-infowissen.de` – OTHER, retrieved 44 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 22 % of chats
 - `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
 - `researchgate.net` – OTHER, retrieved 22 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
 
 ## Engine visibility
 
@@ -20,18 +20,19 @@
 
 ## Citation source mix
 
-- **Own:** 2.0 %
-- **Corporate:** 96.0 %
-- **Other:** 2.0 %
+- **Own:** 1.5 %
+- **Editorial:** 3.0 %
+- **Corporate:** 91.0 %
+- **Other:** 4.5 %
 
 **Top cited domains**
 
-- `louven-shop.de` – CORPORATE, retrieved 44 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `krauterie.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

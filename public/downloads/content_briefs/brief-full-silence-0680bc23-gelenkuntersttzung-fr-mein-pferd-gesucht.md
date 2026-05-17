@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.1 %
-- **Ugc:** 7.8 %
-- **Reference:** 4.7 %
-- **Institutional:** 3.1 %
-- **Corporate:** 79.7 %
-- **Other:** 1.6 %
+- **Editorial:** 4.8 %
+- **Ugc:** 19.3 %
+- **Reference:** 2.4 %
+- **Institutional:** 2.4 %
+- **Corporate:** 68.8 %
+- **Other:** 2.4 %
 
 **Top cited domains**
 
-- `medpets.de` – CORPORATE, retrieved 44 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
+- `stroeh.de` – CORPORATE, retrieved 38 % of chats
+- `kraemer.de` – CORPORATE, retrieved 25 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
+- `emma-care.de` – CORPORATE, retrieved 25 % of chats
+- `hipposport.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

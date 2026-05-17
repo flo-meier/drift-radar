@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?«
 
-**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
 
 ## Engine visibility
 
@@ -14,27 +14,28 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %, AI Overview 50 %)
-- **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 67 %, ChatGPT 67 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %, AI Overview 50 %)
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %, AI Overview 50 %)
-- **Nösenberger** – top visibility 50 %  (AI Overview 50 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %, AI Overview 33 %)
+- **Marstall** – top visibility 100 %  (ChatGPT 100 %, AI Overview 100 %, Gemini 67 %)
+- **Höveler** – top visibility 100 %  (ChatGPT 100 %, AI Overview 33 %)
+- **Nösenberger** – top visibility 67 %  (AI Overview 67 %)
+- **St. Hippolyt** – top visibility 67 %  (AI Overview 67 %, Gemini 67 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 2.6 %
-- **Institutional:** 2.6 %
-- **Corporate:** 92.1 %
-- **Other:** 2.6 %
+- **Editorial:** 4.0 %
+- **Reference:** 2.0 %
+- **Institutional:** 2.0 %
+- **Corporate:** 90.0 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
-- `hypona.ch` – CORPORATE, retrieved 50 % of chats
-- `herzog-muelimatt.ch` – CORPORATE, retrieved 50 % of chats
-- `hauptner.ch` – CORPORATE, retrieved 38 % of chats
-- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 25 % of chats
-- `reitsport.ch` – CORPORATE, retrieved 25 % of chats
-- `zooplus.ch` – CORPORATE, retrieved 25 % of chats
+- `hypona.ch` – CORPORATE, retrieved 56 % of chats
+- `herzog-muelimatt.ch` – CORPORATE, retrieved 44 % of chats
+- `reitsport.ch` – CORPORATE, retrieved 33 % of chats
+- `hauptner.ch` – CORPORATE, retrieved 33 % of chats
+- `sbline.ch` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
