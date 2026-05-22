@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
 
 ## Engine visibility
 
@@ -14,21 +14,24 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Corporate:** 70.0 %
-- **Other:** 30.0 %
+- **Editorial:** 7.5 %
+- **Ugc:** 4.9 %
+- **Reference:** 2.5 %
+- **Corporate:** 80.1 %
+- **Other:** 4.9 %
 
 **Top cited domains**
 
-- `feddema-nutri.de` – CORPORATE, retrieved 17 % of chats
-- `hundpur.com` – CORPORATE, retrieved 17 % of chats
-- `equisio-shop.de` – CORPORATE, retrieved 17 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
-- `goodvibesforpets.de` – OTHER, retrieved 17 % of chats
-- `hansetier.de` – CORPORATE, retrieved 17 % of chats
+- `medpets.de` – CORPORATE, retrieved 33 % of chats
+- `apotheke.de` – EDITORIAL, retrieved 33 % of chats
+- `hansetier.de` – CORPORATE, retrieved 33 % of chats
+- `tiershop.de` – CORPORATE, retrieved 33 % of chats
+- `der-onlinehund.de` – OTHER, retrieved 33 % of chats
+- `medpex.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

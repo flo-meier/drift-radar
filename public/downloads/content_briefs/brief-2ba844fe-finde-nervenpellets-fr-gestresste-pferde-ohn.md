@@ -1,18 +1,20 @@
 # Drift Radar – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
-**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
+**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
 
 ## Engine visibility
 
-- **ChatGPT:** 67 %
+- **ChatGPT:** 0 %
 - **Gemini:** 0 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+
+**Silence type:** `own_only`
 
 ## What the engines say
 
-### ChatGPT – visibility 67 %
+### ChatGPT – visibility 0 %
 
 **Brands cited (tracked):** #1 Pavo
 
@@ -42,30 +44,31 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Ugc:** 8.6 %
-- **Corporate:** 86.9 %
-- **Other:** 4.4 %
+- **Editorial:** 10.0 %
+- **Ugc:** 20.0 %
+- **Corporate:** 70.0 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `mustax.de` – CORPORATE, retrieved 33 % of chats
-- `reddit.com` – UGC, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `dasgangpferdeforum.de` – UGC, retrieved 17 % of chats
+- `gyenno.ch` – CORPORATE, retrieved 17 % of chats
+- `horse-gate-forum.com` – UGC, retrieved 17 % of chats
+- `kraemer.at` – CORPORATE, retrieved 17 % of chats
+- `kramer.nl` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
-- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
-- **Length:** 1 500 – 2 500 words
-- **Headline starting point:** »Finde Nervenpellets für gestresste Pferde ohne Industriezucker. – what Pferdegold actually does«
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs St. Hippolyt: Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
+- **Own-only silence.** St. Hippolyt, Pavo already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

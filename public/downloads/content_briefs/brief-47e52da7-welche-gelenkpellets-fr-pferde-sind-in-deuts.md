@@ -1,18 +1,18 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
 
 ## Engine visibility
 
-- **ChatGPT:** 0 %
+- **ChatGPT:** 33 %
 - **Gemini:** 67 %
-- **AI Overview:** 0 %
+- **AI Overview:** 100 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.53  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 0 %
+### ChatGPT – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -32,7 +32,7 @@
 - _function_ – Gelenk Premium is cost-effective for older horses
 - _brand_ – NAF Superflex is renowned in sport horse segment
 
-### AI Overview – visibility 0 %
+### AI Overview – visibility 100 %
 
 _Prompt did not run on AI Overview across the full 20 – 23 April sample window – absence is itself a drift signal._
 
@@ -42,19 +42,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 26.3 %
-- **Ugc:** 5.3 %
-- **Reference:** 10.7 %
-- **Corporate:** 57.7 %
+- **Own:** 3.2 %
+- **Ugc:** 3.2 %
+- **Reference:** 6.4 %
+- **Institutional:** 6.4 %
+- **Corporate:** 71.2 %
+- **Other:** 9.6 %
 
 **Top cited domains**
 
-- `ehorses.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-heilkunde.com` – EDITORIAL, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
-- `dogorama.app` – UGC, retrieved 17 % of chats
+- `ehorses.de` – CORPORATE, retrieved 28 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 28 % of chats
+- `kraemer.de` – CORPORATE, retrieved 28 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 28 % of chats
+- `amazon.de` – CORPORATE, retrieved 14 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 
