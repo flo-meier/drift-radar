@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -15,7 +15,8 @@
 ## Who is cited instead
 
 - **Eggersmann** – top visibility 100 %  (Gemini 100 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
+- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
@@ -24,12 +25,12 @@
 
 **Top cited domains**
 
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
 - `equidocs.de` – CORPORATE, retrieved 17 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 17 % of chats
-- `care4animals.de` – CORPORATE, retrieved 17 % of chats
-- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `mambocare.de` – CORPORATE, retrieved 17 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -41,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Eggersmann, Höveler, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Eggersmann, Höveler, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,18 +1,18 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 0 %
 - **Gemini:** 67 %
 - **AI Overview:** 100 %
 
-**Divergence score:** 0.53  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.81  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 0 %
 
 **Brands cited (tracked):** _none_
 
@@ -43,20 +43,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 ## Citation source mix
 
 - **Own:** 3.2 %
-- **Ugc:** 3.2 %
-- **Reference:** 6.4 %
+- **Editorial:** 3.2 %
+- **Ugc:** 16.0 %
+- **Reference:** 3.2 %
 - **Institutional:** 6.4 %
-- **Corporate:** 71.2 %
-- **Other:** 9.6 %
+- **Corporate:** 61.6 %
+- **Other:** 6.4 %
 
 **Top cited domains**
 
 - `ehorses.de` – CORPORATE, retrieved 28 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 28 % of chats
 - `kraemer.de` – CORPORATE, retrieved 28 % of chats
-- `pharmahorse.de` – CORPORATE, retrieved 28 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 28 % of chats
 - `amazon.de` – CORPORATE, retrieved 14 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 14 % of chats
+- `dogforum.de` – UGC, retrieved 14 % of chats
+- `gutefrage.net` – UGC, retrieved 14 % of chats
 
 ## Suggested article
 

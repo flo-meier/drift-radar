@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -14,28 +14,29 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %)
-- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 67 %)
+- **Eggersmann** – top visibility 100 %  (Gemini 100 %, AI Overview 50 %, ChatGPT 33 %)
+- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 10.3 %
-- **Ugc:** 2.6 %
-- **Reference:** 10.3 %
-- **Institutional:** 10.3 %
-- **Corporate:** 64.1 %
-- **Other:** 2.6 %
+- **Competitor:** 2.6 %
+- **Editorial:** 7.9 %
+- **Reference:** 7.9 %
+- **Institutional:** 7.9 %
+- **Corporate:** 65.9 %
+- **Other:** 7.9 %
 
 **Top cited domains**
 
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 22 % of chats
-- `landwirtschaftskammer.de` – INSTITUTIONAL, retrieved 22 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
-- `opti-ration.de` – CORPORATE, retrieved 22 % of chats
+- `opti-ration.de` – CORPORATE, retrieved 25 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
+- `idealo.de` – CORPORATE, retrieved 12 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 12 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 12 % of chats
+- `acis-pferdefutter.de` – CORPORATE, retrieved 12 % of chats
 
 ## Suggested article
 

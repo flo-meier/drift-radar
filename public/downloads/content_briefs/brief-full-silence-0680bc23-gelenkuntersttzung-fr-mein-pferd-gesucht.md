@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.3 %
-- **Ugc:** 3.3 %
-- **Reference:** 1.7 %
-- **Institutional:** 8.3 %
-- **Corporate:** 78.3 %
-- **Other:** 5.0 %
+- **Editorial:** 4.7 %
+- **Ugc:** 4.9 %
+- **Reference:** 2.4 %
+- **Institutional:** 4.7 %
+- **Corporate:** 78.4 %
+- **Other:** 4.9 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `nuvallo.de` – OTHER, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 22 % of chats
+- `stroeh.de` – CORPORATE, retrieved 25 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
+- `equanis.de` – CORPORATE, retrieved 25 % of chats
+- `kraemer.de` – CORPORATE, retrieved 25 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
+- `nuvallo.de` – OTHER, retrieved 25 % of chats
 
 ## Suggested article
 

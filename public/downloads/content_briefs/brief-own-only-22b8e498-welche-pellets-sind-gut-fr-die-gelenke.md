@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -14,15 +14,15 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
 
 ## Citation source mix
 
-- **Editorial:** 7.5 %
-- **Ugc:** 4.9 %
-- **Reference:** 2.5 %
-- **Corporate:** 80.1 %
-- **Other:** 4.9 %
+- **Editorial:** 11.1 %
+- **Ugc:** 3.8 %
+- **Reference:** 3.8 %
+- **Corporate:** 74.1 %
+- **Other:** 7.3 %
 
 **Top cited domains**
 
@@ -31,7 +31,7 @@
 - `hansetier.de` – CORPORATE, retrieved 33 % of chats
 - `tiershop.de` – CORPORATE, retrieved 33 % of chats
 - `der-onlinehund.de` – OTHER, retrieved 33 % of chats
-- `medpex.de` – CORPORATE, retrieved 33 % of chats
+- `vetmedpro.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

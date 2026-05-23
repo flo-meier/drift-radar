@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -14,26 +14,24 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 33 %  (AI Overview 33 %)
+- **Marstall** – top visibility 50 %  (AI Overview 50 %)
 
 ## Citation source mix
 
-- **Competitor:** 6.8 %
-- **Editorial:** 1.4 %
-- **Ugc:** 6.8 %
-- **Reference:** 2.7 %
-- **Institutional:** 4.1 %
-- **Corporate:** 73.0 %
-- **Other:** 5.4 %
+- **Competitor:** 5.5 %
+- **Ugc:** 9.4 %
+- **Institutional:** 5.7 %
+- **Corporate:** 73.9 %
+- **Other:** 5.5 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
-- `deuka.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
+- `kraemer.de` – CORPORATE, retrieved 50 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 50 % of chats
+- `iwest.de` – CORPORATE, retrieved 38 % of chats
+- `deuka.de` – CORPORATE, retrieved 38 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 38 % of chats
+- `facebook.com` – UGC, retrieved 38 % of chats
 
 ## Suggested article
 

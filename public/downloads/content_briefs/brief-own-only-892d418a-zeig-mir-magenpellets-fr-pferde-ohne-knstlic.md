@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -16,22 +16,23 @@
 
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 10.0 %
-- **Corporate:** 80.0 %
-- **Other:** 10.0 %
+- **Ugc:** 4.8 %
+- **Corporate:** 85.6 %
+- **Other:** 9.6 %
 
 **Top cited domains**
 
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `carepet.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
 - `care4vet.de` – CORPORATE, retrieved 17 % of chats
-- `carepet.de` – CORPORATE, retrieved 17 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 17 % of chats
 - `lubical.de` – CORPORATE, retrieved 17 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -43,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

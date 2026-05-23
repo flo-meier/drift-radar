@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -14,19 +14,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 12.2 %
-- **Reference:** 7.3 %
-- **Institutional:** 9.8 %
-- **Corporate:** 70.7 %
+- **Editorial:** 7.0 %
+- **Institutional:** 14.0 %
+- **Corporate:** 78.9 %
 
 **Top cited domains**
 
-- `alguathera.ch` – CORPORATE, retrieved 33 % of chats
-- `gse.bio` – CORPORATE, retrieved 33 % of chats
-- `hannover96.de` – CORPORATE, retrieved 33 % of chats
-- `barmer.de` – INSTITUTIONAL, retrieved 22 % of chats
-- `energybalance.com` – CORPORATE, retrieved 22 % of chats
-- `nutori.de` – CORPORATE, retrieved 22 % of chats
+- `alguathera.ch` – CORPORATE, retrieved 25 % of chats
+- `gse.bio` – CORPORATE, retrieved 25 % of chats
+- `hannover96.de` – CORPORATE, retrieved 25 % of chats
+- `barmer.de` – INSTITUTIONAL, retrieved 12 % of chats
+- `energybalance.com` – CORPORATE, retrieved 12 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 12 % of chats
 
 ## Suggested article
 

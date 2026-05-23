@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.3 %
-- **Ugc:** 5.0 %
-- **Reference:** 11.7 %
-- **Institutional:** 6.7 %
-- **Corporate:** 65.0 %
-- **Other:** 3.3 %
+- **Editorial:** 9.4 %
+- **Ugc:** 3.6 %
+- **Reference:** 17.1 %
+- **Institutional:** 11.2 %
+- **Corporate:** 54.8 %
+- **Other:** 3.8 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 38 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 38 % of chats
+- `emma-care.de` – CORPORATE, retrieved 38 % of chats
+- `springer.com` – REFERENCE, retrieved 38 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
+- `equanis.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

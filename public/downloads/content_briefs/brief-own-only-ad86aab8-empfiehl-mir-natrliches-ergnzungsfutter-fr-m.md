@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -18,20 +18,19 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.3 %
-- **Reference:** 18.0 %
-- **Institutional:** 9.1 %
-- **Corporate:** 66.0 %
-- **Other:** 4.6 %
+- **Reference:** 23.8 %
+- **Institutional:** 4.8 %
+- **Corporate:** 61.9 %
+- **Other:** 9.5 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
 - `go4vet.com` – REFERENCE, retrieved 17 % of chats
-- `lubical.de` – CORPORATE, retrieved 17 % of chats
+- `barynesse.com` – CORPORATE, retrieved 17 % of chats
+- `canina.de` – CORPORATE, retrieved 17 % of chats
+- `equiva.com` – CORPORATE, retrieved 17 % of chats
+- `ess-supplements.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

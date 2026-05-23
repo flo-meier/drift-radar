@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir gutes Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-19 → 2026-05-21
+**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 9.1 %
-- **Ugc:** 4.6 %
-- **Reference:** 9.1 %
-- **Corporate:** 77.2 %
+- **Editorial:** 9.6 %
+- **Ugc:** 3.3 %
+- **Reference:** 16.0 %
+- **Corporate:** 71.2 %
 
 **Top cited domains**
 
+- `go4vet.com` – REFERENCE, retrieved 33 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 17 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `raiffeisenmarkt.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
