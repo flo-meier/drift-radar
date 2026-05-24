@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-04-27 → 2026-04-29
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -14,22 +14,21 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.4 %
-- **Editorial:** 4.2 %
-- **Ugc:** 4.3 %
-- **Reference:** 2.8 %
-- **Institutional:** 1.4 %
-- **Corporate:** 78.6 %
-- **Other:** 7.3 %
+- **Competitor:** 4.4 %
+- **Ugc:** 8.9 %
+- **Reference:** 2.2 %
+- **Institutional:** 6.7 %
+- **Corporate:** 71.1 %
+- **Other:** 6.7 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 38 % of chats
-- `emma-care.de` – CORPORATE, retrieved 38 % of chats
-- `madbarn.com` – OTHER, retrieved 25 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 25 % of chats
-- `ker.com` – OTHER, retrieved 25 % of chats
-- `kraemer.de` – CORPORATE, retrieved 25 % of chats
+- `kraemer.de` – CORPORATE, retrieved 43 % of chats
+- `deuka.de` – CORPORATE, retrieved 43 % of chats
+- `facebook.com` – UGC, retrieved 43 % of chats
+- `medilutions.de` – CORPORATE, retrieved 43 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 43 % of chats
+- `annimally.ch` – OTHER, retrieved 28 % of chats
 
 ## Suggested article
 

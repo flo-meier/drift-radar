@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -18,21 +18,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 11.4 %
-- **Ugc:** 5.7 %
-- **Reference:** 5.5 %
+- **Editorial:** 5.5 %
+- **Ugc:** 2.7 %
+- **Reference:** 5.7 %
 - **Institutional:** 5.5 %
-- **Corporate:** 66.4 %
-- **Other:** 5.5 %
+- **Corporate:** 72.4 %
+- **Other:** 8.2 %
 
 **Top cited domains**
 
-- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
-- `youtube.com` – UGC, retrieved 25 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 25 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 25 % of chats
-- `welt.de` – EDITORIAL, retrieved 25 % of chats
+- `agrar-fachversand.com` – CORPORATE, retrieved 28 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 28 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 28 % of chats
+- `haustierfanatiker.com` – CORPORATE, retrieved 28 % of chats
+- `profi-tack.de` – CORPORATE, retrieved 28 % of chats
+- `ruhland-pferdefutter.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

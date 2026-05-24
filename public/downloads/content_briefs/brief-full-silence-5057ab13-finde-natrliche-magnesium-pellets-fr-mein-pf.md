@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Magnesium-Pellets für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -14,17 +14,17 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.6 %
-- **Corporate:** 94.4 %
+- **Editorial:** 3.6 %
+- **Corporate:** 96.4 %
 
 **Top cited domains**
 
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `annimally.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
-- `fleischwolf-minden.de` – CORPORATE, retrieved 17 % of chats
-- `inropharm.de` – CORPORATE, retrieved 17 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 38 % of chats
+- `annimally.de` – CORPORATE, retrieved 38 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 38 % of chats
+- `winnies.de` – CORPORATE, retrieved 38 % of chats
+- `fleischwolf-minden.de` – CORPORATE, retrieved 25 % of chats
+- `naturanima.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

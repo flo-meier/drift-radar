@@ -1,6 +1,6 @@
 # Drift Radar – »Was bewirkt Magnesium beim Pferd?«
 
-**Prompt ID:** `pr_5b804fcf-a253-424e-ac32-94b32910486d`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_5b804fcf-a253-424e-ac32-94b32910486d`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -14,15 +14,15 @@
 
 ## Citation source mix
 
-- **Own:** 6.2 %
+- **Own:** 6.7 %
 - **Institutional:** 8.3 %
-- **Corporate:** 85.4 %
+- **Corporate:** 85.1 %
 
 **Top cited domains**
 
-- `equistro.de` – CORPORATE, retrieved 44 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 44 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
+- `equistro.de` – CORPORATE, retrieved 42 % of chats
+- `equusvitalis.de` – CORPORATE, retrieved 42 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 42 % of chats
 - `agradi.de` – CORPORATE, retrieved 33 % of chats
 - `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `equidocs.de` – CORPORATE, retrieved 33 % of chats

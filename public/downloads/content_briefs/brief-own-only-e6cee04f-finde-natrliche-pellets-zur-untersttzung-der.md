@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -14,6 +14,7 @@
 
 ## Who is cited instead
 
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
@@ -22,24 +23,24 @@
 
 **Top cited domains**
 
-- `naturanima.de` – CORPORATE, retrieved 38 % of chats
-- `kraeuterwiese.de` – CORPORATE, retrieved 38 % of chats
-- `kikolily.com` – CORPORATE, retrieved 25 % of chats
-- `agrarshop-online.com` – CORPORATE, retrieved 25 % of chats
-- `pferde-kraeutergarten.de` – CORPORATE, retrieved 25 % of chats
-- `stroeh.de` – CORPORATE, retrieved 25 % of chats
+- `naturanima.de` – CORPORATE, retrieved 43 % of chats
+- `cdvet.de` – CORPORATE, retrieved 28 % of chats
+- `equidocs.de` – CORPORATE, retrieved 28 % of chats
+- `equidrol.de` – CORPORATE, retrieved 28 % of chats
+- `equiland-shop.com` – CORPORATE, retrieved 28 % of chats
+- `kraeuterwiese.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Höveler: Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
+- **Headline starting point:** »Pferdegold vs Pavo: Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

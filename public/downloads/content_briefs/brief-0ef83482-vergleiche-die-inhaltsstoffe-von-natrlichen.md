@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
-- **ChatGPT:** 0 %
-- **Gemini:** 0 %
-- **AI Overview:** 50 %
+- **ChatGPT:** 33 %
+- **Gemini:** 33 %
+- **AI Overview:** 100 %
 
 **Divergence score:** 0.56  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 0 %
+### ChatGPT – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -23,7 +23,7 @@
 
 > ChatGPT answers the question as stated – pure ingredient comparison – and never transitions to brand recommendations.
 
-### Gemini – visibility 0 %
+### Gemini – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 50 %
+### AI Overview – visibility 100 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 1.7 %
-- **Competitor:** 7.3 %
-- **Ugc:** 5.4 %
-- **Reference:** 3.6 %
+- **Own:** 5.8 %
+- **Competitor:** 5.8 %
+- **Ugc:** 5.6 %
+- **Reference:** 2.8 %
 - **Corporate:** 71.4 %
-- **Other:** 10.6 %
+- **Other:** 8.5 %
 
 **Top cited domains**
 
-- `st-hippolyt.de` – COMPETITOR, retrieved 50 % of chats
-- `dochorse.de` – CORPORATE, retrieved 38 % of chats
-- `kraemer.de` – CORPORATE, retrieved 38 % of chats
-- `youtube.com` – UGC, retrieved 25 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
-- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 25 % of chats
+- `pferde-gold.de` – OWN, retrieved 28 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 28 % of chats
+- `dochorse.de` – CORPORATE, retrieved 28 % of chats
+- `kraemer.de` – CORPORATE, retrieved 28 % of chats
+- `pferde-gold.ch` – CORPORATE, retrieved 28 % of chats
+- `st-hippolyt.de` – COMPETITOR, retrieved 28 % of chats
 
 ## Suggested article
 

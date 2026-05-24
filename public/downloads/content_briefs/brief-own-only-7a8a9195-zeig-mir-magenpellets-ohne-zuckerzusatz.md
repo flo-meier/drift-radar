@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -17,20 +17,21 @@
 - **Marstall** – top visibility 67 %  (Gemini 67 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 3.7 %
-- **Corporate:** 92.5 %
-- **Other:** 3.7 %
+- **Institutional:** 3.9 %
+- **Corporate:** 92.2 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
 - `dm.de` – CORPORATE, retrieved 50 % of chats
-- `bodfeld-apotheke.de` – CORPORATE, retrieved 50 % of chats
-- `rennie.de` – CORPORATE, retrieved 33 % of chats
-- `dm.at` – CORPORATE, retrieved 33 % of chats
+- `bodfeld-apotheke.de` – CORPORATE, retrieved 33 % of chats
+- `apotheke24h.at` – CORPORATE, retrieved 33 % of chats
+- `central-apo.com` – CORPORATE, retrieved 33 % of chats
 - `decathlon.de` – CORPORATE, retrieved 17 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
 

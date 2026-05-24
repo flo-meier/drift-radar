@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -17,7 +17,7 @@
 - **Eggersmann** – top visibility 100 %  (Gemini 100 %)
 - **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
@@ -25,12 +25,12 @@
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `mambocare.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 17 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 17 % of chats
+- `carepet.de` – CORPORATE, retrieved 17 % of chats
+- `deers-tackstore.de` – CORPORATE, retrieved 17 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

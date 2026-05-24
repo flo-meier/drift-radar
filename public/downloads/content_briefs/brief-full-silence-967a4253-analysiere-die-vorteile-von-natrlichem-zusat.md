@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -14,18 +14,18 @@
 
 ## Citation source mix
 
-- **Reference:** 3.1 %
-- **Institutional:** 21.5 %
-- **Corporate:** 75.4 %
+- **Reference:** 4.2 %
+- **Institutional:** 24.9 %
+- **Corporate:** 70.9 %
 
 **Top cited domains**
 
-- `laurelnature.com` – CORPORATE, retrieved 38 % of chats
-- `bluefarm.co` – CORPORATE, retrieved 25 % of chats
-- `ep-nutrition.de` – CORPORATE, retrieved 25 % of chats
-- `naturalis-barf.de` – CORPORATE, retrieved 25 % of chats
-- `naturavetal.de` – CORPORATE, retrieved 25 % of chats
-- `pferdgerecht.de` – CORPORATE, retrieved 25 % of chats
+- `laurelnature.com` – CORPORATE, retrieved 28 % of chats
+- `bluefarm.co` – CORPORATE, retrieved 14 % of chats
+- `bund.de` – INSTITUTIONAL, retrieved 14 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 14 % of chats
+- `ep-nutrition.de` – CORPORATE, retrieved 14 % of chats
+- `equiflora.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

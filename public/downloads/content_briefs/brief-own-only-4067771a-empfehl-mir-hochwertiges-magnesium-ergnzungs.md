@@ -1,6 +1,6 @@
 # Drift Radar – »Empfehl mir hochwertiges Magnesium-Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_4067771a-82c4-4549-93ce-c4b7e2296dc9`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_4067771a-82c4-4549-93ce-c4b7e2296dc9`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -14,24 +14,25 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 50 %  (Gemini 50 %, ChatGPT 25 %)
+- **Pavo** – top visibility 25 %  (ChatGPT 25 %)
+- **Marstall** – top visibility 25 %  (ChatGPT 25 %)
+- **Nösenberger** – top visibility 25 %  (ChatGPT 25 %)
 
 ## Citation source mix
 
-- **Competitor:** 9.0 %
-- **Ugc:** 4.6 %
-- **Corporate:** 86.4 %
+- **Competitor:** 6.4 %
+- **Ugc:** 3.1 %
+- **Corporate:** 90.6 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `fuettern-mit-spass.de` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 38 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 38 % of chats
+- `cp-futter.de` – CORPORATE, retrieved 25 % of chats
+- `fuettern-mit-spass.de` – CORPORATE, retrieved 25 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 25 % of chats
+- `marstall.de` – COMPETITOR, retrieved 25 % of chats
 
 ## Suggested article
 

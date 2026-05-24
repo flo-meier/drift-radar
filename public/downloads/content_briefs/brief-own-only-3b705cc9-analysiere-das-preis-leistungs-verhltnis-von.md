@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -14,29 +14,28 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 67 %)
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %, AI Overview 50 %, ChatGPT 33 %)
-- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %, AI Overview 100 %)
+- **Eggersmann** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 33 %)
+- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %)
+- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %)
 - **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.6 %
-- **Editorial:** 7.9 %
-- **Reference:** 7.9 %
-- **Institutional:** 7.9 %
-- **Corporate:** 65.9 %
-- **Other:** 7.9 %
+- **Competitor:** 2.8 %
+- **Editorial:** 2.8 %
+- **Reference:** 8.5 %
+- **Corporate:** 77.3 %
+- **Other:** 8.5 %
 
 **Top cited domains**
 
-- `opti-ration.de` – CORPORATE, retrieved 25 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
-- `idealo.de` – CORPORATE, retrieved 12 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 12 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 12 % of chats
-- `acis-pferdefutter.de` – CORPORATE, retrieved 12 % of chats
+- `idealo.de` – CORPORATE, retrieved 28 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 28 % of chats
+- `acis-pferdefutter.de` – CORPORATE, retrieved 28 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 14 % of chats
+- `check24.de` – CORPORATE, retrieved 14 % of chats
+- `diefutterkammer.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

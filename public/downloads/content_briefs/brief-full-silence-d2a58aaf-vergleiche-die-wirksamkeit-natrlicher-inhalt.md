@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.4 %
-- **Ugc:** 3.6 %
-- **Reference:** 17.1 %
-- **Institutional:** 11.2 %
-- **Corporate:** 54.8 %
-- **Other:** 3.8 %
+- **Editorial:** 11.7 %
+- **Ugc:** 2.3 %
+- **Reference:** 18.7 %
+- **Institutional:** 16.3 %
+- **Corporate:** 46.3 %
+- **Other:** 4.7 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 38 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 38 % of chats
-- `emma-care.de` – CORPORATE, retrieved 38 % of chats
-- `springer.com` – REFERENCE, retrieved 38 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
-- `equanis.de` – CORPORATE, retrieved 25 % of chats
+- `emma-care.de` – CORPORATE, retrieved 43 % of chats
+- `pferdegesundheitschweiz.ch` – INSTITUTIONAL, retrieved 43 % of chats
+- `springer.com` – REFERENCE, retrieved 43 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 43 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 28 % of chats
+- `biomedcentral.com` – EDITORIAL, retrieved 28 % of chats
 
 ## Suggested article
 

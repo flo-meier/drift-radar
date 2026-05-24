@@ -1,6 +1,6 @@
 # Drift Radar – »Welches Magnesium-Produkt ist gut für mein Pferd?«
 
-**Prompt ID:** `pr_9237ba5c-707a-400b-8d7a-55e2a7757b61`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_9237ba5c-707a-400b-8d7a-55e2a7757b61`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -14,18 +14,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.7 %
-- **Corporate:** 92.5 %
-- **Other:** 3.7 %
+- **Editorial:** 3.6 %
+- **Corporate:** 92.7 %
+- **Other:** 3.6 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 50 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `tiervitalshop.de` – CORPORATE, retrieved 33 % of chats
-- `meinpferd.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 38 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 38 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 25 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 25 % of chats
+- `tiervitalshop.de` – CORPORATE, retrieved 25 % of chats
+- `meinpferd.de` – CORPORATE, retrieved 12 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-10 → 2026-05-12
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
 
 ## Engine visibility
 
@@ -11,6 +11,22 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
+
+## Citation source mix
+
+- **Reference:** 45.5 %
+- **Institutional:** 9.1 %
+- **Corporate:** 36.4 %
+- **Other:** 9.1 %
+
+**Top cited domains**
+
+- `go4vet.com` – REFERENCE, retrieved 17 % of chats
+- `equiva.com` – CORPORATE, retrieved 17 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
+- `hypona.ch` – CORPORATE, retrieved 17 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

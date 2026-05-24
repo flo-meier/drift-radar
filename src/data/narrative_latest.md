@@ -1,27 +1,30 @@
-# Drift Radar · 2026-05-22
+# Drift Radar · 2026-05-23
 
-## Summary
+## Overview
 
-Pferdegold's visibility drifted across 3 prompts this week. Two queries moved into competitive range (score ≥ 0.3), one dropped out. Own-brand visibility holds at 5.1%, unchanged from the previous period. Drifting prompts now total 13 against 63 tracked queries.
+14 prompts in drifting range (0.3+). Net movement: 3 entries, 2 exits. Visibility flat at 6.1%. Across 63 tracked prompts, 32 remain own-only silent, 17 fully silent.
 
-## Movement into Drifting Range
+## Movement
 
-**"Zeige mir in der Schweiz erhältliche Nervenpellets für gestresste Pferde"** (pr_ec467175) saw the sharpest movement: +0.62 points to 0.912. This Swiss-market query for stress pellets is now highly competitive. Competitors are actively ranking on this prompt.
+Three prompts crossed into drifting this week:
 
-**"Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?"** (pr_4334d051) entered drifting at 0.443 (+0.443). This sugar-free joint pellet query moved from silent to contested territory. The same prompt also transitioned from own-only silence to mixed presence across engines.
+- "Gelenkunterstützung für mein Pferd gesucht." (0.443) – recovered from full silence
+- "Zeige mir gute Vitamine für mein Pferd." (0.443) – emerged from own-only silence  
+- "Suche Magnesium für Pferde aus Deutschland." (0.387) – moved from own-only silence
 
-## Movement Out of Range
+Two exited drifting:
 
-**"Finde natürliche Pellets zur Unterstützung der Pferdegesundheit"** (pr_e6cee04f) fell to 0.0 (–0.443), dropping from drifting. This broad health-support query is now fully silent, with Pferdegold returning to own-only visibility.
+- "Finde in Deutschland hergestelltes Magenfutter für mein Pferd." (0.0) – dropped to own-only silence
+- "Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?" (0.0) – full silence return
 
-## Secondary Volatility
+Joint supplement and micronutrient queries dominate the incoming drift. Both gained traction across multiple engines simultaneously, suggesting algorithmic alignment rather than single-engine noise.
 
-**"Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?"** (pr_47e52da7) climbed to 0.812 (+0.281). While already in drift territory, competitive pressure strengthened here.
+## Silence Flux
 
-**"Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?"** (pr_d445f7bc) receded slightly to 0.681 (–0.231) but remains drifting.
+Nine prompts shifted silence status. Most significant: "Gelenkunterstützung für mein Pferd gesucht." transitioned from full silence to active visibility (drifting). "Nenne mir empfehlenswerte Mineralstoffe für Pferde." moved from full to own-only silence – a partial recovery. "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd." regressed to full silence after own-only coverage.
 
-## Priority
+## Action
 
-Focus first on the Swiss nervepellets query (pr_ec467175). The 0.62-point spike indicates recent competitor movement on a geographically specific, high-intent prompt.
+Monitor the three new drifting prompts across ChatGPT and Gemini for placement consistency. Supplement queries are volatile; check whether competitors are gaining ground on dosage and sourcing claims. The reversal on natural feed recommendations warrants review – may indicate seasonal algorithm refresh.
 
-Next week: watch whether the sugar-free joint pellets prompt (pr_4334d051) stabilizes in competitive range or returns to silence.
+Retest the five movement prompts against live engines Thursday to confirm stability.
