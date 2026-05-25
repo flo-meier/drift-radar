@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -14,21 +14,20 @@
 
 ## Citation source mix
 
-- **Competitor:** 4.4 %
-- **Ugc:** 8.9 %
-- **Reference:** 2.2 %
-- **Institutional:** 6.7 %
-- **Corporate:** 71.1 %
-- **Other:** 6.7 %
+- **Ugc:** 4.2 %
+- **Reference:** 12.3 %
+- **Institutional:** 24.9 %
+- **Corporate:** 50.1 %
+- **Other:** 8.4 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 43 % of chats
-- `deuka.de` – CORPORATE, retrieved 43 % of chats
-- `facebook.com` – UGC, retrieved 43 % of chats
-- `medilutions.de` – CORPORATE, retrieved 43 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 43 % of chats
-- `annimally.ch` – OTHER, retrieved 28 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `synovium.eu` – OTHER, retrieved 17 % of chats
+- `annimally.ch` – OTHER, retrieved 17 % of chats
+- `deuka.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

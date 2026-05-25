@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
-**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -20,12 +20,12 @@
 
 **Top cited domains**
 
-- `emma-care.de` – CORPORATE, retrieved 12 % of chats
-- `pferde-gold.de` – OWN, retrieved 12 % of chats
-- `equi-clic.de` – CORPORATE, retrieved 12 % of chats
-- `equidrol.de` – CORPORATE, retrieved 12 % of chats
-- `go4vet.com` – REFERENCE, retrieved 12 % of chats
-- `lamicell.de` – CORPORATE, retrieved 12 % of chats
+- `emma-care.de` – CORPORATE, retrieved 10 % of chats
+- `pferde-gold.de` – OWN, retrieved 10 % of chats
+- `equi-clic.de` – CORPORATE, retrieved 10 % of chats
+- `equidrol.de` – CORPORATE, retrieved 10 % of chats
+- `go4vet.com` – REFERENCE, retrieved 10 % of chats
+- `lamicell.de` – CORPORATE, retrieved 10 % of chats
 
 ## Suggested article
 

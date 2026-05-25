@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-13 → 2026-05-15
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -14,23 +14,19 @@
 
 ## Citation source mix
 
-- **Own:** 1.3 %
-- **Competitor:** 2.6 %
-- **Editorial:** 5.3 %
-- **Ugc:** 6.7 %
-- **Reference:** 5.2 %
-- **Institutional:** 5.2 %
-- **Corporate:** 69.8 %
-- **Other:** 3.9 %
+- **Editorial:** 5.9 %
+- **Institutional:** 5.9 %
+- **Corporate:** 82.2 %
+- **Other:** 5.9 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 50 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 38 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 38 % of chats
-- `youtube.com` – UGC, retrieved 25 % of chats
-- `aleo-pferdesport.de` – CORPORATE, retrieved 25 % of chats
-- `horsedeal.com` – UGC, retrieved 25 % of chats
+- `krauterie.de` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `pferdy.de` – EDITORIAL, retrieved 17 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 17 % of chats
+- `agrarzone.at` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

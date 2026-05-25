@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
-**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -15,25 +15,26 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Havens** – top visibility 33 %  (ChatGPT 33 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 12.5 %
-- **Competitor:** 12.5 %
-- **Corporate:** 75.0 %
+- **Own:** 5.9 %
+- **Competitor:** 5.9 %
+- **Reference:** 5.9 %
+- **Corporate:** 82.4 %
 
 **Top cited domains**
 
 - `marstall.de` – COMPETITOR, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `einhuf.com` – CORPORATE, retrieved 17 % of chats
 - `emma-care.de` – CORPORATE, retrieved 17 % of chats
 - `equifarm.de` – CORPORATE, retrieved 17 % of chats
-- `furago.de` – CORPORATE, retrieved 17 % of chats
-- `hauser-pferdefutter.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -45,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Höveler, Havens for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Havens for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

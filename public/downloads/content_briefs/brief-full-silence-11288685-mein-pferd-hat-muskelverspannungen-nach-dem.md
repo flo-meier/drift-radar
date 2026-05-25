@@ -1,6 +1,6 @@
 # Drift Radar – »Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?«
 
-**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 6.4 %
-- **Reference:** 9.5 %
-- **Institutional:** 9.5 %
-- **Corporate:** 71.6 %
+- **Own:** 6.2 %
+- **Reference:** 9.4 %
+- **Institutional:** 9.4 %
+- **Corporate:** 71.9 %
 - **Other:** 3.1 %
 
 **Top cited domains**
 
-- `iere.org` – INSTITUTIONAL, retrieved 25 % of chats
-- `agrobs.de` – CORPORATE, retrieved 25 % of chats
-- `jenquine.com` – CORPORATE, retrieved 25 % of chats
-- `msdvetmanual.com` – REFERENCE, retrieved 25 % of chats
-- `npchealth.co.nz` – CORPORATE, retrieved 25 % of chats
-- `pferde-gold.de` – OWN, retrieved 25 % of chats
+- `iere.org` – INSTITUTIONAL, retrieved 20 % of chats
+- `agrobs.de` – CORPORATE, retrieved 20 % of chats
+- `jenquine.com` – CORPORATE, retrieved 20 % of chats
+- `msdvetmanual.com` – REFERENCE, retrieved 20 % of chats
+- `npchealth.co.nz` – CORPORATE, retrieved 20 % of chats
+- `pferde-gold.de` – OWN, retrieved 20 % of chats
 
 ## Suggested article
 

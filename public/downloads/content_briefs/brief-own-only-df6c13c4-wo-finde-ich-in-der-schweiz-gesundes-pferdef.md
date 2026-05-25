@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?«
 
-**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -14,25 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (Gemini 100 %)
-- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %, Gemini 67 %, ChatGPT 33 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Höveler** – top visibility 100 %  (Gemini 100 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 12.5 %
-- **Reference:** 12.5 %
-- **Corporate:** 75.0 %
+- **Corporate:** 90.0 %
+- **Other:** 10.0 %
 
 **Top cited domains**
 
-- `cavallo.de` – EDITORIAL, retrieved 14 % of chats
-- `hauptner.ch` – CORPORATE, retrieved 14 % of chats
-- `iwest.de` – CORPORATE, retrieved 14 % of chats
-- `lexa-pferdefutter.ch` – CORPORATE, retrieved 14 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 14 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 14 % of chats
+- `lucky-horse.ch` – CORPORATE, retrieved 17 % of chats
+- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 17 % of chats
+- `guidolinhorses.ch` – CORPORATE, retrieved 17 % of chats
+- `hypona.ch` – CORPORATE, retrieved 17 % of chats
+- `lexa-pferdefutter.ch` – CORPORATE, retrieved 17 % of chats
+- `sbline.ch` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

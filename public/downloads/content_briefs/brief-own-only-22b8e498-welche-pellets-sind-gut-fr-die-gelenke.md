@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -14,24 +14,21 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 7.4 %
-- **Ugc:** 7.2 %
-- **Reference:** 3.7 %
-- **Corporate:** 77.9 %
-- **Other:** 3.7 %
+- **Ugc:** 4.6 %
+- **Corporate:** 95.4 %
 
 **Top cited domains**
 
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `reddit.com` – UGC, retrieved 33 % of chats
-- `medpets.de` – CORPORATE, retrieved 17 % of chats
-- `apotheke.de` – EDITORIAL, retrieved 17 % of chats
+- `hundemineral.de` – CORPORATE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
 - `hyjoint-gelenke.de` – CORPORATE, retrieved 17 % of chats
-- `tiershop.de` – CORPORATE, retrieved 17 % of chats
+- `medpets.de` – CORPORATE, retrieved 17 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 17 % of chats
+- `dogcatpet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

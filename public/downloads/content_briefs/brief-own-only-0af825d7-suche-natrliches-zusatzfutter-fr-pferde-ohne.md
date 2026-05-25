@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Who is cited instead
 
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.3 %
-- **Corporate:** 94.7 %
+- **Competitor:** 5.6 %
+- **Corporate:** 94.4 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `barynesse.com` – CORPORATE, retrieved 33 % of chats
-- `eggersmann-shop.de` – CORPORATE, retrieved 33 % of chats
-- `equifarm.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
+- `marstall.de` – COMPETITOR, retrieved 17 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `semhof.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

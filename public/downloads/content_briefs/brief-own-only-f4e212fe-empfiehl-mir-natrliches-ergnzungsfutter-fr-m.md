@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -17,6 +17,19 @@
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+
+## Citation source mix
+
+- **Corporate:** 100.0 %
+
+**Top cited domains**
+
+- `votana-pferd.de` – CORPORATE, retrieved 17 % of chats
+- `petsbiotics.de` – CORPORATE, retrieved 17 % of chats
+- `barynesse.com` – CORPORATE, retrieved 17 % of chats
+- `canina.de` – CORPORATE, retrieved 17 % of chats
+- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

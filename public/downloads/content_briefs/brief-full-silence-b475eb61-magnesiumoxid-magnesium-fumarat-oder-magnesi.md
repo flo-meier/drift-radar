@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesiumoxid, Magnesium-Fumarat oder Magnesium-Citrat fürs Pferd – was ist besser?«
 
-**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -14,19 +14,20 @@
 
 ## Citation source mix
 
-- **Ugc:** 4.1 %
-- **Institutional:** 8.5 %
-- **Corporate:** 83.3 %
-- **Other:** 4.1 %
+- **Editorial:** 2.8 %
+- **Ugc:** 5.6 %
+- **Institutional:** 8.3 %
+- **Corporate:** 80.6 %
+- **Other:** 2.8 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 25 % of chats
-- `care4vet.de` – CORPORATE, retrieved 25 % of chats
-- `einhuf.com` – CORPORATE, retrieved 25 % of chats
-- `primalean.de` – CORPORATE, retrieved 25 % of chats
-- `uzh.ch` – INSTITUTIONAL, retrieved 25 % of chats
-- `calapo.com` – CORPORATE, retrieved 12 % of chats
+- `agrobs.de` – CORPORATE, retrieved 30 % of chats
+- `care4vet.de` – CORPORATE, retrieved 30 % of chats
+- `primalean.de` – CORPORATE, retrieved 30 % of chats
+- `uzh.ch` – INSTITUTIONAL, retrieved 30 % of chats
+- `einhuf.com` – CORPORATE, retrieved 20 % of chats
+- `eltabia.de` – CORPORATE, retrieved 20 % of chats
 
 ## Suggested article
 

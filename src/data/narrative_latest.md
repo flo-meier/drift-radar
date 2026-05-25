@@ -1,30 +1,37 @@
-# Drift Radar · 2026-05-23
+# Drift Radar · 2026-05-24
 
-## Overview
+## Summary
 
-14 prompts in drifting range (0.3+). Net movement: 3 entries, 2 exits. Visibility flat at 6.1%. Across 63 tracked prompts, 32 remain own-only silent, 17 fully silent.
+Pferdegold's visibility shifted measurably this week. Sixteen prompts now drift (≥0.3 visibility), up from ten. Six prompts entered drifting range; four exited. Own-brand visibility sits at 5.5%, with 31 prompts showing only Pferdegold presence and 16 generating full silence across engines.
 
-## Movement
+## Movement into drifting range
 
-Three prompts crossed into drifting this week:
+Six prompts crossed the threshold, all scoring 0.443 except one at 0.352:
 
-- "Gelenkunterstützung für mein Pferd gesucht." (0.443) – recovered from full silence
-- "Zeige mir gute Vitamine für mein Pferd." (0.443) – emerged from own-only silence  
-- "Suche Magnesium für Pferde aus Deutschland." (0.387) – moved from own-only silence
+- "Gutes Zusatzfutter für Pferde in Österreich gesucht"
+- "Zeige mir gute Ergänzungsfutter für mein Pferd"
+- "Suche gesundes Zusatzfutter für Pferde in Deutschland"
+- "Nenne mir gutes Ergänzungsfutter für mein Pferd"
+- "Finde Nervenpellets für gestresste Pferde ohne Industriezucker"
+- "Welches Magnesium-Produkt ist gut für mein Pferd?"
 
-Two exited drifting:
+All six shifted from own-only silence. They cluster around supplement categories and regional product searches.
 
-- "Finde in Deutschland hergestelltes Magenfutter für mein Pferd." (0.0) – dropped to own-only silence
-- "Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?" (0.0) – full silence return
+## Movement out of drifting range
 
-Joint supplement and micronutrient queries dominate the incoming drift. Both gained traction across multiple engines simultaneously, suggesting algorithmic alignment rather than single-engine noise.
+Four prompts dropped to zero visibility:
 
-## Silence Flux
+- "Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?" (fell from 0.443)
+- "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde" (fell from 0.912 – the week's steepest decline)
+- "Welche natürlichen Gelenkpellets für Pferde empfiehlst du?" (fell from 0.443)
+- "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe" (fell from 0.912)
 
-Nine prompts shifted silence status. Most significant: "Gelenkunterstützung für mein Pferd gesucht." transitioned from full silence to active visibility (drifting). "Nenne mir empfehlenswerte Mineralstoffe für Pferde." moved from full to own-only silence – a partial recovery. "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd." regressed to full silence after own-only coverage.
+The two sharp drops from 0.912 warrant investigation – both involved ingredient-specific supplement queries with geographic markers.
 
-## Action
+## Priority this week
 
-Monitor the three new drifting prompts across ChatGPT and Gemini for placement consistency. Supplement queries are volatile; check whether competitors are gaining ground on dosage and sourcing claims. The reversal on natural feed recommendations warrants review – may indicate seasonal algorithm refresh.
+Examine why the four exits happened. The two 0.912 drops suggest engine ranking volatility on narrow product searches. Check whether competitor mention patterns shifted or whether AI Overview changed response structure for these terms.
 
-Retest the five movement prompts against live engines Thursday to confirm stability.
+ChatGPT and Gemini dominance on the six new drifting prompts should be verified for consistency.
+
+Next week will show whether the new drifting prompts hold or slide back to own-only silence.

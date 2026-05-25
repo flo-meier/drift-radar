@@ -1,20 +1,18 @@
 # Drift Radar – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
-**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
-- **ChatGPT:** 0 %
+- **ChatGPT:** 33 %
 - **Gemini:** 0 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
-
-**Silence type:** `own_only`
+**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 0 %
+### ChatGPT – visibility 33 %
 
 **Brands cited (tracked):** #1 Pavo
 
@@ -44,31 +42,30 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 10.0 %
-- **Ugc:** 20.0 %
-- **Corporate:** 70.0 %
+- **Own:** 10.0 %
+- **Corporate:** 80.0 %
+- **Other:** 10.0 %
 
 **Top cited domains**
 
+- `fressnapf.de` – CORPORATE, retrieved 17 % of chats
+- `pferde-gold.de` – OWN, retrieved 17 % of chats
+- `chourok.net` – OTHER, retrieved 17 % of chats
+- `equidocs.de` – CORPORATE, retrieved 17 % of chats
 - `kraemer.de` – CORPORATE, retrieved 17 % of chats
-- `dasgangpferdeforum.de` – UGC, retrieved 17 % of chats
-- `gyenno.ch` – CORPORATE, retrieved 17 % of chats
-- `horse-gate-forum.com` – UGC, retrieved 17 % of chats
-- `kraemer.at` – CORPORATE, retrieved 17 % of chats
-- `kramer.nl` – CORPORATE, retrieved 17 % of chats
+- `mustax.eu` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
-- **Format:** Head-to-head comparison page
-- **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
+- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
+- **Length:** 1 500 – 2 500 words
+- **Headline starting point:** »Finde Nervenpellets für gestresste Pferde ohne Industriezucker. – what Pferdegold actually does«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
-- **Own-only silence.** Pavo already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

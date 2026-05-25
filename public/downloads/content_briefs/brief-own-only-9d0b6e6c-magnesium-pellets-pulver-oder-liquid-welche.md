@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd?«
 
-**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -14,8 +14,8 @@
 
 ## Who is cited instead
 
-- **Nösenberger** – top visibility 25 %  (ChatGPT 25 %)
-- **St. Hippolyt** – top visibility 25 %  (ChatGPT 25 %)
+- **Nösenberger** – top visibility 20 %  (ChatGPT 20 %)
+- **St. Hippolyt** – top visibility 20 %  (ChatGPT 20 %)
 
 ## Citation source mix
 
@@ -26,12 +26,12 @@
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 12 % of chats
-- `annimally.de` – CORPORATE, retrieved 12 % of chats
-- `care4vet.de` – CORPORATE, retrieved 12 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 12 % of chats
-- `curafyt.com` – CORPORATE, retrieved 12 % of chats
-- `einhuf.com` – CORPORATE, retrieved 12 % of chats
+- `agrobs.de` – CORPORATE, retrieved 10 % of chats
+- `annimally.de` – CORPORATE, retrieved 10 % of chats
+- `care4vet.de` – CORPORATE, retrieved 10 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 10 % of chats
+- `curafyt.com` – CORPORATE, retrieved 10 % of chats
+- `einhuf.com` – CORPORATE, retrieved 10 % of chats
 
 ## Suggested article
 

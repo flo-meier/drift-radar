@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
 
 ## Engine visibility
 
@@ -14,21 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.1 %
-- **Ugc:** 4.5 %
-- **Reference:** 13.8 %
-- **Institutional:** 15.9 %
-- **Corporate:** 49.9 %
-- **Other:** 6.7 %
+- **Editorial:** 12.5 %
+- **Reference:** 18.8 %
+- **Institutional:** 18.8 %
+- **Corporate:** 43.7 %
+- **Other:** 6.2 %
 
 **Top cited domains**
 
-- `nih.gov` – INSTITUTIONAL, retrieved 28 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 28 % of chats
-- `biomedcentral.com` – EDITORIAL, retrieved 28 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 28 % of chats
-- `springer.com` – REFERENCE, retrieved 28 % of chats
-- `equine74.com` – CORPORATE, retrieved 28 % of chats
+- `biomedcentral.com` – EDITORIAL, retrieved 17 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 17 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 17 % of chats
+- `springer.com` – REFERENCE, retrieved 17 % of chats
+- `equine74.com` – CORPORATE, retrieved 17 % of chats
+- `ewalia.com` – OTHER, retrieved 17 % of chats
 
 ## Suggested article
 
