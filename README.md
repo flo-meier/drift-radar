@@ -1,12 +1,35 @@
 # Drift Radar
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-drift--radar.pages.dev-orange)](https://drift-radar.pages.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Peec MCP Challenge](https://img.shields.io/badge/Peec%20MCP%20Challenge-Category%20Winner-gold)](https://peec.ai/mcp-challenge)
+[![Built with Peec](https://img.shields.io/badge/Built%20with-Peec%20AI%20MCP-7C3AED)](https://peec.ai)
+[![Refresh](https://img.shields.io/badge/Data-Daily%20refresh-green)]()
+
 > Cross-model divergence + brand-silence radar. Built on Peec AI MCP. #builtWithPeec
 
 Drift Radar finds the prompts where ChatGPT, Gemini and AI Overview describe the same brand *differently* – and the prompts where they stay brand-silent entirely. Both are brand risks, and both are invisible to classic visibility metrics.
 
 Live report: **[drift-radar.pages.dev](https://drift-radar.pages.dev)**
 
-Submission for the [Peec AI MCP Challenge 2026](https://peec.ai) · Content Optimization category.
+Submission for the [Peec AI MCP Challenge 2026](https://peec.ai) · **»Competitive Analysis« category winner**.
+
+---
+
+## What this found
+
+Three real moments from the Pferdegold tracking set on 2026-05-23 → 2026-05-25:
+
+**0.91 divergence on »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«**  
+Gemini answers »Pferdegold Gelenke« at #1. ChatGPT answers Fohlenhof, Equine Nutritional, Pavo – Pferdegold not in the top response. AI Overview: no answer returned. Same question. Three brands at position one.
+
+**71.4 % own-brand silence**  
+45 of 63 tracked prompts mention Pferdegold on *zero* of the three engines. The category is being answered – by other brands or by nobody.
+
+**17 drifting prompts at ≥ 0.30 divergence**  
+Every one of them is a prompt where the brand is visible on one engine and invisible on another. Each gets a Wilson-95 % CI, a competitor-cited set, a content brief.
+
+[See the live report →](https://drift-radar.pages.dev)
 
 ---
 
