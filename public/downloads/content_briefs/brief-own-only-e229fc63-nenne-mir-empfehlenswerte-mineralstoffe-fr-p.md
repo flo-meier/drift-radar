@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -21,17 +21,20 @@
 
 ## Citation source mix
 
-- **Competitor:** 10.0 %
-- **Corporate:** 90.0 %
+- **Competitor:** 4.8 %
+- **Reference:** 4.8 %
+- **Institutional:** 4.8 %
+- **Corporate:** 71.3 %
+- **Other:** 14.3 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `go4vet.com` – REFERENCE, retrieved 17 % of chats
+- `atcomhorse.de` – CORPORATE, retrieved 17 % of chats
+- `bio-apo.de` – CORPORATE, retrieved 17 % of chats
 - `calapo.com` – CORPORATE, retrieved 17 % of chats
 - `cp-futter.de` – CORPORATE, retrieved 17 % of chats
-- `fuettern-mit-spass.de` – CORPORATE, retrieved 17 % of chats
-- `louven-shop.de` – CORPORATE, retrieved 17 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

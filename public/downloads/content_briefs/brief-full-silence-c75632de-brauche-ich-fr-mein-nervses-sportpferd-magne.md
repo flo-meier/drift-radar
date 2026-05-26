@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
-**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,18 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 10.0 %
-- **Reference:** 10.0 %
-- **Corporate:** 80.0 %
+- **Own:** 4.3 %
+- **Competitor:** 4.3 %
+- **Ugc:** 4.3 %
+- **Reference:** 4.3 %
+- **Corporate:** 82.6 %
 
 **Top cited domains**
 
-- `emma-care.de` – CORPORATE, retrieved 10 % of chats
-- `pferde-gold.de` – OWN, retrieved 10 % of chats
-- `equi-clic.de` – CORPORATE, retrieved 10 % of chats
-- `equidrol.de` – CORPORATE, retrieved 10 % of chats
-- `go4vet.com` – REFERENCE, retrieved 10 % of chats
-- `lamicell.de` – CORPORATE, retrieved 10 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 14 % of chats
+- `emma-care.de` – CORPORATE, retrieved 14 % of chats
+- `pferde-gold.de` – OWN, retrieved 14 % of chats
+- `amazon.de` – CORPORATE, retrieved 14 % of chats
+- `askheltie.com` – UGC, retrieved 14 % of chats
+- `equi-clic.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

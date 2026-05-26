@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -15,27 +15,29 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.8 %
-- **Reference:** 14.1 %
-- **Institutional:** 4.8 %
-- **Corporate:** 71.5 %
-- **Other:** 4.8 %
+- **Own:** 3.5 %
+- **Competitor:** 3.5 %
+- **Editorial:** 3.5 %
+- **Reference:** 10.2 %
+- **Institutional:** 3.5 %
+- **Corporate:** 72.4 %
+- **Other:** 3.5 %
 
 **Top cited domains**
 
+- `einhuf.com` – CORPORATE, retrieved 50 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 50 % of chats
 - `go4vet.com` – REFERENCE, retrieved 33 % of chats
-- `einhuf.com` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `semhof.de` – CORPORATE, retrieved 17 % of chats
-- `equidocs.de` – OTHER, retrieved 17 % of chats
-- `equus-food.com` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `mambocare.de` – CORPORATE, retrieved 17 % of chats
+- `marstall.de` – COMPETITOR, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesiumoxid, Magnesium-Fumarat oder Magnesium-Citrat fürs Pferd – was ist besser?«
 
-**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.8 %
-- **Ugc:** 5.6 %
-- **Institutional:** 8.3 %
-- **Corporate:** 80.6 %
-- **Other:** 2.8 %
+- **Editorial:** 8.6 %
+- **Ugc:** 8.6 %
+- **Institutional:** 4.3 %
+- **Corporate:** 69.8 %
+- **Other:** 8.6 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 30 % of chats
-- `care4vet.de` – CORPORATE, retrieved 30 % of chats
-- `primalean.de` – CORPORATE, retrieved 30 % of chats
-- `uzh.ch` – INSTITUTIONAL, retrieved 30 % of chats
-- `einhuf.com` – CORPORATE, retrieved 20 % of chats
-- `eltabia.de` – CORPORATE, retrieved 20 % of chats
+- `agrobs.de` – CORPORATE, retrieved 28 % of chats
+- `care4vet.de` – CORPORATE, retrieved 28 % of chats
+- `annimally.ch` – OTHER, retrieved 14 % of chats
+- `artgerecht.com` – OTHER, retrieved 14 % of chats
+- `de.com` – CORPORATE, retrieved 14 % of chats
+- `dochorse.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

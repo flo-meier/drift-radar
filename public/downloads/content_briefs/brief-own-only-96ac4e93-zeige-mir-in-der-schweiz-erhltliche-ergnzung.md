@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,24 +14,25 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
+- **Marstall** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 6.6 %
-- **Corporate:** 86.6 %
-- **Other:** 6.8 %
+- **Institutional:** 8.4 %
+- **Corporate:** 86.1 %
+- **Other:** 5.5 %
 
 **Top cited domains**
 
-- `proequishop.ch` – CORPORATE, retrieved 50 % of chats
-- `fundis-reitsport.ch` – CORPORATE, retrieved 50 % of chats
-- `zooplus.ch` – CORPORATE, retrieved 50 % of chats
-- `agro-kessler.ch` – CORPORATE, retrieved 50 % of chats
-- `horze.ch` – CORPORATE, retrieved 50 % of chats
-- `huf24.ch` – CORPORATE, retrieved 50 % of chats
+- `fundis-reitsport.ch` – CORPORATE, retrieved 43 % of chats
+- `horze.ch` – CORPORATE, retrieved 43 % of chats
+- `hypona.ch` – CORPORATE, retrieved 43 % of chats
+- `proequishop.ch` – CORPORATE, retrieved 28 % of chats
+- `zooplus.ch` – CORPORATE, retrieved 28 % of chats
+- `agro-kessler.ch` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 
@@ -43,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

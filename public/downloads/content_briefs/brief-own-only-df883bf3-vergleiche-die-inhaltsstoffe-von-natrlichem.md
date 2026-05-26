@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -18,18 +18,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.7 %
-- **Reference:** 18.8 %
-- **Corporate:** 71.5 %
+- **Editorial:** 9.9 %
+- **Ugc:** 3.2 %
+- **Reference:** 6.4 %
+- **Institutional:** 6.4 %
+- **Corporate:** 70.8 %
+- **Other:** 3.2 %
 
 **Top cited domains**
 
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 33 % of chats
-- `futterwolke.de` – CORPORATE, retrieved 33 % of chats
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
-- `horseandmore.ch` – CORPORATE, retrieved 33 % of chats
+- `welt.de` – EDITORIAL, retrieved 28 % of chats
+- `stroeh.de` – CORPORATE, retrieved 14 % of chats
+- `houghtoncountry.co.uk` – OTHER, retrieved 14 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 14 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 14 % of chats
+- `agrobs.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

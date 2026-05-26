@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,26 +14,28 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %)
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **Marstall** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %, AI Overview 100 %)
+- **Eggersmann** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 67 %)
 - **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
 - **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %)
-- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.2 %
-- **Corporate:** 74.8 %
-- **Other:** 21.0 %
+- **Editorial:** 2.7 %
+- **Reference:** 2.7 %
+- **Institutional:** 5.4 %
+- **Corporate:** 73.0 %
+- **Other:** 16.3 %
 
 **Top cited domains**
 
-- `idealo.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `acis-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `fuettern-mit-spass.de` – CORPORATE, retrieved 33 % of chats
-- `derby.de` – OTHER, retrieved 17 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 56 % of chats
+- `idealo.de` – CORPORATE, retrieved 28 % of chats
+- `petvitalshop.de` – OTHER, retrieved 28 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 28 % of chats
+- `zooplus.de` – CORPORATE, retrieved 28 % of chats
+- `derby.de` – OTHER, retrieved 14 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Magnesium-Pellets für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,19 +14,19 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.1 %
-- **Ugc:** 2.7 %
-- **Reference:** 2.7 %
-- **Corporate:** 86.5 %
+- **Editorial:** 7.0 %
+- **Ugc:** 3.5 %
+- **Reference:** 3.5 %
+- **Corporate:** 86.0 %
 
 **Top cited domains**
 
-- `fuetternundfit.de` – CORPORATE, retrieved 40 % of chats
-- `annimally.de` – CORPORATE, retrieved 40 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 30 % of chats
-- `winnies.de` – CORPORATE, retrieved 30 % of chats
-- `fleischwolf-minden.de` – CORPORATE, retrieved 20 % of chats
-- `inropharm.de` – CORPORATE, retrieved 20 % of chats
+- `annimally.de` – CORPORATE, retrieved 50 % of chats
+- `fleischwolf-minden.de` – CORPORATE, retrieved 33 % of chats
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `inropharm.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

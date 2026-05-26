@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,18 +14,19 @@
 
 ## Citation source mix
 
-- **Ugc:** 4.6 %
-- **Corporate:** 86.3 %
-- **Other:** 9.2 %
+- **Editorial:** 3.2 %
+- **Ugc:** 3.2 %
+- **Corporate:** 90.3 %
+- **Other:** 3.2 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 33 % of chats
-- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
+- `medpets.de` – CORPORATE, retrieved 33 % of chats
+- `tiershop.de` – CORPORATE, retrieved 33 % of chats
+- `hundemineral.de` – CORPORATE, retrieved 33 % of chats
+- `apotheke.de` – EDITORIAL, retrieved 17 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
-- `aniama.pet` – CORPORATE, retrieved 17 % of chats
-- `annimally.nl` – CORPORATE, retrieved 17 % of chats
+- `hyjoint-gelenke.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

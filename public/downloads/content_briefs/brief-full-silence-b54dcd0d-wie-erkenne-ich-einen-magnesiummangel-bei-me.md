@@ -1,6 +1,6 @@
 # Drift Radar – »Wie erkenne ich einen Magnesiummangel bei meinem Pferd?«
 
-**Prompt ID:** `pr_b54dcd0d-29ab-441c-aafa-f45368ad3f1f`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_b54dcd0d-29ab-441c-aafa-f45368ad3f1f`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,19 +14,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.3 %
-- **Reference:** 8.3 %
-- **Institutional:** 8.3 %
-- **Corporate:** 75.0 %
+- **Ugc:** 5.5 %
+- **Institutional:** 5.5 %
+- **Corporate:** 89.1 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 10 % of chats
-- `einhuf.com` – CORPORATE, retrieved 10 % of chats
-- `equidocs.de` – CORPORATE, retrieved 10 % of chats
-- `equine74.com` – CORPORATE, retrieved 10 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 10 % of chats
-- `go4vet.com` – REFERENCE, retrieved 10 % of chats
+- `agrobs.de` – CORPORATE, retrieved 28 % of chats
+- `equine74.com` – CORPORATE, retrieved 28 % of chats
+- `equusvitalis.de` – CORPORATE, retrieved 28 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 28 % of chats
+- `performanceequinenutrition.com` – CORPORATE, retrieved 14 % of chats
+- `youtube.com` – UGC, retrieved 14 % of chats
 
 ## Suggested article
 

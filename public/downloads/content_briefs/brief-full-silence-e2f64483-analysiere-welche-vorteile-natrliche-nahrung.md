@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -11,6 +11,20 @@
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 **Silence type:** `full`
+
+## Citation source mix
+
+- **Institutional:** 12.5 %
+- **Corporate:** 87.5 %
+
+**Top cited domains**
+
+- `alguathera.ch` – CORPORATE, retrieved 14 % of chats
+- `biomol.pl` – CORPORATE, retrieved 14 % of chats
+- `bluefarm.co` – CORPORATE, retrieved 14 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 14 % of chats
+- `gse.bio` – CORPORATE, retrieved 14 % of chats
+- `sonnesee.com` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

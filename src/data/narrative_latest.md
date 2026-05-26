@@ -1,37 +1,25 @@
-# Drift Radar · 2026-05-24
+# Drift Radar · 2026-05-25
 
-## Summary
+## Movement summary
 
-Pferdegold's visibility shifted measurably this week. Sixteen prompts now drift (≥0.3 visibility), up from ten. Six prompts entered drifting range; four exited. Own-brand visibility sits at 5.5%, with 31 prompts showing only Pferdegold presence and 16 generating full silence across engines.
+The tracking week saw modest volatility: two prompts entered drifting range, one dropped below 0.3 threshold, and eight shifted between silence categories. Net drifting count rose to 17 (from 15). Own-brand visibility held flat at 7.9%.
 
-## Movement into drifting range
+## Entries to drifting
 
-Six prompts crossed the threshold, all scoring 0.443 except one at 0.352:
+**Magnesium supplement request** (pr_681fd3ba) scored 0.912 – the week's largest swing. This prompt moved from own-only silence to full AI coverage, indicating Gemini, ChatGPT, and AI Overview now surface Pferdegold mentions for supplement-focused queries.
 
-- "Gutes Zusatzfutter für Pferde in Österreich gesucht"
-- "Zeige mir gute Ergänzungsfutter für mein Pferd"
-- "Suche gesundes Zusatzfutter für Pferde in Deutschland"
-- "Nenne mir gutes Ergänzungsfutter für mein Pferd"
-- "Finde Nervenpellets für gestresste Pferde ohne Industriezucker"
-- "Welches Magnesium-Produkt ist gut für mein Pferd?"
+**German-made stomach feed** (pr_e3842bfb) entered at 0.443. Previously own-only silent, it now receives distributed mention across two engines, suggesting broader competitor activity in domestic sourcing queries.
 
-All six shifted from own-only silence. They cluster around supplement categories and regional product searches.
+## Exit from drifting
 
-## Movement out of drifting range
+**Nervous horse behavior prompt** (pr_b8e0b0ad) fell 0.551 points to 0.257, dropping below drifting threshold. This prompt had showed 0.808 visibility last period. The retreat indicates either reduced AI model confidence in Pferdegold's behavioral supplement positioning or increased competition in anxiety-related queries.
 
-Four prompts dropped to zero visibility:
+## Silence transitions
 
-- "Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?" (fell from 0.443)
-- "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde" (fell from 0.912 – the week's steepest decline)
-- "Welche natürlichen Gelenkpellets für Pferde empfiehlst du?" (fell from 0.443)
-- "Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe" (fell from 0.912)
+Six prompts shuffled between own-only and full silence. Notable: three previously own-only prompts (general magnesium pellets, stomach supplement, pellet joint care) shifted to full silence, suggesting those queries now receive no Pferdegold references across any engine. Conversely, joint ingredient comparison moved from full to own-only silence – Pferdegold appears only when the brand is explicitly part of the prompt context.
 
-The two sharp drops from 0.912 warrant investigation – both involved ingredient-specific supplement queries with geographic markers.
+## Next steps
 
-## Priority this week
+Prioritize the magnesium supplement segment (0.912 score is sustainable territory). Test messaging alignment with ChatGPT and Gemini outputs on that prompt. Audit joint supplement queries trending toward full silence for competitive displacement.
 
-Examine why the four exits happened. The two 0.912 drops suggest engine ranking volatility on narrow product searches. Check whether competitor mention patterns shifted or whether AI Overview changed response structure for these terms.
-
-ChatGPT and Gemini dominance on the six new drifting prompts should be verified for consistency.
-
-Next week will show whether the new drifting prompts hold or slide back to own-only silence.
+Watch whether the nervous-horse drop continues or stabilizes.

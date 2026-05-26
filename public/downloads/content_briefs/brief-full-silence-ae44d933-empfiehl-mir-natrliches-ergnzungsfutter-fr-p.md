@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,17 +14,19 @@
 
 ## Citation source mix
 
-- **Editorial:** 18.2 %
-- **Corporate:** 81.8 %
+- **Editorial:** 6.4 %
+- **Ugc:** 3.3 %
+- **Reference:** 3.3 %
+- **Corporate:** 87.1 %
 
 **Top cited domains**
 
-- `pferdy.de` – EDITORIAL, retrieved 17 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
-- `deganius.de` – CORPORATE, retrieved 17 % of chats
-- `german-horse-fit.de` – CORPORATE, retrieved 17 % of chats
-- `hipposport.de` – CORPORATE, retrieved 17 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
+- `kraemer.de` – CORPORATE, retrieved 50 % of chats
+- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
+- `equipro-intern.de` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `lamicell.de` – CORPORATE, retrieved 33 % of chats
+- `mambocare.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

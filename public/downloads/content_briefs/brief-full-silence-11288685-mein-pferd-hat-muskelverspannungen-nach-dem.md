@@ -1,6 +1,6 @@
 # Drift Radar – »Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?«
 
-**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 6.2 %
-- **Reference:** 9.4 %
-- **Institutional:** 9.4 %
-- **Corporate:** 71.9 %
-- **Other:** 3.1 %
+- **Own:** 8.2 %
+- **Ugc:** 4.0 %
+- **Reference:** 8.0 %
+- **Institutional:** 15.9 %
+- **Corporate:** 63.9 %
 
 **Top cited domains**
 
-- `iere.org` – INSTITUTIONAL, retrieved 20 % of chats
-- `agrobs.de` – CORPORATE, retrieved 20 % of chats
-- `jenquine.com` – CORPORATE, retrieved 20 % of chats
-- `msdvetmanual.com` – REFERENCE, retrieved 20 % of chats
-- `npchealth.co.nz` – CORPORATE, retrieved 20 % of chats
-- `pferde-gold.de` – OWN, retrieved 20 % of chats
+- `agrobs.de` – CORPORATE, retrieved 28 % of chats
+- `pferde-gold.de` – OWN, retrieved 28 % of chats
+- `dochorse.de` – CORPORATE, retrieved 14 % of chats
+- `iere.org` – INSTITUTIONAL, retrieved 14 % of chats
+- `youtube.com` – UGC, retrieved 14 % of chats
+- `csu.edu.au` – INSTITUTIONAL, retrieved 14 % of chats
 
 ## Suggested article
 

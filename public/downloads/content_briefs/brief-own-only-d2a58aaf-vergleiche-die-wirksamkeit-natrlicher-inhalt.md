@@ -1,6 +1,6 @@
-# Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
+# Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -18,23 +18,28 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.7 %
-- **Corporate:** 97.3 %
+- **Own:** 2.0 %
+- **Editorial:** 10.5 %
+- **Ugc:** 2.0 %
+- **Reference:** 20.9 %
+- **Institutional:** 12.6 %
+- **Corporate:** 43.6 %
+- **Other:** 8.3 %
 
 **Top cited domains**
 
-- `naturanima.de` – CORPORATE, retrieved 43 % of chats
-- `equidrol.de` – CORPORATE, retrieved 28 % of chats
-- `fellnasenfutter.de` – CORPORATE, retrieved 28 % of chats
-- `nobelfood.eu` – CORPORATE, retrieved 28 % of chats
-- `pferdekiosk.biz` – CORPORATE, retrieved 28 % of chats
-- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 43 % of chats
+- `pferdegesundheitschweiz.ch` – INSTITUTIONAL, retrieved 43 % of chats
+- `springer.com` – REFERENCE, retrieved 43 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 43 % of chats
+- `biomedcentral.com` – EDITORIAL, retrieved 28 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
+- **Headline starting point:** »Pferdegold vs Pavo: Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

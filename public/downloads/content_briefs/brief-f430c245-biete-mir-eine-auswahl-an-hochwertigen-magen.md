@@ -1,6 +1,6 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -49,29 +49,31 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Ugc:** 4.5 %
+- **Institutional:** 4.5 %
+- **Corporate:** 91.0 %
 
 **Top cited domains**
 
-- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `carepet.de` – CORPORATE, retrieved 17 % of chats
-- `cdvet.de` – CORPORATE, retrieved 17 % of chats
-- `deers-tackstore.de` – CORPORATE, retrieved 17 % of chats
-- `eqx.vet` – CORPORATE, retrieved 17 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 28 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 28 % of chats
+- `stroeh.de` – CORPORATE, retrieved 14 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 14 % of chats
+- `cdvet.de` – CORPORATE, retrieved 14 % of chats
+- `deers-tackstore.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
+- **Headline starting point:** »Pferdegold vs Eggersmann: Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
-- **Own-only silence.** St. Hippolyt, Havens, Pavo already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
+- **Own-only silence.** Eggersmann, St. Hippolyt, Havens already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -17,6 +17,22 @@
 - **Nösenberger** – top visibility 67 %  (ChatGPT 67 %)
 - **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+
+## Citation source mix
+
+- **Reference:** 16.7 %
+- **Institutional:** 8.3 %
+- **Corporate:** 66.7 %
+- **Other:** 8.3 %
+
+**Top cited domains**
+
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `equusvitalis.de` – CORPORATE, retrieved 17 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
+- `heltieanimal.com` – CORPORATE, retrieved 17 % of chats
+- `mypferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

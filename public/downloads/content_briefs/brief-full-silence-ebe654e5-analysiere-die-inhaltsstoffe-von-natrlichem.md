@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,20 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 18.2 %
-- **Ugc:** 9.1 %
-- **Institutional:** 9.1 %
-- **Corporate:** 36.4 %
-- **Other:** 27.3 %
+- **Competitor:** 7.5 %
+- **Editorial:** 2.5 %
+- **Ugc:** 5.0 %
+- **Reference:** 10.0 %
+- **Institutional:** 14.9 %
+- **Corporate:** 47.5 %
+- **Other:** 12.6 %
 
 **Top cited domains**
 
-- `leimueller.info` – CORPORATE, retrieved 17 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 17 % of chats
-- `hypona.ch` – OTHER, retrieved 17 % of chats
-- `iwest.de` – CORPORATE, retrieved 17 % of chats
-- `marstall.de` – COMPETITOR, retrieved 17 % of chats
-- `metazoa.nl` – OTHER, retrieved 17 % of chats
+- `iwest.de` – CORPORATE, retrieved 28 % of chats
+- `metazoa.nl` – OTHER, retrieved 28 % of chats
+- `youtube.com` – UGC, retrieved 14 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 14 % of chats
+- `feedtables.com` – REFERENCE, retrieved 14 % of chats
+- `leimueller.info` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -42,20 +42,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 12.1 %
-- **Ugc:** 20.2 %
-- **Reference:** 4.0 %
-- **Corporate:** 59.6 %
-- **Other:** 4.0 %
+- **Editorial:** 13.0 %
+- **Ugc:** 8.6 %
+- **Reference:** 4.4 %
+- **Corporate:** 69.6 %
+- **Other:** 4.4 %
 
 **Top cited domains**
 
 - `ehorses.de` – CORPORATE, retrieved 50 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 50 % of chats
 - `kraemer.de` – CORPORATE, retrieved 50 % of chats
+- `dogorama.app` – UGC, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 - `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `dogforum.de` – UGC, retrieved 17 % of chats
-- `gutefrage.net` – UGC, retrieved 17 % of chats
+- `pferde-heilkunde.com` – EDITORIAL, retrieved 33 % of chats
 
 ## Suggested article
 

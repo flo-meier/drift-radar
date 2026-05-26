@@ -1,6 +1,6 @@
-# Drift Radar – »Welche Magnesium-Form wird vom Pferd am besten aufgenommen?«
+# Drift Radar – »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd?«
 
-**Prompt ID:** `pr_98e0e5f1-08bd-482e-9632-7a31600a0d5b`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,24 +14,25 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.0 %
-- **Ugc:** 5.0 %
-- **Corporate:** 90.1 %
+- **Competitor:** 8.3 %
+- **Editorial:** 8.3 %
+- **Reference:** 8.3 %
+- **Corporate:** 75.0 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 28 % of chats
-- `einhuf.com` – CORPORATE, retrieved 28 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 14 % of chats
-- `agradi.de` – CORPORATE, retrieved 14 % of chats
-- `care4vet.de` – CORPORATE, retrieved 14 % of chats
-- `dochorse.de` – CORPORATE, retrieved 14 % of chats
+- `agrobs.de` – CORPORATE, retrieved 17 % of chats
+- `annimally.de` – CORPORATE, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
+- `curafyt.com` – CORPORATE, retrieved 17 % of chats
+- `einhuf.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
 - **Length:** 1 700 – 2 900 words
-- **Headline starting point:** »Welche Magnesium-Form wird vom Pferd am besten aufgenommen? – the Pferdegold guide«
+- **Headline starting point:** »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd? – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

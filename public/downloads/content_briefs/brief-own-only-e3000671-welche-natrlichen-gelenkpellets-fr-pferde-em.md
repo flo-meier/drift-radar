@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.6 %
-- **Ugc:** 4.6 %
-- **Corporate:** 81.8 %
-- **Other:** 9.1 %
+- **Editorial:** 2.4 %
+- **Ugc:** 5.0 %
+- **Corporate:** 85.2 %
+- **Other:** 7.4 %
 
 **Top cited domains**
 
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `migocki.de` – CORPORATE, retrieved 17 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
-- `aronialand-shop.de` – CORPORATE, retrieved 17 % of chats
-- `daminoshop.de` – CORPORATE, retrieved 17 % of chats
+- `migocki.de` – CORPORATE, retrieved 28 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 28 % of chats
+- `dekroo.de` – CORPORATE, retrieved 28 % of chats
+- `equidocs.de` – CORPORATE, retrieved 28 % of chats
+- `horseflex.de` – CORPORATE, retrieved 28 % of chats
+- `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 
