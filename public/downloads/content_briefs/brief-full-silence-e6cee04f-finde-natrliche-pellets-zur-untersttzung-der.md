@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-09 → 2026-05-11
+**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -14,20 +14,17 @@
 
 ## Citation source mix
 
-- **Own:** 2.1 %
-- **Editorial:** 4.3 %
-- **Ugc:** 8.5 %
-- **Corporate:** 83.0 %
-- **Other:** 2.1 %
+- **Competitor:** 2.2 %
+- **Corporate:** 97.8 %
 
 **Top cited domains**
 
-- `kraeuterwiese.de` – CORPORATE, retrieved 44 % of chats
-- `aronialand-shop.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `purpellets.de` – CORPORATE, retrieved 33 % of chats
-- `agrarshop-online.com` – CORPORATE, retrieved 22 % of chats
+- `naturanima.de` – CORPORATE, retrieved 38 % of chats
+- `equidrol.de` – CORPORATE, retrieved 25 % of chats
+- `agrarshop-online.com` – CORPORATE, retrieved 25 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
+- `aronialand-shop.de` – CORPORATE, retrieved 25 % of chats
+- `deckenpost.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

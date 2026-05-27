@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.3 %
-- **Editorial:** 10.6 %
-- **Reference:** 5.3 %
-- **Institutional:** 5.3 %
-- **Corporate:** 73.6 %
+- **Competitor:** 10.6 %
+- **Editorial:** 7.2 %
+- **Reference:** 3.6 %
+- **Institutional:** 3.6 %
+- **Corporate:** 75.1 %
 
 **Top cited domains**
 
+- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `barynesse.com` – CORPORATE, retrieved 33 % of chats
 - `semhof.de` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 17 % of chats
-- `barynesse.com` – CORPORATE, retrieved 17 % of chats
+- `alpurial.de` – CORPORATE, retrieved 17 % of chats
 - `reiter-guide.de` – REFERENCE, retrieved 17 % of chats
 - `annimally.de` – CORPORATE, retrieved 17 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

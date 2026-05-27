@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 7.5 %
-- **Editorial:** 2.5 %
-- **Ugc:** 5.0 %
-- **Reference:** 10.0 %
-- **Institutional:** 14.9 %
-- **Corporate:** 47.5 %
-- **Other:** 12.6 %
+- **Competitor:** 7.6 %
+- **Editorial:** 3.6 %
+- **Ugc:** 3.8 %
+- **Reference:** 13.0 %
+- **Institutional:** 12.8 %
+- **Corporate:** 55.6 %
+- **Other:** 3.6 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 28 % of chats
-- `metazoa.nl` – OTHER, retrieved 28 % of chats
-- `youtube.com` – UGC, retrieved 14 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 14 % of chats
-- `feedtables.com` – REFERENCE, retrieved 14 % of chats
-- `leimueller.info` – CORPORATE, retrieved 14 % of chats
+- `agrobs.de` – CORPORATE, retrieved 38 % of chats
+- `iwest.de` – CORPORATE, retrieved 38 % of chats
+- `wikipedia.org` – REFERENCE, retrieved 38 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
+- `madbarn.com` – CORPORATE, retrieved 25 % of chats
+- `akademie-sport-gesundheit.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

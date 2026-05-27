@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.7 %
-- **Reference:** 13.0 %
-- **Institutional:** 13.0 %
-- **Corporate:** 60.9 %
-- **Other:** 4.3 %
+- **Editorial:** 9.1 %
+- **Reference:** 10.9 %
+- **Institutional:** 10.9 %
+- **Corporate:** 64.8 %
+- **Other:** 4.4 %
 
 **Top cited domains**
 
-- `biomedcentral.com` – EDITORIAL, retrieved 14 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 14 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 14 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 14 % of chats
-- `iwest.de` – CORPORATE, retrieved 14 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 14 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 38 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 38 % of chats
+- `equine74.com` – CORPORATE, retrieved 25 % of chats
+- `iwest.de` – CORPORATE, retrieved 25 % of chats
+- `altano-group.vet` – CORPORATE, retrieved 25 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

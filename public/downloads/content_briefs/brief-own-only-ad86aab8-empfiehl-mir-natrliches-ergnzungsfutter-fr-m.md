@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -14,9 +14,10 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %)
+- **Nösenberger** – top visibility 67 %  (ChatGPT 67 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
@@ -43,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Höveler, Nösenberger for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Nösenberger, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

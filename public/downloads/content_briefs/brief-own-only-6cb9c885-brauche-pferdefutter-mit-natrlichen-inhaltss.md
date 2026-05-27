@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -15,25 +15,25 @@
 ## Who is cited instead
 
 - **Havens** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 2.3 %
-- **Institutional:** 7.2 %
-- **Corporate:** 88.1 %
-- **Other:** 2.3 %
+- **Ugc:** 2.0 %
+- **Institutional:** 4.1 %
+- **Corporate:** 89.6 %
+- **Other:** 4.3 %
 
 **Top cited domains**
 
-- `aronialand.at` – CORPORATE, retrieved 43 % of chats
-- `westernreitshop.at` – CORPORATE, retrieved 43 % of chats
-- `alphahorse.at` – CORPORATE, retrieved 28 % of chats
-- `annimally.at` – CORPORATE, retrieved 28 % of chats
-- `auer-garsten.at` – CORPORATE, retrieved 28 % of chats
-- `havenspferdefutter.at` – CORPORATE, retrieved 28 % of chats
+- `aronialand.at` – CORPORATE, retrieved 38 % of chats
+- `annimally.at` – CORPORATE, retrieved 38 % of chats
+- `auer-garsten.at` – CORPORATE, retrieved 25 % of chats
+- `onfarming.at` – OTHER, retrieved 25 % of chats
+- `havenspferdefutter.at` – CORPORATE, retrieved 25 % of chats
+- `lexa-pferdefutter.at` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

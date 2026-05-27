@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -14,19 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.2 %
-- **Ugc:** 3.2 %
-- **Corporate:** 90.3 %
-- **Other:** 3.2 %
+- **Editorial:** 3.1 %
+- **Ugc:** 3.1 %
+- **Reference:** 3.1 %
+- **Corporate:** 84.9 %
+- **Other:** 5.9 %
 
 **Top cited domains**
 
-- `medpets.de` – CORPORATE, retrieved 33 % of chats
-- `tiershop.de` – CORPORATE, retrieved 33 % of chats
-- `hundemineral.de` – CORPORATE, retrieved 33 % of chats
+- `medpets.de` – CORPORATE, retrieved 50 % of chats
+- `tiershop.de` – CORPORATE, retrieved 50 % of chats
+- `der-onlinehund.de` – OTHER, retrieved 33 % of chats
+- `hansetier.de` – CORPORATE, retrieved 33 % of chats
+- `kaufland.de` – CORPORATE, retrieved 33 % of chats
 - `apotheke.de` – EDITORIAL, retrieved 17 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
-- `hyjoint-gelenke.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

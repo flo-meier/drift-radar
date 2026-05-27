@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -14,21 +14,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 4.7 %
-- **Ugc:** 4.9 %
-- **Reference:** 2.4 %
-- **Institutional:** 4.7 %
-- **Corporate:** 78.4 %
-- **Other:** 4.9 %
+- **Ugc:** 6.2 %
+- **Institutional:** 4.0 %
+- **Corporate:** 89.8 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 25 % of chats
-- `youtube.com` – UGC, retrieved 25 % of chats
-- `equanis.de` – CORPORATE, retrieved 25 % of chats
-- `kraemer.de` – CORPORATE, retrieved 25 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
-- `nuvallo.de` – OTHER, retrieved 25 % of chats
+- `emma-care.de` – CORPORATE, retrieved 38 % of chats
+- `mambocare.de` – CORPORATE, retrieved 38 % of chats
+- `equidocs.de` – CORPORATE, retrieved 38 % of chats
+- `hestevard.de` – CORPORATE, retrieved 38 % of chats
+- `horseflex.de` – CORPORATE, retrieved 38 % of chats
+- `migocki.de` – CORPORATE, retrieved 38 % of chats
 
 ## Suggested article
 

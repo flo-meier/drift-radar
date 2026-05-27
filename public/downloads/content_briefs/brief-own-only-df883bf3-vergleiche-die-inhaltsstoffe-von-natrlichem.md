@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -18,21 +18,22 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.9 %
+- **Competitor:** 1.5 %
+- **Editorial:** 8.1 %
 - **Ugc:** 3.2 %
-- **Reference:** 6.4 %
-- **Institutional:** 6.4 %
-- **Corporate:** 70.8 %
-- **Other:** 3.2 %
+- **Reference:** 3.1 %
+- **Institutional:** 4.6 %
+- **Corporate:** 74.9 %
+- **Other:** 4.6 %
 
 **Top cited domains**
 
-- `welt.de` – EDITORIAL, retrieved 28 % of chats
-- `stroeh.de` – CORPORATE, retrieved 14 % of chats
-- `houghtoncountry.co.uk` – OTHER, retrieved 14 % of chats
-- `louven-shop.de` – CORPORATE, retrieved 14 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 14 % of chats
-- `agrobs.de` – CORPORATE, retrieved 14 % of chats
+- `welt.de` – EDITORIAL, retrieved 38 % of chats
+- `stroeh.de` – CORPORATE, retrieved 25 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 25 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 25 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
+- `facebook.com` – UGC, retrieved 25 % of chats
 
 ## Suggested article
 

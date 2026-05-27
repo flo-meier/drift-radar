@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (AI Overview 100 %, ChatGPT 67 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %, AI Overview 50 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 50 %  (AI Overview 50 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 8.9 %
-- **Ugc:** 2.2 %
-- **Reference:** 4.5 %
-- **Corporate:** 77.8 %
-- **Other:** 6.6 %
+- **Editorial:** 12.0 %
+- **Ugc:** 3.4 %
+- **Reference:** 1.6 %
+- **Corporate:** 79.6 %
+- **Other:** 3.4 %
 
 **Top cited domains**
 
-- `pferdefuttershop.de` – CORPORATE, retrieved 56 % of chats
-- `agrar-fachversand.com` – CORPORATE, retrieved 43 % of chats
-- `gefluegelhof-reichertz.de` – CORPORATE, retrieved 43 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 28 % of chats
-- `feedmyhorse.de` – CORPORATE, retrieved 28 % of chats
-- `haustierfanatiker.com` – CORPORATE, retrieved 28 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 62 % of chats
+- `agrar-fachversand.com` – CORPORATE, retrieved 38 % of chats
+- `gefluegelhof-reichertz.de` – CORPORATE, retrieved 38 % of chats
+- `hauser-pferdefutter.com` – CORPORATE, retrieved 38 % of chats
+- `topratgeber24.de` – EDITORIAL, retrieved 38 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
 
 ## Suggested article
 
@@ -45,7 +45,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

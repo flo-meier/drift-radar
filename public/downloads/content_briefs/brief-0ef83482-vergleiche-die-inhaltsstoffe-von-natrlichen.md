@@ -1,10 +1,10 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
-- **ChatGPT:** 100 %
+- **ChatGPT:** 67 %
 - **Gemini:** 33 %
 - **AI Overview:** 100 %
 
@@ -12,7 +12,7 @@
 
 ## What the engines say
 
-### ChatGPT – visibility 100 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -49,19 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 8.9 %
-- **Competitor:** 6.7 %
-- **Reference:** 4.4 %
-- **Corporate:** 80.0 %
+- **Own:** 7.7 %
+- **Competitor:** 7.7 %
+- **Ugc:** 1.5 %
+- **Reference:** 4.6 %
+- **Corporate:** 77.0 %
+- **Other:** 1.5 %
 
 **Top cited domains**
 
-- `pferde-gold.de` – OWN, retrieved 56 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 43 % of chats
-- `st-hippolyt.de` – COMPETITOR, retrieved 43 % of chats
-- `stroeh.de` – CORPORATE, retrieved 43 % of chats
-- `annimally.de` – CORPORATE, retrieved 28 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 28 % of chats
+- `pferde-gold.de` – OWN, retrieved 62 % of chats
+- `st-hippolyt.de` – COMPETITOR, retrieved 62 % of chats
+- `annimally.de` – CORPORATE, retrieved 38 % of chats
+- `dochorse.de` – CORPORATE, retrieved 38 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 38 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 38 % of chats
 
 ## Suggested article
 

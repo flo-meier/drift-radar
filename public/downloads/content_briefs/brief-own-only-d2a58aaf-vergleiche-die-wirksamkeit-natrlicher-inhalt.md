@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -18,22 +18,22 @@
 
 ## Citation source mix
 
-- **Own:** 2.0 %
-- **Editorial:** 10.5 %
-- **Ugc:** 2.0 %
-- **Reference:** 20.9 %
-- **Institutional:** 12.6 %
-- **Corporate:** 43.6 %
-- **Other:** 8.3 %
+- **Own:** 3.2 %
+- **Editorial:** 7.9 %
+- **Ugc:** 3.2 %
+- **Reference:** 20.8 %
+- **Institutional:** 9.6 %
+- **Corporate:** 49.1 %
+- **Other:** 6.2 %
 
 **Top cited domains**
 
-- `nih.gov` – INSTITUTIONAL, retrieved 43 % of chats
-- `pferdegesundheitschweiz.ch` – INSTITUTIONAL, retrieved 43 % of chats
-- `springer.com` – REFERENCE, retrieved 43 % of chats
-- `votana-pferd.de` – CORPORATE, retrieved 43 % of chats
-- `biomedcentral.com` – EDITORIAL, retrieved 28 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 28 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 38 % of chats
+- `hippoplus.de` – CORPORATE, retrieved 38 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 38 % of chats
+- `pferde-heilkunde.com` – EDITORIAL, retrieved 38 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 38 % of chats
+- `springer.com` – REFERENCE, retrieved 38 % of chats
 
 ## Suggested article
 

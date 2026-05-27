@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -18,19 +18,19 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.4 %
-- **Ugc:** 5.0 %
-- **Corporate:** 85.2 %
-- **Other:** 7.4 %
+- **Editorial:** 1.9 %
+- **Ugc:** 4.1 %
+- **Corporate:** 86.0 %
+- **Other:** 8.0 %
 
 **Top cited domains**
 
-- `migocki.de` – CORPORATE, retrieved 28 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 28 % of chats
-- `dekroo.de` – CORPORATE, retrieved 28 % of chats
-- `equidocs.de` – CORPORATE, retrieved 28 % of chats
-- `horseflex.de` – CORPORATE, retrieved 28 % of chats
-- `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 28 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 50 % of chats
+- `migocki.de` – CORPORATE, retrieved 38 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
+- `dekroo.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

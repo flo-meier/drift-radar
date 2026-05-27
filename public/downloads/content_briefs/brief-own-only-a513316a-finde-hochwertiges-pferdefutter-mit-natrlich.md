@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
 
 ## Engine visibility
 
@@ -14,23 +14,22 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Reference:** 11.7 %
-- **Corporate:** 88.3 %
+- **Reference:** 7.9 %
+- **Corporate:** 92.1 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `furago.de` – CORPORATE, retrieved 50 % of chats
 - `testbericht.de` – REFERENCE, retrieved 33 % of chats
-- `furago.de` – CORPORATE, retrieved 33 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `schroeder-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `semhof.de` – CORPORATE, retrieved 33 % of chats
 
