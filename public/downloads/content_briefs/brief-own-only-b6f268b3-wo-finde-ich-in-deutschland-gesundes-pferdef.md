@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in Deutschland gesundes Pferdefutter?«
 
-**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
@@ -14,26 +14,27 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %)
-- **Pavo** – top visibility 67 %  (Gemini 67 %, AI Overview 50 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %, Gemini 33 %)
+- **Havens** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.4 %
-- **Institutional:** 2.4 %
-- **Corporate:** 95.1 %
+- **Competitor:** 2.0 %
+- **Institutional:** 4.1 %
+- **Corporate:** 91.8 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `okapi-online.de` – CORPORATE, retrieved 38 % of chats
-- `josera.de` – CORPORATE, retrieved 25 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `furago.de` – CORPORATE, retrieved 25 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
+- `josera.de` – CORPORATE, retrieved 33 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 33 % of chats
+- `furago.de` – CORPORATE, retrieved 22 % of chats
+- `lavisano.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

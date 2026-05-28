@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Ugc:** 3.5 %
-- **Reference:** 3.5 %
-- **Institutional:** 42.8 %
-- **Corporate:** 43.1 %
-- **Other:** 7.1 %
+- **Ugc:** 2.6 %
+- **Reference:** 5.1 %
+- **Institutional:** 35.9 %
+- **Corporate:** 51.3 %
+- **Other:** 5.1 %
 
 **Top cited domains**
 
-- `ep-nutrition.de` – CORPORATE, retrieved 25 % of chats
-- `pferdgerecht.de` – CORPORATE, retrieved 25 % of chats
-- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 25 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 12 % of chats
-- `tiergesundheit.net` – INSTITUTIONAL, retrieved 12 % of chats
-- `ages.at` – INSTITUTIONAL, retrieved 12 % of chats
+- `ep-nutrition.de` – CORPORATE, retrieved 33 % of chats
+- `pferdgerecht.de` – CORPORATE, retrieved 33 % of chats
+- `alguathera.ch` – CORPORATE, retrieved 22 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 22 % of chats
+- `naturavetal.de` – CORPORATE, retrieved 22 % of chats
+- `nutralinea.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

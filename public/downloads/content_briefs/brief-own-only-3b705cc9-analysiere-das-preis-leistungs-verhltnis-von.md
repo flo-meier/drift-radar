@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
@@ -14,28 +14,29 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %, AI Overview 100 %)
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 67 %)
-- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %, AI Overview 67 %)
+- **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 67 %)
+- **Höveler** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %)
+- **Pavo** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 5.9 %
-- **Reference:** 7.9 %
-- **Institutional:** 8.0 %
-- **Corporate:** 66.5 %
-- **Other:** 11.7 %
+- **Editorial:** 6.9 %
+- **Ugc:** 1.7 %
+- **Reference:** 17.2 %
+- **Institutional:** 6.9 %
+- **Corporate:** 63.8 %
+- **Other:** 3.4 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `idealo.de` – CORPORATE, retrieved 25 % of chats
-- `petvitalshop.de` – OTHER, retrieved 25 % of chats
-- `stallbedarf24.de` – CORPORATE, retrieved 25 % of chats
-- `ble.de` – INSTITUTIONAL, retrieved 25 % of chats
-- `equine74.com` – CORPORATE, retrieved 25 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `idealo.de` – CORPORATE, retrieved 22 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 22 % of chats
+- `ble.de` – INSTITUTIONAL, retrieved 22 % of chats
+- `equine74.com` – CORPORATE, retrieved 22 % of chats
+- `futtermitteltest.de` – EDITORIAL, retrieved 22 % of chats
 
 ## Suggested article
 

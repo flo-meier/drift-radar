@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
@@ -15,24 +15,23 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, AI Overview 33 %)
 
 ## Citation source mix
 
-- **Own:** 2.0 %
-- **Editorial:** 2.0 %
-- **Institutional:** 2.0 %
-- **Corporate:** 91.8 %
-- **Other:** 2.0 %
+- **Editorial:** 3.2 %
+- **Institutional:** 3.2 %
+- **Corporate:** 88.9 %
+- **Other:** 4.8 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 38 % of chats
-- `chelfordfarmsupplies.co.uk` – CORPORATE, retrieved 25 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 25 % of chats
-- `aleo-pferdesport.de` – CORPORATE, retrieved 25 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `equine74.com` – CORPORATE, retrieved 25 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

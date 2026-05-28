@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Pferde in Österreich gesucht.«
 
-**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-21 → 2026-05-23
+**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
@@ -14,23 +14,25 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Ugc:** 18.9 %
+- **Institutional:** 6.3 %
+- **Corporate:** 68.5 %
+- **Other:** 6.3 %
 
 **Top cited domains**
 
 - `kraemer.at` – CORPORATE, retrieved 33 % of chats
-- `equusvitalis.at` – CORPORATE, retrieved 33 % of chats
-- `wahl-agrar.at` – CORPORATE, retrieved 33 % of chats
-- `zooplus.at` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.at` – CORPORATE, retrieved 33 % of chats
-- `sanovet.com` – CORPORATE, retrieved 33 % of chats
+- `zoologo.at` – CORPORATE, retrieved 33 % of chats
+- `marstall.at` – INSTITUTIONAL, retrieved 17 % of chats
+- `alphahorse.at` – CORPORATE, retrieved 17 % of chats
+- `gutefrage.net` – UGC, retrieved 17 % of chats
+- `momo-aktiv.at` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -42,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

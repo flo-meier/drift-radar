@@ -1,6 +1,6 @@
 # Drift Radar – »Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?«
 
-**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
@@ -14,19 +14,21 @@
 
 ## Citation source mix
 
-- **Own:** 8.8 %
-- **Ugc:** 5.6 %
-- **Institutional:** 11.6 %
-- **Corporate:** 74.0 %
+- **Own:** 7.0 %
+- **Editorial:** 3.5 %
+- **Ugc:** 3.5 %
+- **Reference:** 1.8 %
+- **Institutional:** 14.0 %
+- **Corporate:** 70.2 %
 
 **Top cited domains**
 
-- `pferde-gold.de` – OWN, retrieved 38 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 38 % of chats
-- `dochorse.de` – CORPORATE, retrieved 25 % of chats
-- `agrobs.de` – CORPORATE, retrieved 25 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 25 % of chats
+- `dochorse.de` – CORPORATE, retrieved 44 % of chats
+- `pferde-gold.de` – OWN, retrieved 44 % of chats
+- `agrobs.de` – CORPORATE, retrieved 44 % of chats
+- `equusvitalis.de` – CORPORATE, retrieved 44 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `equistro.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

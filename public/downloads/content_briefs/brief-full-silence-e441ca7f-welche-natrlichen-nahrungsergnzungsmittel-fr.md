@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
@@ -14,16 +14,19 @@
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Reference:** 18.1 %
+- **Institutional:** 13.5 %
+- **Corporate:** 59.5 %
+- **Other:** 8.9 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
-- `ahipos-horses.de` – CORPORATE, retrieved 17 % of chats
-- `bio-apo.de` – CORPORATE, retrieved 17 % of chats
-- `bostonparkequine.com` – CORPORATE, retrieved 17 % of chats
-- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 33 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
+- `vet-tcm.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `xaravet.de` – OTHER, retrieved 33 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 17 % of chats
+- `ayurveda-und-tiernaturheilkunde.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

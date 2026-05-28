@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 7.6 %
-- **Editorial:** 3.6 %
-- **Ugc:** 3.8 %
-- **Reference:** 13.0 %
-- **Institutional:** 12.8 %
-- **Corporate:** 55.6 %
-- **Other:** 3.6 %
+- **Competitor:** 6.1 %
+- **Editorial:** 3.0 %
+- **Ugc:** 4.5 %
+- **Reference:** 12.1 %
+- **Institutional:** 15.2 %
+- **Corporate:** 54.5 %
+- **Other:** 4.5 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 38 % of chats
-- `iwest.de` – CORPORATE, retrieved 38 % of chats
-- `wikipedia.org` – REFERENCE, retrieved 38 % of chats
-- `youtube.com` – UGC, retrieved 25 % of chats
-- `madbarn.com` – CORPORATE, retrieved 25 % of chats
-- `akademie-sport-gesundheit.de` – CORPORATE, retrieved 25 % of chats
+- `iwest.de` – CORPORATE, retrieved 44 % of chats
+- `youtube.com` – UGC, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `wikipedia.org` – REFERENCE, retrieved 33 % of chats
+- `madbarn.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

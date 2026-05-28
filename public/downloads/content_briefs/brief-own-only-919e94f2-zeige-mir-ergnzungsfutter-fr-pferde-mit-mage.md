@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.0 %
-- **Ugc:** 3.0 %
-- **Institutional:** 3.0 %
-- **Corporate:** 85.2 %
-- **Other:** 5.9 %
+- **Competitor:** 3.7 %
+- **Ugc:** 3.7 %
+- **Institutional:** 3.7 %
+- **Corporate:** 81.4 %
+- **Other:** 7.5 %
 
 **Top cited domains**
 
-- `dierapotheker.nl` – CORPORATE, retrieved 33 % of chats
-- `puurnatuur.nl` – CORPORATE, retrieved 33 % of chats
-- `voerhandelwoubrugge.nl` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `dekroo.nl` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
+- `dierapotheker.nl` – CORPORATE, retrieved 17 % of chats
 - `dochorse.nl` – CORPORATE, retrieved 17 % of chats
+- `dressageprocollection.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,14 +1,14 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
 - **Gemini:** 0 %
-- **AI Overview:** 50 %
+- **AI Overview:** 67 %
 
-**Divergence score:** 0.56  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -32,7 +32,7 @@
 - _brand_ – Agrobs AlpenGrün Pellet recommended for sensitive horses
 - _brand_ – St. Hippolyt Brandon Gastro supports stomach lining
 
-### AI Overview – visibility 50 %
+### AI Overview – visibility 67 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Havens
 
@@ -47,19 +47,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Ugc:** 2.9 %
-- **Institutional:** 6.0 %
-- **Corporate:** 88.2 %
-- **Other:** 2.9 %
+- **Competitor:** 1.8 %
+- **Ugc:** 3.6 %
+- **Institutional:** 3.6 %
+- **Corporate:** 87.3 %
+- **Other:** 3.6 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 38 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 38 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 25 % of chats
-- `equanis.de` – CORPORATE, retrieved 25 % of chats
-- `noeltgen.de` – CORPORATE, retrieved 25 % of chats
-- `sapodoris.de` – CORPORATE, retrieved 25 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
+- `facebook.com` – UGC, retrieved 22 % of chats
+- `amazon.de` – CORPORATE, retrieved 22 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 22 % of chats
 
 ## Suggested article
 
