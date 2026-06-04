@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-14 → 2026-05-16
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,18 +14,19 @@
 
 ## Citation source mix
 
-- **Ugc:** 32.2 %
-- **Corporate:** 62.8 %
-- **Other:** 4.9 %
+- **Ugc:** 20.4 %
+- **Reference:** 2.0 %
+- **Corporate:** 73.5 %
+- **Other:** 4.1 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 38 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
-- `kingfisherdublin.com` – CORPORATE, retrieved 25 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `reddit.com` – UGC, retrieved 25 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
+- `nuvallo.de` – OTHER, retrieved 22 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 22 % of chats
+- `krauterie.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

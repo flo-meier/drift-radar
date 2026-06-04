@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,37 +14,37 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 27.9 %
-- **Reference:** 33.2 %
-- **Corporate:** 38.9 %
+- **Editorial:** 8.6 %
+- **Reference:** 17.0 %
+- **Institutional:** 2.9 %
+- **Corporate:** 65.8 %
+- **Other:** 5.7 %
 
 **Top cited domains**
 
-- `zooplus.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
-- `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
-- `testbericht.de` – REFERENCE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 50 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `go4vet.com` – REFERENCE, retrieved 17 % of chats
+- `feedmark.com` – CORPORATE, retrieved 17 % of chats
+- `tiergesund.de` – EDITORIAL, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Höveler: Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
+- **Headline starting point:** »Pferdegold vs Pavo: Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, St. Hippolyt, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

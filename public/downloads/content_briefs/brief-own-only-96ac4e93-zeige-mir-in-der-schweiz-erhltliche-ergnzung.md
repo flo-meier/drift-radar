@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,27 +14,26 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
-- **Pavo** – top visibility 67 %  (AI Overview 67 %, Gemini 33 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %, AI Overview 33 %)
-- **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, AI Overview 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %, Gemini 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 1.8 %
-- **Institutional:** 5.3 %
-- **Corporate:** 89.5 %
-- **Other:** 3.5 %
+- **Competitor:** 1.6 %
+- **Editorial:** 1.6 %
+- **Institutional:** 9.4 %
+- **Corporate:** 81.3 %
+- **Other:** 6.2 %
 
 **Top cited domains**
 
+- `huf24.ch` – CORPORATE, retrieved 33 % of chats
+- `landi.ch` – CORPORATE, retrieved 33 % of chats
 - `fundis-reitsport.ch` – CORPORATE, retrieved 33 % of chats
-- `cavalor.com` – CORPORATE, retrieved 33 % of chats
-- `galaxus.ch` – CORPORATE, retrieved 33 % of chats
-- `hypona.ch` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.ch` – CORPORATE, retrieved 33 % of chats
-- `felix-buehler.ch` – CORPORATE, retrieved 22 % of chats
+- `npz.ch` – INSTITUTIONAL, retrieved 33 % of chats
+- `vitahorse.ch` – CORPORATE, retrieved 33 % of chats
+- `proequishop.ch` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -46,7 +45,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

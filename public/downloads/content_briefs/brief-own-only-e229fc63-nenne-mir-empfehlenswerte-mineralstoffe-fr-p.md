@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,38 +14,40 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Reference:** 6.5 %
-- **Institutional:** 3.4 %
-- **Corporate:** 76.8 %
-- **Other:** 13.3 %
+- **Editorial:** 6.8 %
+- **Ugc:** 4.5 %
+- **Reference:** 9.1 %
+- **Institutional:** 24.8 %
+- **Corporate:** 50.3 %
+- **Other:** 4.5 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `ak-pferd.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `bio-apo.de` – CORPORATE, retrieved 33 % of chats
-- `kornscheune.de` – OTHER, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `ehorses.de` – CORPORATE, retrieved 33 % of chats
+- `go4vet.com` – REFERENCE, retrieved 33 % of chats
+- `hooforia.com` – EDITORIAL, retrieved 33 % of chats
+- `ifce.fr` – INSTITUTIONAL, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
-- **Length:** 1 600 – 2 600 words
-- **Headline starting point:** »Pferdegold vs Marstall: Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Pavo: Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

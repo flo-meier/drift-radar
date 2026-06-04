@@ -1,6 +1,6 @@
-# Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
+# Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,32 +14,31 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **Pavo** – top visibility 50 %  (AI Overview 50 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.6 %
-- **Editorial:** 4.9 %
-- **Ugc:** 6.6 %
-- **Reference:** 1.6 %
-- **Institutional:** 6.6 %
-- **Corporate:** 73.8 %
-- **Other:** 4.9 %
+- **Editorial:** 2.5 %
+- **Ugc:** 5.2 %
+- **Reference:** 4.9 %
+- **Institutional:** 2.5 %
+- **Corporate:** 82.5 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
-- `hyjoint.de` – CORPORATE, retrieved 22 % of chats
-- `kraemer.de` – CORPORATE, retrieved 22 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 38 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
+- `kraemer.de` – CORPORATE, retrieved 25 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 25 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 12 % of chats
+- `equinewellnessmagazine.com` – EDITORIAL, retrieved 12 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
-- **Length:** 1 600 – 2 600 words
-- **Headline starting point:** »Pferdegold vs Pavo: Gelenkunterstützung für mein Pferd gesucht.«
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Pavo: Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd?«
 
-**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Citation source mix
 
-- **Competitor:** 8.3 %
-- **Editorial:** 8.3 %
-- **Reference:** 8.3 %
-- **Corporate:** 75.0 %
+- **Competitor:** 5.0 %
+- **Editorial:** 5.0 %
+- **Reference:** 5.0 %
+- **Corporate:** 85.0 %
 
 **Top cited domains**
 
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `futter-und-tierbedarf.de` – CORPORATE, retrieved 17 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
 - `agrobs.de` – CORPORATE, retrieved 17 % of chats
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
+- `bukephalos-minerals.de` – CORPORATE, retrieved 17 % of chats
 - `care4vet.de` – CORPORATE, retrieved 17 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
-- `curafyt.com` – CORPORATE, retrieved 17 % of chats
-- `einhuf.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 1 700 – 2 900 words
+- **Length:** 2 000 – 3 500 words
 - **Headline starting point:** »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd? – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._

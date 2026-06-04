@@ -1,6 +1,6 @@
 # Drift Radar – »Was bewirkt Magnesium beim Pferd?«
 
-**Prompt ID:** `pr_5b804fcf-a253-424e-ac32-94b32910486d`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_5b804fcf-a253-424e-ac32-94b32910486d`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,23 +14,24 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.3 %
-- **Institutional:** 10.5 %
-- **Corporate:** 84.2 %
+- **Reference:** 1.7 %
+- **Institutional:** 15.7 %
+- **Corporate:** 80.8 %
+- **Other:** 1.7 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 44 % of chats
-- `calapo.com` – CORPORATE, retrieved 44 % of chats
-- `einhuf.com` – CORPORATE, retrieved 44 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 44 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
+- `winnies.de` – CORPORATE, retrieved 56 % of chats
+- `agrobs.de` – CORPORATE, retrieved 56 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
+- `deine-gesundheitswelt.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `dochorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 1 700 – 2 900 words
+- **Length:** 2 400 – 4 300 words
 - **Headline starting point:** »Was bewirkt Magnesium beim Pferd? – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._

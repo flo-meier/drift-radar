@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,33 +14,35 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.7 %
-- **Corporate:** 97.3 %
+- **Editorial:** 4.9 %
+- **Ugc:** 8.2 %
+- **Corporate:** 86.9 %
 
 **Top cited domains**
 
-- `naturanima.de` – CORPORATE, retrieved 43 % of chats
-- `equidrol.de` – CORPORATE, retrieved 28 % of chats
-- `fellnasenfutter.de` – CORPORATE, retrieved 28 % of chats
-- `nobelfood.eu` – CORPORATE, retrieved 28 % of chats
-- `pferdekiosk.biz` – CORPORATE, retrieved 28 % of chats
-- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `agrarshop-online.com` – CORPORATE, retrieved 33 % of chats
+- `aronialand-shop.de` – CORPORATE, retrieved 33 % of chats
+- `bachgau.social` – EDITORIAL, retrieved 33 % of chats
+- `instagram.com` – UGC, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
+- **Headline starting point:** »Pferdegold vs Eggersmann: Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Eggersmann, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

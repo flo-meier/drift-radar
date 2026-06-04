@@ -1,14 +1,14 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
 - **Gemini:** 0 %
-- **AI Overview:** 67 %
+- **AI Overview:** 33 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -32,7 +32,7 @@
 - _brand_ – Agrobs AlpenGrün Pellet recommended for sensitive horses
 - _brand_ – St. Hippolyt Brandon Gastro supports stomach lining
 
-### AI Overview – visibility 67 %
+### AI Overview – visibility 33 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Havens
 
@@ -47,20 +47,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 1.8 %
-- **Ugc:** 3.6 %
-- **Institutional:** 3.6 %
-- **Corporate:** 87.3 %
-- **Other:** 3.6 %
+- **Competitor:** 1.9 %
+- **Ugc:** 5.7 %
+- **Institutional:** 1.9 %
+- **Corporate:** 84.9 %
+- **Other:** 5.7 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
-- `facebook.com` – UGC, retrieved 22 % of chats
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
 - `amazon.de` – CORPORATE, retrieved 22 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 22 % of chats
+- `eqx.vet` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

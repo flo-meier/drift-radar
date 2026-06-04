@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesiumoxid, Magnesium-Fumarat oder Magnesium-Citrat fürs Pferd – was ist besser?«
 
-**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,25 +14,24 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.6 %
-- **Ugc:** 7.1 %
-- **Institutional:** 1.8 %
-- **Corporate:** 80.4 %
-- **Other:** 7.1 %
+- **Ugc:** 3.3 %
+- **Institutional:** 3.3 %
+- **Corporate:** 90.2 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 56 % of chats
-- `care4vet.de` – CORPORATE, retrieved 56 % of chats
-- `dochorse.de` – CORPORATE, retrieved 33 % of chats
-- `horse-vitality-company.com` – CORPORATE, retrieved 33 % of chats
-- `annimally.ch` – OTHER, retrieved 33 % of chats
-- `eq7.de` – CORPORATE, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 43 % of chats
+- `winnies.de` – CORPORATE, retrieved 28 % of chats
+- `care4vet.de` – CORPORATE, retrieved 28 % of chats
+- `dochorse.de` – CORPORATE, retrieved 28 % of chats
+- `einhuf.com` – CORPORATE, retrieved 28 % of chats
+- `horse-vitality-company.com` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 1 700 – 2 900 words
+- **Length:** 2 400 – 4 300 words
 - **Headline starting point:** »Magnesiumoxid, Magnesium-Fumarat oder Magnesium-Citrat fürs Pferd – was ist besser? – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._

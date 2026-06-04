@@ -1,18 +1,18 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
-- **ChatGPT:** 0 %
+- **ChatGPT:** 33 %
 - **Gemini:** 67 %
-- **AI Overview:** 0 %
+- **AI Overview:** 100 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.53  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 0 %
+### ChatGPT – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -32,7 +32,7 @@
 - _function_ – Gelenk Premium is cost-effective for older horses
 - _brand_ – NAF Superflex is renowned in sport horse segment
 
-### AI Overview – visibility 0 %
+### AI Overview – visibility 100 %
 
 _Prompt did not run on AI Overview across the full 20 – 23 April sample window – absence is itself a drift signal._
 
@@ -42,19 +42,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 13.2 %
-- **Ugc:** 13.2 %
-- **Institutional:** 6.8 %
-- **Corporate:** 66.8 %
+- **Own:** 1.9 %
+- **Editorial:** 7.8 %
+- **Ugc:** 3.8 %
+- **Reference:** 1.9 %
+- **Corporate:** 80.6 %
+- **Other:** 4.0 %
 
 **Top cited domains**
 
+- `kraemer.de` – CORPORATE, retrieved 62 % of chats
 - `ehorses.de` – CORPORATE, retrieved 50 % of chats
-- `dogorama.app` – UGC, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-heilkunde.com` – EDITORIAL, retrieved 33 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 17 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 50 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 38 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 38 % of chats
+- `nuvallo.de` – OTHER, retrieved 25 % of chats
 
 ## Suggested article
 

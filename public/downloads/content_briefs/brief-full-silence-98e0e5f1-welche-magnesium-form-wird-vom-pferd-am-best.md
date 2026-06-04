@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Magnesium-Form wird vom Pferd am besten aufgenommen?«
 
-**Prompt ID:** `pr_98e0e5f1-08bd-482e-9632-7a31600a0d5b`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_98e0e5f1-08bd-482e-9632-7a31600a0d5b`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,22 +14,24 @@
 
 ## Citation source mix
 
-- **Ugc:** 7.9 %
-- **Corporate:** 92.1 %
+- **Own:** 2.0 %
+- **Ugc:** 3.9 %
+- **Institutional:** 5.9 %
+- **Corporate:** 88.3 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 56 % of chats
-- `einhuf.com` – CORPORATE, retrieved 44 % of chats
-- `horseadds.com` – CORPORATE, retrieved 44 % of chats
+- `winnies.de` – CORPORATE, retrieved 56 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 56 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 44 % of chats
+- `care4vet.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `agradi.de` – CORPORATE, retrieved 33 % of chats
-- `instagram.com` – UGC, retrieved 33 % of chats
-- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 1 700 – 2 900 words
+- **Length:** 2 400 – 4 300 words
 - **Headline starting point:** »Welche Magnesium-Form wird vom Pferd am besten aufgenommen? – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-11 → 2026-05-13
+**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,36 +14,37 @@
 
 ## Who is cited instead
 
-- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 6.1 %
-- **Reference:** 1.5 %
-- **Institutional:** 4.5 %
-- **Corporate:** 86.4 %
-- **Other:** 1.5 %
+- **Competitor:** 4.7 %
+- **Editorial:** 7.8 %
+- **Reference:** 15.6 %
+- **Institutional:** 4.7 %
+- **Corporate:** 64.1 %
+- **Other:** 3.1 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 44 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `votana-pferd.de` – CORPORATE, retrieved 22 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
+- `krauterie.de` – CORPORATE, retrieved 33 % of chats
+- `medilutions.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Nösenberger: Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
+- **Headline starting point:** »Pferdegold vs Pavo: Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Nösenberger for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

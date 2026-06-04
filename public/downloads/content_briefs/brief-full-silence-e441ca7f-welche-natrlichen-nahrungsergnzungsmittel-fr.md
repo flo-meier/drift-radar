@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,19 +14,17 @@
 
 ## Citation source mix
 
-- **Reference:** 18.1 %
-- **Institutional:** 13.5 %
-- **Corporate:** 59.5 %
-- **Other:** 8.9 %
+- **Corporate:** 83.3 %
+- **Other:** 16.7 %
 
 **Top cited domains**
 
-- `care4vet.de` – CORPORATE, retrieved 33 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
-- `vet-tcm.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `xaravet.de` – OTHER, retrieved 33 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 17 % of chats
-- `ayurveda-und-tiernaturheilkunde.de` – CORPORATE, retrieved 17 % of chats
+- `amanvida.eu` – OTHER, retrieved 17 % of chats
+- `calapo.com` – CORPORATE, retrieved 17 % of chats
+- `equi-clic.de` – CORPORATE, retrieved 17 % of chats
+- `equusvitalis.de` – CORPORATE, retrieved 17 % of chats
+- `ess-supplements.de` – CORPORATE, retrieved 17 % of chats
+- `foten.net` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

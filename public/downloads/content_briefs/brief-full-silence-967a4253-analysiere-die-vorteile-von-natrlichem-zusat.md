@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
 
 ## Engine visibility
 
@@ -14,20 +14,21 @@
 
 ## Citation source mix
 
-- **Ugc:** 2.6 %
-- **Reference:** 5.1 %
-- **Institutional:** 35.9 %
-- **Corporate:** 51.3 %
-- **Other:** 5.1 %
+- **Editorial:** 5.8 %
+- **Ugc:** 1.9 %
+- **Reference:** 3.8 %
+- **Institutional:** 11.5 %
+- **Corporate:** 73.1 %
+- **Other:** 3.8 %
 
 **Top cited domains**
 
-- `ep-nutrition.de` – CORPORATE, retrieved 33 % of chats
-- `pferdgerecht.de` – CORPORATE, retrieved 33 % of chats
-- `alguathera.ch` – CORPORATE, retrieved 22 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 22 % of chats
+- `ep-nutrition.de` – CORPORATE, retrieved 44 % of chats
+- `pinewoodhuskys.de` – CORPORATE, retrieved 44 % of chats
+- `naturalis-barf.de` – CORPORATE, retrieved 22 % of chats
 - `naturavetal.de` – CORPORATE, retrieved 22 % of chats
-- `nutralinea.de` – CORPORATE, retrieved 22 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
+- `zkin-lab.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
