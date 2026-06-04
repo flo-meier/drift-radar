@@ -48,6 +48,14 @@ DATE_RANGE_DAYS = int(os.environ.get("PEEC_DATE_RANGE_DAYS", "3"))
 THROTTLE_S = 0.4   # 200 req/min limit -> ~150 req/min ceiling
 TOP_DOMAINS_PER_PROMPT = 8
 
+# Network resilience: Peec endpoints slowed once the project grew to 18 models
+# (Pro upgrade). A single hung request used to abort the whole nightly run, so
+# transient timeouts/drops are retried before giving up.
+CONNECT_TIMEOUT_S = 10
+READ_TIMEOUT_S = 120   # was a flat 60; shopping/search fanouts now exceed it
+MAX_RETRIES = 3
+RETRY_BACKOFF_S = 5    # linear: 5s, 10s between attempts
+
 session = requests.Session()
 
 
@@ -69,24 +77,44 @@ def _headers():
     }
 
 
+def _request(method, path, *, params=None, json_body=None):
+    """One throttled Peec call, retrying only transient network errors.
+
+    HTTP error responses (4xx/5xx) still raise immediately via raise_for_status,
+    so an expired key fails fast. Only read timeouts and dropped connections,
+    i.e. the Pro-plan latency spikes, are retried before giving up.
+    """
+    timeout = (CONNECT_TIMEOUT_S, READ_TIMEOUT_S)
+    last_err = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        time.sleep(THROTTLE_S)
+        try:
+            r = session.request(
+                method, f"{API_BASE}{path}",
+                headers=_headers(), params=params, json=json_body, timeout=timeout,
+            )
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+            last_err = e
+            print(f"{method} {path} -> network error "
+                  f"(attempt {attempt}/{MAX_RETRIES}): {e}", file=sys.stderr)
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_BACKOFF_S * attempt)
+            continue
+        if not r.ok:
+            print(f"{method} {path} -> {r.status_code}: {r.text[:300]}", file=sys.stderr)
+            r.raise_for_status()
+        return r.json()
+    raise last_err
+
+
 def _get(path, params=None):
-    time.sleep(THROTTLE_S)
     p = {"project_id": PROJECT_ID, **(params or {})}
-    r = session.get(f"{API_BASE}{path}", headers=_headers(), params=p, timeout=30)
-    if not r.ok:
-        print(f"GET {path} -> {r.status_code}: {r.text[:300]}", file=sys.stderr)
-        r.raise_for_status()
-    return r.json()
+    return _request("GET", path, params=p)
 
 
 def _post(path, body):
-    time.sleep(THROTTLE_S)
     payload = {"project_id": PROJECT_ID, **body}
-    r = session.post(f"{API_BASE}{path}", headers=_headers(), json=payload, timeout=60)
-    if not r.ok:
-        print(f"POST {path} -> {r.status_code}: {r.text[:300]}", file=sys.stderr)
-        r.raise_for_status()
-    return r.json()
+    return _request("POST", path, json_body=payload)
 
 
 def _paginate_post(path, body, limit=10000):
@@ -124,6 +152,35 @@ def _write(name, data):
     target = RAW / name
     target.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"wrote {target.relative_to(ROOT.parent)} ({target.stat().st_size:,} bytes)")
+
+
+def _load_cached(name):
+    """Return the previously written raw JSON for graceful degradation, or None."""
+    path = RAW / name
+    if path.exists():
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
+
+def _digested_or_cached(label, name, fetch_fn, total_key, start, end):
+    """Run an optional fanout fetch (search/shopping); on a persistent network
+    failure keep the previously cached file instead of aborting the whole run.
+
+    Returns (output_dict, total, used_cache).
+    """
+    try:
+        by_prompt, total = fetch_fn(start, end)
+        return {"by_prompt": by_prompt, total_key: total}, total, False
+    except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+        cached = _load_cached(name)
+        if cached is not None:
+            print(f"WARN: {label} fetch failed ({e}); keeping cached {name}",
+                  file=sys.stderr)
+            return cached, cached.get(total_key, 0), True
+        print(f"WARN: {label} fetch failed ({e}); no cache, writing empty",
+              file=sys.stderr)
+        return {"by_prompt": {}, total_key: 0}, 0, True
 
 
 def _utc_today():
@@ -442,9 +499,17 @@ def fetch_all():
     sources = fetch_domains_digested(start, end)
     print(f"  · sources: {len(sources['by_prompt'])} prompts × {len(sources['classifications'])} classifications")
 
-    search_by_prompt, search_total = fetch_search_queries(start, end)
-    shop_by_prompt, shop_total = fetch_shopping_queries(start, end)
-    print(f"  · queries: {search_total} search items, {shop_total} shopping items")
+    search_digested, search_total, search_cached = _digested_or_cached(
+        "search queries", "search_queries_digested.json",
+        fetch_search_queries, "total", start, end)
+    shop_digested, shop_total, shop_cached = _digested_or_cached(
+        "shopping queries", "shopping_queries_digested.json",
+        fetch_shopping_queries, "total_entries", start, end)
+    flags = [f for f, on in (("search=cached", search_cached),
+                             ("shopping=cached", shop_cached)) if on]
+    suffix = f"  [{', '.join(flags)}]" if flags else ""
+    print(f"  · queries: {search_total} search items, "
+          f"{shop_total} shopping items{suffix}")
 
     outputs = {
         "lookup_tables": lookup,
@@ -462,8 +527,8 @@ def fetch_all():
             "rowCount": len(all_rows),
         },
         "sources_by_prompt": sources,
-        "search_queries_digested": {"by_prompt": search_by_prompt, "total": search_total},
-        "shopping_queries_digested": {"by_prompt": shop_by_prompt, "total_entries": shop_total},
+        "search_queries_digested": search_digested,
+        "shopping_queries_digested": shop_digested,
     }
 
     _sanity_check(outputs, start, end)
