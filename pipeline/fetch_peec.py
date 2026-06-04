@@ -164,15 +164,19 @@ def _load_cached(name):
 
 
 def _digested_or_cached(label, name, fetch_fn, total_key, start, end):
-    """Run an optional fanout fetch (search/shopping); on a persistent network
-    failure keep the previously cached file instead of aborting the whole run.
+    """Run an optional fanout fetch (search/shopping); on ANY request failure
+    keep the previously cached file instead of aborting the whole run.
+
+    These fanouts are non-core, so we degrade on timeouts AND HTTP errors
+    (e.g. Peec's /queries/shopping currently 500s server-side). Core fetches
+    do not use this wrapper, so they still fail fast on a 401/500.
 
     Returns (output_dict, total, used_cache).
     """
     try:
         by_prompt, total = fetch_fn(start, end)
         return {"by_prompt": by_prompt, total_key: total}, total, False
-    except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+    except requests.exceptions.RequestException as e:
         cached = _load_cached(name)
         if cached is not None:
             print(f"WARN: {label} fetch failed ({e}); keeping cached {name}",
