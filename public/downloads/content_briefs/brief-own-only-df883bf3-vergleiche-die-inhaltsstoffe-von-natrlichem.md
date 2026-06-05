@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
 
 ## Engine visibility
 
@@ -14,28 +14,29 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %)
 - **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 - **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 1.7 %
+- **Own:** 1.4 %
+- **Competitor:** 1.4 %
 - **Editorial:** 6.8 %
-- **Ugc:** 6.8 %
-- **Reference:** 10.2 %
-- **Institutional:** 1.7 %
-- **Corporate:** 67.8 %
-- **Other:** 5.1 %
+- **Ugc:** 8.2 %
+- **Reference:** 2.7 %
+- **Institutional:** 2.7 %
+- **Corporate:** 68.5 %
+- **Other:** 8.2 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
 - `fuettern-mit-spass.de` – CORPORATE, retrieved 33 % of chats
-- `meinpferd.de` – CORPORATE, retrieved 22 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 22 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
+- `facebook.com` – UGC, retrieved 33 % of chats
+- `laurelnature.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

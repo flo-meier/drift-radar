@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?«
 
-**Prompt ID:** `pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
 
 ## Engine visibility
 
@@ -18,17 +18,17 @@
 
 ## Citation source mix
 
-- **Corporate:** 93.8 %
-- **Other:** 6.2 %
+- **Corporate:** 94.0 %
+- **Other:** 6.0 %
 
 **Top cited domains**
 
 - `equidocs.de` – CORPORATE, retrieved 50 % of chats
-- `alpurial.de` – CORPORATE, retrieved 50 % of chats
 - `fressnapf.de` – CORPORATE, retrieved 50 % of chats
 - `hyjoint.de` – CORPORATE, retrieved 50 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 50 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `alpurial.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir gutes Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
 
 ## Engine visibility
 
@@ -14,25 +14,28 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 100 %  (ChatGPT 100 %)
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 3.6 %
-- **Competitor:** 7.0 %
-- **Corporate:** 89.4 %
+- **Own:** 2.6 %
+- **Competitor:** 5.1 %
+- **Editorial:** 5.3 %
+- **Ugc:** 2.6 %
+- **Reference:** 7.9 %
+- **Institutional:** 2.6 %
+- **Corporate:** 73.7 %
 
 **Top cited domains**
 
-- `vetrigold.de` – CORPORATE, retrieved 50 % of chats
-- `emma-care.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefuttershop.de` – CORPORATE, retrieved 50 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
 - `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `canina.de` – CORPORATE, retrieved 17 % of chats
-- `derfuttershop.net` – CORPORATE, retrieved 17 % of chats
+- `chewy.com` – CORPORATE, retrieved 17 % of chats
+- `equimed.com` – EDITORIAL, retrieved 17 % of chats
 
 ## Suggested article
 

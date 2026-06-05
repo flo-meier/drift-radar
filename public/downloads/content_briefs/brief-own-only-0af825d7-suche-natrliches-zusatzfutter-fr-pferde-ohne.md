@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
 
 ## Engine visibility
 
@@ -14,26 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.4 %
-- **Ugc:** 5.6 %
-- **Reference:** 2.8 %
-- **Corporate:** 86.2 %
+- **Competitor:** 6.3 %
+- **Reference:** 6.3 %
+- **Corporate:** 87.5 %
 
 **Top cited domains**
 
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `barynesse.com` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `semhof.de` – CORPORATE, retrieved 33 % of chats
+- `marstall.de` – COMPETITOR, retrieved 17 % of chats
+- `barynesse.com` – CORPORATE, retrieved 17 % of chats
 - `mambocare.de` – CORPORATE, retrieved 17 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
 - `pferdefuttershop.de` – CORPORATE, retrieved 17 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 17 % of chats
 
 ## Suggested article
 

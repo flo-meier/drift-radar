@@ -7,26 +7,36 @@
       },
       {
         "model": "chatgpt-scraper",
-        "query": "hochwertiges Pferdefutter natürliche Inhaltsstoffe Pferdefutter Marken"
-      },
-      {
-        "model": "chatgpt-scraper",
         "query": "hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen Pferdefutter Produkte"
       },
       {
         "model": "chatgpt-scraper",
         "query": "best natural horse feed high quality for horses natural ingredients"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "hochwertiges Pferdefutter natürliche Inhaltsstoffe Empfehlungen Pferd"
+      }
+    ],
+    "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "best joint supplement horse glucosamine MSM hyaluronic acid horse supplement"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Gelenkunterstützung Pferd Nahrungsergänzung Pferd Gelenke Pferde Joint Support"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "joint supplements for horses best products and what to look for horse joint support supplements"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Gelenkunterstützung Pferd Ergänzungsfutter Gelenke Pferd"
       }
     ],
     "pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliches Zusatzfutter für Pferde ohne Zucker geeignet Pferde Zusatzfutter ohne Zucker"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natural supplemental feed for horses without sugar ingredients horses feed supplements sugar-free what options"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "natürliches Zusatzfutter für Pferde ohne Zucker Empfehlungen natürliche Kräuter Mineralfutter melassefrei"
@@ -36,11 +46,87 @@
         "query": "natürliches Ergänzungsfutter Pferde ohne Zucker Hersteller zuckerfrei"
       }
     ],
-    "pr_22b8e498-4894-4fe3-b560-df45dca80819": [
+    "pr_0b9644fb-0bec-4847-b388-b12ea14991da": [
       {
         "model": "chatgpt-scraper",
-        "query": "Pellets Gelenke Pferd Pellets Gelenkunterstützung Glucosamin MSM Teufelskralle"
+        "query": "Magen-Darm Ergänzungsfuttermittel Pferd sensible Sportpferde Vergleich Darmflora Magenschutz Inhaltsstoffe"
       },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magen Darm Ergänzungsfuttermittel Pferd Zusammensetzung Inhaltsstoffe sensible Sportpferde Vergleich Probiotika Prebiotika Pferd Zusatzfutter Kolik Darmflora Pferd Produkte"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magen Darm Ergänzungsfuttermittel Pferd Zusammensetzung sensibel Sportpferd Inhaltsstoffe Vergleich"
+      }
+    ],
+    "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Nervenpellets für gestresste Pferde Inhaltsstoffe vergleichen Pferd Nervenpellets"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natural nervous pellets for stressed horses ingredients calming horse supplements ingredients"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "St.Hippolyt Anti-Stress Kräuterpellets Inhaltsstoffe Pferd Nervensystem"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Strotonin Horse Nerve Support ingredients natural horse nerve support magnesium herbs"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Nervenpellets Pferde Inhaltsstoffe Magnesium Kräuter Produkt"
+      }
+    ],
+    "pr_11288685-3e51-433b-a4aa-d849e1800ea1": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pferd Muskelverspannungen nach dem Training hilft Magnesium Pferde Magnesium Wirkung"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Horse muscle tension after exercise does magnesium help horses magnesium supplementation"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magnesium horse muscle soreness supplementation evidence horses muscle cramps magnesium deficiency equine"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Mein Pferd hat Muskelverspannungen nach dem Training hilft Magnesium Pferd Muskelverspannungen Magnesium Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Horse muscle tension after training magnesium for horses benefits magnesium equine muscle cramps"
+      }
+    ],
+    "pr_1a61366f-4ec1-46f7-b5c8-949393e84550": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Inhaltsstoffe in Magenpellets für Pferde Wirksamkeit Magenpellets Pferd Magen Supplement natürliche Inhaltsstoffe Studien"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natural ingredients in equine gastric pellets efficacy horse gastric health supplements research"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Wirksamkeit natürliche Inhaltsstoffe Magenpellets Pferde Pektin Lecithin Magnesium wissenschaftliche Evidenz equine gastric ulcers"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Wirksamkeit natürliche Inhaltsstoffe Magenpellets Pferde Pektin Lecithin Magnesiumoxid Studie equine gastric ulcer syndrome"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "equine gastric supplement pectin lecithin research horses gastric ulcers review"
+      }
+    ],
+    "pr_22b8e498-4894-4fe3-b560-df45dca80819": [
       {
         "model": "chatgpt-scraper",
         "query": "Welche Pellets sind gut für die Gelenke? Pellets Nahrung Gelenke Pferd Hund Gesundheit"
@@ -48,17 +134,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "Which pellets are good for joints - e.g. supplements pellets for joint support in animals or humans reviews"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pellets Gelenke Hund welche gut Gelenkpellets Inhaltsstoffe Glucosamin Chondroitin MSM"
       }
     ],
     "pr_292a6b04-8dee-4ea2-969b-6a83c709753f": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "gesundes Ergänzungsfutter für Pferd ohne Industriezucker Pferdefutter Ergänzung ohne Zucker"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "healthy horse supplements without industrial sugar ingredients for horses"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "gesundes Ergänzungsfutter für Pferde ohne Industriezucker"
@@ -75,10 +157,6 @@
     "pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f": [
       {
         "model": "chatgpt-scraper",
-        "query": "Gelenkpellets Pferd typische Inhaltsstoffe Glucosamin MSM Chondroitin Hyaluronsäure Füllstoffe"
-      },
-      {
-        "model": "chatgpt-scraper",
         "query": "Gelenkpellets für Pferde Zusammensetzung Qualität Verzicht auf Füllstoffe Gelenk Pellets Pferd Inhaltsstoffe"
       },
       {
@@ -89,7 +167,7 @@
     "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": [
       {
         "model": "chatgpt-scraper",
-        "query": "Nervenpellets Pferd ohne Industriezucker melassefrei Pferd Ergänzungsfutter"
+        "query": "Nervenpellets Pferd melassefrei ohne Industriezucker Pferd Ergänzungsfutter"
       },
       {
         "model": "chatgpt-scraper",
@@ -97,10 +175,6 @@
       }
     ],
     "pr_3b705cc9-5167-44e0-83c3-d105b97744ad": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Deutschland hergestelltes Pferdefutter Hersteller Deutschland Pferdefutter made in Germany Qualität Rohstoffe"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter Pferdefutter Deutschland Hersteller Preise Qualität Pferdefutter Deutschland"
@@ -112,13 +186,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "Deutschland hergestelltes Pferdefutter Hersteller Deutschland Pferdefutter regionale Rohstoffe St. Hippolyt Agrobs Marstall Mühldorfer"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Preis Leistungs Verhältnis Pferdefutter Deutschland Herstellung Qualität Zutaten Pferdefutter Kosten Vergleich"
       }
     ],
     "pr_4067771a-82c4-4549-93ce-c4b7e2296dc9": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "hochwertiges Magnesium Ergänzungsfutter Pferd Magnesiumcitrat organisch Pferdefutter"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "hochwertiges Magnesium für Pferde Magnesiumcitrat Pferd Empfehlungen"
@@ -126,13 +200,27 @@
       {
         "model": "chatgpt-scraper",
         "query": "hochwertiges Magnesium Ergänzungsfutter Pferd Magnesiumcitrat Magnesiumfumarat Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "hochwertiges Magnesium Ergänzungsfutter Pferd Magnesiumcitrat Magnesiumfumarat Pferd Empfehlungen"
+      }
+    ],
+    "pr_40c01f10-5541-49c6-90be-fec89294d3c5": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "Empfehlenswerte Ergänzungsmittel für Hufe und Fell Pferd oder Hund? Huf & Fell Supplemente"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Which supplements are recommended for hoof and coat health for horses and dogs"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Huf Fell Ergänzung Pferd Biotin Zink Empfehlung Hufe Fell Supplement Pferd Wirkung"
       }
     ],
     "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "zuckerfreie Gelenkpellets Pferd ohne Zuckerzusatz Gelenkfutter"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Gelenkpellets Pferd ohne Zuckerzusatz Gelenk Futter Pferd getreidefrei Gelenke Pferd Ergänzungsfutter"
@@ -140,21 +228,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "Gelenkpellets Pferd ohne Zuckerzusatz Melassefrei Gelenkfutter"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Gelenkpellets Pferd ohne Zuckerzusatz Gelenkpellets Pferd zuckerfrei"
       }
     ],
     "pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Wirksamkeit Hufzusatzfutter Biotin Zink Methionin Pferd Studie Hufqualität"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Pferd Fell Ergänzungsmittel Omega-3 Zink Studie Fellglanz Pferde"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "NRC Pferd Biotin hoof supplement evidence horses review"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Ergänzungsmittel Pferd Hufe Fell Wirksamkeit Biotin Zink Methionin Vergleich Studien"
@@ -163,22 +243,48 @@
     "pr_47e52da7-8646-4683-846d-2af8c113a1fc": [
       {
         "model": "chatgpt-scraper",
-        "query": "beste Gelenkpellets Pferd Deutschland Erfahrungen 2025"
-      },
-      {
-        "model": "chatgpt-scraper",
         "query": "beste Gelenkpellets Pferd Test Erfahrungen Deutschland 2025"
       },
       {
         "model": "chatgpt-scraper",
         "query": "beste Gelenkpellets Pferd Deutschland Bewertung Erfahrungen Gelenkzusatz Pferd Arthrose Pellets"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "beste Gelenkpellets Pferde Deutschland Bewertungen Gelenkfutter Pferd Test Erfahrungen"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "EQUIPUR glykan Pferd"
+      }
+    ],
+    "pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Magnesium-Pellets Pferd ohne Industriezucker Pferdefutter Magnesium Pellets natur Magnesium Pferd ohne Zucker"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natural magnesium pellets for horses without industrial sugar magnesium supplement pellets horse sugar free"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magnesium Pellets für Pferde ohne Industriezucker natürliche Pferde Magnesium Pellets"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natural magnesium pellets for horses no industrial sugar magnesium supplement horse pellets"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Magnesium-Pellets Pferd ohne Industriezucker Inhaltsstoffe Magnesium Futter Ergänzung Pferde"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natural magnesium pellets for horses sugar free magnesium supplements for horses"
       }
     ],
     "pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Vitamine für Pferde Ergänzungsfutter Pferd Vitamine"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "beste Vitamine für Pferde Ergänzungsfutter Vitamine Pferd Bewertungen 2026"
@@ -186,13 +292,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "Vitamine Pferd Ergänzungsfutter Pferde Vitamine Mangel Pferd Nahrungsergänzung Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pferd Vitamin Ergänzung Pferd Vitamine Mineralfutter"
       }
     ],
     "pr_57d9f7c7-d131-410d-80b1-d22d87d691dc": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magnesium für Pferde Deutschland Hersteller Magnesium Pferd Ergänzungsfutter"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Magnesium für Pferde Deutschland"
@@ -200,13 +306,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "Magnesium für Pferde Deutschland Ergänzungsfuttermittel Pferd Magnesium Produkte"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magnesium für Pferde Deutschland Hersteller Magnesium Pferd"
       }
     ],
     "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliches Zusatzfutter Freizeitpferde Inhaltsstoffe Kräuter Mineralfutter Vergleich Pferd"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "natürliches Zusatzfutter für Freizeitpferde Inhaltsstoffe vergleichen Pferde natürliches Zusatzfutter Inhaltsstoffe"
@@ -218,37 +324,47 @@
       {
         "model": "chatgpt-scraper",
         "query": "natürliches Zusatzfutter Freizeitpferde Inhaltsstoffe Kräuter Mash Mineralfutter Vergleich Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliches Zusatzfutter Pferd Inhaltsstoffe Freizeitpferd Vergleich Kräuter Mineralfutter Zusammensetzung"
+      }
+    ],
+    "pr_5b804fcf-a253-424e-ac32-94b32910486d": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magnesium Pferd Wirkung Muskel Nerven Pferd Magnesiummangel"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magnesium Pferd Wirkung wofür gut Magnesium Pferdefütterung Wirkung"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magnesium Pferd Wirkung wofür hilft Magnesium Pferdefütterung"
       }
     ],
     "pr_681fd3ba-565e-4f5e-a694-3c404cb5bfae": [
       {
         "model": "chatgpt-scraper",
-        "query": "hochwertiges Magnesium Ergänzungsfutter Pferd Magnesium Pferd Supplement Pferde"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "best magnesium supplements for horses quality horse magnesium feed"
-      },
-      {
-        "model": "chatgpt-scraper",
         "query": "bestes Magnesium Pferd organisch Magnesiumcitrat Pferd Erfahrungen"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "hochwertiges Magnesium Ergänzungsfutter Pferd Magnesiumcitrat Magnesiumfumarat Pferd Empfehlungen"
       }
     ],
     "pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f": [
       {
         "model": "chatgpt-scraper",
-        "query": "natürliches Pferdefutter Österreich natürliche Inhaltsstoffe Hersteller"
+        "query": "Pferdefutter natürlich Inhaltsstoffe Österreich Bio Pferdefutter kaufen"
       },
       {
         "model": "chatgpt-scraper",
-        "query": "Pferdefutter natürlich Inhaltsstoffe Österreich Bio Pferdefutter kaufen"
+        "query": "natürliche Inhaltsstoffe Pferdefutter Österreich Marken"
       }
     ],
     "pr_76c76a27-2b6a-4e7c-9a05-7f270587a055": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "beste Ergänzungsfutter Pferd Mineralfutter Gelenke Elektrolyte Erfahrungen"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Ergänzungsfutter für Pferde gute Ergänzungsfuttermittel Pferd"
@@ -256,13 +372,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "best horse supplements what to feed horse supplements"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Ergänzungsfutter Pferd Mineralfutter Zusatzfutter Pferd beste 2026"
       }
     ],
     "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "zuckerfreie Magenpellets ohne Zuckerzusatz Pellets Magen"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Magenpellets ohne Zuckerzusatz kaufen Magenpellets"
@@ -278,13 +394,31 @@
       {
         "model": "chatgpt-scraper",
         "query": "stomach pellets supplement sugar free Magenpellets sugar free ingredients"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magenpellets ohne Zuckerzusatz Magenpellets zuckerfrei"
+      }
+    ],
+    "pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Nahrungsergänzungsmittel für Pferde empfehlenswert Pferd Supplements natur"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natural supplements for horses beneficial ingredients for equine health"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Nahrungsergänzungsmittel für Pferde Empfehlungen"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natural supplements for horses what is recommended"
       }
     ],
     "pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magenpellets Pferd ohne künstliche Zusätze natürliche Inhaltsstoffe Magenschutz Pferd"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Magenpellets für Pferde ohne künstliche Zusätze Pferde Magen pellets natürliche Pferdeprodukte"
@@ -296,13 +430,17 @@
       {
         "model": "chatgpt-scraper",
         "query": "Magenpellets Pferd ohne künstliche Zusätze natürliche Magenpellets Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magenpellets für Pferde ohne künstliche Zusätze Pferde magen pellets natürliche Pferde Ergänzung Magenpellets"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "stomach pellets for horses natural horse gastric pellets without artificial additives"
       }
     ],
     "pr_919e94f2-5a66-46fd-b425-6ae88721d518": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Pferd Magen Ergänzungsfutter Niederlande maag supplement paard producten Nederland"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden"
@@ -314,13 +452,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "horse gastric supplement Netherlands paarden maag supplement"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pferde Magen Ergänzungsfutter Niederlande paarden maag supplement merken Nederland"
       }
     ],
     "pr_9237ba5c-707a-400b-8d7a-55e2a7757b61": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "bestes Magnesium für Pferde organisches Magnesium Pferd Magnesiumcitrat Magnesiumoxid"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "bestes Magnesium für Pferde Magnesiumcitrat vs Magnesiumoxid Pferd"
@@ -328,13 +466,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "Magnesium supplement for horses magnesium horse supplement"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Magnesium Pferd welches Produkt gut Deutschland Pferd Magnesium Supplement Pferd Wirkung"
       }
     ],
     "pr_967a4253-01c0-4020-8087-e088910e9456": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliches Zusatzfutter versus synthetische Futtermittel Vorteile natürliche Inhaltsstoffe Tierernährung"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten"
@@ -345,14 +483,6 @@
       }
     ],
     "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Ergänzungsmittel für Hufe in der Schweiz Pferde Huf Nahrungsergänzung Schweiz"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Hoof supplements for horses available in Switzerland hoof supplement equine Switzerland"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Ergänzungsmittel für Hufe Pferd Schweiz Biotin"
@@ -369,18 +499,10 @@
       },
       {
         "model": "chatgpt-scraper",
-        "query": "Magnesium Pferd Bioverfügbarkeit Magnesiumcitrat Magnesiumoxid Pferd Aufnahme"
-      },
-      {
-        "model": "chatgpt-scraper",
         "query": "Magnesium Pferd beste Form Bioverfügbarkeit Magnesium Pferd Chelat Oxid Citrat Pferdefütterung"
       }
     ],
     "pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magnesium für Pferde Pellets Pulver Liquid Unterschiede Bioverfügbarkeit Pferd"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Magnesium Pferd Pellets Pulver Liquid Magnesium Ergänzung Pferd Formen Bioverfügbarkeit"
@@ -389,22 +511,22 @@
     "pr_9f26a21e-b794-4afa-965f-82573e3aafdd": [
       {
         "model": "chatgpt-scraper",
-        "query": "Ergänzungsfutter Pferd Mineralfutter"
-      },
-      {
-        "model": "chatgpt-scraper",
         "query": "bestes Ergänzungsfutter Pferd Mineralfutter Gelenke Pferd Produkte"
       },
       {
         "model": "chatgpt-scraper",
         "query": "bestes Ergänzungsfutter Pferd Mineralfutter Gelenke Pferd Empfehlungen"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "gutes Ergänzungsfutter Pferd Pferde Ergänzungsfutter Empfehlungen"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "horse supplements best feed supplements for horses what are good types"
       }
     ],
     "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "gesundes Zusatzfutter Pferde Deutschland Mineralfutter Ergänzungsfutter Pferd"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "gesundes Zusatzfutter für Pferde in Deutschland Pferdezusatzfutter Empfehlungen"
@@ -416,13 +538,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "gesundes Zusatzfutter Pferde Deutschland Ergänzungsfuttermittel Pferd bekannte Produkte"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "gesundes Zusatzfutter für Pferde Deutschland Empfehlungen Mineralfutter Pferd"
       }
     ],
     "pr_a513316a-939f-4130-a4e6-e5361bba66f4": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "hochwertiges Pferdefutter natürliche Inhaltsstoffe unter 50 Euro Pferdefutter"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro Pferdefutter kaufen"
@@ -430,13 +552,17 @@
       {
         "model": "chatgpt-scraper",
         "query": "quality horse feed natural ingredients under 50 euro"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro Pferdefutter kaufen"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "high quality horse feed natural ingredients under 50 Euro horse feed brands available"
       }
     ],
     "pr_ad86aab8-1689-4374-b2eb-816d091ee9ad": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliches Ergänzungsfutter Pferd Empfehlungen Kräuter Mineralien Pferd Zusatzfutter natürlich"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "natürliches Ergänzungsfutter Pferd natürliche Ergänzung Pferde was sinnvoll"
@@ -448,23 +574,23 @@
       {
         "model": "chatgpt-scraper",
         "query": "natürliches Ergänzungsfutter Pferd Kräuter Mineralfutter Pferd natürliche Ergänzung"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliches Ergänzungsfutter Pferd Kräuter Mineralfutter Pferd"
       }
     ],
     "pr_ae44d933-64c5-4032-a0a0-74999632519b": [
       {
         "model": "chatgpt-scraper",
-        "query": "natürliches Ergänzungsfutter Pferd Magenprobleme Pektin Lecithin Kräuter Empfehlungen"
+        "query": "natürliche Ergänzungsfuttermittel Pferd Magen Pektin Lecithin Magenschutz Pferde"
       },
       {
         "model": "chatgpt-scraper",
-        "query": "natürliche Ergänzungsfuttermittel Pferd Magen Pektin Lecithin Magenschutz Pferde"
+        "query": "natürliche Unterstützung Pferdemagen Pektin Leinsamen Empfehlungen Pferd Magenprobleme"
       }
     ],
     "pr_b475eb61-bec0-4333-9479-ccafdcb07cf7": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magnesiumoxid vs Magnesiumcitrat Magnesiumfumarat Pferd Bioverfügbarkeit Pferd"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Magnesiumoxid Magnesiumcitrat Magnesiumfumarat Pferd Bioverfügbarkeit Pferd Magnesium Supplement"
@@ -473,11 +599,11 @@
     "pr_b54dcd0d-29ab-441c-aafa-f45368ad3f1f": [
       {
         "model": "chatgpt-scraper",
-        "query": "Magnesiummangel Pferd Symptome Magnesium deficiency horse signs veterinary"
+        "query": "Magnesiummangel Pferd Symptome Magnesium Mangel Pferde Tierarzt Anzeichen"
       },
       {
         "model": "chatgpt-scraper",
-        "query": "Magnesiummangel Pferd Symptome Magnesium Mangel Pferde Tierarzt Anzeichen"
+        "query": "Magnesiummangel Pferd Symptome Magnesium deficiency horse signs veterinary"
       },
       {
         "model": "chatgpt-scraper",
@@ -485,10 +611,6 @@
       }
     ],
     "pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "gesundes Pferdefutter Deutschland Pferdefutter Hersteller Deutschland"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "gesundes Pferdefutter in Deutschland wo kaufen Pferdefutter gesund Deutschland"
@@ -504,13 +626,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "where to get healthy horse feed in Germany equine feed suppliers Germany healthy horse feed"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "gesundes Pferdefutter Deutschland kaufen Heu Pferdefutter Bio Mineralfutter Pferd Shop"
       }
     ],
     "pr_b8e0b0ad-9dbb-4ba8-96a1-13d2ee1587f5": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Pferdegold Relax nervöse Pferde Inhaltsstoffe Erfahrungen"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Pferdegold Produkt Pferde beruhigen nervös schreckhaft Pferdegold"
@@ -522,13 +644,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "Pferdegold nervös schreckhaft Produkt Pferdegold"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pferdegold nervös schreckhaft Produkt Pferdegold Ergänzungsfutter"
       }
     ],
     "pr_c75632de-0882-4a7e-8c57-361e09589bec": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magnesium Pferd nervös Tryptophan Pferd Unterschied Ergänzung"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Magnesium Pferd nervös Tryptophan Unterschied Pferd Supplement"
@@ -536,13 +658,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "Magnesium versus tryptophan horse nervous horse magnesium tryptophan calming supplement equine"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pferd nervös Magnesium Pferd Tryptophan Wirkung Pferde Beruhigung Ergänzungsfutter Magnesium vs Tryptophan Pferd"
       }
     ],
     "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliche Nahrungsergänzungsmittel für Pferde Empfehlungen Tierärzte Kräuter Pferd"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "natürliche Nahrungsergänzungsmittel für Pferde was empfehlenswert"
@@ -559,22 +681,18 @@
     "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6": [
       {
         "model": "chatgpt-scraper",
-        "query": "Pferdefutter Gelenkunterstützung ohne künstliche Aromen Pferd Gelenke natürliche Inhaltsstoffe"
-      },
-      {
-        "model": "chatgpt-scraper",
         "query": "Pferdefutter Gelenkunterstützung ohne künstliche Aromen Pferd Gelenkfutter natürliche Inhaltsstoffe"
       },
       {
         "model": "chatgpt-scraper",
         "query": "Pferde Gelenkfutter ohne künstliche Aromen natürliche Inhaltsstoffe Glucosamin MSM"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pferdefutter Gelenkunterstützung ohne künstliche Aromen Glucosamin MSM Pferd natürliche Inhaltsstoffe"
       }
     ],
     "pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Wirksamkeit natürliche Inhaltsstoffe Gelenkzusatzfutter Pferde Glucosamin Chondroitin MSM Hyaluronsäure Studien Pferde"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde natürliche Gelenkergänzungen Pferd Wirkung Studien"
@@ -595,22 +713,22 @@
     "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": [
       {
         "model": "chatgpt-scraper",
-        "query": "Nervenpellets Pferd Stress Magnesium Tryptophan Deutschland Hersteller"
-      },
-      {
-        "model": "chatgpt-scraper",
         "query": "Pellets für gestresste Pferde Deutschland Nervenpellets Magnesium Kräuter Pferd"
       },
       {
         "model": "chatgpt-scraper",
         "query": "Pellets für gestresste Pferde Deutschland Ergänzungsfutter Stress Pferd Pellets"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pellets für gestresste Pferde in Deutschland Pferde Pellets Stress Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Horse calming pellets Germany available stress horse supplements pellets calming ingredients"
       }
     ],
     "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magenpellets Pferd ohne Zuckerzusatz"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "zuckerfreie Magenpellets Pferd pektin lecithin getreidefrei"
@@ -621,10 +739,6 @@
       }
     ],
     "pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Schweiz Pferdefutter ohne Zucker melassefrei Anbieter Schweiz"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "Pferdefutter ohne Zucker Schweiz gesund Pferdefutter zuckerfrei Schweiz Pferde Futter"
@@ -645,18 +759,14 @@
       },
       {
         "model": "chatgpt-scraper",
-        "query": "natürliches Ergänzungsfutter Pferde Kräuter Mineralfutter"
+        "query": "natürliches Ergänzungsfutter Pferde Inhaltsstoffe Kräuter Mineralfutter Vergleich"
       },
       {
         "model": "chatgpt-scraper",
-        "query": "natürliches Ergänzungsfutter Pferde Inhaltsstoffe Kräuter Mineralfutter Vergleich"
+        "query": "natürliches Ergänzungsfutter Pferde Inhaltsstoffe Kräuter Mineralfutter Pferde natürliche Ergänzungsfuttermittel Zusammensetzung"
       }
     ],
     "pr_e107b87d-d16a-46cd-a7cd-97643c2eecea": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "bestes Zusatzfutter Pferde Österreich Mineralfutter Erfahrungen"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "bestes Zusatzfutter Pferd Österreich Mineralfutter Pferd Empfehlungen"
@@ -664,17 +774,13 @@
       {
         "model": "chatgpt-scraper",
         "query": "Zusatzfutter Pferde Österreich Mineralfutter Empfehlungen Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "bestes Mineralfutter Pferd Österreich Zusatzfutter Pferde Österreich"
       }
     ],
     "pr_e229fc63-4622-49a9-99d3-65436ec2ee19": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "empfehlenswerte Mineralstoffe für Pferde Mineralstoffe Pferd Ernährung Mineralien Spurenelemente Pferd"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "recommended minerals for horses nutrition minerals and trace elements horses"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "empfehlenswerte Mineralstoffe für Pferde Mineralstoffbedarf Pferd welche Mineralstoffe nötig"
@@ -685,10 +791,6 @@
       }
     ],
     "pr_e2f64483-3123-48e4-aaee-b034f609647d": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Bioverfügbarkeit Studien natürliche vs synthetische Vitamine"
-      },
       {
         "model": "chatgpt-scraper",
         "query": "natürliche Nahrungsergänzungsmittel vs synthetische Vitamine Bioverfügbarkeit Studien Übersicht"
@@ -704,220 +806,14 @@
       {
         "model": "chatgpt-scraper",
         "query": "NIH dietary supplements natural synthetic vitamins bioavailability"
-      }
-    ],
-    "pr_e3842bfb-9e30-414e-9765-88d2faadce04": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Pferd Magenfutter hergestellt in Deutschland Magenfutter Pferd Hersteller Deutschland"
       },
       {
         "model": "chatgpt-scraper",
-        "query": "in Deutschland hergestelltes Magenfutter für Pferde Hersteller Deutschland Magenfutter"
+        "query": "Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten Vorteile natürliche vs synthetische Nahrungsergänzung"
       },
       {
         "model": "chatgpt-scraper",
-        "query": "in Deutschland hergestelltes Magenfutter für Pferd Pferdemagen Futter Magenfutter Pferd Deutschland"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "German made gastric horse feed horse supplements for stomach Germany horse feed gastrique"
-      }
-    ],
-    "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliche Pferdepellets Kräuter Gesundheit Pferd"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliche Pellets zur Unterstützung der Pferdegesundheit Pferde natürliche Pellets"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natural pellet supplements for horse health what ingredients pellets for horses"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliche Pellets Pferd Gesundheit Kräuterpellets Pferdefutter Ergänzungsfutter natürlich Pferd"
-      }
-    ],
-    "pr_ebe654e5-8567-4eaa-b981-b302228a7121": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Inhaltsstoffe von natürlichem Pferdefutter und deren biologische Wertigkeit Inhaltsstoffe Pferdefutter Pferde Ernährung Nährstoffe"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Natural horse feed composition nutrients horses biological value proteins fibers vitamins minerals horse nutrition"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "biologische Wertigkeit Proteine Pferd Aminosäuren Pferdefutter biologische Wertigkeit Pferdenahrung"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "biological value of nutrients (especially protein) in horse feed digestibility and amino acid profile horses"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "biologische Wertigkeit Pferdefutter Proteine Luzerne Heu Aminosäuren Pferd natürliche Fütterung"
-      }
-    ],
-    "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Nervenpellets Pferd Stress Schweiz"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Nervenpellets Pferd Schweiz erhältlich Stress Pferd Pellets"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Nervenpellets Pferd Schweiz Pellets beruhigung Pferd Produkt"
-      }
-    ],
-    "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "bestes Zusatzfutter Pferd Magen Darm Erfahrungen 2025"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Pferd Magen Darm Gesundheit Ergänzungsfutter Empfehlungen Tierärzte Leinsamen Flohsamen Probiotika"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Pferd Magen Darm Ergänzungsfutter Psyllium Flohsamen Hefe Präbiotika Pferd"
-      }
-    ],
-    "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliches Ergänzungsfutter Pferd Kräuter Gelenke Verdauung"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliches Ergänzungsfutter Pferd worauf achten Kräuter Mineralfutter Pferd"
-      }
-    ],
-    "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "best joint supplement horse glucosamine MSM hyaluronic acid horse supplement"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Gelenkunterstützung Pferd Nahrungsergänzung Pferd Gelenke Pferde Joint Support"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "joint supplements for horses best products and what to look for horse joint support supplements"
-      }
-    ],
-    "pr_0b9644fb-0bec-4847-b388-b12ea14991da": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magen-Darm Ergänzungsfuttermittel Pferd sensible Sportpferde Vergleich Darmflora Magenschutz Inhaltsstoffe"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magen Darm Ergänzungsfuttermittel Pferd Zusammensetzung Inhaltsstoffe sensible Sportpferde Vergleich Probiotika Prebiotika Pferd Zusatzfutter Kolik Darmflora Pferd Produkte"
-      }
-    ],
-    "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliche Nervenpellets für gestresste Pferde Inhaltsstoffe vergleichen Pferd Nervenpellets"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natural nervous pellets for stressed horses ingredients calming horse supplements ingredients"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "St.Hippolyt Anti-Stress Kräuterpellets Inhaltsstoffe Pferd Nervensystem"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Strotonin Horse Nerve Support ingredients natural horse nerve support magnesium herbs"
-      }
-    ],
-    "pr_11288685-3e51-433b-a4aa-d849e1800ea1": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Pferd Muskelverspannungen nach dem Training hilft Magnesium Pferde Magnesium Wirkung"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Horse muscle tension after exercise does magnesium help horses magnesium supplementation"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magnesium horse muscle soreness supplementation evidence horses muscle cramps magnesium deficiency equine"
-      }
-    ],
-    "pr_1a61366f-4ec1-46f7-b5c8-949393e84550": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliche Inhaltsstoffe in Magenpellets für Pferde Wirksamkeit Magenpellets Pferd Magen Supplement natürliche Inhaltsstoffe Studien"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natural ingredients in equine gastric pellets efficacy horse gastric health supplements research"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Wirksamkeit natürliche Inhaltsstoffe Magenpellets Pferde Pektin Lecithin Magnesium wissenschaftliche Evidenz equine gastric ulcers"
-      }
-    ],
-    "pr_40c01f10-5541-49c6-90be-fec89294d3c5": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Empfehlenswerte Ergänzungsmittel für Hufe und Fell Pferd oder Hund? Huf & Fell Supplemente"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Which supplements are recommended for hoof and coat health for horses and dogs"
-      }
-    ],
-    "pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliche Magnesium-Pellets Pferd ohne Industriezucker Pferdefutter Magnesium Pellets natur Magnesium Pferd ohne Zucker"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natural magnesium pellets for horses without industrial sugar magnesium supplement pellets horse sugar free"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magnesium Pellets für Pferde ohne Industriezucker natürliche Pferde Magnesium Pellets"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natural magnesium pellets for horses no industrial sugar magnesium supplement horse pellets"
-      }
-    ],
-    "pr_5b804fcf-a253-424e-ac32-94b32910486d": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magnesium Pferd Wirkung Muskel Nerven Pferd Magnesiummangel"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "Magnesium Pferd Wirkung wofür gut Magnesium Pferdefütterung Wirkung"
-      }
-    ],
-    "pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c": [
-      {
-        "model": "chatgpt-scraper",
-        "query": "natürliche Nahrungsergänzungsmittel für Pferde empfehlenswert Pferd Supplements natur"
-      },
-      {
-        "model": "chatgpt-scraper",
-        "query": "natural supplements for horses beneficial ingredients for equine health"
+        "query": "advantages of natural dietary supplements vs synthetic supplements health benefits research natural vs synthetic vitamins"
       }
     ],
     "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": [
@@ -930,10 +826,104 @@
         "query": "natürliche Gelenkpellets Pferd Gelenkpellets MSM Hagebutte Grünlippmuschel"
       }
     ],
+    "pr_e3842bfb-9e30-414e-9765-88d2faadce04": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "in Deutschland hergestelltes Magenfutter für Pferde Hersteller Deutschland Magenfutter"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "in Deutschland hergestelltes Magenfutter für Pferd Pferdemagen Futter Magenfutter Pferd Deutschland"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "German made gastric horse feed horse supplements for stomach Germany horse feed gastrique"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "in Deutschland hergestelltes Magenfutter für Pferde Pferdefutter Magenfutter Deutschland Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "stomach supplement feed for horses made in Germany horse gastric support feed Germany"
+      }
+    ],
     "pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b": [
       {
         "model": "chatgpt-scraper",
         "query": "natürliche Nahrungsergänzungsmittel für Pferde Vorteile Kräuter Omega 3 Pferd"
+      }
+    ],
+    "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Pellets zur Unterstützung der Pferdegesundheit Pferde natürliche Pellets"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natural pellet supplements for horse health what ingredients pellets for horses"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Pellets Pferd Gesundheit Kräuterpellets Pferdefutter Ergänzungsfutter natürlich Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliche Pellets Pferdegesundheit Kräuterpellets Pferd Empfehlungen"
+      }
+    ],
+    "pr_ebe654e5-8567-4eaa-b981-b302228a7121": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "biologische Wertigkeit Pferdefutter Proteine Luzerne Heu Aminosäuren Pferd natürliche Fütterung"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Inhaltsstoffe von natürlichem Pferdefutter und ihre biologische Wertigkeit Pferdefutter Inhaltsstoffe Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Natural horse feed composition ingredients and their biological value forage hay pasture horse nutrition biological value protein horse feed"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "biologische Wertigkeit Pferdefutter Pferd Protein Aminosäuren Pferd biologische Wertigkeit"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "biological value of protein sources in horse feed forage hay protein digestibility horses"
+      }
+    ],
+    "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "Nervenpellets Pferd Schweiz erhältlich Stress Pferd Pellets"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Nervenpellets Pferd Schweiz Pellets beruhigung Pferd Produkt"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Nervenpellets für Pferde Schweiz nervenpellets Pferd Beruhigung Pferde erhältlich Schweiz"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "calming supplements for horses Switzerland nerve pellets horse stress Switzerland product"
+      }
+    ],
+    "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pferd Magen Darm Gesundheit Ergänzungsfutter Empfehlungen Tierärzte Leinsamen Flohsamen Probiotika"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "Pferd Magen Darm Ergänzungsfutter Psyllium Flohsamen Hefe Präbiotika Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "bestes Zusatzfutter Pferd Magen Darm Gesundheit Pferd Darmflora Ergänzungsfutter"
       }
     ],
     "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": [
@@ -944,8 +934,22 @@
       {
         "model": "chatgpt-scraper",
         "query": "hochwertige Magenpellets für sensible Pferde Magenschutz Pellets Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "hochwertige Magenpellets für sensible Pferde Magenschutz Ergänzungsfutter Pferd"
+      }
+    ],
+    "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": [
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliches Ergänzungsfutter Pferd worauf achten Kräuter Mineralfutter Pferd"
+      },
+      {
+        "model": "chatgpt-scraper",
+        "query": "natürliches Ergänzungsfutter Pferd Kräuter Mineralfutter Pferd natürliche Ergänzung"
       }
     ]
   },
-  "total": 205
+  "total": 206
 }

@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
 
 ## Engine visibility
 
@@ -16,25 +16,25 @@
 
 - **Höveler** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
 - **Pavo** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 12.2 %
-- **Institutional:** 4.1 %
-- **Corporate:** 79.7 %
-- **Other:** 4.1 %
+- **Editorial:** 14.4 %
+- **Institutional:** 4.8 %
+- **Corporate:** 76.0 %
+- **Other:** 4.8 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
 - `horsesbestshop.de` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `vetena.de` – CORPORATE, retrieved 33 % of chats
-- `canina.de` – CORPORATE, retrieved 33 % of chats
-- `lubical.de` – CORPORATE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `pferdperfekt.com` – OTHER, retrieved 17 % of chats
+- `topratgeber24.de` – EDITORIAL, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -46,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, Pavo, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
 
 ## Engine visibility
 
@@ -14,28 +14,29 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 6.8 %
-- **Ugc:** 4.5 %
-- **Reference:** 9.1 %
-- **Institutional:** 24.8 %
-- **Corporate:** 50.3 %
-- **Other:** 4.5 %
+- **Editorial:** 8.3 %
+- **Ugc:** 4.2 %
+- **Reference:** 8.3 %
+- **Institutional:** 25.0 %
+- **Corporate:** 50.0 %
+- **Other:** 4.2 %
 
 **Top cited domains**
 
-- `ak-pferd.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `bio-apo.de` – CORPORATE, retrieved 33 % of chats
-- `ehorses.de` – CORPORATE, retrieved 33 % of chats
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
-- `hooforia.com` – EDITORIAL, retrieved 33 % of chats
-- `ifce.fr` – INSTITUTIONAL, retrieved 33 % of chats
+- `agriatierversicherung.de` – CORPORATE, retrieved 17 % of chats
+- `ak-pferd.de` – INSTITUTIONAL, retrieved 17 % of chats
+- `bio-apo.de` – CORPORATE, retrieved 17 % of chats
+- `cdvet.de` – CORPORATE, retrieved 17 % of chats
+- `eclipsebiofarmab.se` – CORPORATE, retrieved 17 % of chats
+- `ehorses.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -47,7 +48,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

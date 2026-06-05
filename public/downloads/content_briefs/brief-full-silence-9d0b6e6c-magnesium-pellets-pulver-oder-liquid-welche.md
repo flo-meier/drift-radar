@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd?«
 
-**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
 
 ## Engine visibility
 
@@ -14,19 +14,16 @@
 
 ## Citation source mix
 
-- **Competitor:** 5.0 %
-- **Editorial:** 5.0 %
-- **Reference:** 5.0 %
-- **Corporate:** 85.0 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
 - `futter-und-tierbedarf.de` – CORPORATE, retrieved 17 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 17 % of chats
-- `agrobs.de` – CORPORATE, retrieved 17 % of chats
 - `bukephalos-minerals.de` – CORPORATE, retrieved 17 % of chats
-- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `equiland-shop.com` – CORPORATE, retrieved 17 % of chats
+- `natusat.de` – CORPORATE, retrieved 17 % of chats
+- `sleipnir-islandpferdebedarf.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

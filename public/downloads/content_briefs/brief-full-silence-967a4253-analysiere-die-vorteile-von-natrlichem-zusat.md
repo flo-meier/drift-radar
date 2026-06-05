@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.8 %
-- **Ugc:** 1.9 %
-- **Reference:** 3.8 %
-- **Institutional:** 11.5 %
-- **Corporate:** 73.1 %
-- **Other:** 3.8 %
+- **Editorial:** 7.3 %
+- **Ugc:** 4.9 %
+- **Reference:** 7.3 %
+- **Institutional:** 7.3 %
+- **Corporate:** 68.3 %
+- **Other:** 4.9 %
 
 **Top cited domains**
 
 - `ep-nutrition.de` – CORPORATE, retrieved 44 % of chats
-- `pinewoodhuskys.de` – CORPORATE, retrieved 44 % of chats
-- `naturalis-barf.de` – CORPORATE, retrieved 22 % of chats
-- `naturavetal.de` – CORPORATE, retrieved 22 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
+- `naturalis-barf.de` – CORPORATE, retrieved 33 % of chats
+- `naturavetal.de` – CORPORATE, retrieved 33 % of chats
+- `youtube.com` – UGC, retrieved 22 % of chats
 - `zkin-lab.de` – CORPORATE, retrieved 22 % of chats
+- `pinewoodhuskys.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

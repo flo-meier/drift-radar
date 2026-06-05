@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-01 → 2026-06-03
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
 
 ## Engine visibility
 
@@ -27,10 +27,10 @@
 
 - `dm.de` – CORPORATE, retrieved 50 % of chats
 - `apotheke24h.at` – CORPORATE, retrieved 50 % of chats
+- `central-apo.com` – CORPORATE, retrieved 50 % of chats
+- `mambocare.de` – CORPORATE, retrieved 50 % of chats
 - `mynatureshop.com` – CORPORATE, retrieved 50 % of chats
-- `central-apo.com` – CORPORATE, retrieved 33 % of chats
-- `gastrobalance.at` – INSTITUTIONAL, retrieved 33 % of chats
-- `jauntal-apotheke.at` – CORPORATE, retrieved 33 % of chats
+- `valsona.de` – CORPORATE, retrieved 50 % of chats
 
 ## Suggested article
 
