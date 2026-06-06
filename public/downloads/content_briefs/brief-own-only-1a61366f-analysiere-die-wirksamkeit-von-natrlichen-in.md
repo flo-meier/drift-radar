@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -18,22 +18,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.9 %
-- **Editorial:** 5.8 %
-- **Ugc:** 2.9 %
-- **Reference:** 10.1 %
-- **Institutional:** 15.9 %
-- **Corporate:** 58.0 %
-- **Other:** 4.3 %
+- **Competitor:** 3.1 %
+- **Editorial:** 7.7 %
+- **Ugc:** 4.6 %
+- **Reference:** 12.3 %
+- **Institutional:** 16.9 %
+- **Corporate:** 53.8 %
+- **Other:** 1.5 %
 
 **Top cited domains**
 
 - `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
 - `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `biomedcentral.com` – EDITORIAL, retrieved 33 % of chats
 - `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `oup.com` – INSTITUTIONAL, retrieved 33 % of chats
+- `springer.com` – REFERENCE, retrieved 33 % of chats
 
 ## Suggested article
 

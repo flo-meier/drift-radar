@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -19,19 +19,17 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.1 %
-- **Ugc:** 6.0 %
-- **Reference:** 3.1 %
-- **Corporate:** 87.9 %
+- **Ugc:** 2.5 %
+- **Corporate:** 97.5 %
 
 **Top cited domains**
 
-- `drogerie-plappert.de` – CORPORATE, retrieved 50 % of chats
+- `emma-care.de` – CORPORATE, retrieved 50 % of chats
+- `nutravital.de` – CORPORATE, retrieved 50 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
 - `vetripharm.de` – CORPORATE, retrieved 50 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `agrarzone.de` – UGC, retrieved 33 % of chats
-- `care4vet.de` – CORPORATE, retrieved 33 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
+- `carepet.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

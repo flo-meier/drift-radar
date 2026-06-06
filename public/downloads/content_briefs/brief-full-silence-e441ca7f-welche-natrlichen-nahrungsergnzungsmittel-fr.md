@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -14,17 +14,18 @@
 
 ## Citation source mix
 
-- **Corporate:** 83.3 %
-- **Other:** 16.7 %
+- **Editorial:** 5.9 %
+- **Reference:** 11.8 %
+- **Corporate:** 82.4 %
 
 **Top cited domains**
 
-- `amanvida.eu` – OTHER, retrieved 17 % of chats
-- `calapo.com` – CORPORATE, retrieved 17 % of chats
-- `equi-clic.de` – CORPORATE, retrieved 17 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 17 % of chats
-- `ess-supplements.de` – CORPORATE, retrieved 17 % of chats
-- `foten.net` – CORPORATE, retrieved 17 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
+- `ahipos-horses.de` – CORPORATE, retrieved 17 % of chats
+- `bibo-natur.de` – CORPORATE, retrieved 17 % of chats
+- `bostonparkequine.com` – CORPORATE, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `distrihorse33.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

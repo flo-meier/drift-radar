@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -14,23 +14,21 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.8 %
-- **Reference:** 23.8 %
-- **Corporate:** 61.9 %
-- **Other:** 9.5 %
+- **Corporate:** 94.7 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `derfuttershop.net` – CORPORATE, retrieved 17 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
+- `fuettern-mit-spass.de` – CORPORATE, retrieved 17 % of chats
 - `futtermitliebe.de` – CORPORATE, retrieved 17 % of chats
-- `go4vet.com` – REFERENCE, retrieved 17 % of chats
+- `futterwolke.de` – CORPORATE, retrieved 17 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 10.6 %
-- **Ugc:** 6.1 %
-- **Reference:** 6.1 %
-- **Institutional:** 12.1 %
-- **Corporate:** 60.6 %
-- **Other:** 4.5 %
+- **Editorial:** 15.0 %
+- **Ugc:** 5.0 %
+- **Reference:** 11.2 %
+- **Institutional:** 7.5 %
+- **Corporate:** 58.8 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `zeinpharma.de` – CORPORATE, retrieved 44 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 56 % of chats
+- `zeinpharma.de` – CORPORATE, retrieved 56 % of chats
+- `healthline.com` – EDITORIAL, retrieved 44 % of chats
 - `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
-- `healthline.com` – EDITORIAL, retrieved 33 % of chats
-- `gigasnutrition.com` – CORPORATE, retrieved 33 % of chats
-- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 22 % of chats
-- `alguathera.ch` – CORPORATE, retrieved 22 % of chats
+- `consumersearch.com` – REFERENCE, retrieved 33 % of chats
+- `densenutrition.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 67 %
 - **Gemini:** 0 %
 - **AI Overview:** 33 %
 
-**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.59  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 2.2 %
-- **Competitor:** 3.3 %
-- **Ugc:** 1.1 %
-- **Reference:** 5.5 %
-- **Corporate:** 81.3 %
-- **Other:** 6.6 %
+- **Own:** 5.1 %
+- **Competitor:** 1.7 %
+- **Editorial:** 1.7 %
+- **Reference:** 5.1 %
+- **Corporate:** 81.4 %
+- **Other:** 5.1 %
 
 **Top cited domains**
 
-- `amazon.de` – CORPORATE, retrieved 44 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `st-hippolyt.de` – COMPETITOR, retrieved 33 % of chats
+- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

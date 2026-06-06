@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -14,12 +14,12 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.3 %
-- **Editorial:** 7.8 %
-- **Reference:** 11.7 %
-- **Institutional:** 11.7 %
-- **Corporate:** 66.2 %
-- **Other:** 1.3 %
+- **Competitor:** 1.5 %
+- **Editorial:** 7.5 %
+- **Reference:** 13.4 %
+- **Institutional:** 9.0 %
+- **Corporate:** 65.7 %
+- **Other:** 3.0 %
 
 **Top cited domains**
 
@@ -27,8 +27,8 @@
 - `migocki.de` – CORPORATE, retrieved 33 % of chats
 - `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
 - `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
+- `foranequine.com` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

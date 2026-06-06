@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -14,23 +14,24 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
+- **Nösenberger** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 9.5 %
-- **Ugc:** 4.8 %
-- **Corporate:** 85.7 %
+- **Editorial:** 13.6 %
+- **Ugc:** 8.9 %
+- **Reference:** 4.6 %
+- **Corporate:** 72.9 %
 
 **Top cited domains**
 
-- `eqx.vet` – CORPORATE, retrieved 17 % of chats
-- `pferdy.de` – EDITORIAL, retrieved 17 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `agrarzone.de` – UGC, retrieved 17 % of chats
+- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
+- `agrarzone.de` – UGC, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `krauterie.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-reformhaus.ch` – CORPORATE, retrieved 33 % of chats
 - `agrobs.de` – CORPORATE, retrieved 17 % of chats
-- `apuna-shop.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

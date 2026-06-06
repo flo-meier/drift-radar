@@ -1,25 +1,23 @@
-# Drift Radar · 2026-06-04
+# Drift Radar · 2026-06-05
 
-## Overview
+## Summary
 
-63 prompts tracked across ChatGPT, Gemini, AI Overview. 17 drifting (≥0.3 visibility), 34 own-only silence, 11 full silence. Own-brand visibility at 6.3%.
+16 prompts now drift (≥0.3 visibility loss). Own-brand visibility sits at 6.3%, down from prior baseline. Four prompts entered drifting range this period; five exited. Ten prompts shifted between silence categories.
 
-## Movement summary
+## Movement In
 
-One prompt entered drifting range; two exited. Net volatility concentrated in joint health and stomach supplement queries. Six prompts shifted silence classification, indicating inconsistent engine behavior on supplement-related searches.
+Four supplement-focused queries moved into drifting territory. The largest entry is "Nenne mir gutes Ergänzungsfutter für mein Pferd" (0.912 delta) – previously untracked, now severely drifting across all three engines. Three additional prompts on magnesium pellets, joint supplements, and German-sourced stomach feed entered at 0.443 each. All four previously registered as own-only silence; now they generate measurable competitor visibility.
 
-## Key changes
+## Movement Out
 
-**Into drifting:** "Wo finde ich in Deutschland gesundes Pferdefutter?" (0.0 → 0.443). Pferdegold gained visibility on a broad health-focused feed search, moving from own-only silence to active presence across engines.
+Five prompts dropped below 0.3 threshold. "Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?" and "Suche gesundes Zusatzfutter für Pferde in Deutschland" both fell to full silence. Two Germany-sourced queries – the magnesium search and joint pellents question – similarly lost all tracked visibility. "Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit" vanished entirely, shifting from drifting to full silence.
 
-**Out of drifting:** Two stomach/joint pellet prompts dropped to zero visibility – "Finde in Deutschland hergestelltes Magenfutter für mein Pferd" and "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde." Both returned to own-only silence territory.
+The exit pattern suggests regional targeting (Switzerland, Germany) and analytical intent queries are currently invisible across engines – either underserved or algorithmically deprioritized.
 
-**Largest gainers:** "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?" (+0.31 to 0.841) and "Empfehl mir hochwertiges Magnesium-Ergänzungsfutter für mein Pferd" (+0.238 to 0.681). Joint and mineral supplement queries strengthened.
+## Where to Focus
 
-## Where to focus
+Start with the high-delta entry on supplement recommendations (0.912). This prompt shows the most acute competitive pressure. Map how ChatGPT, Gemini, and AI Overview position recommendations across the supplement category; the stack entry suggests structured product data may be outranking Pferdegold content on this intent.
 
-The stomach supplement category is unstable – two drifting prompts collapsed simultaneously. Investigate whether competitor content shifted or Pferdegold lost indexing on targeted variants. The joint health and mineral supplement angles are consolidating visibility; prioritize content reinforcement there.
+Monitor the silence reversals in regional queries – these may indicate search volume fluctuations rather than competitive loss.
 
-The broad "healthy horse feed" query entering drifting suggests the general-intent angle is now competitive; consider depth expansion around this seed.
-
-Next week: monitor whether stomach supplement queries stabilize or continue deteriorating.
+Next week: track whether the four new drifting prompts stabilize or accelerate further into competitor territory.

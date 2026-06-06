@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -14,26 +14,24 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.1 %
-- **Reference:** 12.3 %
-- **Institutional:** 3.1 %
-- **Corporate:** 75.5 %
-- **Other:** 6.1 %
+- **Reference:** 4.2 %
+- **Corporate:** 95.8 %
 
 **Top cited domains**
 
+- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `pernaturam.de` – CORPORATE, retrieved 33 % of chats
 - `futtermitliebe.de` – CORPORATE, retrieved 33 % of chats
 - `krauterie.de` – CORPORATE, retrieved 33 % of chats
 - `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

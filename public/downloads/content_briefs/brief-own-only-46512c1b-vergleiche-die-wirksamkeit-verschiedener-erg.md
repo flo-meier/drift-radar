@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -19,22 +19,23 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.6 %
-- **Editorial:** 3.3 %
-- **Ugc:** 4.9 %
-- **Reference:** 11.5 %
-- **Institutional:** 8.2 %
-- **Corporate:** 68.9 %
-- **Other:** 1.6 %
+- **Own:** 2.1 %
+- **Competitor:** 4.2 %
+- **Editorial:** 4.2 %
+- **Ugc:** 6.3 %
+- **Reference:** 12.5 %
+- **Institutional:** 6.3 %
+- **Corporate:** 60.4 %
+- **Other:** 4.2 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
 - `youtube.com` – UGC, retrieved 22 % of chats
+- `iwest.de` – CORPORATE, retrieved 22 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 22 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 22 % of chats
 - `et-hoofcare.ch` – CORPORATE, retrieved 22 % of chats
-- `inropharm.de` – CORPORATE, retrieved 22 % of chats
-- `madbarn.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

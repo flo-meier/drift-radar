@@ -1,6 +1,6 @@
 # Drift Radar – »Welches Magnesium-Produkt ist gut für mein Pferd?«
 
-**Prompt ID:** `pr_9237ba5c-707a-400b-8d7a-55e2a7757b61`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_9237ba5c-707a-400b-8d7a-55e2a7757b61`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -14,25 +14,27 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 - **Nösenberger** – top visibility 33 %  (Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.0 %
-- **Corporate:** 94.1 %
-- **Other:** 3.9 %
+- **Own:** 1.8 %
+- **Competitor:** 1.8 %
+- **Reference:** 1.8 %
+- **Corporate:** 91.1 %
+- **Other:** 3.6 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 56 % of chats
-- `dochorse.de` – CORPORATE, retrieved 44 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 44 % of chats
-- `care4vet.de` – CORPORATE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 44 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `dochorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

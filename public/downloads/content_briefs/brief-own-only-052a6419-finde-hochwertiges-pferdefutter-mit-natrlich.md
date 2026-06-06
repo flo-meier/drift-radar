@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
-**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -15,27 +15,27 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %)
 - **Eggersmann** – top visibility 67 %  (ChatGPT 67 %)
 - **Havens** – top visibility 33 %  (ChatGPT 33 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Own:** 3.4 %
-- **Editorial:** 3.4 %
-- **Reference:** 3.4 %
-- **Corporate:** 86.6 %
-- **Other:** 3.4 %
+- **Own:** 3.5 %
+- **Editorial:** 3.5 %
+- **Reference:** 3.5 %
+- **Corporate:** 86.2 %
+- **Other:** 3.5 %
 
 **Top cited domains**
 
 - `pernaturam.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
 - `semhof.de` – CORPORATE, retrieved 17 % of chats
 - `cdvet.de` – CORPORATE, retrieved 17 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `aniforte.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

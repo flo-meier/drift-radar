@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
@@ -14,22 +14,25 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 5.7 %
-- **Corporate:** 94.3 %
+- **Ugc:** 7.5 %
+- **Institutional:** 2.5 %
+- **Corporate:** 85.0 %
+- **Other:** 5.0 %
 
 **Top cited domains**
 
 - `aronialand.at` – CORPORATE, retrieved 22 % of chats
-- `auer-garsten.at` – CORPORATE, retrieved 22 % of chats
+- `sonnenmoor.at` – CORPORATE, retrieved 22 % of chats
 - `annimally.at` – CORPORATE, retrieved 22 % of chats
+- `auer-garsten.at` – CORPORATE, retrieved 22 % of chats
 - `garant.co.at` – CORPORATE, retrieved 22 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 22 % of chats
-- `onfarming.at` – CORPORATE, retrieved 22 % of chats
+- `havenspferdefutter.at` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -41,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

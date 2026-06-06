@@ -1,16 +1,14 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
 - **Gemini:** 0 %
-- **AI Overview:** 0 %
+- **AI Overview:** 33 %
 
-**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
-
-**Silence type:** `own_only`
+**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -34,7 +32,7 @@
 - _brand_ – Agrobs AlpenGrün Pellet recommended for sensitive horses
 - _brand_ – St. Hippolyt Brandon Gastro supports stomach lining
 
-### AI Overview – visibility 0 %
+### AI Overview – visibility 33 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Havens
 
@@ -49,32 +47,33 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 1.6 %
-- **Ugc:** 3.1 %
+- **Competitor:** 1.4 %
+- **Ugc:** 1.4 %
+- **Reference:** 1.4 %
+- **Institutional:** 1.4 %
 - **Corporate:** 89.1 %
-- **Other:** 6.2 %
+- **Other:** 5.5 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 56 % of chats
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `eqx.vet` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `carepet.de` – CORPORATE, retrieved 33 % of chats
 - `deers-tackstore.de` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
 - `josera.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
-- **Format:** Head-to-head comparison page
-- **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Marstall: Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
+- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
+- **Length:** 1 500 – 2 500 words
+- **Headline starting point:** »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde. – what Pferdegold actually does«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
-- **Own-only silence.** Marstall, St. Hippolyt already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec
