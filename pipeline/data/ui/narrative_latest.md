@@ -1,23 +1,24 @@
-# Drift Radar · 2026-06-05
+# Drift Radar · 2026-06-06
 
 ## Summary
 
-16 prompts now drift (≥0.3 visibility loss). Own-brand visibility sits at 6.3%, down from prior baseline. Four prompts entered drifting range this period; five exited. Ten prompts shifted between silence categories.
+Pferdegold's tracked prompts remain stable at 63 across ChatGPT, Gemini, and AI Overview. Drifting prompts stayed flat at 14 (22%). The week saw two prompts exit the drifting range entirely, offset by silence-type migrations that suggest engine response variability rather than visibility gains.
 
-## Movement In
+## Movement Detail
 
-Four supplement-focused queries moved into drifting territory. The largest entry is "Nenne mir gutes Ergänzungsfutter für mein Pferd" (0.912 delta) – previously untracked, now severely drifting across all three engines. Three additional prompts on magnesium pellets, joint supplements, and German-sourced stomach feed entered at 0.443 each. All four previously registered as own-only silence; now they generate measurable competitor visibility.
+Two magnesium and joint-supplement queries dropped from drifting (0.443) to full silence (0.0):
+– "Empfiehl mir hochwertiges Magnesium-Ergänzungsfutter für mein Pferd."
+– "Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe."
 
-## Movement Out
+No prompts entered drifting range this week. The silence-type flux shows two prompts moved to full silence and two shifted into own-only silence, indicating inconsistent engine coverage rather than competitor displacement.
 
-Five prompts dropped below 0.3 threshold. "Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?" and "Suche gesundes Zusatzfutter für Pferde in Deutschland" both fell to full silence. Two Germany-sourced queries – the magnesium search and joint pellents question – similarly lost all tracked visibility. "Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit" vanished entirely, shifting from drifting to full silence.
+Largest positive drift movements clustered around broader supplement queries:
+– "Zeige mir gute Ergänzungsfutter für mein Pferd" (+0.255 to 0.592)
+– "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde" (+0.238 to 0.681)
+– "Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?" (+0.238 to 0.681)
 
-The exit pattern suggests regional targeting (Switzerland, Germany) and analytical intent queries are currently invisible across engines – either underserved or algorithmically deprioritized.
+## Direction
 
-## Where to Focus
+Own-brand visibility at 6.1% remains low. The own-only silence cluster (33 prompts) represents the most actionable opportunity – these queries surface Pferdegold results but not competitor alternatives, suggesting content strength in specific niches without competitive pressure.
 
-Start with the high-delta entry on supplement recommendations (0.912). This prompt shows the most acute competitive pressure. Map how ChatGPT, Gemini, and AI Overview position recommendations across the supplement category; the stack entry suggests structured product data may be outranking Pferdegold content on this intent.
-
-Monitor the silence reversals in regional queries – these may indicate search volume fluctuations rather than competitive loss.
-
-Next week: track whether the four new drifting prompts stabilize or accelerate further into competitor territory.
+Next week: isolate which own-only prompts are generating engagement to identify replicable positioning patterns.

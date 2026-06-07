@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -14,28 +14,27 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (AI Overview 33 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %)
 - **Marstall** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Own:** 2.1 %
-- **Competitor:** 4.2 %
-- **Editorial:** 4.2 %
-- **Ugc:** 6.3 %
-- **Reference:** 12.5 %
-- **Institutional:** 6.3 %
-- **Corporate:** 60.4 %
-- **Other:** 4.2 %
+- **Own:** 1.4 %
+- **Competitor:** 4.3 %
+- **Editorial:** 2.9 %
+- **Ugc:** 4.3 %
+- **Reference:** 5.8 %
+- **Institutional:** 5.8 %
+- **Corporate:** 75.4 %
 
 **Top cited domains**
 
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `migocki.de` – CORPORATE, retrieved 33 % of chats
+- `peticare.eu` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `youtube.com` – UGC, retrieved 22 % of chats
-- `iwest.de` – CORPORATE, retrieved 22 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 22 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 22 % of chats
-- `et-hoofcare.ch` – CORPORATE, retrieved 22 % of chats
+- `amazon.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

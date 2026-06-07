@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -14,27 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %, ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Own:** 1.2 %
-- **Competitor:** 1.2 %
-- **Editorial:** 7.0 %
-- **Ugc:** 3.5 %
-- **Reference:** 2.3 %
-- **Institutional:** 2.3 %
-- **Corporate:** 75.6 %
-- **Other:** 7.0 %
+- **Competitor:** 2.4 %
+- **Editorial:** 7.2 %
+- **Ugc:** 2.4 %
+- **Institutional:** 2.4 %
+- **Corporate:** 79.5 %
+- **Other:** 6.0 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
 - `ewalia.com` – OTHER, retrieved 33 % of chats
+- `futterwolke.de` – CORPORATE, retrieved 33 % of chats
 - `kavalio.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article

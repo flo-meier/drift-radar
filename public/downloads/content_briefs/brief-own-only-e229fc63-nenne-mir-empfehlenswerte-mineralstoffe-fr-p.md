@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -17,24 +17,25 @@
 - **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 - **Marstall** – top visibility 67 %  (ChatGPT 67 %)
 - **Höveler** – top visibility 67 %  (ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 - **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 9.1 %
-- **Reference:** 9.1 %
-- **Corporate:** 72.7 %
-- **Other:** 9.1 %
+- **Editorial:** 9.3 %
+- **Reference:** 4.8 %
+- **Institutional:** 4.8 %
+- **Corporate:** 76.3 %
+- **Other:** 4.8 %
 
 **Top cited domains**
 
+- `horze.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
 - `fuettern-mit-spass.de` – CORPORATE, retrieved 17 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
+- `deganius.de` – CORPORATE, retrieved 17 % of chats
 - `ehorses.de` – CORPORATE, retrieved 17 % of chats
-- `equicrown.de` – CORPORATE, retrieved 17 % of chats
-- `go4vet.com` – REFERENCE, retrieved 17 % of chats
-- `horze.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

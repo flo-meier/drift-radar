@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 7.8 %
-- **Ugc:** 1.6 %
-- **Reference:** 7.8 %
-- **Institutional:** 10.9 %
-- **Corporate:** 64.1 %
-- **Other:** 7.8 %
+- **Competitor:** 1.5 %
+- **Editorial:** 9.2 %
+- **Ugc:** 7.7 %
+- **Reference:** 12.3 %
+- **Institutional:** 18.5 %
+- **Corporate:** 50.8 %
 
 **Top cited domains**
 
-- `cavallo.de` – EDITORIAL, retrieved 44 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
+- `biomedcentral.com` – EDITORIAL, retrieved 33 % of chats
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `equitop.de` – CORPORATE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `mycannaby.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
 
 ## Suggested article
 

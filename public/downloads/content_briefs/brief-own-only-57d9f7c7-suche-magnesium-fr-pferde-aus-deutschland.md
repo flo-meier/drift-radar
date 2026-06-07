@@ -1,6 +1,6 @@
 # Drift Radar – »Suche Magnesium für Pferde aus Deutschland.«
 
-**Prompt ID:** `pr_57d9f7c7-d131-410d-80b1-d22d87d691dc`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
+**Prompt ID:** `pr_57d9f7c7-d131-410d-80b1-d22d87d691dc`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -18,8 +18,8 @@
 
 ## Citation source mix
 
-- **Competitor:** 8.3 %
-- **Corporate:** 91.7 %
+- **Competitor:** 7.9 %
+- **Corporate:** 92.1 %
 
 **Top cited domains**
 
@@ -27,8 +27,8 @@
 - `vetrigold.de` – CORPORATE, retrieved 50 % of chats
 - `canina.de` – CORPORATE, retrieved 50 % of chats
 - `sleipnir-islandpferdebedarf.de` – CORPORATE, retrieved 50 % of chats
+- `winnies.de` – CORPORATE, retrieved 50 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
 
 ## Suggested article
 

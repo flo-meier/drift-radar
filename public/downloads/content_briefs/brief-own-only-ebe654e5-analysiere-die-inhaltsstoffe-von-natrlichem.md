@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -14,26 +14,27 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 33 %  (AI Overview 33 %)
+- **Höveler** – top visibility 67 %  (AI Overview 67 %)
+- **Marstall** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.8 %
-- **Editorial:** 3.8 %
-- **Ugc:** 5.7 %
-- **Reference:** 8.5 %
-- **Institutional:** 18.9 %
-- **Corporate:** 56.6 %
-- **Other:** 3.8 %
+- **Competitor:** 4.3 %
+- **Editorial:** 4.3 %
+- **Ugc:** 5.1 %
+- **Reference:** 10.3 %
+- **Institutional:** 18.8 %
+- **Corporate:** 53.0 %
+- **Other:** 4.3 %
 
 **Top cited domains**
 
-- `foranequine.com` – CORPORATE, retrieved 44 % of chats
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 44 % of chats
-- `bzfe.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `foranequine.com` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -45,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
-# Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
+# Drift Radar – »Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -14,28 +14,29 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.2 %
-- **Corporate:** 93.5 %
-- **Other:** 3.2 %
+- **Reference:** 4.1 %
+- **Institutional:** 4.1 %
+- **Corporate:** 85.7 %
+- **Other:** 6.1 %
 
 **Top cited domains**
 
+- `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
+- `nuvallo.de` – OTHER, retrieved 33 % of chats
 - `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `atcomhorse.de` – CORPORATE, retrieved 33 % of chats
-- `care4vet.de` – CORPORATE, retrieved 33 % of chats
-- `salvana-pferde.de` – CORPORATE, retrieved 33 % of chats
+- `foranequine.com` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 22 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
-- **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
+- **Length:** 900 – 1 200 words
+- **Headline starting point:** »Pferdegold vs Pavo: Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

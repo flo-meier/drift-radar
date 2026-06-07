@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -14,18 +14,20 @@
 
 ## Citation source mix
 
-- **Ugc:** 6.2 %
-- **Institutional:** 4.0 %
-- **Corporate:** 89.8 %
+- **Own:** 1.9 %
+- **Ugc:** 1.9 %
+- **Institutional:** 7.7 %
+- **Corporate:** 86.5 %
+- **Other:** 1.9 %
 
 **Top cited domains**
 
-- `emma-care.de` – CORPORATE, retrieved 38 % of chats
-- `mambocare.de` – CORPORATE, retrieved 38 % of chats
-- `equidocs.de` – CORPORATE, retrieved 38 % of chats
-- `hestevard.de` – CORPORATE, retrieved 38 % of chats
-- `horseflex.de` – CORPORATE, retrieved 38 % of chats
-- `migocki.de` – CORPORATE, retrieved 38 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `hyjoint.de` – CORPORATE, retrieved 33 % of chats
+- `hyjoint-gelenke.de` – CORPORATE, retrieved 22 % of chats
+- `mambocare.de` – CORPORATE, retrieved 22 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

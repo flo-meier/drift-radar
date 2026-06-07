@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -14,18 +14,18 @@
 
 ## Citation source mix
 
-- **Reference:** 8.3 %
-- **Corporate:** 83.3 %
-- **Other:** 8.3 %
+- **Reference:** 4.2 %
+- **Corporate:** 87.4 %
+- **Other:** 8.4 %
 
 **Top cited domains**
 
-- `aleo-pferdesport.de` – CORPORATE, retrieved 17 % of chats
-- `darf-ich-mit.de` – REFERENCE, retrieved 17 % of chats
-- `der-onlinehund.de` – OTHER, retrieved 17 % of chats
-- `docmorris.de` – CORPORATE, retrieved 17 % of chats
-- `drpfoten.de` – CORPORATE, retrieved 17 % of chats
-- `feedmyanimal.de` – CORPORATE, retrieved 17 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 33 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
+- `hansetier.de` – CORPORATE, retrieved 33 % of chats
+- `hundemineral.de` – CORPORATE, retrieved 33 % of chats
+- `apothekeloreto.de` – CORPORATE, retrieved 17 % of chats
+- `bosali-barf.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

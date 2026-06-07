@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?«
 
-**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-03 → 2026-06-05
+**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
 
 ## Engine visibility
 
@@ -14,27 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %)
-- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 33 %, ChatGPT 33 %)
-- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **Nösenberger** – top visibility 33 %  (Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, AI Overview 33 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, AI Overview 50 %, ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, AI Overview 50 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.2 %
-- **Reference:** 6.5 %
-- **Corporate:** 83.9 %
-- **Other:** 6.5 %
+- **Editorial:** 4.1 %
+- **Corporate:** 91.8 %
+- **Other:** 4.1 %
 
 **Top cited domains**
 
-- `hypona.ch` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 22 % of chats
-- `herzog-muelimatt.ch` – CORPORATE, retrieved 22 % of chats
-- `lexa-pferdefutter.ch` – CORPORATE, retrieved 22 % of chats
-- `foolfashion.ch` – CORPORATE, retrieved 22 % of chats
-- `hauptner.ch` – CORPORATE, retrieved 22 % of chats
+- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 25 % of chats
+- `hypona.ch` – CORPORATE, retrieved 25 % of chats
+- `sbline.ch` – CORPORATE, retrieved 25 % of chats
+- `zooplus.ch` – CORPORATE, retrieved 25 % of chats
+- `hauptner.ch` – CORPORATE, retrieved 25 % of chats
+- `herzog-muelimatt.ch` – CORPORATE, retrieved 12 % of chats
 
 ## Suggested article
 
