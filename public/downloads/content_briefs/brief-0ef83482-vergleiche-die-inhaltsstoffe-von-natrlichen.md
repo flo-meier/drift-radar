@@ -1,14 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
 - **ChatGPT:** 67 %
 - **Gemini:** 0 %
-- **AI Overview:** 67 %
+- **AI Overview:** 100 %
 
-**Divergence score:** 0.57  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.81  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 67 %
+### AI Overview – visibility 100 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,21 +49,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 6.2 %
-- **Competitor:** 3.1 %
-- **Editorial:** 1.5 %
-- **Reference:** 4.6 %
-- **Corporate:** 80.0 %
-- **Other:** 4.6 %
+- **Own:** 8.1 %
+- **Competitor:** 3.2 %
+- **Editorial:** 1.6 %
+- **Ugc:** 1.6 %
+- **Reference:** 3.2 %
+- **Corporate:** 77.7 %
+- **Other:** 4.8 %
 
 **Top cited domains**
 
+- `pferde-gold.de` – OWN, retrieved 56 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 44 % of chats
-- `pferde-gold.de` – OWN, retrieved 44 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 7.1 %
-- **Ugc:** 4.8 %
-- **Reference:** 7.1 %
-- **Institutional:** 14.3 %
-- **Corporate:** 61.9 %
-- **Other:** 4.8 %
+- **Editorial:** 10.8 %
+- **Ugc:** 4.6 %
+- **Reference:** 6.2 %
+- **Institutional:** 12.3 %
+- **Corporate:** 64.6 %
+- **Other:** 1.5 %
 
 **Top cited domains**
 
 - `naturalis-barf.de` – CORPORATE, retrieved 33 % of chats
 - `naturavetal.de` – CORPORATE, retrieved 33 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
-- `gesundheitsinformation.de` – REFERENCE, retrieved 22 % of chats
-- `nutrador.com` – CORPORATE, retrieved 22 % of chats
-- `papa-inti.com` – CORPORATE, retrieved 22 % of chats
+- `nutrador.com` – CORPORATE, retrieved 33 % of chats
+- `pferdgerecht.de` – CORPORATE, retrieved 33 % of chats
+- `heroshealth.de` – CORPORATE, retrieved 22 % of chats
+- `healthline.com` – EDITORIAL, retrieved 22 % of chats
 
 ## Suggested article
 

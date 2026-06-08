@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.5 %
-- **Editorial:** 9.2 %
-- **Ugc:** 7.7 %
-- **Reference:** 12.3 %
-- **Institutional:** 18.5 %
-- **Corporate:** 50.8 %
+- **Competitor:** 1.4 %
+- **Editorial:** 8.2 %
+- **Ugc:** 6.8 %
+- **Reference:** 9.6 %
+- **Institutional:** 16.4 %
+- **Corporate:** 57.5 %
 
 **Top cited domains**
 
 - `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
 - `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
 - `biomedcentral.com` – EDITORIAL, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `equanis.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

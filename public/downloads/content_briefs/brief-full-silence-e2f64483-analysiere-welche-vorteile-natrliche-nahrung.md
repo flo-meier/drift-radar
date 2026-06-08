@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 13.7 %
-- **Ugc:** 5.5 %
-- **Reference:** 10.9 %
-- **Institutional:** 12.3 %
-- **Corporate:** 54.9 %
-- **Other:** 2.7 %
+- **Editorial:** 12.3 %
+- **Ugc:** 5.3 %
+- **Reference:** 12.3 %
+- **Institutional:** 19.3 %
+- **Corporate:** 49.1 %
+- **Other:** 1.8 %
 
 **Top cited domains**
 
-- `gigasnutrition.com` – CORPORATE, retrieved 56 % of chats
-- `zeinpharma.de` – CORPORATE, retrieved 56 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 44 % of chats
 - `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `healthline.com` – EDITORIAL, retrieved 22 % of chats
+- `zeinpharma.de` – CORPORATE, retrieved 33 % of chats
 - `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
-- `heroshealth.de` – CORPORATE, retrieved 22 % of chats
+- `energeticanatura.com` – CORPORATE, retrieved 22 % of chats
+- `energybalance.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

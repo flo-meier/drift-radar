@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
-**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
@@ -18,25 +18,23 @@
 - **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
 - **Marstall** – top visibility 33 %  (Gemini 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 2.7 %
-- **Ugc:** 5.4 %
-- **Reference:** 8.0 %
-- **Institutional:** 2.7 %
-- **Corporate:** 78.6 %
-- **Other:** 2.7 %
+- **Editorial:** 3.5 %
+- **Ugc:** 7.1 %
+- **Reference:** 10.6 %
+- **Institutional:** 3.5 %
+- **Corporate:** 75.3 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 43 % of chats
+- `hipposport.de` – CORPORATE, retrieved 43 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 43 % of chats
-- `hipposport.de` – CORPORATE, retrieved 28 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 28 % of chats
-- `naturanima.de` – CORPORATE, retrieved 28 % of chats
 - `youtube.com` – UGC, retrieved 14 % of chats
+- `dein-sprachcoach.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

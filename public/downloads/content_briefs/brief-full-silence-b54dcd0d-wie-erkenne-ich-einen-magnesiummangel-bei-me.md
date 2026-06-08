@@ -1,6 +1,6 @@
 # Drift Radar – »Wie erkenne ich einen Magnesiummangel bei meinem Pferd?«
 
-**Prompt ID:** `pr_b54dcd0d-29ab-441c-aafa-f45368ad3f1f`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_b54dcd0d-29ab-441c-aafa-f45368ad3f1f`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
@@ -14,10 +14,10 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.5 %
-- **Reference:** 8.9 %
-- **Institutional:** 5.3 %
-- **Corporate:** 82.3 %
+- **Editorial:** 5.0 %
+- **Reference:** 8.4 %
+- **Institutional:** 6.7 %
+- **Corporate:** 79.8 %
 
 **Top cited domains**
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
@@ -14,24 +14,25 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %, Gemini 33 %)
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %)
 - **Marstall** – top visibility 67 %  (AI Overview 67 %, Gemini 33 %, ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.3 %
-- **Institutional:** 6.4 %
-- **Corporate:** 89.4 %
+- **Competitor:** 3.2 %
+- **Institutional:** 7.9 %
+- **Corporate:** 87.3 %
+- **Other:** 1.6 %
 
 **Top cited domains**
 
-- `reitsport.ch` – CORPORATE, retrieved 33 % of chats
+- `huf24.ch` – CORPORATE, retrieved 33 % of chats
 - `felix-buehler.ch` – CORPORATE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
 - `npz.ch` – INSTITUTIONAL, retrieved 33 % of chats
+- `vitahorse.ch` – CORPORATE, retrieved 33 % of chats
 - `proequishop.ch` – CORPORATE, retrieved 22 % of chats
-- `huf24.ch` – CORPORATE, retrieved 22 % of chats
+- `galaxus.ch` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -43,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

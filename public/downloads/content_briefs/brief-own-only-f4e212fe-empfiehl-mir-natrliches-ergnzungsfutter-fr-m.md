@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 94.7 %
-- **Other:** 5.3 %
+- **Corporate:** 95.2 %
+- **Other:** 4.8 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `derfuttershop.net` – CORPORATE, retrieved 17 % of chats
-- `fuettern-mit-spass.de` – CORPORATE, retrieved 17 % of chats
-- `futtermitliebe.de` – CORPORATE, retrieved 17 % of chats
-- `futterwolke.de` – CORPORATE, retrieved 17 % of chats
-- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `petsbiotics.de` – CORPORATE, retrieved 17 % of chats
+- `agradi.de` – CORPORATE, retrieved 17 % of chats
+- `canina.de` – CORPORATE, retrieved 17 % of chats
+- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
+- `ess-supplements.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

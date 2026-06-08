@@ -1,6 +1,6 @@
 # Drift Radar – »Suche Magnesium für Pferde aus Deutschland.«
 
-**Prompt ID:** `pr_57d9f7c7-d131-410d-80b1-d22d87d691dc`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_57d9f7c7-d131-410d-80b1-d22d87d691dc`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
@@ -14,12 +14,12 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 7.9 %
-- **Corporate:** 92.1 %
+- **Competitor:** 8.2 %
+- **Corporate:** 91.8 %
 
 **Top cited domains**
 
@@ -28,7 +28,7 @@
 - `canina.de` – CORPORATE, retrieved 50 % of chats
 - `sleipnir-islandpferdebedarf.de` – CORPORATE, retrieved 50 % of chats
 - `winnies.de` – CORPORATE, retrieved 50 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `marstall.de` – COMPETITOR, retrieved 33 % of chats
 
 ## Suggested article
 

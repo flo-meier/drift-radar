@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-04 → 2026-06-06
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
 
 ## Engine visibility
 
@@ -14,23 +14,24 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 3.0 %
-- **Corporate:** 97.0 %
+- **Competitor:** 3.2 %
+- **Corporate:** 96.8 %
 
 **Top cited domains**
 
-- `dm.de` – CORPORATE, retrieved 50 % of chats
-- `apotheke24h.at` – CORPORATE, retrieved 50 % of chats
-- `central-apo.com` – CORPORATE, retrieved 50 % of chats
-- `dm.at` – CORPORATE, retrieved 50 % of chats
-- `mynatureshop.com` – CORPORATE, retrieved 50 % of chats
-- `drogi.ch` – CORPORATE, retrieved 33 % of chats
+- `dm.de` – CORPORATE, retrieved 33 % of chats
+- `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
+- `apotheke24h.at` – CORPORATE, retrieved 33 % of chats
+- `central-apo.com` – CORPORATE, retrieved 33 % of chats
+- `dm.at` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
