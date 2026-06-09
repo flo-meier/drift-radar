@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -42,19 +42,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 3.2 %
-- **Reference:** 3.2 %
-- **Corporate:** 90.4 %
-- **Other:** 3.2 %
+- **Editorial:** 4.5 %
+- **Reference:** 4.5 %
+- **Corporate:** 86.4 %
+- **Other:** 4.5 %
 
 **Top cited domains**
 
-- `ehorses.de` – CORPORATE, retrieved 28 % of chats
-- `kraemer.de` – CORPORATE, retrieved 28 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 28 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 28 % of chats
 - `pharmahorse.de` – CORPORATE, retrieved 28 % of chats
-- `medpex.de` – CORPORATE, retrieved 14 % of chats
+- `ehorses.de` – CORPORATE, retrieved 14 % of chats
+- `kraemer.de` – CORPORATE, retrieved 14 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 14 % of chats
+- `amazon.de` – CORPORATE, retrieved 14 % of chats
+- `care4animals.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

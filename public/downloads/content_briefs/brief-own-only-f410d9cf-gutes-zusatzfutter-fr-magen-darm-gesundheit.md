@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -19,17 +19,17 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.6 %
-- **Corporate:** 96.4 %
+- **Editorial:** 10.0 %
+- **Corporate:** 90.0 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `nutravital.de` – CORPORATE, retrieved 33 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `hestevard.de` – CORPORATE, retrieved 17 % of chats
-- `madbarn.com` – CORPORATE, retrieved 17 % of chats
+- `pferdy.de` – EDITORIAL, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `curafyt.com` – CORPORATE, retrieved 17 % of chats
+- `drogerie-plappert.de` – CORPORATE, retrieved 17 % of chats
+- `equiland-shop.com` – CORPORATE, retrieved 17 % of chats
+- `equiva.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

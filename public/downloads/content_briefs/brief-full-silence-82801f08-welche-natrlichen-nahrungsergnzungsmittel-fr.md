@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -14,20 +14,22 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.3 %
-- **Reference:** 16.3 %
-- **Institutional:** 2.3 %
-- **Corporate:** 72.1 %
-- **Other:** 7.0 %
+- **Competitor:** 4.2 %
+- **Editorial:** 4.2 %
+- **Ugc:** 2.1 %
+- **Reference:** 8.3 %
+- **Institutional:** 2.1 %
+- **Corporate:** 77.1 %
+- **Other:** 2.1 %
 
 **Top cited domains**
 
 - `pernaturam.de` – CORPORATE, retrieved 44 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 44 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `medilutions.de` – CORPORATE, retrieved 33 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
-- `deganius.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

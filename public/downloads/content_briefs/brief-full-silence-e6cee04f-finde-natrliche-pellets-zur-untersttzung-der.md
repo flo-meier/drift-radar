@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -14,18 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 4.8 %
-- **Ugc:** 9.5 %
-- **Corporate:** 85.7 %
+- **Own:** 2.0 %
+- **Editorial:** 3.9 %
+- **Ugc:** 5.9 %
+- **Corporate:** 86.3 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
-- `aronialand-shop.de` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `agrarshop-online.com` – CORPORATE, retrieved 33 % of chats
+- `deuka-companion.com` – CORPORATE, retrieved 33 % of chats
+- `equiva.com` – CORPORATE, retrieved 33 % of chats
 - `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
-- `agrarshop-online.com` – CORPORATE, retrieved 22 % of chats
-- `deuka-companion.com` – CORPORATE, retrieved 22 % of chats
-- `equine74.com` – CORPORATE, retrieved 22 % of chats
+- `naturanima.de` – CORPORATE, retrieved 22 % of chats
+- `cdvet.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

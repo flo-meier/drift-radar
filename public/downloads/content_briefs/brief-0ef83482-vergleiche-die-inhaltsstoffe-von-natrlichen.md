@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -49,22 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 8.1 %
-- **Competitor:** 3.2 %
-- **Editorial:** 1.6 %
-- **Ugc:** 1.6 %
-- **Reference:** 3.2 %
-- **Corporate:** 77.7 %
-- **Other:** 4.8 %
+- **Own:** 5.6 %
+- **Competitor:** 4.2 %
+- **Ugc:** 1.4 %
+- **Reference:** 2.8 %
+- **Corporate:** 80.6 %
+- **Other:** 5.6 %
 
 **Top cited domains**
 
-- `pferde-gold.de` – OWN, retrieved 56 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 44 % of chats
+- `pferde-gold.de` – OWN, retrieved 44 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `st-hippolyt.de` – COMPETITOR, retrieved 33 % of chats
 
 ## Suggested article
 

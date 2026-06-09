@@ -1,6 +1,6 @@
 # Drift Radar – »Was bewirkt Magnesium beim Pferd?«
 
-**Prompt ID:** `pr_5b804fcf-a253-424e-ac32-94b32910486d`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_5b804fcf-a253-424e-ac32-94b32910486d`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 

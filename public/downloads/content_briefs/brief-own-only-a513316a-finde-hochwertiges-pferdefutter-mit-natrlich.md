@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -14,26 +14,25 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 6.5 %
-- **Institutional:** 3.3 %
-- **Corporate:** 90.2 %
+- **Ugc:** 8.4 %
+- **Corporate:** 91.6 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pernaturam.de` – CORPORATE, retrieved 33 % of chats
-- `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `furago.de` – CORPORATE, retrieved 33 % of chats
-- `galopp-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `eurital.de` – CORPORATE, retrieved 17 % of chats
+- `faie.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

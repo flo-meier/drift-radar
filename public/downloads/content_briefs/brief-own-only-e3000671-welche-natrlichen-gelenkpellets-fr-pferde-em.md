@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -15,22 +15,20 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Nösenberger** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 1.5 %
-- **Corporate:** 97.1 %
-- **Other:** 1.5 %
+- **Corporate:** 95.3 %
+- **Other:** 4.7 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 56 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
 - `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `dr-hawes.de` – CORPORATE, retrieved 33 % of chats
-- `milktronics.com` – CORPORATE, retrieved 33 % of chats
 - `equidocs.de` – CORPORATE, retrieved 22 % of chats
-- `equithrive.com` – CORPORATE, retrieved 22 % of chats
+- `annimally.de` – CORPORATE, retrieved 22 % of chats
+- `seewinkler-naturprodukte.com` – CORPORATE, retrieved 22 % of chats
+- `dr-hawes.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -42,7 +40,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Nösenberger for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -18,16 +18,20 @@
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Editorial:** 7.7 %
+- **Reference:** 15.4 %
+- **Institutional:** 15.4 %
+- **Corporate:** 57.6 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `go4vet.com` – REFERENCE, retrieved 17 % of chats
 - `horsesbestshop.de` – CORPORATE, retrieved 17 % of chats
-- `canina.de` – CORPORATE, retrieved 17 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
-- `emma-care.de` – CORPORATE, retrieved 17 % of chats
-- `hestevard.de` – CORPORATE, retrieved 17 % of chats
+- `iwest.de` – CORPORATE, retrieved 17 % of chats
+- `agriatierversicherung.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

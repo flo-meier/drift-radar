@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 12.3 %
-- **Ugc:** 5.3 %
-- **Reference:** 12.3 %
-- **Institutional:** 19.3 %
-- **Corporate:** 49.1 %
-- **Other:** 1.8 %
+- **Editorial:** 5.4 %
+- **Ugc:** 5.4 %
+- **Reference:** 5.4 %
+- **Institutional:** 32.4 %
+- **Corporate:** 45.9 %
+- **Other:** 5.4 %
 
 **Top cited domains**
 
-- `gigasnutrition.com` – CORPORATE, retrieved 44 % of chats
 - `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `zeinpharma.de` – CORPORATE, retrieved 33 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
-- `energeticanatura.com` – CORPORATE, retrieved 22 % of chats
-- `energybalance.com` – CORPORATE, retrieved 22 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 33 % of chats
+- `endala.cz` – INSTITUTIONAL, retrieved 22 % of chats
+- `gse.bio` – CORPORATE, retrieved 22 % of chats
+- `smartpraxis.de` – INSTITUTIONAL, retrieved 22 % of chats
+- `zeinpharma.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

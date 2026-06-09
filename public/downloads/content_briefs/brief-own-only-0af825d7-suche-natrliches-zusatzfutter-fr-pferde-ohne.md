@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -15,22 +15,17 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.6 %
-- **Editorial:** 5.6 %
-- **Ugc:** 11.1 %
-- **Corporate:** 77.8 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
-- `marstall.de` – COMPETITOR, retrieved 17 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
 - `barynesse.com` – CORPORATE, retrieved 17 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
-- `squeed.de` – CORPORATE, retrieved 17 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -42,7 +37,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

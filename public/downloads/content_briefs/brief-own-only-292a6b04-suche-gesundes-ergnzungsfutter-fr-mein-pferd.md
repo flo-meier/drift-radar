@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -16,23 +16,22 @@
 
 - **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 6.5 %
-- **Editorial:** 6.7 %
-- **Ugc:** 3.4 %
-- **Corporate:** 83.4 %
+- **Own:** 5.3 %
+- **Competitor:** 10.3 %
+- **Corporate:** 84.4 %
 
 **Top cited domains**
 
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `eggersmann-shop.de` – CORPORATE, retrieved 33 % of chats
+- `equidocs.de` – CORPORATE, retrieved 33 % of chats
 - `einhuf.com` – CORPORATE, retrieved 33 % of chats
 - `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `okapi-online.de` – CORPORATE, retrieved 33 % of chats
-- `vitalbix.com` – UGC, retrieved 17 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 17 % of chats
+- `pferde-gold.de` – OWN, retrieved 17 % of chats
+- `semhof.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

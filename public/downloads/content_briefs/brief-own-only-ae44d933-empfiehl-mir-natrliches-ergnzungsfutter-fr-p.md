@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -15,27 +15,23 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.1 %
-- **Editorial:** 3.1 %
-- **Ugc:** 6.3 %
-- **Reference:** 3.1 %
-- **Institutional:** 3.1 %
-- **Corporate:** 78.1 %
-- **Other:** 3.1 %
+- **Competitor:** 5.0 %
+- **Ugc:** 2.6 %
+- **Institutional:** 5.2 %
+- **Corporate:** 82.1 %
+- **Other:** 5.0 %
 
 **Top cited domains**
 
-- `chiadegracia.com` – CORPORATE, retrieved 33 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
-- `duvalhorseproducts.com` – CORPORATE, retrieved 17 % of chats
-- `pferdy.de` – EDITORIAL, retrieved 17 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `madbarn.com` – CORPORATE, retrieved 33 % of chats
+- `german-horse-fit.de` – CORPORATE, retrieved 33 % of chats
+- `hardypaw.com` – CORPORATE, retrieved 33 % of chats
+- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `nacricare.com` – OTHER, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -47,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, Nösenberger for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

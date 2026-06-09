@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -15,29 +15,29 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 33 %)
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %, AI Overview 33 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 33 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %, AI Overview 33 %)
 - **Pavo** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 7.1 %
-- **Editorial:** 9.5 %
-- **Ugc:** 1.2 %
-- **Reference:** 11.9 %
-- **Institutional:** 3.6 %
-- **Corporate:** 61.9 %
-- **Other:** 4.8 %
+- **Competitor:** 8.1 %
+- **Editorial:** 6.5 %
+- **Ugc:** 1.6 %
+- **Reference:** 14.5 %
+- **Institutional:** 4.8 %
+- **Corporate:** 61.3 %
+- **Other:** 3.2 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 56 % of chats
-- `idealo.de` – CORPORATE, retrieved 33 % of chats
-- `welt.de` – EDITORIAL, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
 - `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
+- `josera.de` – CORPORATE, retrieved 33 % of chats
 - `sphericalinsights.com` – REFERENCE, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 22 % of chats
+- `idealo.de` – CORPORATE, retrieved 22 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -49,7 +49,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

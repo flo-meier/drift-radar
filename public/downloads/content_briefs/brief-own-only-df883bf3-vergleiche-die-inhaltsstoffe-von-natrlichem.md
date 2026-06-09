@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -14,17 +14,17 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %)
 - **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.2 %
-- **Editorial:** 12.2 %
-- **Reference:** 2.4 %
-- **Institutional:** 2.4 %
-- **Corporate:** 78.0 %
-- **Other:** 3.7 %
+- **Competitor:** 1.4 %
+- **Editorial:** 13.5 %
+- **Reference:** 5.4 %
+- **Institutional:** 1.4 %
+- **Corporate:** 74.3 %
+- **Other:** 4.1 %
 
 **Top cited domains**
 
@@ -33,7 +33,7 @@
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
 
 ## Engine visibility
 
@@ -18,23 +18,22 @@
 
 ## Citation source mix
 
-- **Own:** 1.4 %
-- **Competitor:** 4.1 %
-- **Editorial:** 2.7 %
-- **Ugc:** 1.4 %
-- **Reference:** 5.5 %
-- **Institutional:** 5.5 %
-- **Corporate:** 78.1 %
-- **Other:** 1.4 %
+- **Competitor:** 2.5 %
+- **Editorial:** 2.5 %
+- **Ugc:** 1.2 %
+- **Reference:** 4.9 %
+- **Institutional:** 7.4 %
+- **Corporate:** 79.0 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `deuka.de` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `equistro.de` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `equistro.de` – CORPORATE, retrieved 22 % of chats
-- `et-hoofcare.ch` – CORPORATE, retrieved 22 % of chats
-- `iwest.de` – CORPORATE, retrieved 22 % of chats
+- `deuka.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
