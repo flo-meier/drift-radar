@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
-**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -15,27 +15,26 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 4.4 %
-- **Competitor:** 2.2 %
-- **Ugc:** 2.2 %
-- **Corporate:** 88.9 %
-- **Other:** 2.2 %
+- **Own:** 5.9 %
+- **Competitor:** 3.1 %
+- **Corporate:** 88.0 %
+- **Other:** 3.1 %
 
 **Top cited domains**
 
+- `semhof.de` – CORPORATE, retrieved 50 % of chats
 - `pernaturam.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `finerforage.co.uk` – CORPORATE, retrieved 33 % of chats
-- `horze.de` – CORPORATE, retrieved 33 % of chats
-- `mypferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `marstall.de` – COMPETITOR, retrieved 17 % of chats
 
 ## Suggested article
 

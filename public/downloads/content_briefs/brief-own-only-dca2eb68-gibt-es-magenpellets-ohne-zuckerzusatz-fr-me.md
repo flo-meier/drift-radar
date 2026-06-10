@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -14,7 +14,7 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %)
+- **Höveler** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %)
 - **Eggersmann** – top visibility 67 %  (Gemini 67 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
@@ -27,10 +27,10 @@
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `mambocare.de` – CORPORATE, retrieved 33 % of chats
 - `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
 - `carepet.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article

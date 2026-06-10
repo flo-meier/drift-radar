@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-20 → 2026-05-22
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -16,22 +16,23 @@
 
 - **Editorial:** 8.3 %
 - **Reference:** 8.3 %
-- **Corporate:** 66.7 %
-- **Other:** 16.7 %
+- **Institutional:** 16.7 %
+- **Corporate:** 58.3 %
+- **Other:** 8.3 %
 
 **Top cited domains**
 
-- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
-- `ehorses.de` – CORPORATE, retrieved 17 % of chats
-- `go4vet.com` – REFERENCE, retrieved 17 % of chats
-- `horze.de` – CORPORATE, retrieved 17 % of chats
-- `kornscheune.de` – OTHER, retrieved 17 % of chats
-- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `go4vet.com` – REFERENCE, retrieved 50 % of chats
+- `hooforia.com` – EDITORIAL, retrieved 50 % of chats
+- `winnies.de` – CORPORATE, retrieved 50 % of chats
+- `ak-pferd.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 33 % of chats
+- `atcomhorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 2 400 – 4 300 words
+- **Length:** 2 000 – 3 500 words
 - **Headline starting point:** »Nenne mir empfehlenswerte Mineralstoffe für Pferde. – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._

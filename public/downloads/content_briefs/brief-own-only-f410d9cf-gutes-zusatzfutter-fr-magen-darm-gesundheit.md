@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -14,34 +14,35 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 10.0 %
-- **Corporate:** 90.0 %
+- **Editorial:** 8.9 %
+- **Ugc:** 4.6 %
+- **Institutional:** 4.6 %
+- **Corporate:** 81.9 %
 
 **Top cited domains**
 
-- `pferdy.de` – EDITORIAL, retrieved 17 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `curafyt.com` – CORPORATE, retrieved 17 % of chats
-- `drogerie-plappert.de` – CORPORATE, retrieved 17 % of chats
-- `equiland-shop.com` – CORPORATE, retrieved 17 % of chats
-- `equiva.com` – CORPORATE, retrieved 17 % of chats
+- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `drogerie-plappert.de` – CORPORATE, retrieved 33 % of chats
+- `nutravital.de` – CORPORATE, retrieved 33 % of chats
+- `agrarzone.de` – UGC, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Marstall: Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
+- **Headline starting point:** »Pferdegold vs Pavo: Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

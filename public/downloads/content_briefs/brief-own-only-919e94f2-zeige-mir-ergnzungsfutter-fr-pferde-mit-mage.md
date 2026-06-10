@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
 - **Havens** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.3 %
-- **Corporate:** 91.0 %
-- **Other:** 6.7 %
+- **Institutional:** 2.7 %
+- **Corporate:** 89.2 %
+- **Other:** 8.1 %
 
 **Top cited domains**
 
+- `dierapotheker.nl` – CORPORATE, retrieved 50 % of chats
+- `pavo.nl` – CORPORATE, retrieved 50 % of chats
+- `teurlings-demulder.nl` – CORPORATE, retrieved 50 % of chats
 - `zoolac.nl` – CORPORATE, retrieved 50 % of chats
-- `dierapotheker.nl` – CORPORATE, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `food4animals.nl` – CORPORATE, retrieved 33 % of chats
+- `agradi.nl` – CORPORATE, retrieved 33 % of chats
 - `google.com` – OTHER, retrieved 33 % of chats
-- `pavo.nl` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

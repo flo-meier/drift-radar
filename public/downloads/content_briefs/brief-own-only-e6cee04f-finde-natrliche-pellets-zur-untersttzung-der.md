@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-02 → 2026-06-04
+**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -14,22 +14,25 @@
 
 ## Who is cited instead
 
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.5 %
-- **Ugc:** 7.6 %
-- **Corporate:** 87.9 %
+- **Own:** 2.0 %
+- **Editorial:** 2.0 %
+- **Ugc:** 6.0 %
+- **Institutional:** 2.0 %
+- **Corporate:** 86.0 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 44 % of chats
-- `naturanima.de` – CORPORATE, retrieved 33 % of chats
 - `agrarshop-online.com` – CORPORATE, retrieved 33 % of chats
-- `aronialand-shop.de` – CORPORATE, retrieved 33 % of chats
-- `bachgau.social` – EDITORIAL, retrieved 33 % of chats
 - `deuka-companion.com` – CORPORATE, retrieved 33 % of chats
+- `equiva.com` – CORPORATE, retrieved 33 % of chats
+- `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `naturanima.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

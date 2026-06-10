@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
-**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -23,12 +23,12 @@
 
 **Top cited domains**
 
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
+- `fuettern-mit-spass.de` – CORPORATE, retrieved 17 % of chats
+- `kavalio.de` – CORPORATE, retrieved 17 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 17 % of chats
-- `fundis-reitsport.de` – CORPORATE, retrieved 17 % of chats
-- `horse-reitsport.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

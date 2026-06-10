@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -19,10 +19,10 @@
 
 ## Citation source mix
 
-- **Competitor:** 3.1 %
-- **Institutional:** 7.7 %
-- **Corporate:** 81.5 %
-- **Other:** 7.7 %
+- **Competitor:** 3.3 %
+- **Institutional:** 10.0 %
+- **Corporate:** 83.3 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
@@ -30,8 +30,8 @@
 - `techstudio.ch` – CORPORATE, retrieved 33 % of chats
 - `npz.ch` – INSTITUTIONAL, retrieved 33 % of chats
 - `vitahorse.ch` – CORPORATE, retrieved 33 % of chats
+- `galaxus.ch` – CORPORATE, retrieved 22 % of chats
 - `landi.ch` – CORPORATE, retrieved 22 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

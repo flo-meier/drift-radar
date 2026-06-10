@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -14,26 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (AI Overview 67 %)
-- **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %, ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %)
+- **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.4 %
-- **Editorial:** 13.5 %
-- **Reference:** 5.4 %
-- **Institutional:** 1.4 %
-- **Corporate:** 74.3 %
+- **Editorial:** 13.7 %
+- **Reference:** 8.2 %
+- **Institutional:** 2.7 %
+- **Corporate:** 71.2 %
 - **Other:** 4.1 %
 
 **Top cited domains**
 
 - `welt.de` – EDITORIAL, retrieved 44 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `ewalia.com` – OTHER, retrieved 33 % of chats
 
 ## Suggested article
 

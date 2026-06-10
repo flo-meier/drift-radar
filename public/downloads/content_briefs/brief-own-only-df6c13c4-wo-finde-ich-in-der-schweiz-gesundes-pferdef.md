@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?«
 
-**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -14,26 +14,27 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %, ChatGPT 67 %)
-- **Pavo** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %, AI Overview 50 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %, AI Overview 50 %, ChatGPT 33 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %, AI Overview 50 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %, ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %, AI Overview 33 %)
+- **Marstall** – top visibility 67 %  (AI Overview 67 %, Gemini 67 %, ChatGPT 33 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %, AI Overview 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 2.2 %
-- **Institutional:** 2.2 %
-- **Corporate:** 93.4 %
-- **Other:** 2.2 %
+- **Editorial:** 2.0 %
+- **Reference:** 2.0 %
+- **Institutional:** 2.0 %
+- **Corporate:** 90.2 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
-- `hypona.ch` – CORPORATE, retrieved 38 % of chats
-- `lucky-horse.ch` – CORPORATE, retrieved 38 % of chats
-- `sbline.ch` – CORPORATE, retrieved 38 % of chats
-- `lexa-pferdefutter.ch` – CORPORATE, retrieved 38 % of chats
-- `tier-im-mittelpunkt.ch` – CORPORATE, retrieved 38 % of chats
-- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 25 % of chats
+- `hypona.ch` – CORPORATE, retrieved 33 % of chats
+- `lucky-horse.ch` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.ch` – CORPORATE, retrieved 33 % of chats
+- `sbline.ch` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 22 % of chats
+- `pferde-reformhaus.ch` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

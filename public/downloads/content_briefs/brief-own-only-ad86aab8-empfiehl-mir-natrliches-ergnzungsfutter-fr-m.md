@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
 
 ## Engine visibility
 
@@ -16,24 +16,25 @@
 
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 2.9 %
-- **Ugc:** 2.9 %
-- **Reference:** 29.6 %
-- **Institutional:** 2.9 %
-- **Corporate:** 55.7 %
-- **Other:** 6.0 %
+- **Editorial:** 3.0 %
+- **Ugc:** 3.0 %
+- **Reference:** 21.1 %
+- **Institutional:** 3.0 %
+- **Corporate:** 66.8 %
+- **Other:** 3.0 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `stroeh.de` – CORPORATE, retrieved 43 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 28 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 28 % of chats
-- `go4vet.com` – REFERENCE, retrieved 28 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 28 % of chats
-- `trabland.de` – REFERENCE, retrieved 28 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 14 % of chats
+- `derfuttershop.net` – CORPORATE, retrieved 14 % of chats
+- `equiva.com` – CORPORATE, retrieved 14 % of chats
+- `fuettern-mit-spass.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 
@@ -45,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.
