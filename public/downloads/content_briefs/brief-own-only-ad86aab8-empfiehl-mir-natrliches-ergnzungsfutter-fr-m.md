@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -20,21 +20,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.0 %
-- **Ugc:** 3.0 %
-- **Reference:** 21.1 %
-- **Institutional:** 3.0 %
-- **Corporate:** 66.8 %
-- **Other:** 3.0 %
+- **Editorial:** 5.8 %
+- **Ugc:** 2.9 %
+- **Reference:** 14.7 %
+- **Institutional:** 2.9 %
+- **Corporate:** 73.7 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 43 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 28 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 28 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 14 % of chats
-- `derfuttershop.net` – CORPORATE, retrieved 14 % of chats
-- `equiva.com` – CORPORATE, retrieved 14 % of chats
-- `fuettern-mit-spass.de` – CORPORATE, retrieved 14 % of chats
+- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 28 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 28 % of chats
+- `wiesenkraft.com` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

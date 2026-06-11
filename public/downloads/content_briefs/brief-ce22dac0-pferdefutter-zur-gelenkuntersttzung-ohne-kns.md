@@ -1,14 +1,14 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
 - **ChatGPT:** 33 %
-- **Gemini:** 33 %
+- **Gemini:** 0 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -21,7 +21,7 @@
 - _brand_ – Pavo offers joint support
 - _criterion_ – These brands offer natural joint support
 
-### Gemini – visibility 33 %
+### Gemini – visibility 0 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -40,17 +40,16 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Corporate:** 97.5 %
-- **Other:** 2.5 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `hansetier.de` – CORPORATE, retrieved 50 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `squeed.de` – CORPORATE, retrieved 50 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
 - `equanis.de` – CORPORATE, retrieved 33 % of chats
+- `hansetier.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `seewinkler-naturprodukte.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

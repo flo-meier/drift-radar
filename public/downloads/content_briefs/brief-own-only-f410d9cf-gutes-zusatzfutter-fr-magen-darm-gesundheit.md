@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 8.9 %
-- **Ugc:** 4.6 %
-- **Institutional:** 4.6 %
-- **Corporate:** 81.9 %
+- **Editorial:** 4.2 %
+- **Ugc:** 8.2 %
+- **Institutional:** 4.2 %
+- **Corporate:** 83.3 %
 
 **Top cited domains**
 
-- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `agrarzone.de` – UGC, retrieved 33 % of chats
 - `drogerie-plappert.de` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
 - `nutravital.de` – CORPORATE, retrieved 33 % of chats
-- `agrarzone.de` – UGC, retrieved 17 % of chats
-- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

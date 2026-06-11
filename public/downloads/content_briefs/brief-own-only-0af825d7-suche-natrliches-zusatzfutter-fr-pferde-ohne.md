@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -14,27 +14,28 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Eggersmann** – top visibility 67 %  (ChatGPT 67 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.3 %
-- **Editorial:** 5.3 %
-- **Ugc:** 5.3 %
-- **Corporate:** 78.9 %
-- **Other:** 5.3 %
+- **Competitor:** 3.5 %
+- **Editorial:** 3.5 %
+- **Ugc:** 3.5 %
+- **Corporate:** 82.7 %
+- **Other:** 6.9 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 33 % of chats
 - `squeed.de` – CORPORATE, retrieved 17 % of chats
 - `lecksteine-shop.de` – CORPORATE, retrieved 17 % of chats
+- `mambocare.de` – CORPORATE, retrieved 17 % of chats
 - `marstall.de` – COMPETITOR, retrieved 17 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
-- `4dobbin.com` – OTHER, retrieved 17 % of chats
 
 ## Suggested article
 

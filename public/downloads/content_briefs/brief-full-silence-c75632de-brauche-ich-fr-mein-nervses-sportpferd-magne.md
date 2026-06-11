@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
-**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
+**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -14,23 +14,21 @@
 
 ## Citation source mix
 
-- **Own:** 1.4 %
-- **Competitor:** 1.4 %
-- **Editorial:** 2.7 %
-- **Ugc:** 6.8 %
-- **Reference:** 9.6 %
-- **Institutional:** 5.5 %
-- **Corporate:** 69.9 %
-- **Other:** 2.7 %
+- **Editorial:** 5.0 %
+- **Ugc:** 8.3 %
+- **Reference:** 6.7 %
+- **Institutional:** 6.7 %
+- **Corporate:** 70.0 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `vetripharm.de` – CORPORATE, retrieved 33 % of chats
 - `agrobs.de` – CORPORATE, retrieved 33 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `askheltie.com` – UGC, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `forageplustalk.co.uk` – EDITORIAL, retrieved 33 % of chats
 
 ## Suggested article
 

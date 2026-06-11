@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Magnesium-Pellets für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-24 → 2026-05-26
+**Prompt ID:** `pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -14,24 +14,22 @@
 
 ## Citation source mix
 
-- **Editorial:** 7.0 %
-- **Ugc:** 3.5 %
-- **Reference:** 7.0 %
-- **Corporate:** 82.6 %
+- **Own:** 3.6 %
+- **Corporate:** 96.4 %
 
 **Top cited domains**
 
-- `inropharm.de` – CORPORATE, retrieved 50 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
-- `annimally.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 50 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 50 % of chats
+- `winnies.de` – CORPORATE, retrieved 50 % of chats
+- `lexa-pferdefutter.ch` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 1 700 – 2 900 words
+- **Length:** 2 000 – 3 500 words
 - **Headline starting point:** »Finde natürliche Magnesium-Pellets für mein Pferd ohne Industriezucker. – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._

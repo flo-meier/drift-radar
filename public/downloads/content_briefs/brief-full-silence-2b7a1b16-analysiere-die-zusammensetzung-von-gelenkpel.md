@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.«
 
-**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -14,19 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 7.7 %
-- **Editorial:** 7.7 %
-- **Corporate:** 76.9 %
-- **Other:** 7.7 %
+- **Editorial:** 2.7 %
+- **Reference:** 2.7 %
+- **Institutional:** 1.3 %
+- **Corporate:** 89.3 %
+- **Other:** 4.0 %
 
 **Top cited domains**
 
-- `pferde-gold.de` – OWN, retrieved 14 % of chats
-- `amazon.de` – CORPORATE, retrieved 14 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 14 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 14 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 14 % of chats
-- `equanis.de` – CORPORATE, retrieved 14 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 56 % of chats
+- `kraemer.de` – CORPORATE, retrieved 44 % of chats
+- `nuvallo.de` – OTHER, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `sawapet.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-06 → 2026-06-08
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -16,24 +16,24 @@
 
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 8.8 %
-- **Reference:** 5.8 %
-- **Institutional:** 14.8 %
-- **Corporate:** 67.7 %
-- **Other:** 3.0 %
+- **Editorial:** 8.2 %
+- **Reference:** 8.2 %
+- **Institutional:** 20.8 %
+- **Corporate:** 50.4 %
+- **Other:** 12.4 %
 
 **Top cited domains**
 
-- `aleo-pferdesport.de` – CORPORATE, retrieved 33 % of chats
-- `ehorses.de` – CORPORATE, retrieved 33 % of chats
+- `ak-pferd.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `go4vet.com` – REFERENCE, retrieved 33 % of chats
 - `hooforia.com` – EDITORIAL, retrieved 33 % of chats
-- `hypona.ch` – CORPORATE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `kornscheune.de` – OTHER, retrieved 33 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `aleo-pferdesport.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -45,7 +45,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

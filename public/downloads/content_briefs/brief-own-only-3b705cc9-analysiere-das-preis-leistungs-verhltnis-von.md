@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -14,30 +14,28 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (AI Overview 67 %, Gemini 67 %, ChatGPT 67 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %, AI Overview 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, AI Overview 67 %, ChatGPT 33 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %, Gemini 33 %)
 - **Pavo** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %, AI Overview 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 10.7 %
-- **Editorial:** 8.9 %
-- **Ugc:** 1.8 %
-- **Reference:** 14.3 %
-- **Institutional:** 5.4 %
-- **Corporate:** 57.1 %
-- **Other:** 1.8 %
+- **Competitor:** 5.3 %
+- **Editorial:** 12.3 %
+- **Reference:** 12.3 %
+- **Institutional:** 5.3 %
+- **Corporate:** 64.9 %
 
 **Top cited domains**
 
-- `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
-- `welt.de` – EDITORIAL, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `sphericalinsights.com` – REFERENCE, retrieved 33 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 22 % of chats
+- `sanoanimal.de` – REFERENCE, retrieved 22 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
+- `amazon.de` – CORPORATE, retrieved 22 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 22 % of chats
 
 ## Suggested article
 

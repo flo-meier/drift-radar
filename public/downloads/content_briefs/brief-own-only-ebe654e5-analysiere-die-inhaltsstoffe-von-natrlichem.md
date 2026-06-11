@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -19,21 +19,21 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.1 %
-- **Editorial:** 4.1 %
-- **Ugc:** 5.2 %
-- **Reference:** 11.3 %
-- **Institutional:** 22.7 %
-- **Corporate:** 47.4 %
-- **Other:** 7.2 %
+- **Competitor:** 3.0 %
+- **Editorial:** 2.0 %
+- **Ugc:** 5.0 %
+- **Reference:** 6.9 %
+- **Institutional:** 23.8 %
+- **Corporate:** 52.5 %
+- **Other:** 6.9 %
 
 **Top cited domains**
 
 - `youtube.com` – UGC, retrieved 33 % of chats
 - `bzfe.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
-- `okapi-online.de` – CORPORATE, retrieved 33 % of chats
 - `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
 
 ## Suggested article

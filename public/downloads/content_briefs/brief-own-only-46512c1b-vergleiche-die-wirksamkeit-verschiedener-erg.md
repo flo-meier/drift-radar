@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
 
 ## Engine visibility
 
@@ -21,22 +21,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.0 %
-- **Editorial:** 6.1 %
-- **Ugc:** 1.0 %
-- **Reference:** 4.0 %
-- **Institutional:** 7.1 %
-- **Corporate:** 74.8 %
-- **Other:** 5.0 %
+- **Competitor:** 0.9 %
+- **Editorial:** 7.0 %
+- **Ugc:** 4.4 %
+- **Reference:** 6.1 %
+- **Institutional:** 7.0 %
+- **Corporate:** 69.3 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 56 % of chats
-- `stroeh.de` – CORPORATE, retrieved 44 % of chats
-- `deuka.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 67 % of chats
+- `stroeh.de` – CORPORATE, retrieved 56 % of chats
+- `madbarn.com` – CORPORATE, retrieved 44 % of chats
+- `go4vet.com` – REFERENCE, retrieved 33 % of chats
+- `migocki.de` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
