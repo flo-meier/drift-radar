@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 97.0 %
-- **Other:** 3.0 %
+- **Corporate:** 97.5 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `deers-tackstore.de` – CORPORATE, retrieved 50 % of chats
+- `carepet.de` – CORPORATE, retrieved 50 % of chats
+- `equine74.com` – CORPORATE, retrieved 50 % of chats
 - `pferdekiosk.biz` – CORPORATE, retrieved 50 % of chats
 - `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
-- `carepet.de` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

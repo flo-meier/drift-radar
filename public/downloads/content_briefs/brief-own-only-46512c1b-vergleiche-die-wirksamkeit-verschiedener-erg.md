@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
 
 ## Engine visibility
 
@@ -21,20 +21,20 @@
 
 ## Citation source mix
 
-- **Competitor:** 0.9 %
-- **Editorial:** 7.0 %
-- **Ugc:** 4.4 %
-- **Reference:** 6.1 %
-- **Institutional:** 7.0 %
-- **Corporate:** 69.3 %
-- **Other:** 5.3 %
+- **Competitor:** 1.0 %
+- **Editorial:** 7.8 %
+- **Ugc:** 4.8 %
+- **Reference:** 6.8 %
+- **Institutional:** 5.8 %
+- **Corporate:** 68.0 %
+- **Other:** 5.8 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 67 % of chats
 - `stroeh.de` – CORPORATE, retrieved 56 % of chats
+- `iwest.de` – CORPORATE, retrieved 56 % of chats
 - `madbarn.com` – CORPORATE, retrieved 44 % of chats
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `migocki.de` – CORPORATE, retrieved 33 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
 

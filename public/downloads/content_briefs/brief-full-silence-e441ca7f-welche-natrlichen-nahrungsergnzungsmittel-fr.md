@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
 
 ## Engine visibility
 
@@ -14,9 +14,12 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.6 %
+- **Competitor:** 3.4 %
+- **Editorial:** 3.4 %
 - **Reference:** 16.6 %
-- **Corporate:** 77.8 %
+- **Institutional:** 3.4 %
+- **Corporate:** 66.6 %
+- **Other:** 6.7 %
 
 **Top cited domains**
 

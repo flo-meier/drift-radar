@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
 
 ## Engine visibility
 
@@ -19,22 +19,23 @@
 
 ## Citation source mix
 
-- **Competitor:** 3.0 %
-- **Editorial:** 2.0 %
-- **Ugc:** 5.0 %
-- **Reference:** 6.9 %
-- **Institutional:** 23.8 %
-- **Corporate:** 52.5 %
-- **Other:** 6.9 %
+- **Own:** 1.1 %
+- **Competitor:** 4.5 %
+- **Editorial:** 1.1 %
+- **Ugc:** 3.4 %
+- **Reference:** 8.0 %
+- **Institutional:** 20.5 %
+- **Corporate:** 53.4 %
+- **Other:** 8.0 %
 
 **Top cited domains**
 
-- `youtube.com` – UGC, retrieved 33 % of chats
+- `hoeveler.com` – COMPETITOR, retrieved 33 % of chats
 - `bzfe.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `wikipedia.org` – REFERENCE, retrieved 33 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

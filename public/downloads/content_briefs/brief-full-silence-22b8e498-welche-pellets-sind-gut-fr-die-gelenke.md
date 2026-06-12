@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
 
 ## Engine visibility
 
@@ -14,18 +14,17 @@
 
 ## Citation source mix
 
-- **Ugc:** 4.3 %
-- **Corporate:** 87.0 %
-- **Other:** 8.7 %
+- **Ugc:** 8.5 %
+- **Corporate:** 91.5 %
 
 **Top cited domains**
 
+- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
+- `reddit.com` – UGC, retrieved 33 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 17 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
-- `nutravital.de` – CORPORATE, retrieved 17 % of chats
+- `medpex.de` – CORPORATE, retrieved 17 % of chats
 - `aleo-pferdesport.de` – CORPORATE, retrieved 17 % of chats
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 17 % of chats
-- `dr-hawes.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

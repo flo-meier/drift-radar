@@ -1,23 +1,29 @@
-# Drift Radar · 2026-06-10
+# Drift Radar · 2026-06-11
 
-## Summary
+## Overview
 
-12 prompts active in drifting range (0.3+). Own-brand visibility remains at 5.8%. Net movement: 1 prompt entered drifting, 3 exited. Eight prompts shifted silence classification.
+Pferdegold tracked 63 prompts across ChatGPT, Gemini, and AI Overview. Drifting keywords rose to 15 (23.8% of corpus). Own-brand visibility held at 6.9%. The week produced three new drifters and no exits, indicating incremental competitive pressure in supplemental feed queries.
 
-## Movement Analysis
+## Movement
 
-**Into drifting:** "Was bewirkt Magnesium beim Pferd?" (0.443) transitioned from full silence to visible competitor presence. Magnesium efficacy queries now register across engines.
+Three prompts crossed the 0.3 drifting threshold:
 
-**Out of drifting:** Three prompts dropped below threshold – all product-specific searches. "Analysiere die Zusammensetzung von Gelenkpellets" (joint pellets analysis), "Finde natürliche Magnesium-Pellets" (natural magnesium), and "Suche gesundes Zusatzfutter für Pferde in Deutschland" (healthy supplement feed) shifted to full silence.
+– "Suche gesundes Zusatzfutter für Pferde in Deutschland" (0.443)
+– "Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe" (0.443)
+– "Finde natürliche Magnesium-Pellets für mein Pferd ohne Industriezucker" (0.443)
 
-**Silence reclassification:** Four prompts moved from full silence to own-only silence: joint ingredient efficacy comparison, stomach pellets without additives, and the Germany-focused supplement search. This indicates competitive response is narrowing rather than broadening – engines now show Pferdegold exclusively where previously nothing appeared.
+All three shifted from silence zones into active drifting. The first moved from own-only silence; the latter two from full silence. This suggests competitors are now appearing in AI Overview results for product-specific mineral and feed queries.
 
-The inverse pattern – "Finde natürliche Magnesium-Pellets" moving to full silence despite previous drifting – suggests algorithmic churn around natural supplement queries.
+"Was bewirkt Magnesium beim Pferd?" strengthened to 0.681 (previously 0.443), indicating consolidation of educational content drift.
 
-## Priority Focus
+"Zeige mir gute Ergänzungsfutter für mein Pferd" slipped to 0.337 from 0.592 – a notable reversion, though still drifting.
 
-Start with the magnesium efficacy prompt. It's the only new entry into drifting territory and shows where competitor visibility is expanding. Cross-reference how other AI engines rank this query versus the previous run. Check whether the three exited prompts represent genuine ranking losses or temporary indexing fluctuation – the two-day window is tight for pattern confirmation.
+## Silence flux
 
-Monitor the own-only silence cluster; that's where competitive pressure is building sub-threshold.
+Five prompts changed silence classification. Two moved *out* of silence entirely (the three new drifters account for this). Two shifted *into* silence: "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd" became full-silent after own-only status.
 
-Week ahead: confirm whether product-specific searches stabilize or continue cycling between silence states.
+## Action items
+
+Review the three 0.443-scoring prompts for competitor mentions in Gemini and AI Overview results. Check whether natural/mineral product queries are being routed through comparison or ingredient-focused AI responses. Verify Magnesium content coverage across owned assets.
+
+Next week will clarify whether this represents sustained competitive infiltration or one-week indexing variance.

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
 
 ## Engine visibility
 
@@ -21,20 +21,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 10.0 %
-- **Reference:** 8.6 %
-- **Institutional:** 1.4 %
-- **Corporate:** 72.9 %
-- **Other:** 7.1 %
+- **Editorial:** 6.8 %
+- **Reference:** 6.8 %
+- **Institutional:** 1.7 %
+- **Corporate:** 76.3 %
+- **Other:** 8.5 %
 
 **Top cited domains**
 
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `ewalia.com` – OTHER, retrieved 33 % of chats
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
-- `kavalio.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 22 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `equidocs.de` – CORPORATE, retrieved 22 % of chats
+- `go4vet.com` – REFERENCE, retrieved 22 % of chats
 
 ## Suggested article
 

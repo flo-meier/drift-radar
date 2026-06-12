@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir hochwertiges Magnesium-Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_681fd3ba-565e-4f5e-a694-3c404cb5bfae`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_681fd3ba-565e-4f5e-a694-3c404cb5bfae`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
 
 ## Engine visibility
 
@@ -17,22 +17,20 @@
 - **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 - **Eggersmann** – top visibility 33 %  (AI Overview 33 %)
-- **Nösenberger** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.1 %
-- **Ugc:** 2.0 %
-- **Corporate:** 91.8 %
-- **Other:** 2.0 %
+- **Competitor:** 2.1 %
+- **Ugc:** 2.1 %
+- **Corporate:** 95.8 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 33 % of chats
 - `dochorse.de` – CORPORATE, retrieved 33 % of chats
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
 - `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article

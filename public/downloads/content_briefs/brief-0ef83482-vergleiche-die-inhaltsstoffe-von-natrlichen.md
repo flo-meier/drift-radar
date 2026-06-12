@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
 
 ## Engine visibility
 
@@ -49,22 +49,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 2.1 %
-- **Competitor:** 3.2 %
-- **Editorial:** 1.1 %
-- **Ugc:** 1.1 %
-- **Reference:** 3.2 %
-- **Corporate:** 87.4 %
-- **Other:** 2.1 %
+- **Own:** 3.3 %
+- **Competitor:** 3.3 %
+- **Editorial:** 2.2 %
+- **Ugc:** 2.2 %
+- **Reference:** 3.3 %
+- **Corporate:** 83.5 %
+- **Other:** 2.2 %
 
 **Top cited domains**
 
 - `kraemer.de` – CORPORATE, retrieved 44 % of chats
 - `stroeh.de` – CORPORATE, retrieved 44 % of chats
+- `alpurial.de` – CORPORATE, retrieved 44 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
