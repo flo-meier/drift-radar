@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,28 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (AI Overview 33 %)
-- **Marstall** – top visibility 33 %  (AI Overview 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **Marstall** – top visibility 33 %  (AI Overview 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.0 %
-- **Editorial:** 7.8 %
-- **Ugc:** 4.8 %
-- **Reference:** 6.8 %
-- **Institutional:** 5.8 %
-- **Corporate:** 68.0 %
-- **Other:** 5.8 %
+- **Competitor:** 1.1 %
+- **Editorial:** 6.4 %
+- **Ugc:** 5.4 %
+- **Reference:** 7.5 %
+- **Institutional:** 4.3 %
+- **Corporate:** 71.0 %
+- **Other:** 4.3 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 56 % of chats
 - `iwest.de` – CORPORATE, retrieved 56 % of chats
 - `madbarn.com` – CORPORATE, retrieved 44 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `migocki.de` – CORPORATE, retrieved 33 % of chats
+- `equistro.de` – CORPORATE, retrieved 44 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
@@ -48,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

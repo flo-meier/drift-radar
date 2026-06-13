@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 10.7 %
-- **Reference:** 14.3 %
-- **Corporate:** 75.0 %
+- **Editorial:** 10.3 %
+- **Reference:** 13.8 %
+- **Corporate:** 75.9 %
 
 **Top cited domains**
 
 - `pernaturam.de` – CORPORATE, retrieved 50 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 50 % of chats
+- `kraeuterwiese.de` – CORPORATE, retrieved 50 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 50 % of chats
 - `reiter-guide.de` – REFERENCE, retrieved 50 % of chats
 - `wiesenkraft.com` – CORPORATE, retrieved 50 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
 
 ## Suggested article
 

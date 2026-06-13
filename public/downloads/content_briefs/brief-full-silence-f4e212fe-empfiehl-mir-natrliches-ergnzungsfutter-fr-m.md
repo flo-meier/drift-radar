@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,14 +14,19 @@
 
 ## Citation source mix
 
-- **Reference:** 33.3 %
-- **Corporate:** 66.7 %
+- **Editorial:** 9.1 %
+- **Reference:** 36.4 %
+- **Corporate:** 45.5 %
+- **Other:** 9.1 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 17 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
+- `deganius.de` – CORPORATE, retrieved 17 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
+- `go4vet.com` – REFERENCE, retrieved 17 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

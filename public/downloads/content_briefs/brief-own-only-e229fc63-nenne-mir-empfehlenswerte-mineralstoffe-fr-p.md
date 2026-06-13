@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -20,20 +20,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.0 %
-- **Reference:** 9.0 %
-- **Institutional:** 30.4 %
-- **Corporate:** 42.6 %
-- **Other:** 9.0 %
+- **Editorial:** 8.8 %
+- **Ugc:** 2.3 %
+- **Reference:** 8.8 %
+- **Institutional:** 31.1 %
+- **Corporate:** 44.5 %
+- **Other:** 4.4 %
 
 **Top cited domains**
 
-- `ak-pferd.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `agriatierversicherung.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `clemson.edu` – INSTITUTIONAL, retrieved 33 % of chats
+- `ehorses.de` – CORPORATE, retrieved 33 % of chats
 - `go4vet.com` – REFERENCE, retrieved 33 % of chats
 - `hooforia.com` – EDITORIAL, retrieved 33 % of chats
-- `kornscheune.de` – OTHER, retrieved 33 % of chats
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
-- `agriatierversicherung.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

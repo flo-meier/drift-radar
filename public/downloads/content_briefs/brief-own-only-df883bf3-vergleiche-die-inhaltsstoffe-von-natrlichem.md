@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,27 +14,27 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **Pavo** – top visibility 50 %  (AI Overview 50 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 6.8 %
-- **Reference:** 6.8 %
+- **Editorial:** 7.0 %
+- **Reference:** 7.1 %
 - **Institutional:** 1.7 %
-- **Corporate:** 76.3 %
-- **Other:** 8.5 %
+- **Corporate:** 77.1 %
+- **Other:** 7.1 %
 
 **Top cited domains**
 
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `ewalia.com` – OTHER, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 22 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
-- `equidocs.de` – CORPORATE, retrieved 22 % of chats
-- `go4vet.com` – REFERENCE, retrieved 22 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 25 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 25 % of chats
+- `equidocs.de` – CORPORATE, retrieved 25 % of chats
+- `ewalia.com` – OTHER, retrieved 25 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
+- `chewy.com` – CORPORATE, retrieved 12 % of chats
 
 ## Suggested article
 

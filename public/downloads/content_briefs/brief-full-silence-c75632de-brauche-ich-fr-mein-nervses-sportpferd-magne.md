@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
-**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,22 +14,21 @@
 
 ## Citation source mix
 
-- **Own:** 1.7 %
-- **Editorial:** 5.0 %
-- **Ugc:** 10.0 %
-- **Reference:** 6.7 %
-- **Institutional:** 5.0 %
-- **Corporate:** 68.3 %
-- **Other:** 3.3 %
+- **Own:** 3.8 %
+- **Editorial:** 3.8 %
+- **Ugc:** 7.5 %
+- **Reference:** 9.3 %
+- **Institutional:** 1.8 %
+- **Corporate:** 73.8 %
 
 **Top cited domains**
 
-- `askheltie.com` – UGC, retrieved 44 % of chats
-- `agrobs.de` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `forageplustalk.co.uk` – EDITORIAL, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `askheltie.com` – UGC, retrieved 38 % of chats
+- `iwest.de` – CORPORATE, retrieved 38 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 25 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
+- `pferde-gold.de` – OWN, retrieved 25 % of chats
+- `agrobs.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
-- **ChatGPT:** 100 %
+- **ChatGPT:** 67 %
 - **Gemini:** 0 %
-- **AI Overview:** 33 %
+- **AI Overview:** 50 %
 
-**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.58  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 100 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 33 %
+### AI Overview – visibility 50 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,22 +49,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 3.3 %
-- **Competitor:** 3.3 %
-- **Editorial:** 2.2 %
-- **Ugc:** 2.2 %
-- **Reference:** 3.3 %
-- **Corporate:** 83.5 %
-- **Other:** 2.2 %
+- **Own:** 4.1 %
+- **Competitor:** 2.7 %
+- **Editorial:** 1.3 %
+- **Ugc:** 1.3 %
+- **Reference:** 2.6 %
+- **Corporate:** 84.2 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `stroeh.de` – CORPORATE, retrieved 44 % of chats
-- `alpurial.de` – CORPORATE, retrieved 44 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 38 % of chats
+- `pferde-gold.de` – OWN, retrieved 38 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

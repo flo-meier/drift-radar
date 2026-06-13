@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Ugc:** 7.1 %
-- **Reference:** 2.4 %
-- **Institutional:** 4.8 %
-- **Corporate:** 83.3 %
+- **Ugc:** 4.7 %
+- **Reference:** 4.7 %
+- **Institutional:** 11.8 %
+- **Corporate:** 76.5 %
 - **Other:** 2.4 %
 
 **Top cited domains**
 
-- `pinewoodhuskys.de` – CORPORATE, retrieved 33 % of chats
-- `equiflora.de` – CORPORATE, retrieved 22 % of chats
-- `iherb.com` – CORPORATE, retrieved 22 % of chats
-- `laurelnature.com` – CORPORATE, retrieved 22 % of chats
-- `naturalis-barf.de` – CORPORATE, retrieved 22 % of chats
-- `naturavetal.de` – CORPORATE, retrieved 22 % of chats
+- `equiflora.de` – CORPORATE, retrieved 38 % of chats
+- `iherb.com` – CORPORATE, retrieved 25 % of chats
+- `luckypets.de` – CORPORATE, retrieved 25 % of chats
+- `naturavetal.de` – CORPORATE, retrieved 25 % of chats
+- `pinewoodhuskys.de` – CORPORATE, retrieved 25 % of chats
+- `tiergesundheit.net` – INSTITUTIONAL, retrieved 12 % of chats
 
 ## Suggested article
 

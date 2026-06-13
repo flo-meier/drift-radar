@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,21 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 1.5 %
-- **Editorial:** 3.1 %
-- **Ugc:** 3.1 %
-- **Reference:** 4.6 %
-- **Institutional:** 1.5 %
-- **Corporate:** 86.2 %
+- **Own:** 2.4 %
+- **Competitor:** 2.4 %
+- **Ugc:** 2.4 %
+- **Reference:** 2.4 %
+- **Corporate:** 90.4 %
 
 **Top cited domains**
 
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 22 % of chats
-- `mambocare.de` – CORPORATE, retrieved 22 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
+- `mambocare.de` – CORPORATE, retrieved 25 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 25 % of chats
+- `equanis.de` – CORPORATE, retrieved 25 % of chats
+- `hyjoint-gelenke.de` – CORPORATE, retrieved 25 % of chats
+- `hyjoint.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

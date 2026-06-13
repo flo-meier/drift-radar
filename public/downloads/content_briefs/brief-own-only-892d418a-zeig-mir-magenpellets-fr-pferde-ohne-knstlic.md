@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -25,10 +25,10 @@
 
 - `carepet.de` – CORPORATE, retrieved 50 % of chats
 - `equine74.com` – CORPORATE, retrieved 50 % of chats
-- `pferdekiosk.biz` – CORPORATE, retrieved 50 % of chats
 - `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
-- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `eqx.vet` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `cantagos-choice.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

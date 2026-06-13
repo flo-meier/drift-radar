@@ -1,6 +1,6 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -47,19 +47,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 3.6 %
-- **Reference:** 1.8 %
-- **Corporate:** 92.9 %
-- **Other:** 1.8 %
+- **Competitor:** 4.2 %
+- **Reference:** 2.0 %
+- **Corporate:** 91.7 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `sapodoris.de` – CORPORATE, retrieved 33 % of chats
-- `aleo-pferdesport.de` – CORPORATE, retrieved 33 % of chats
+- `carepet.de` – CORPORATE, retrieved 38 % of chats
+- `iwest.de` – CORPORATE, retrieved 38 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 38 % of chats
+- `stroeh.de` – CORPORATE, retrieved 25 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
+- `equidocs.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

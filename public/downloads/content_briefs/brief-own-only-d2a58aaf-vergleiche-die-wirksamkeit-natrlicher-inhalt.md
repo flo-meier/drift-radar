@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -19,22 +19,21 @@
 
 ## Citation source mix
 
-- **Own:** 0.9 %
-- **Editorial:** 9.3 %
-- **Ugc:** 0.9 %
-- **Reference:** 12.1 %
-- **Institutional:** 14.0 %
-- **Corporate:** 55.1 %
-- **Other:** 7.5 %
+- **Editorial:** 11.4 %
+- **Ugc:** 2.3 %
+- **Reference:** 17.4 %
+- **Institutional:** 16.2 %
+- **Corporate:** 42.3 %
+- **Other:** 10.4 %
 
 **Top cited domains**
 
-- `votana-pferd.de` – CORPORATE, retrieved 44 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
-- `ivis.org` – REFERENCE, retrieved 33 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
-- `foranequine.com` – CORPORATE, retrieved 33 % of chats
-- `researchgate.net` – OTHER, retrieved 33 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 38 % of chats
+- `ivis.org` – REFERENCE, retrieved 38 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 38 % of chats
+- `emma-care.de` – CORPORATE, retrieved 38 % of chats
+- `hippoplus.de` – CORPORATE, retrieved 38 % of chats
+- `madbarn.com` – CORPORATE, retrieved 38 % of chats
 
 ## Suggested article
 

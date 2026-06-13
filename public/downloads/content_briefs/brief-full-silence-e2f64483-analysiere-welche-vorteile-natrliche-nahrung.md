@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.0 %
-- **Ugc:** 7.5 %
-- **Reference:** 10.4 %
-- **Institutional:** 10.4 %
-- **Corporate:** 62.7 %
+- **Editorial:** 6.0 %
+- **Ugc:** 8.0 %
+- **Reference:** 8.0 %
+- **Institutional:** 12.4 %
+- **Corporate:** 65.6 %
 
 **Top cited domains**
 
-- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 44 % of chats
-- `gse.bio` – CORPORATE, retrieved 33 % of chats
-- `hannover96.de` – CORPORATE, retrieved 33 % of chats
-- `zeinpharma.de` – CORPORATE, retrieved 33 % of chats
-- `healthline.com` – EDITORIAL, retrieved 22 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
+- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 50 % of chats
+- `zeinpharma.de` – CORPORATE, retrieved 38 % of chats
+- `gse.bio` – CORPORATE, retrieved 25 % of chats
+- `hannover96.de` – CORPORATE, retrieved 25 % of chats
+- `lpfa-nrw.de` – CORPORATE, retrieved 25 % of chats
+- `nutrador.com` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

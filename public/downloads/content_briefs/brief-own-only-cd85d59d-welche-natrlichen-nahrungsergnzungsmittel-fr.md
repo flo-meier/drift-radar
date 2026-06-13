@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (AI Overview 33 %)
+- **Pavo** – top visibility 50 %  (AI Overview 50 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.3 %
-- **Editorial:** 3.3 %
-- **Ugc:** 5.0 %
-- **Reference:** 10.0 %
-- **Institutional:** 5.0 %
-- **Corporate:** 70.0 %
-- **Other:** 3.3 %
+- **Competitor:** 2.0 %
+- **Editorial:** 6.0 %
+- **Ugc:** 3.9 %
+- **Reference:** 15.8 %
+- **Institutional:** 5.9 %
+- **Corporate:** 62.4 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 44 % of chats
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 50 % of chats
+- `kraemer.de` – CORPORATE, retrieved 38 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 25 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 25 % of chats
+- `equidocs.de` – CORPORATE, retrieved 25 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 25 % of chats
 
 ## Suggested article
 

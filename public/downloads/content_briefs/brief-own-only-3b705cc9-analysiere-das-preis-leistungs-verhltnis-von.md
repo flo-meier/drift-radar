@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -15,27 +15,28 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 67 %  (Gemini 67 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %, AI Overview 67 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, AI Overview 50 %)
 - **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
-- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 50 %  (AI Overview 50 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 7.5 %
-- **Editorial:** 11.9 %
-- **Reference:** 9.0 %
-- **Institutional:** 3.0 %
-- **Corporate:** 68.7 %
+- **Competitor:** 3.4 %
+- **Editorial:** 10.4 %
+- **Reference:** 8.6 %
+- **Institutional:** 1.7 %
+- **Corporate:** 74.3 %
+- **Other:** 1.7 %
 
 **Top cited domains**
 
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 22 % of chats
-- `hipposport.de` – CORPORATE, retrieved 22 % of chats
-- `marstall.de` – COMPETITOR, retrieved 22 % of chats
+- `kraemer.de` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 38 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 25 % of chats
+- `hipposport.de` – CORPORATE, retrieved 25 % of chats
+- `acis-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

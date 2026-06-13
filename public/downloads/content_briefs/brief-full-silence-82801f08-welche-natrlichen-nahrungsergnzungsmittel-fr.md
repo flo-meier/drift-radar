@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -18,17 +18,17 @@
 - **Ugc:** 2.4 %
 - **Reference:** 2.4 %
 - **Institutional:** 2.4 %
-- **Corporate:** 88.1 %
-- **Other:** 2.4 %
+- **Corporate:** 85.4 %
+- **Other:** 5.0 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 22 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 22 % of chats
-- `kraemer.de` – CORPORATE, retrieved 22 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 22 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 25 % of chats
+- `stroeh.de` – CORPORATE, retrieved 25 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 25 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 25 % of chats
+- `idalthi.com` – OTHER, retrieved 25 % of chats
+- `kraemer.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

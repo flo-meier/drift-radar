@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-23 → 2026-05-25
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,19 +14,19 @@
 
 ## Citation source mix
 
-- **Editorial:** 6.4 %
-- **Ugc:** 3.3 %
-- **Reference:** 3.3 %
-- **Corporate:** 87.1 %
+- **Competitor:** 5.8 %
+- **Ugc:** 2.0 %
+- **Institutional:** 3.9 %
+- **Corporate:** 88.3 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 50 % of chats
-- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
-- `equipro-intern.de` – CORPORATE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `lamicell.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `eqx.vet` – CORPORATE, retrieved 50 % of chats
+- `marstall.de` – COMPETITOR, retrieved 50 % of chats
+- `boomerangnutrition.co.uk` – CORPORATE, retrieved 33 % of chats
+- `chiadegracia.com` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

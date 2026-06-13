@@ -1,29 +1,32 @@
-# Drift Radar · 2026-06-11
+# Drift Radar · 2026-06-12
 
-## Overview
+## Summary
 
-Pferdegold tracked 63 prompts across ChatGPT, Gemini, and AI Overview. Drifting keywords rose to 15 (23.8% of corpus). Own-brand visibility held at 6.9%. The week produced three new drifters and no exits, indicating incremental competitive pressure in supplemental feed queries.
+Pferdegold visibility remains flat at 7.1% across 63 tracked prompts. Net drifting movement is +1 prompt (16 total in drift range), driven by three new entries offset against two exits. Silence-type volatility increased with 7 prompts shifting categories, signaling instability in competitor mention patterns rather than sustained ranking changes.
 
 ## Movement
 
-Three prompts crossed the 0.3 drifting threshold:
+Three prompts entered drifting range this week, all scoring 0.443:
 
-– "Suche gesundes Zusatzfutter für Pferde in Deutschland" (0.443)
-– "Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe" (0.443)
-– "Finde natürliche Magnesium-Pellets für mein Pferd ohne Industriezucker" (0.443)
+- "Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich"
+- "Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?"
+- "Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?"
 
-All three shifted from silence zones into active drifting. The first moved from own-only silence; the latter two from full silence. This suggests competitors are now appearing in AI Overview results for product-specific mineral and feed queries.
+These queries share Austrian and German geo-specificity plus ingredient-focus language. All three transitioned from own-only silence (Pferdegold mentioned, competitors silent) into active competition.
 
-"Was bewirkt Magnesium beim Pferd?" strengthened to 0.681 (previously 0.443), indicating consolidation of educational content drift.
+Two prompts fell below 0.3 threshold:
 
-"Zeige mir gute Ergänzungsfutter für mein Pferd" slipped to 0.337 from 0.592 – a notable reversion, though still drifting.
+- "Welche natürlichen Gelenkpellets für Pferde empfiehlst du?" (0.443 → 0.0)
+- "Nenne mir gutes Ergänzungsfutter für mein Pferd." (0.443 → 0.0)
 
-## Silence flux
+Both now register own-only silence, indicating competitors have stopped surfacing for these variations.
 
-Five prompts changed silence classification. Two moved *out* of silence entirely (the three new drifters account for this). Two shifted *into* silence: "Empfiehl mir natürliches Ergänzungsfutter für mein Pferd" became full-silent after own-only status.
+## Silence Volatility
 
-## Action items
+Seven prompts changed silence classification. The three new drifters exited own-only silence entirely, meaning competitors now appear alongside or instead of Pferdegold. One prompt ("Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen") degraded from own-only to full silence – neither Pferdegold nor competitors showing.
 
-Review the three 0.443-scoring prompts for competitor mentions in Gemini and AI Overview results. Check whether natural/mineral product queries are being routed through comparison or ingredient-focused AI responses. Verify Magnesium content coverage across owned assets.
+## Priority
 
-Next week will clarify whether this represents sustained competitive infiltration or one-week indexing variance.
+Check the three new drifters against ChatGPT and Gemini outputs. Verify whether competitor mentions are supplement-specific (joint pellets, sugar-free formulations) or general feed recommendations. The geo-tagged queries suggest regional targeting opportunity or content gap.
+
+Watch the full-silence prompt for re-emergence next week.

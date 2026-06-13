@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,27 +14,26 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (Gemini 67 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.5 %
 - **Ugc:** 10.2 %
-- **Corporate:** 82.8 %
+- **Corporate:** 86.3 %
 - **Other:** 3.5 %
 
 **Top cited domains**
 
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `furago.de` – CORPORATE, retrieved 50 % of chats
 - `agrarzone.de` – UGC, retrieved 33 % of chats
-- `furago.de` – CORPORATE, retrieved 33 % of chats
-- `okapi-online.de` – CORPORATE, retrieved 33 % of chats
 - `cdvet.de` – CORPORATE, retrieved 17 % of chats
+- `eurital.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -46,7 +45,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

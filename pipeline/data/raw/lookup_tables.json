@@ -48,10 +48,6 @@
     }
   },
   "models": {
-    "amazon-rufus-scraper": {
-      "name": "Amazon Rufus",
-      "is_active": false
-    },
     "chatgpt-scraper": {
       "name": "ChatGPT",
       "is_active": true
@@ -68,10 +64,6 @@
       "name": "DeepSeek API",
       "is_active": false
     },
-    "gemini-2.5-flash": {
-      "name": "Gemini API",
-      "is_active": false
-    },
     "gemini-scraper": {
       "name": "Gemini",
       "is_active": true
@@ -84,24 +76,8 @@
       "name": "AI Overview",
       "is_active": true
     },
-    "gpt-4o": {
-      "name": "OpenAI",
-      "is_active": false
-    },
     "gpt-4o-search": {
       "name": "OpenAI Search API",
-      "is_active": false
-    },
-    "grok-4.3": {
-      "name": "Grok API",
-      "is_active": false
-    },
-    "grok-scraper": {
-      "name": "Grok",
-      "is_active": false
-    },
-    "llama-3.3-70b-instruct": {
-      "name": "Meta Llama",
       "is_active": false
     },
     "microsoft-copilot-scraper": {
@@ -114,10 +90,6 @@
     },
     "qwen-3-7-plus": {
       "name": "Qwen API",
-      "is_active": false
-    },
-    "sonar": {
-      "name": "Perplexity API",
       "is_active": false
     }
   },

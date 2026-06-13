@@ -1,6 +1,6 @@
 # Drift Radar – »Wie erkenne ich einen Magnesiummangel bei meinem Pferd?«
 
-**Prompt ID:** `pr_b54dcd0d-29ab-441c-aafa-f45368ad3f1f`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_b54dcd0d-29ab-441c-aafa-f45368ad3f1f`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,22 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 5.2 %
-- **Editorial:** 5.2 %
-- **Ugc:** 1.7 %
-- **Reference:** 5.2 %
-- **Institutional:** 6.9 %
-- **Corporate:** 74.2 %
-- **Other:** 1.7 %
+- **Own:** 2.2 %
+- **Editorial:** 4.7 %
+- **Reference:** 4.5 %
+- **Institutional:** 4.7 %
+- **Corporate:** 83.9 %
 
 **Top cited domains**
 
-- `equine74.com` – CORPORATE, retrieved 56 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 56 % of chats
-- `agrobs.de` – CORPORATE, retrieved 44 % of chats
-- `horse-vitality-company.com` – CORPORATE, retrieved 33 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 50 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 50 % of chats
+- `agrobs.de` – CORPORATE, retrieved 38 % of chats
+- `equanis.de` – CORPORATE, retrieved 38 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 38 % of chats
+- `winnies.de` – CORPORATE, retrieved 38 % of chats
 
 ## Suggested article
 

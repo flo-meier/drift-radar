@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 5.8 %
-- **Ugc:** 5.8 %
-- **Institutional:** 5.8 %
-- **Corporate:** 82.5 %
+- **Editorial:** 3.1 %
+- **Ugc:** 3.1 %
+- **Institutional:** 3.1 %
+- **Corporate:** 90.8 %
 
 **Top cited domains**
 
-- `drogerie-plappert.de` – CORPORATE, retrieved 50 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
 - `emma-care.de` – CORPORATE, retrieved 50 % of chats
-- `nutravital.de` – CORPORATE, retrieved 50 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
-- `agrarzone.de` – UGC, retrieved 33 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 50 % of chats
+- `drogerie-plappert.de` – CORPORATE, retrieved 33 % of chats
+- `horsesbestshop.de` – CORPORATE, retrieved 33 % of chats
+- `nikolaus-nature.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

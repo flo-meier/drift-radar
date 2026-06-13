@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -15,24 +15,25 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.1 %
-- **Institutional:** 3.1 %
-- **Corporate:** 89.2 %
-- **Other:** 4.6 %
+- **Own:** 1.7 %
+- **Competitor:** 3.4 %
+- **Institutional:** 3.4 %
+- **Corporate:** 87.9 %
+- **Other:** 3.4 %
 
 **Top cited domains**
 
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `tributeequinenutrition.com` – CORPORATE, retrieved 33 % of chats
-- `vetmedpro.de` – CORPORATE, retrieved 33 % of chats
+- `fundis-reitsport.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 22 % of chats
-- `hipposport.de` – CORPORATE, retrieved 22 % of chats
+- `iwest.de` – CORPORATE, retrieved 22 % of chats
+- `st-hippolyt.de` – COMPETITOR, retrieved 22 % of chats
 
 ## Suggested article
 

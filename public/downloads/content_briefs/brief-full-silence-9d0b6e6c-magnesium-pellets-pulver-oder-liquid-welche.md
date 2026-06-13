@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd?«
 
-**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 6.8 %
-- **Competitor:** 3.5 %
-- **Reference:** 6.8 %
-- **Corporate:** 79.3 %
-- **Other:** 3.5 %
+- **Own:** 7.5 %
+- **Competitor:** 4.9 %
+- **Reference:** 4.9 %
+- **Corporate:** 80.1 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `winnies.de` – CORPORATE, retrieved 50 % of chats
+- `pferde-gold.de` – OWN, retrieved 50 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `annimally.de` – CORPORATE, retrieved 33 % of chats
 - `agrobs.de` – CORPORATE, retrieved 33 % of chats
 - `calapo.com` – CORPORATE, retrieved 33 % of chats
-- `einhuf.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
