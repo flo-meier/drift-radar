@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -19,17 +19,18 @@
 
 ## Citation source mix
 
+- **Institutional:** 2.0 %
 - **Corporate:** 95.9 %
-- **Other:** 4.1 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
-- `seewinkler-naturprodukte.com` – CORPORATE, retrieved 38 % of chats
 - `annimally.de` – CORPORATE, retrieved 38 % of chats
 - `pharmahorse.de` – CORPORATE, retrieved 38 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `equidocs.de` – CORPORATE, retrieved 25 % of chats
-- `nuvallo.de` – OTHER, retrieved 25 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
+- `seewinkler-naturprodukte.com` – CORPORATE, retrieved 25 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 25 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

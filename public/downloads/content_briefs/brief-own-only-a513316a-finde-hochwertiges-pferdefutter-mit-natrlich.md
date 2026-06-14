@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -15,25 +15,23 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %)
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 10.2 %
-- **Corporate:** 86.3 %
-- **Other:** 3.5 %
+- **Ugc:** 9.6 %
+- **Corporate:** 87.1 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `furago.de` – CORPORATE, retrieved 50 % of chats
 - `agrarzone.de` – UGC, retrieved 33 % of chats
-- `cdvet.de` – CORPORATE, retrieved 17 % of chats
-- `eurital.de` – CORPORATE, retrieved 17 % of chats
+- `furago.de` – CORPORATE, retrieved 33 % of chats
+- `okapi-online.de` – CORPORATE, retrieved 33 % of chats
+- `semhof.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

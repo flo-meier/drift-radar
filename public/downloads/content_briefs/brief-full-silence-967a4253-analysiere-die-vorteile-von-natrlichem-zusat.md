@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Ugc:** 4.7 %
-- **Reference:** 4.7 %
-- **Institutional:** 11.8 %
-- **Corporate:** 76.5 %
-- **Other:** 2.4 %
+- **Editorial:** 2.5 %
+- **Reference:** 7.6 %
+- **Institutional:** 17.9 %
+- **Corporate:** 69.5 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `equiflora.de` – CORPORATE, retrieved 38 % of chats
-- `iherb.com` – CORPORATE, retrieved 25 % of chats
-- `luckypets.de` – CORPORATE, retrieved 25 % of chats
+- `heroshealth.de` – CORPORATE, retrieved 25 % of chats
+- `tiergesundheit.net` – INSTITUTIONAL, retrieved 25 % of chats
+- `ep-nutrition.de` – CORPORATE, retrieved 25 % of chats
+- `herbsom.de` – CORPORATE, retrieved 25 % of chats
 - `naturavetal.de` – CORPORATE, retrieved 25 % of chats
-- `pinewoodhuskys.de` – CORPORATE, retrieved 25 % of chats
-- `tiergesundheit.net` – INSTITUTIONAL, retrieved 12 % of chats
+- `nutriest.eu` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

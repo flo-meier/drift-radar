@@ -1,6 +1,6 @@
 # Drift Radar – »Finde in Deutschland hergestelltes Magenfutter für mein Pferd.«
 
-**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -15,26 +15,25 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 100 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 50 %  (AI Overview 50 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 6.3 %
-- **Editorial:** 2.0 %
-- **Ugc:** 6.2 %
-- **Corporate:** 83.5 %
-- **Other:** 2.0 %
+- **Competitor:** 7.6 %
+- **Editorial:** 1.8 %
+- **Ugc:** 5.7 %
+- **Corporate:** 84.9 %
 
 **Top cited domains**
 
+- `marstall.de` – COMPETITOR, retrieved 50 % of chats
 - `stroeh.de` – CORPORATE, retrieved 38 % of chats
-- `marstall.de` – COMPETITOR, retrieved 38 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 38 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 38 % of chats
+- `salutaria.de` – CORPORATE, retrieved 38 % of chats
 - `hipposport.de` – CORPORATE, retrieved 25 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `agrobs.de` – CORPORATE, retrieved 25 % of chats
-- `deganius.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

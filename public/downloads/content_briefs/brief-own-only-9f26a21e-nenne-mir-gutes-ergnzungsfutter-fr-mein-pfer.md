@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir gutes Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,25 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Reference:** 6.5 %
-- **Institutional:** 6.5 %
-- **Corporate:** 87.0 %
+- **Editorial:** 2.5 %
+- **Reference:** 7.4 %
+- **Institutional:** 7.4 %
+- **Corporate:** 82.8 %
 
 **Top cited domains**
 
+- `vetena.de` – CORPORATE, retrieved 50 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
+- `equiva.com` – CORPORATE, retrieved 33 % of chats
 - `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `vetena.de` – CORPORATE, retrieved 33 % of chats
+- `go4vet.com` – REFERENCE, retrieved 17 % of chats
 - `madbarn.com` – CORPORATE, retrieved 17 % of chats
-- `chewy.com` – CORPORATE, retrieved 17 % of chats
-- `german-horse-fit.de` – CORPORATE, retrieved 17 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.9 %
-- **Ugc:** 6.6 %
-- **Reference:** 6.6 %
-- **Institutional:** 11.0 %
-- **Corporate:** 60.6 %
-- **Other:** 6.4 %
+- **Editorial:** 9.6 %
+- **Ugc:** 5.5 %
+- **Reference:** 11.4 %
+- **Institutional:** 11.4 %
+- **Corporate:** 58.4 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
+- `equine74.com` – CORPORATE, retrieved 38 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 38 % of chats
 - `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
-- `biomedcentral.com` – EDITORIAL, retrieved 25 % of chats
-- `equine74.com` – CORPORATE, retrieved 25 % of chats
-- `krauterie.de` – CORPORATE, retrieved 25 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 25 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 25 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 25 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 25 % of chats
 
 ## Suggested article
 

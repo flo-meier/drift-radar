@@ -1,6 +1,6 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -40,17 +40,17 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Corporate:** 96.1 %
-- **Other:** 3.9 %
+- **Corporate:** 96.7 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `equanis.de` – CORPORATE, retrieved 50 % of chats
+- `equanis.de` – CORPORATE, retrieved 33 % of chats
 - `hansetier.de` – CORPORATE, retrieved 33 % of chats
 - `seewinkler-naturprodukte.com` – CORPORATE, retrieved 33 % of chats
 - `squeed.de` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 17 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

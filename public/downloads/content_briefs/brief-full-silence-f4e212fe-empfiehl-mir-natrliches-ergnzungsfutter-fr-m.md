@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,19 +14,19 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.1 %
-- **Reference:** 36.4 %
-- **Corporate:** 45.5 %
-- **Other:** 9.1 %
+- **Editorial:** 9.9 %
+- **Reference:** 34.9 %
+- **Corporate:** 45.2 %
+- **Other:** 9.9 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
-- `deganius.de` – CORPORATE, retrieved 17 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
-- `go4vet.com` – REFERENCE, retrieved 17 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 17 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
+- `go4vet.com` – REFERENCE, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
 
 ## Suggested article
 

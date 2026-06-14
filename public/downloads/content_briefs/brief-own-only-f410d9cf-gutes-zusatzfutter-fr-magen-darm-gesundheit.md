@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -15,13 +15,14 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.1 %
-- **Ugc:** 3.1 %
-- **Institutional:** 3.1 %
-- **Corporate:** 90.8 %
+- **Editorial:** 3.2 %
+- **Institutional:** 3.2 %
+- **Corporate:** 93.7 %
 
 **Top cited domains**
 
@@ -30,7 +31,7 @@
 - `vetrigold.de` – CORPORATE, retrieved 50 % of chats
 - `drogerie-plappert.de` – CORPORATE, retrieved 33 % of chats
 - `horsesbestshop.de` – CORPORATE, retrieved 33 % of chats
-- `nikolaus-nature.com` – CORPORATE, retrieved 33 % of chats
+- `nutravital.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -42,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

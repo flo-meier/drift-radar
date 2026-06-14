@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 6.0 %
-- **Ugc:** 8.0 %
-- **Reference:** 8.0 %
-- **Institutional:** 12.4 %
-- **Corporate:** 65.6 %
+- **Editorial:** 5.5 %
+- **Ugc:** 3.7 %
+- **Reference:** 5.5 %
+- **Institutional:** 11.5 %
+- **Corporate:** 73.9 %
 
 **Top cited domains**
 
+- `zeinpharma.de` – CORPORATE, retrieved 62 % of chats
 - `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 50 % of chats
-- `zeinpharma.de` – CORPORATE, retrieved 38 % of chats
-- `gse.bio` – CORPORATE, retrieved 25 % of chats
-- `hannover96.de` – CORPORATE, retrieved 25 % of chats
-- `lpfa-nrw.de` – CORPORATE, retrieved 25 % of chats
-- `nutrador.com` – CORPORATE, retrieved 25 % of chats
+- `lpfa-nrw.de` – CORPORATE, retrieved 38 % of chats
+- `nutrador.com` – CORPORATE, retrieved 38 % of chats
+- `nutriest.eu` – CORPORATE, retrieved 38 % of chats
+- `vitaminfit.eu` – CORPORATE, retrieved 38 % of chats
 
 ## Suggested article
 

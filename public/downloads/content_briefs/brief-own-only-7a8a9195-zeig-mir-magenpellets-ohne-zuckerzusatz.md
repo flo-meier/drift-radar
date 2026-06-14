@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -16,21 +16,21 @@
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %)
 - **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 2.7 %
-- **Corporate:** 97.3 %
+- **Institutional:** 2.9 %
+- **Corporate:** 97.1 %
 
 **Top cited domains**
 
 - `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `carepet.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
+- `mynatureshop.com` – CORPORATE, retrieved 33 % of chats
+- `dm.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
+- `agrarmarkt-engert.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

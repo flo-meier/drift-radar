@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -15,26 +15,27 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 67 %  (AI Overview 67 %)
-- **Marstall** – top visibility 33 %  (AI Overview 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.1 %
-- **Editorial:** 6.4 %
-- **Ugc:** 5.4 %
-- **Reference:** 7.5 %
-- **Institutional:** 4.3 %
-- **Corporate:** 71.0 %
-- **Other:** 4.3 %
+- **Own:** 1.2 %
+- **Competitor:** 2.3 %
+- **Editorial:** 3.5 %
+- **Ugc:** 2.3 %
+- **Reference:** 5.9 %
+- **Institutional:** 4.7 %
+- **Corporate:** 77.7 %
+- **Other:** 2.3 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 56 % of chats
 - `iwest.de` – CORPORATE, retrieved 56 % of chats
-- `madbarn.com` – CORPORATE, retrieved 44 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
 - `equistro.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,21 +14,20 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.4 %
-- **Ugc:** 2.4 %
-- **Reference:** 2.4 %
-- **Institutional:** 2.4 %
-- **Corporate:** 85.4 %
-- **Other:** 5.0 %
+- **Editorial:** 8.3 %
+- **Reference:** 8.3 %
+- **Institutional:** 4.2 %
+- **Corporate:** 70.8 %
+- **Other:** 8.3 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 25 % of chats
-- `stroeh.de` – CORPORATE, retrieved 25 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 25 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 25 % of chats
-- `idalthi.com` – OTHER, retrieved 25 % of chats
-- `kraemer.de` – CORPORATE, retrieved 25 % of chats
+- `stroeh.de` – CORPORATE, retrieved 14 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 14 % of chats
+- `go4vet.com` – REFERENCE, retrieved 14 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 14 % of chats
+- `barynesse.com` – CORPORATE, retrieved 14 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 14 % of chats
 
 ## Suggested article
 

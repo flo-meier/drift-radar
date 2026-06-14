@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Ergänzungsmittel für Hufe und Fell sind empfehlenswert?«
 
-**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -15,22 +15,22 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.0 %
-- **Institutional:** 4.0 %
-- **Corporate:** 88.0 %
-- **Other:** 4.0 %
+- **Competitor:** 5.9 %
+- **Corporate:** 88.2 %
+- **Other:** 5.9 %
 
 **Top cited domains**
 
 - `vetripharm.de` – CORPORATE, retrieved 33 % of chats
-- `equistro.de` – CORPORATE, retrieved 17 % of chats
-- `iqhorse.de` – CORPORATE, retrieved 17 % of chats
-- `madbarn.com` – CORPORATE, retrieved 17 % of chats
+- `equidocs.de` – CORPORATE, retrieved 17 % of chats
 - `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `iqhorse.de` – CORPORATE, retrieved 17 % of chats
 - `annimally.de` – CORPORATE, retrieved 17 % of chats
+- `canina.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -42,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,25 +14,24 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 50 %  (AI Overview 50 %, Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
 - **Institutional:** 8.3 %
-- **Corporate:** 89.0 %
-- **Other:** 2.7 %
+- **Corporate:** 91.7 %
 
 **Top cited domains**
 
 - `proequishop.ch` – CORPORATE, retrieved 38 % of chats
-- `fundis-reitsport.ch` – CORPORATE, retrieved 38 % of chats
 - `huf24.ch` – CORPORATE, retrieved 38 % of chats
+- `zooplus.ch` – CORPORATE, retrieved 38 % of chats
+- `fundis-reitsport.ch` – CORPORATE, retrieved 38 % of chats
 - `horze.ch` – CORPORATE, retrieved 38 % of chats
-- `galaxus.ch` – CORPORATE, retrieved 25 % of chats
-- `zooplus.ch` – CORPORATE, retrieved 25 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 
@@ -44,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Höveler, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

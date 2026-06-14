@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
-**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 3.8 %
-- **Editorial:** 3.8 %
-- **Ugc:** 7.5 %
-- **Reference:** 9.3 %
-- **Institutional:** 1.8 %
-- **Corporate:** 73.8 %
+- **Own:** 5.0 %
+- **Editorial:** 1.6 %
+- **Ugc:** 8.2 %
+- **Reference:** 11.5 %
+- **Institutional:** 1.6 %
+- **Corporate:** 70.6 %
+- **Other:** 1.6 %
 
 **Top cited domains**
 
+- `iwest.de` – CORPORATE, retrieved 50 % of chats
+- `pferde-gold.de` – OWN, retrieved 38 % of chats
 - `askheltie.com` – UGC, retrieved 38 % of chats
-- `iwest.de` – CORPORATE, retrieved 38 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 25 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
-- `pferde-gold.de` – OWN, retrieved 25 % of chats
-- `agrobs.de` – CORPORATE, retrieved 25 % of chats
+- `go4vet.com` – REFERENCE, retrieved 38 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 38 % of chats
+- `rusethandel.de` – CORPORATE, retrieved 38 % of chats
 
 ## Suggested article
 

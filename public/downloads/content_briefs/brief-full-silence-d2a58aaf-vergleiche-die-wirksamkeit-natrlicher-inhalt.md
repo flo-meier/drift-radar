@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-07 → 2026-06-09
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,22 +14,21 @@
 
 ## Citation source mix
 
-- **Own:** 1.0 %
-- **Editorial:** 9.7 %
-- **Ugc:** 3.9 %
-- **Reference:** 10.7 %
-- **Institutional:** 15.5 %
-- **Corporate:** 58.3 %
-- **Other:** 1.0 %
+- **Editorial:** 8.7 %
+- **Ugc:** 3.8 %
+- **Reference:** 17.9 %
+- **Institutional:** 11.3 %
+- **Corporate:** 48.1 %
+- **Other:** 10.2 %
 
 **Top cited domains**
 
-- `hippoplus.de` – CORPORATE, retrieved 44 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
-- `ivis.org` – REFERENCE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `hippoplus.de` – CORPORATE, retrieved 50 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 38 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 38 % of chats
+- `wiley.com` – OTHER, retrieved 38 % of chats
+- `emma-care.de` – CORPORATE, retrieved 38 % of chats
+- `madbarn.com` – CORPORATE, retrieved 38 % of chats
 
 ## Suggested article
 

@@ -1,14 +1,14 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
-- **Gemini:** 67 %
+- **Gemini:** 33 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -23,7 +23,7 @@
 
 > All five product brands ChatGPT recommends are outside Peec's tracked competitor list – none of them are the peer set Pferdegold competes with in the SERP.
 
-### Gemini – visibility 67 %
+### Gemini – visibility 33 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -42,18 +42,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Reference:** 5.2 %
-- **Institutional:** 2.6 %
-- **Corporate:** 92.3 %
+- **Editorial:** 4.9 %
+- **Institutional:** 2.5 %
+- **Corporate:** 90.2 %
+- **Other:** 2.5 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 50 % of chats
+- `pferdedenker.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefood.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `ehorses.de` – CORPORATE, retrieved 17 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
 - `migocki.de` – CORPORATE, retrieved 17 % of chats
+- `nikolaus-nature.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 97.5 %
-- **Other:** 2.5 %
+- **Corporate:** 97.3 %
+- **Other:** 2.7 %
 
 **Top cited domains**
 
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
 - `carepet.de` – CORPORATE, retrieved 50 % of chats
-- `equine74.com` – CORPORATE, retrieved 50 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
-- `eqx.vet` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `cantagos-choice.de` – CORPORATE, retrieved 33 % of chats
+- `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `kikolily.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

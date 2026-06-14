@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
 
 ## Engine visibility
 
@@ -14,26 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Eggersmann** – top visibility 67 %  (ChatGPT 67 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.7 %
-- **Corporate:** 92.5 %
-- **Other:** 3.7 %
+- **Competitor:** 4.2 %
+- **Reference:** 8.4 %
+- **Corporate:** 87.4 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `wiesenkraft.com` – CORPORATE, retrieved 50 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `feedmyhorse.de` – CORPORATE, retrieved 33 % of chats
-- `iqhorse.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `wiesenkraft.com` – CORPORATE, retrieved 33 % of chats
 - `marstall.de` – COMPETITOR, retrieved 17 % of chats
+- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
