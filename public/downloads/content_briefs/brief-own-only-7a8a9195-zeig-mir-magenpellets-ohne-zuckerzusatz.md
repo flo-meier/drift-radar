@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -15,22 +15,21 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Institutional:** 2.9 %
-- **Corporate:** 97.1 %
+- **Institutional:** 4.4 %
+- **Corporate:** 95.6 %
 
 **Top cited domains**
 
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `mynatureshop.com` – CORPORATE, retrieved 33 % of chats
-- `dm.de` – CORPORATE, retrieved 17 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
-- `agrarmarkt-engert.de` – CORPORATE, retrieved 17 % of chats
+- `mynatureshop.com` – CORPORATE, retrieved 50 % of chats
+- `dm.de` – CORPORATE, retrieved 33 % of chats
+- `valsona.de` – CORPORATE, retrieved 33 % of chats
+- `bodfeld-apotheke.de` – CORPORATE, retrieved 17 % of chats
+- `apotheke24h.at` – CORPORATE, retrieved 17 % of chats
+- `apothekemuehlau.at` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -42,7 +41,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

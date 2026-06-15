@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 7.1 %
-- **Ugc:** 1.8 %
-- **Reference:** 7.1 %
-- **Institutional:** 30.2 %
-- **Corporate:** 46.6 %
-- **Other:** 7.2 %
+- **Editorial:** 4.3 %
+- **Ugc:** 2.2 %
+- **Reference:** 8.5 %
+- **Institutional:** 21.4 %
+- **Corporate:** 55.2 %
+- **Other:** 8.5 %
 
 **Top cited domains**
 
-- `hypona.ch` – CORPORATE, retrieved 50 % of chats
 - `iwest.de` – CORPORATE, retrieved 50 % of chats
-- `kornscheune.de` – OTHER, retrieved 50 % of chats
 - `liebegg.ch` – INSTITUTIONAL, retrieved 50 % of chats
 - `winnies.de` – CORPORATE, retrieved 50 % of chats
-- `ak-pferd.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `ehorses.de` – CORPORATE, retrieved 33 % of chats
+- `go4vet.com` – REFERENCE, retrieved 33 % of chats
+- `hypona.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

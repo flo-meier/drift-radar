@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir gutes Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-03 → 2026-05-05
+**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -14,20 +14,19 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.4 %
-- **Reference:** 3.8 %
-- **Institutional:** 9.4 %
-- **Corporate:** 73.6 %
-- **Other:** 3.8 %
+- **Editorial:** 4.9 %
+- **Reference:** 15.0 %
+- **Institutional:** 7.6 %
+- **Corporate:** 72.5 %
 
 **Top cited domains**
 
-- `equiva.com` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 17 % of chats
-- `hipposport.de` – CORPORATE, retrieved 17 % of chats
-- `ker.com` – OTHER, retrieved 17 % of chats
-- `kraemer.de` – CORPORATE, retrieved 17 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 50 % of chats
+- `equiva.com` – CORPORATE, retrieved 50 % of chats
+- `vetena.de` – CORPORATE, retrieved 50 % of chats
+- `go4vet.com` – REFERENCE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

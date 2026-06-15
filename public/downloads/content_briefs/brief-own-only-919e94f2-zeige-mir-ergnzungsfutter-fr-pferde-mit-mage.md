@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -14,23 +14,21 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %, AI Overview 100 %, Gemini 33 %)
-- **Havens** – top visibility 33 %  (Gemini 33 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Reference:** 2.7 %
-- **Corporate:** 86.3 %
-- **Other:** 11.0 %
+- **Corporate:** 91.1 %
+- **Other:** 8.9 %
 
 **Top cited domains**
 
-- `dierapotheker.nl` – CORPORATE, retrieved 43 % of chats
-- `pavo.nl` – CORPORATE, retrieved 28 % of chats
-- `equine74.com` – CORPORATE, retrieved 28 % of chats
-- `food4animals.nl` – CORPORATE, retrieved 28 % of chats
-- `purepaardenvoeding.nl` – CORPORATE, retrieved 28 % of chats
-- `vanleeuwendiervoeders.nl` – CORPORATE, retrieved 28 % of chats
+- `equine74.com` – CORPORATE, retrieved 50 % of chats
+- `pavo.nl` – CORPORATE, retrieved 33 % of chats
+- `dierapotheker.nl` – CORPORATE, retrieved 33 % of chats
+- `food4animals.nl` – CORPORATE, retrieved 33 % of chats
+- `purepaardenvoeding.nl` – CORPORATE, retrieved 33 % of chats
+- `vanleeuwendiervoeders.nl` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -42,7 +40,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Havens for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

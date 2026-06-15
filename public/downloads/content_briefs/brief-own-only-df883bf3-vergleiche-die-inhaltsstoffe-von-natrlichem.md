@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 50 %  (AI Overview 50 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 5.0 %
-- **Reference:** 6.7 %
-- **Institutional:** 5.0 %
-- **Corporate:** 79.9 %
-- **Other:** 3.4 %
+- **Editorial:** 7.8 %
+- **Reference:** 9.6 %
+- **Institutional:** 6.3 %
+- **Corporate:** 71.5 %
+- **Other:** 4.7 %
 
 **Top cited domains**
 
+- `reiter-guide.de` – REFERENCE, retrieved 38 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 38 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 38 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 25 % of chats
-- `deuka.de` – CORPORATE, retrieved 25 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 25 % of chats
 - `ewalia.com` – OTHER, retrieved 25 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 25 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 25 % of chats
+- `go4vet.com` – REFERENCE, retrieved 25 % of chats
 
 ## Suggested article
 

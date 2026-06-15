@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -14,27 +14,27 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 50 %  (AI Overview 50 %)
-- **Höveler** – top visibility 50 %  (AI Overview 50 %)
+- **Pavo** – top visibility 33 %  (AI Overview 33 %)
+- **Höveler** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Own:** 2.7 %
-- **Competitor:** 4.0 %
-- **Editorial:** 2.6 %
-- **Ugc:** 2.6 %
-- **Reference:** 12.0 %
-- **Institutional:** 14.5 %
-- **Corporate:** 56.2 %
-- **Other:** 5.2 %
+- **Own:** 1.6 %
+- **Competitor:** 3.2 %
+- **Editorial:** 3.2 %
+- **Ugc:** 1.6 %
+- **Reference:** 12.8 %
+- **Institutional:** 9.5 %
+- **Corporate:** 65.1 %
+- **Other:** 3.2 %
 
 **Top cited domains**
 
 - `pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `hoeveler.com` – COMPETITOR, retrieved 25 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 25 % of chats
 - `wielensdiervoeders.nl` – CORPORATE, retrieved 25 % of chats
 - `agrobs.de` – CORPORATE, retrieved 25 % of chats
+- `aminohorse.de` – CORPORATE, retrieved 25 % of chats
+- `cerascreen.de` – CORPORATE, retrieved 25 % of chats
 - `futter-simon.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article

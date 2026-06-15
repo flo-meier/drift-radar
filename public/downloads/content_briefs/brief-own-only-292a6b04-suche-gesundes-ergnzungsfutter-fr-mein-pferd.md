@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -14,28 +14,29 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %, Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Own:** 2.5 %
-- **Competitor:** 4.8 %
-- **Editorial:** 4.9 %
-- **Ugc:** 2.5 %
-- **Corporate:** 83.0 %
-- **Other:** 2.5 %
+- **Own:** 1.9 %
+- **Competitor:** 6.0 %
+- **Editorial:** 5.8 %
+- **Ugc:** 3.9 %
+- **Institutional:** 3.9 %
+- **Corporate:** 76.6 %
+- **Other:** 1.9 %
 
 **Top cited domains**
 
-- `futter-simon.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `einhuf.com` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `vitalbix.com` – UGC, retrieved 17 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `mambocare.de` – CORPORATE, retrieved 43 % of chats
+- `einhuf.com` – CORPORATE, retrieved 43 % of chats
+- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `marstall.de` – COMPETITOR, retrieved 28 % of chats
+- `hipposport.de` – CORPORATE, retrieved 28 % of chats
+- `salutaria.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

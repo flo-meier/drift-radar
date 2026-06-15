@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -42,19 +42,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 4.9 %
-- **Institutional:** 2.5 %
-- **Corporate:** 90.2 %
-- **Other:** 2.5 %
+- **Editorial:** 7.1 %
+- **Reference:** 2.4 %
+- **Institutional:** 2.4 %
+- **Corporate:** 85.7 %
+- **Other:** 2.4 %
 
 **Top cited domains**
 
-- `pferdedenker.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefood.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
-- `migocki.de` – CORPORATE, retrieved 17 % of chats
-- `nikolaus-nature.com` – CORPORATE, retrieved 17 % of chats
+- `dr-hawes.de` – CORPORATE, retrieved 33 % of chats
+- `equidocs.de` – CORPORATE, retrieved 33 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-heilkunde.com` – EDITORIAL, retrieved 33 % of chats
 
 ## Suggested article
 

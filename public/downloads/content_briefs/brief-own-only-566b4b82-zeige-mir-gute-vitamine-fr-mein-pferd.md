@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -14,25 +14,24 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 9.7 %
-- **Reference:** 6.5 %
-- **Institutional:** 19.2 %
-- **Corporate:** 64.6 %
+- **Institutional:** 6.0 %
+- **Corporate:** 94.0 %
 
 **Top cited domains**
 
-- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `vetena.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `umn.edu` – INSTITUTIONAL, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
+- `hestevard.de` – CORPORATE, retrieved 33 % of chats
+- `horsesbestshop.de` – CORPORATE, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
 - `cp-futter.de` – CORPORATE, retrieved 17 % of chats
-- `dochorse.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

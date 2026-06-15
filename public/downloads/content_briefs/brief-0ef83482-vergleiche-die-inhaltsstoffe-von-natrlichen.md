@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 0 %
 - **Gemini:** 33 %
 - **AI Overview:** 100 %
 
-**Divergence score:** 0.56  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 0 %
 
 **Brands cited (tracked):** _none_
 
@@ -49,22 +49,20 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 2.8 %
 - **Competitor:** 1.3 %
-- **Editorial:** 1.3 %
-- **Ugc:** 1.3 %
 - **Reference:** 4.1 %
-- **Corporate:** 81.1 %
-- **Other:** 8.1 %
+- **Institutional:** 1.3 %
+- **Corporate:** 84.9 %
+- **Other:** 8.3 %
 
 **Top cited domains**
 
 - `fuetternundfit.de` – CORPORATE, retrieved 38 % of chats
-- `stroeh.de` – CORPORATE, retrieved 38 % of chats
+- `dochorse.de` – CORPORATE, retrieved 38 % of chats
 - `inropharm.de` – CORPORATE, retrieved 38 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
 - `amazon.de` – CORPORATE, retrieved 25 % of chats
-- `pferde-gold.de` – OWN, retrieved 25 % of chats
+- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 25 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.«
 
-**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
 
 ## Engine visibility
 
@@ -14,20 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.7 %
-- **Reference:** 2.7 %
-- **Institutional:** 1.3 %
-- **Corporate:** 89.3 %
-- **Other:** 4.0 %
+- **Own:** 2.0 %
+- **Editorial:** 4.3 %
+- **Reference:** 4.1 %
+- **Institutional:** 4.1 %
+- **Corporate:** 83.5 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 56 % of chats
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `nuvallo.de` – OTHER, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `sawapet.com` – CORPORATE, retrieved 33 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 50 % of chats
+- `kraemer.de` – CORPORATE, retrieved 38 % of chats
+- `migocki.de` – CORPORATE, retrieved 25 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
+- `vetmedpro.de` – CORPORATE, retrieved 25 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 25 % of chats
 
 ## Suggested article
 
