@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -15,27 +15,28 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (AI Overview 33 %)
+- **Marstall** – top visibility 33 %  (AI Overview 33 %)
 - **Höveler** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
 - **Own:** 1.6 %
-- **Competitor:** 3.2 %
+- **Competitor:** 6.5 %
 - **Editorial:** 3.2 %
 - **Ugc:** 1.6 %
-- **Reference:** 12.8 %
-- **Institutional:** 9.5 %
-- **Corporate:** 65.1 %
-- **Other:** 3.2 %
+- **Reference:** 8.1 %
+- **Institutional:** 4.8 %
+- **Corporate:** 67.7 %
+- **Other:** 6.5 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `wielensdiervoeders.nl` – CORPORATE, retrieved 25 % of chats
-- `agrobs.de` – CORPORATE, retrieved 25 % of chats
-- `aminohorse.de` – CORPORATE, retrieved 25 % of chats
-- `cerascreen.de` – CORPORATE, retrieved 25 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 25 % of chats
+- `cerascreen.de` – CORPORATE, retrieved 33 % of chats
+- `leroma.de` – CORPORATE, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 22 % of chats
+- `aminohorse.de` – CORPORATE, retrieved 22 % of chats
+- `hoeveler.com` – COMPETITOR, retrieved 22 % of chats
+- `iwest.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -47,7 +48,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

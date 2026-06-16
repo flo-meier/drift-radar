@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -14,19 +14,19 @@
 
 ## Citation source mix
 
-- **Ugc:** 2.8 %
-- **Reference:** 5.5 %
-- **Institutional:** 20.0 %
-- **Corporate:** 71.7 %
+- **Editorial:** 3.0 %
+- **Reference:** 6.1 %
+- **Institutional:** 18.2 %
+- **Corporate:** 72.7 %
 
 **Top cited domains**
 
-- `zeinpharma.de` – CORPORATE, retrieved 50 % of chats
-- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 38 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
-- `energeticanatura.com` – CORPORATE, retrieved 25 % of chats
-- `gigasnutrition.com` – CORPORATE, retrieved 25 % of chats
-- `hannover96.de` – CORPORATE, retrieved 25 % of chats
+- `zeinpharma.de` – CORPORATE, retrieved 44 % of chats
+- `hannover96.de` – CORPORATE, retrieved 33 % of chats
+- `sonnesee.com` – CORPORATE, retrieved 33 % of chats
+- `endala.cz` – INSTITUTIONAL, retrieved 22 % of chats
+- `energeticanatura.com` – CORPORATE, retrieved 22 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

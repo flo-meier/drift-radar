@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Ergänzungsmittel für Hufe und Fell sind empfehlenswert?«
 
-**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -19,18 +19,18 @@
 
 ## Citation source mix
 
-- **Competitor:** 5.9 %
-- **Corporate:** 88.2 %
-- **Other:** 5.9 %
+- **Competitor:** 11.7 %
+- **Ugc:** 6.0 %
+- **Corporate:** 82.3 %
 
 **Top cited domains**
 
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `equidocs.de` – CORPORATE, retrieved 33 % of chats
+- `deuka.de` – CORPORATE, retrieved 33 % of chats
+- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `vetena.de` – CORPORATE, retrieved 33 % of chats
 - `vetripharm.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 17 % of chats
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
-- `iqhorse.de` – CORPORATE, retrieved 17 % of chats
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
-- `canina.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

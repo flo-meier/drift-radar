@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.9 %
-- **Ugc:** 4.0 %
-- **Reference:** 10.0 %
-- **Institutional:** 2.0 %
-- **Corporate:** 72.2 %
-- **Other:** 2.0 %
+- **Editorial:** 7.8 %
+- **Ugc:** 3.9 %
+- **Reference:** 5.9 %
+- **Institutional:** 5.8 %
+- **Corporate:** 74.7 %
+- **Other:** 1.9 %
 
 **Top cited domains**
 
-- `reiter-guide.de` – REFERENCE, retrieved 43 % of chats
-- `agrar-fachversand.com` – CORPORATE, retrieved 28 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 28 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 28 % of chats
-- `profi-tack.de` – CORPORATE, retrieved 28 % of chats
-- `ruhland-pferdefutter.de` – CORPORATE, retrieved 28 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 38 % of chats
+- `welt.de` – EDITORIAL, retrieved 38 % of chats
+- `agrar-fachversand.com` – CORPORATE, retrieved 25 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 25 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

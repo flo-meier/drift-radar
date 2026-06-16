@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -14,38 +14,38 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 50 %  (AI Overview 50 %, ChatGPT 33 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Marstall** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.3 %
-- **Institutional:** 7.2 %
-- **Corporate:** 88.3 %
-- **Other:** 2.3 %
+- **Competitor:** 1.9 %
+- **Institutional:** 7.7 %
+- **Corporate:** 82.7 %
+- **Other:** 7.7 %
 
 **Top cited domains**
 
-- `fundis-reitsport.ch` – CORPORATE, retrieved 38 % of chats
-- `huf24.ch` – CORPORATE, retrieved 38 % of chats
-- `npz.ch` – INSTITUTIONAL, retrieved 38 % of chats
-- `galaxus.ch` – CORPORATE, retrieved 25 % of chats
-- `proequishop.ch` – CORPORATE, retrieved 25 % of chats
-- `zooplus.ch` – CORPORATE, retrieved 25 % of chats
+- `huf24.ch` – CORPORATE, retrieved 33 % of chats
+- `fundis-reitsport.ch` – CORPORATE, retrieved 33 % of chats
+- `felix-buehler.ch` – CORPORATE, retrieved 33 % of chats
+- `npz.ch` – INSTITUTIONAL, retrieved 33 % of chats
+- `techstudio.ch` – CORPORATE, retrieved 33 % of chats
+- `vitahorse.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Höveler: Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
+- **Headline starting point:** »Pferdegold vs Pavo: Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, Marstall, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Institutional:** 2.4 %
-- **Corporate:** 97.6 %
+- **Editorial:** 1.8 %
+- **Institutional:** 1.8 %
+- **Corporate:** 96.4 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 50 % of chats
-- `annimally.de` – CORPORATE, retrieved 38 % of chats
-- `fleischwolf-minden.de` – CORPORATE, retrieved 25 % of chats
-- `amazon.de` – CORPORATE, retrieved 25 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 25 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 25 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `equanis.de` – CORPORATE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 22 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

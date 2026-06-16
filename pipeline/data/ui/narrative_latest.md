@@ -1,27 +1,37 @@
-# Drift Radar · 2026-06-14
+# Drift Radar · 2026-06-15
 
 ## Summary
 
-Pferdegold tracked 63 prompts across ChatGPT, Gemini, and AI Overview (June 12–14). Visibility remains constrained at 6.6% own-brand average. Drifting prompts (≥0.3 score) hold at 15, with net movement of 1 prompt entering and 2 exiting the range. Nine prompts shifted silence classification.
+15 prompts drifting (≥0.3), 30 own-only silence, 16 full silence. Own-brand visibility: 6.9%. Net movement: 3 prompts entered drifting, 3 exited. Seven prompts shifted silence classification.
 
-## Movements
+## Movement In
 
-One prompt moved into drifting range: **"Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen"** (pr_052a6419) scored 0.443, rising from silence. This represents Pferdegold's own content gaining traction in natural feed queries.
+Three prompts crossed into drifting range from silence:
 
-Two prompts exited drifting:
-- **"Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde"** (pr_f430c245) fell 0.562 points to 0.0
-- **"Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe"** (pr_2b7a1b16) fell 0.562 points to 0.0
+- "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde" (0.443)
+- "Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde" (0.443)
+- "Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?" (0.443)
 
-Both stomach and joint supplement queries lost visibility. These formerly competitive prompts are now own-only silent.
+All three transitioned from own-only silence to visible competitor presence. The Swiss regional query signals emerging geographic drift outside core markets.
+
+## Movement Out
+
+Three prompts fell below threshold:
+
+- "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde" dropped 0.549 points (0.841 → 0.292)
+- "Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?" (0.443 → 0.0)
+- "Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich" (0.443 → 0.0)
+
+The nerve-pellets query remains in-range but weakened substantially. Regional queries (DE, AT) fully disengaged from competitor visibility.
 
 ## Silence Shifts
 
-Six prompts changed silence type. Two queries moved from own-only silence into full silence: stomach pellet queries and general supplement recommendations now appear across no engines. Conversely, **"Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?"** (pr_cd85d59d) recovered from full silence to own-only presence.
+Two regional prompts converted to own-only silence after drifting. One full-silence prompt ("Nenne mir gutes Ergänzungsfutter für mein Pferd") moved to own-only – indicating Pferdegold now appears here, though competitors remain absent.
 
-The joint-supplement analysis prompt (pr_2b7a1b16) shows the largest deterioration: from drifting to full silence in one cycle.
+## Action
 
-## Where to Look
+Examine the three new drifting prompts for competitor positioning. The Swiss query warrants attention for market expansion tracking. The nerve-pellets query's 0.549-point decline suggests either reduced competitor activity or improved own positioning – verify the driver.
 
-Investigate why stomach and joint supplement content lost engine presence. Check whether recent content updates or indexing delays affected these high-specificity prompts. Monitor the natural feed query (pr_052a6419) to confirm whether recovery sustains.
+Check regional query recovery (DE, AT) to confirm whether withdrawal is sustainable or temporary cycle.
 
-Next week's focus should be supplement category prompts – they show the most volatility and widest silence spread.
+Next run will show whether new drifts stabilize or revert to silence.

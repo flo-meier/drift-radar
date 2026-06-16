@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -19,18 +19,17 @@
 
 ## Citation source mix
 
-- **Institutional:** 4.6 %
-- **Corporate:** 86.3 %
-- **Other:** 9.2 %
+- **Institutional:** 9.1 %
+- **Corporate:** 90.9 %
 
 **Top cited domains**
 
-- `tiershop.de` – CORPORATE, retrieved 33 % of chats
-- `hundemineral.de` – CORPORATE, retrieved 33 % of chats
-- `petphysio-shop.de` – CORPORATE, retrieved 33 % of chats
 - `nutravital.de` – CORPORATE, retrieved 17 % of chats
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
-- `der-onlinehund.de` – OTHER, retrieved 17 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 17 % of chats
+- `hundemineral.de` – CORPORATE, retrieved 17 % of chats
+- `hyjoint.de` – CORPORATE, retrieved 17 % of chats
+- `lucky-pet.de` – CORPORATE, retrieved 17 % of chats
+- `mainzoo.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

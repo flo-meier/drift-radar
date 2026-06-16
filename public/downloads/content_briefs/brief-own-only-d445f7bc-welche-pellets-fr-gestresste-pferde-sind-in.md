@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
-**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-09 → 2026-06-11
+**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -14,8 +14,8 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
 
 ## Citation source mix
 
@@ -26,10 +26,10 @@
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 50 % of chats
-- `louven-shop.de` – CORPORATE, retrieved 50 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
 - `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `fuettern-mit-spass.de` – CORPORATE, retrieved 33 % of chats
+- `nikolaus-nature.com` – CORPORATE, retrieved 33 % of chats
+- `totalequipro.de` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

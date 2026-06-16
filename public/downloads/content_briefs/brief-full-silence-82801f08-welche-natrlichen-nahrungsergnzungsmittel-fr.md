@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -14,20 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.2 %
-- **Reference:** 13.7 %
-- **Institutional:** 8.2 %
-- **Corporate:** 61.7 %
-- **Other:** 8.2 %
+- **Editorial:** 10.2 %
+- **Ugc:** 2.0 %
+- **Reference:** 14.1 %
+- **Institutional:** 6.0 %
+- **Corporate:** 63.6 %
+- **Other:** 4.1 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 28 % of chats
-- `go4vet.com` – REFERENCE, retrieved 28 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 28 % of chats
-- `deganius.de` – CORPORATE, retrieved 28 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 28 % of chats
-- `vet-tcm.de` – INSTITUTIONAL, retrieved 28 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 50 % of chats
+- `go4vet.com` – REFERENCE, retrieved 38 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 38 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 25 % of chats
+- `deganius.de` – CORPORATE, retrieved 25 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 25 % of chats
 
 ## Suggested article
 

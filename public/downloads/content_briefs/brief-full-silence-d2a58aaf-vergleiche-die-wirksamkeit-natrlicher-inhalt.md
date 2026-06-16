@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 8.2 %
-- **Ugc:** 4.1 %
-- **Reference:** 15.2 %
-- **Institutional:** 10.9 %
-- **Corporate:** 53.3 %
-- **Other:** 8.2 %
+- **Editorial:** 7.7 %
+- **Ugc:** 2.6 %
+- **Reference:** 6.4 %
+- **Institutional:** 6.4 %
+- **Corporate:** 70.5 %
+- **Other:** 6.4 %
 
 **Top cited domains**
 
-- `hippoplus.de` – CORPORATE, retrieved 62 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
-- `wiley.com` – OTHER, retrieved 25 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 25 % of chats
-- `emma-care.de` – CORPORATE, retrieved 25 % of chats
+- `hippoplus.de` – CORPORATE, retrieved 67 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `migocki.de` – CORPORATE, retrieved 33 % of chats
+- `nuvallo.de` – OTHER, retrieved 33 % of chats
+- `equanis.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

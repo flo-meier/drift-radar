@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -14,20 +14,19 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.0 %
-- **Ugc:** 2.0 %
-- **Institutional:** 2.0 %
-- **Corporate:** 81.3 %
-- **Other:** 12.6 %
+- **Ugc:** 1.5 %
+- **Institutional:** 1.5 %
+- **Corporate:** 90.8 %
+- **Other:** 6.2 %
 
 **Top cited domains**
 
-- `kraemer.de` – OTHER, retrieved 38 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 25 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 25 % of chats
-- `emma-care.de` – CORPORATE, retrieved 25 % of chats
-- `hyjoint.de` – CORPORATE, retrieved 25 % of chats
-- `mambocare.de` – CORPORATE, retrieved 25 % of chats
+- `kraemer.de` – CORPORATE, retrieved 44 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
+- `equanis.de` – CORPORATE, retrieved 33 % of chats
+- `pferdeklinik-sorpesee.de` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

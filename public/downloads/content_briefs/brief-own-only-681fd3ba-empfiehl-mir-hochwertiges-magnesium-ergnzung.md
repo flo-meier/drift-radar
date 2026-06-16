@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir hochwertiges Magnesium-Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_681fd3ba-565e-4f5e-a694-3c404cb5bfae`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-12 → 2026-06-14
+**Prompt ID:** `pr_681fd3ba-565e-4f5e-a694-3c404cb5bfae`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
 
 ## Engine visibility
 
@@ -14,17 +14,16 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (ChatGPT 100 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
 - **Nösenberger** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Competitor:** 8.2 %
-- **Ugc:** 4.2 %
-- **Institutional:** 4.2 %
-- **Corporate:** 83.4 %
+- **Competitor:** 9.4 %
+- **Institutional:** 4.8 %
+- **Corporate:** 85.8 %
 
 **Top cited domains**
 
@@ -32,8 +31,8 @@
 - `cp-futter.de` – CORPORATE, retrieved 50 % of chats
 - `marstall.de` – COMPETITOR, retrieved 33 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `shop-apotheke.com` – CORPORATE, retrieved 17 % of chats
+- `meinpferd.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -45,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Nösenberger, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann, Nösenberger for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.
