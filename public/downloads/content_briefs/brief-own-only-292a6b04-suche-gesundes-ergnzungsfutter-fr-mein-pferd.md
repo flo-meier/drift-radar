@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -21,20 +21,20 @@
 ## Citation source mix
 
 - **Own:** 2.7 %
-- **Competitor:** 8.4 %
+- **Competitor:** 11.2 %
 - **Editorial:** 5.5 %
 - **Ugc:** 2.7 %
 - **Institutional:** 5.5 %
-- **Corporate:** 75.1 %
+- **Corporate:** 72.4 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 43 % of chats
+- `marstall.de` – COMPETITOR, retrieved 43 % of chats
 - `einhuf.com` – CORPORATE, retrieved 43 % of chats
-- `wiesenkraft.com` – CORPORATE, retrieved 43 % of chats
-- `marstall.de` – COMPETITOR, retrieved 28 % of chats
 - `mambocare.de` – CORPORATE, retrieved 28 % of chats
 - `salutaria.de` – CORPORATE, retrieved 28 % of chats
+- `wiesenkraft.com` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

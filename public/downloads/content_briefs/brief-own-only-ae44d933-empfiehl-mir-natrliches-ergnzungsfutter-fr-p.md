@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -19,18 +19,18 @@
 
 ## Citation source mix
 
-- **Ugc:** 7.5 %
-- **Corporate:** 88.8 %
-- **Other:** 3.7 %
+- **Ugc:** 7.2 %
+- **Corporate:** 89.2 %
+- **Other:** 3.6 %
 
 **Top cited domains**
 
+- `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
 - `votana-pferd.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `deganius.de` – CORPORATE, retrieved 33 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
 - `equine-america.com` – CORPORATE, retrieved 17 % of chats
-- `equine74.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

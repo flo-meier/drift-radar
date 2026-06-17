@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -14,24 +14,22 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.2 %
-- **Corporate:** 93.6 %
-- **Other:** 3.2 %
+- **Editorial:** 6.8 %
+- **Corporate:** 89.7 %
+- **Other:** 3.5 %
 
 **Top cited domains**
 
 - `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
-- `drogerie-plappert.de` – CORPORATE, retrieved 50 % of chats
-- `equiva.com` – CORPORATE, retrieved 50 % of chats
-- `nutravital.de` – CORPORATE, retrieved 50 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 50 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
+- `drogerie-plappert.de` – CORPORATE, retrieved 33 % of chats
+- `equiva.com` – CORPORATE, retrieved 33 % of chats
+- `nikolaus-nature.com` – CORPORATE, retrieved 33 % of chats
+- `nutravital.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -43,7 +41,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

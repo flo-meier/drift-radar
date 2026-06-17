@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -17,23 +17,24 @@
 - **Höveler** – top visibility 100 %  (ChatGPT 100 %)
 - **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **Eggersmann** – top visibility 67 %  (Gemini 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
 - **Pavo** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 4.2 %
-- **Corporate:** 91.5 %
-- **Other:** 4.2 %
+- **Editorial:** 4.0 %
+- **Reference:** 8.1 %
+- **Corporate:** 83.8 %
+- **Other:** 4.0 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
 - `horsesbestshop.de` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
-- `hestevard.de` – CORPORATE, retrieved 33 % of chats
 - `totalequipro.de` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 17 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

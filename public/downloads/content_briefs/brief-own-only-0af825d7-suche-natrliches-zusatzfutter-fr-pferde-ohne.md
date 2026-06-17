@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -14,24 +14,23 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.9 %
-- **Reference:** 7.8 %
-- **Corporate:** 88.4 %
+- **Competitor:** 6.8 %
+- **Corporate:** 93.2 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 17 % of chats
-- `kraemer.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `equidocs.de` – CORPORATE, retrieved 33 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

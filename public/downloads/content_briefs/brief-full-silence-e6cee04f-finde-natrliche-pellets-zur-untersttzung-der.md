@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-10 → 2026-06-12
+**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -14,18 +14,20 @@
 
 ## Citation source mix
 
-- **Ugc:** 6.3 %
-- **Institutional:** 2.1 %
-- **Corporate:** 91.6 %
+- **Editorial:** 1.8 %
+- **Ugc:** 3.5 %
+- **Institutional:** 3.5 %
+- **Corporate:** 89.5 %
+- **Other:** 1.8 %
 
 **Top cited domains**
 
-- `naturanima.de` – CORPORATE, retrieved 25 % of chats
-- `youtube.com` – UGC, retrieved 25 % of chats
-- `deuka-companion.com` – CORPORATE, retrieved 25 % of chats
-- `equiva.com` – CORPORATE, retrieved 25 % of chats
-- `kraeuterwiese.de` – CORPORATE, retrieved 25 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 25 % of chats
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
+- `aronialand-shop.de` – CORPORATE, retrieved 33 % of chats
+- `equiva.com` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

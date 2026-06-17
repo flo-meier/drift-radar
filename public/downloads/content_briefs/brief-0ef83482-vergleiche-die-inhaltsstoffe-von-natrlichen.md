@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
-- **Gemini:** 33 %
+- **ChatGPT:** 67 %
+- **Gemini:** 0 %
 - **AI Overview:** 67 %
 
-**Divergence score:** 0.29  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.57  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -23,7 +23,7 @@
 
 > ChatGPT answers the question as stated – pure ingredient comparison – and never transitions to brand recommendations.
 
-### Gemini – visibility 33 %
+### Gemini – visibility 0 %
 
 **Brands cited (tracked):** _none_
 
@@ -49,21 +49,23 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 1.3 %
-- **Competitor:** 2.6 %
-- **Reference:** 5.3 %
+- **Own:** 3.8 %
+- **Competitor:** 3.8 %
+- **Editorial:** 2.5 %
+- **Ugc:** 1.3 %
+- **Reference:** 5.1 %
 - **Institutional:** 1.3 %
-- **Corporate:** 82.9 %
-- **Other:** 6.6 %
+- **Corporate:** 78.5 %
+- **Other:** 3.8 %
 
 **Top cited domains**
 
 - `dochorse.de` – CORPORATE, retrieved 44 % of chats
 - `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 - `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

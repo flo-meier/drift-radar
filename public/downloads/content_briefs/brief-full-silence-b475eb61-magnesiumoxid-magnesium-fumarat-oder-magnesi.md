@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesiumoxid, Magnesium-Fumarat oder Magnesium-Citrat fürs Pferd – was ist besser?«
 
-**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 5.2 %
-- **Editorial:** 1.7 %
+- **Own:** 5.0 %
+- **Editorial:** 5.0 %
+- **Ugc:** 1.7 %
 - **Reference:** 1.7 %
-- **Institutional:** 5.2 %
-- **Corporate:** 81.1 %
-- **Other:** 5.2 %
+- **Institutional:** 5.0 %
+- **Corporate:** 78.4 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
 - `care4vet.de` – CORPORATE, retrieved 67 % of chats
-- `agrobs.de` – CORPORATE, retrieved 56 % of chats
 - `winnies.de` – CORPORATE, retrieved 44 % of chats
-- `annimally.ch` – OTHER, retrieved 33 % of chats
-- `calapo.com` – CORPORATE, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 44 % of chats
+- `calapo.com` – CORPORATE, retrieved 44 % of chats
 - `dochorse.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
 
 ## Suggested article
 

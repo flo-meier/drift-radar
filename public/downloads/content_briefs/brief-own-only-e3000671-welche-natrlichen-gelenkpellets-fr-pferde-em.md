@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -18,18 +18,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 1.8 %
-- **Institutional:** 1.8 %
-- **Corporate:** 96.4 %
+- **Editorial:** 1.7 %
+- **Corporate:** 95.0 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
 - `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 22 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 22 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

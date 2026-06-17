@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
-**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 6.2 %
-- **Editorial:** 3.1 %
-- **Ugc:** 7.7 %
-- **Reference:** 9.2 %
-- **Corporate:** 69.2 %
-- **Other:** 4.6 %
+- **Own:** 7.2 %
+- **Editorial:** 2.8 %
+- **Ugc:** 7.2 %
+- **Reference:** 10.1 %
+- **Institutional:** 4.3 %
+- **Corporate:** 65.5 %
+- **Other:** 2.8 %
 
 **Top cited domains**
 
-- `askheltie.com` – UGC, retrieved 44 % of chats
-- `go4vet.com` – REFERENCE, retrieved 44 % of chats
-- `pferde-gold.de` – OWN, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 56 % of chats
+- `askheltie.com` – UGC, retrieved 56 % of chats
+- `go4vet.com` – REFERENCE, retrieved 56 % of chats
 - `agrobs.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `lifedatalabs.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

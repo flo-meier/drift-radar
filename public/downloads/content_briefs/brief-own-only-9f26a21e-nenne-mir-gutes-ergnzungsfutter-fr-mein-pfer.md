@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir gutes Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -14,24 +14,25 @@
 
 ## Who is cited instead
 
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
+- **Eggersmann** – top visibility 67 %  (ChatGPT 67 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 11.5 %
-- **Reference:** 15.4 %
-- **Institutional:** 3.9 %
-- **Corporate:** 69.2 %
+- **Editorial:** 11.0 %
+- **Reference:** 11.2 %
+- **Corporate:** 77.8 %
 
 **Top cited domains**
 
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
+- `meinpferd.de` – CORPORATE, retrieved 33 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `cavallo.de` – EDITORIAL, retrieved 33 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
-- `equiva.com` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `vetena.de` – CORPORATE, retrieved 33 % of chats
+- `go4vet.com` – REFERENCE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -43,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Eggersmann, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Eggersmann, Marstall, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

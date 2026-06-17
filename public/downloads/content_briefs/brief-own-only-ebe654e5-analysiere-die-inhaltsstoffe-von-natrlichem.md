@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -14,41 +14,38 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (AI Overview 33 %)
 - **Marstall** – top visibility 33 %  (AI Overview 33 %)
-- **Höveler** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Own:** 1.6 %
-- **Competitor:** 6.5 %
-- **Editorial:** 3.2 %
-- **Ugc:** 1.6 %
-- **Reference:** 8.1 %
-- **Institutional:** 4.8 %
-- **Corporate:** 67.7 %
-- **Other:** 6.5 %
+- **Competitor:** 3.3 %
+- **Editorial:** 5.0 %
+- **Ugc:** 1.7 %
+- **Reference:** 6.7 %
+- **Institutional:** 3.3 %
+- **Corporate:** 71.7 %
+- **Other:** 8.3 %
 
 **Top cited domains**
 
-- `cerascreen.de` – CORPORATE, retrieved 33 % of chats
-- `leroma.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
 - `agrobs.de` – CORPORATE, retrieved 22 % of chats
-- `aminohorse.de` – CORPORATE, retrieved 22 % of chats
-- `hoeveler.com` – COMPETITOR, retrieved 22 % of chats
-- `iwest.de` – CORPORATE, retrieved 22 % of chats
+- `annimally.de` – CORPORATE, retrieved 22 % of chats
+- `cerascreen.de` – CORPORATE, retrieved 22 % of chats
+- `laurelnature.com` – CORPORATE, retrieved 22 % of chats
+- `leroma.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
+- **Headline starting point:** »Pferdegold vs Marstall: Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

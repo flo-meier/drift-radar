@@ -1,37 +1,25 @@
-# Drift Radar · 2026-06-15
+# Drift Radar · 2026-06-16
 
 ## Summary
 
-15 prompts drifting (≥0.3), 30 own-only silence, 16 full silence. Own-brand visibility: 6.9%. Net movement: 3 prompts entered drifting, 3 exited. Seven prompts shifted silence classification.
+17 prompts now drift across competitor engines (27% of 63 tracked). Own-brand visibility remains flat at 7.6%. Two prompts entered drifting range; none exited. Silence patterns shifted in five queries, indicating algorithmic reassessment rather than improvement.
 
-## Movement In
+## Entries into Drifting
 
-Three prompts crossed into drifting range from silence:
+**Joint support composition analysis** (pr_2b7a1b16) moved from own-only silence to 0.443 drift. This product-specific deep-dive prompt now surfaces competitor recommendations across all three engines – a critical visibility gap given the specificity of the query.
 
-- "Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde" (0.443)
-- "Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde" (0.443)
-- "Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?" (0.443)
+**Stressed horse nerve pellets comparison** (pr_0ef83482) crossed the 0.3 threshold at 0.575, up from 0.292. Comparative language ("Vergleiche") appears to trigger broader engine distribution. Both prompts target product categories Pferdegold likely stocks.
 
-All three transitioned from own-only silence to visible competitor presence. The Swiss regional query signals emerging geographic drift outside core markets.
+## Silence Volatility
 
-## Movement Out
+Four queries shifted from full silence to own-only coverage (pr_0680bc23, pr_5897c16c, pr_892d418a), suggesting improved own-domain indexing but no breakthrough into competing engines. One query reversed: natural pellet support (pr_e6cee04f) dropped from own-only to full silence – a regression worth investigating for technical issues.
 
-Three prompts fell below threshold:
+## Score Amplification
 
-- "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde" dropped 0.549 points (0.841 → 0.292)
-- "Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?" (0.443 → 0.0)
-- "Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich" (0.443 → 0.0)
+Three high-intent queries gained 0.238 points each (now 0.681): German joint pellet rankings, Swiss sugar-free feed sourcing, and premium stomach pellet selection. These represent the highest drift scores in the set and combine product qualification with geography or health specification – precise purchase intent signals that AI Overview and Gemini are surfacing.
 
-The nerve-pellets query remains in-range but weakened substantially. Regional queries (DE, AT) fully disengaged from competitor visibility.
+## Priority Actions
 
-## Silence Shifts
+Focus on the 0.681 cluster. These represent category leadership keywords where competitor presence is strongest. Own-only silence on 31 prompts indicates a long-tail retention problem – low visibility across the board rather than concentrated losses.
 
-Two regional prompts converted to own-only silence after drifting. One full-silence prompt ("Nenne mir gutes Ergänzungsfutter für mein Pferd") moved to own-only – indicating Pferdegold now appears here, though competitors remain absent.
-
-## Action
-
-Examine the three new drifting prompts for competitor positioning. The Swiss query warrants attention for market expansion tracking. The nerve-pellets query's 0.549-point decline suggests either reduced competitor activity or improved own positioning – verify the driver.
-
-Check regional query recovery (DE, AT) to confirm whether withdrawal is sustainable or temporary cycle.
-
-Next run will show whether new drifts stabilize or revert to silence.
+Next week: monitor whether the two new drifters stabilize or accelerate further into competitor dominance.

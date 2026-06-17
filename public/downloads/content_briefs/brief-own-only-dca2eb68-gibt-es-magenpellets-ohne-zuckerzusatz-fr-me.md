@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-13 → 2026-06-15
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
 
 ## Engine visibility
 
@@ -22,16 +22,17 @@
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Competitor:** 5.6 %
+- **Corporate:** 94.4 %
 
 **Top cited domains**
 
 - `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
-- `agrar-fachversand.com` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `carepet.de` – CORPORATE, retrieved 17 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
