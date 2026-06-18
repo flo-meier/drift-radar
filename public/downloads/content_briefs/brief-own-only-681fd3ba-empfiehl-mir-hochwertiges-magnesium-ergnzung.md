@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir hochwertiges Magnesium-Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_681fd3ba-565e-4f5e-a694-3c404cb5bfae`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_681fd3ba-565e-4f5e-a694-3c404cb5bfae`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -14,37 +14,36 @@
 
 ## Who is cited instead
 
+- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
 - **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
-- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
-- **Nösenberger** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.1 %
-- **Institutional:** 5.1 %
-- **Corporate:** 89.9 %
+- **Own:** 2.9 %
+- **Ugc:** 2.9 %
+- **Corporate:** 94.2 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `meinpferd.de` – CORPORATE, retrieved 50 % of chats
-- `cp-futter.de` – CORPORATE, retrieved 33 % of chats
-- `equiva.com` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 17 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 43 % of chats
+- `meinpferd.de` – CORPORATE, retrieved 43 % of chats
+- `cp-futter.de` – CORPORATE, retrieved 28 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 28 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 28 % of chats
+- `equanis.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Empfiehl mir hochwertiges Magnesium-Ergänzungsfutter für mein Pferd.«
+- **Headline starting point:** »Pferdegold vs Marstall: Empfiehl mir hochwertiges Magnesium-Ergänzungsfutter für mein Pferd.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -14,29 +14,30 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
-- **Eggersmann** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, AI Overview 33 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.5 %
-- **Editorial:** 10.3 %
-- **Ugc:** 1.5 %
-- **Reference:** 13.2 %
-- **Institutional:** 4.4 %
-- **Corporate:** 69.2 %
+- **Competitor:** 1.6 %
+- **Editorial:** 10.9 %
+- **Ugc:** 1.6 %
+- **Reference:** 15.7 %
+- **Institutional:** 3.1 %
+- **Corporate:** 65.6 %
+- **Other:** 1.6 %
 
 **Top cited domains**
 
 - `kraemer.de` – CORPORATE, retrieved 56 % of chats
-- `check24.de` – CORPORATE, retrieved 44 % of chats
-- `sanoanimal.de` – REFERENCE, retrieved 44 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `meinpferd.de` – CORPORATE, retrieved 33 % of chats
+- `sanoanimal.de` – REFERENCE, retrieved 56 % of chats
+- `check24.de` – CORPORATE, retrieved 33 % of chats
 - `scheipers-muehle.de` – CORPORATE, retrieved 33 % of chats
+- `sphericalinsights.com` – REFERENCE, retrieved 33 % of chats
+- `futterbauer.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

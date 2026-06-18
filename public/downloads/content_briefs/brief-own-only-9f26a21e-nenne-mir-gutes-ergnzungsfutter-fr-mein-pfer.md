@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir gutes Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_9f26a21e-b794-4afa-965f-82573e3aafdd`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -21,18 +21,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 11.0 %
-- **Reference:** 11.2 %
-- **Corporate:** 77.8 %
+- **Editorial:** 7.5 %
+- **Reference:** 3.7 %
+- **Corporate:** 88.8 %
 
 **Top cited domains**
 
+- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `meinpferd.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `vetena.de` – CORPORATE, retrieved 33 % of chats
-- `go4vet.com` – REFERENCE, retrieved 17 % of chats
+- `dochorse.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

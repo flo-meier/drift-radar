@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-11 → 2026-06-13
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -14,19 +14,17 @@
 
 ## Citation source mix
 
-- **Competitor:** 4.9 %
-- **Ugc:** 2.5 %
-- **Institutional:** 2.5 %
-- **Corporate:** 90.1 %
+- **Corporate:** 96.3 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `eqx.vet` – CORPORATE, retrieved 50 % of chats
-- `iwest.de` – CORPORATE, retrieved 50 % of chats
-- `votana-pferd.de` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 17 % of chats
+- `equidocs.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

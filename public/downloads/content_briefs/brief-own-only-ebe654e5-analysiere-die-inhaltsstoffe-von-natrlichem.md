@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -19,12 +19,12 @@
 ## Citation source mix
 
 - **Competitor:** 3.3 %
-- **Editorial:** 5.0 %
-- **Ugc:** 1.7 %
-- **Reference:** 6.7 %
-- **Institutional:** 3.3 %
-- **Corporate:** 71.7 %
-- **Other:** 8.3 %
+- **Editorial:** 3.3 %
+- **Ugc:** 1.6 %
+- **Reference:** 4.9 %
+- **Institutional:** 8.2 %
+- **Corporate:** 68.9 %
+- **Other:** 9.8 %
 
 **Top cited domains**
 
@@ -32,8 +32,8 @@
 - `agrobs.de` – CORPORATE, retrieved 22 % of chats
 - `annimally.de` – CORPORATE, retrieved 22 % of chats
 - `cerascreen.de` – CORPORATE, retrieved 22 % of chats
-- `laurelnature.com` – CORPORATE, retrieved 22 % of chats
 - `leroma.de` – CORPORATE, retrieved 22 % of chats
+- `masterhorse.de` – OTHER, retrieved 22 % of chats
 
 ## Suggested article
 

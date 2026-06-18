@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -14,21 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 9.9 %
-- **Ugc:** 1.2 %
-- **Reference:** 6.2 %
-- **Institutional:** 4.9 %
-- **Corporate:** 71.6 %
-- **Other:** 6.2 %
+- **Editorial:** 11.8 %
+- **Reference:** 6.6 %
+- **Institutional:** 3.9 %
+- **Corporate:** 72.4 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
-- `hippoplus.de` – CORPORATE, retrieved 56 % of chats
-- `nuvallo.de` – OTHER, retrieved 44 % of chats
 - `stroeh.de` – CORPORATE, retrieved 44 % of chats
+- `hippoplus.de` – CORPORATE, retrieved 44 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-heilkunde.com` – EDITORIAL, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

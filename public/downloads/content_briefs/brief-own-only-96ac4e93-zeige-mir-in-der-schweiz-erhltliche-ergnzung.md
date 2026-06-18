@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -14,25 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %)
+- **Marstall** – top visibility 33 %  (AI Overview 33 %, ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.7 %
-- **Institutional:** 9.3 %
-- **Corporate:** 77.8 %
-- **Other:** 9.3 %
+- **Competitor:** 2.0 %
+- **Institutional:** 14.3 %
+- **Corporate:** 73.5 %
+- **Other:** 10.2 %
 
 **Top cited domains**
 
 - `huf24.ch` – CORPORATE, retrieved 33 % of chats
-- `felix-buehler.ch` – CORPORATE, retrieved 33 % of chats
-- `npz.ch` – INSTITUTIONAL, retrieved 33 % of chats
-- `techstudio.ch` – CORPORATE, retrieved 33 % of chats
+- `proequishop.ch` – CORPORATE, retrieved 33 % of chats
 - `vitahorse.ch` – CORPORATE, retrieved 33 % of chats
-- `galaxus.ch` – CORPORATE, retrieved 22 % of chats
+- `horze.ch` – CORPORATE, retrieved 33 % of chats
+- `npz.ch` – INSTITUTIONAL, retrieved 33 % of chats
+- `felix-buehler.ch` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

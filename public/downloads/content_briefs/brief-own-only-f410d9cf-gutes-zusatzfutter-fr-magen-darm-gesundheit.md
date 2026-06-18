@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -18,18 +18,18 @@
 
 ## Citation source mix
 
-- **Editorial:** 6.8 %
+- **Editorial:** 3.5 %
 - **Corporate:** 89.7 %
-- **Other:** 3.5 %
+- **Other:** 6.8 %
 
 **Top cited domains**
 
 - `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
-- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
 - `drogerie-plappert.de` – CORPORATE, retrieved 33 % of chats
+- `equestrian-horses.de` – OTHER, retrieved 33 % of chats
 - `equiva.com` – CORPORATE, retrieved 33 % of chats
 - `nikolaus-nature.com` – CORPORATE, retrieved 33 % of chats
-- `nutravital.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

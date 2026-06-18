@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -18,19 +18,19 @@
 
 ## Citation source mix
 
-- **Ugc:** 2.7 %
-- **Institutional:** 1.4 %
-- **Corporate:** 89.0 %
-- **Other:** 6.8 %
+- **Ugc:** 1.4 %
+- **Institutional:** 7.0 %
+- **Corporate:** 88.7 %
+- **Other:** 2.8 %
 
 **Top cited domains**
 
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `equanis.de` – CORPORATE, retrieved 44 % of chats
+- `equanis.de` – CORPORATE, retrieved 67 % of chats
 - `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `nuvallo.de` – OTHER, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `pferdeklinik-sorpesee.de` – CORPORATE, retrieved 33 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `vetena.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

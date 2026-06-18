@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -18,16 +18,17 @@
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Editorial:** 3.3 %
+- **Corporate:** 96.7 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `equanis.de` – CORPORATE, retrieved 50 % of chats
 - `carepet.de` – CORPORATE, retrieved 50 % of chats
-- `pferdekiosk.biz` – CORPORATE, retrieved 50 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `deers-tackstore.de` – CORPORATE, retrieved 33 % of chats
+- `equanis.de` – CORPORATE, retrieved 33 % of chats
+- `pferdekiosk.biz` – CORPORATE, retrieved 33 % of chats
+- `reitgarten.com` – CORPORATE, retrieved 33 % of chats
+- `reitsport-futtertelefon.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

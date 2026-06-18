@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-14 → 2026-06-16
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
 
 ## Engine visibility
 
@@ -15,12 +15,13 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Competitor:** 10.3 %
-- **Corporate:** 89.7 %
+- **Competitor:** 9.3 %
+- **Institutional:** 4.8 %
+- **Corporate:** 85.9 %
 
 **Top cited domains**
 
@@ -28,8 +29,8 @@
 - `mambocare.de` – CORPORATE, retrieved 33 % of chats
 - `marstall.de` – COMPETITOR, retrieved 33 % of chats
 - `dm.de` – CORPORATE, retrieved 17 % of chats
-- `bodfeld-apotheke.de` – CORPORATE, retrieved 17 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 17 % of chats
+- `apotheke-grein.at` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
