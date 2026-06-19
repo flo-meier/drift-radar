@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
 
 ## Engine visibility
 
@@ -19,22 +19,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 3.7 %
-- **Editorial:** 4.9 %
-- **Ugc:** 1.2 %
-- **Reference:** 4.9 %
-- **Institutional:** 3.7 %
-- **Corporate:** 76.8 %
-- **Other:** 4.9 %
+- **Competitor:** 2.3 %
+- **Editorial:** 3.5 %
+- **Ugc:** 2.3 %
+- **Reference:** 7.0 %
+- **Institutional:** 3.5 %
+- **Corporate:** 75.6 %
+- **Other:** 5.8 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
+- `iwest.de` – CORPORATE, retrieved 56 % of chats
 - `stroeh.de` – CORPORATE, retrieved 44 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 22 % of chats
+- `agrobs.de` – CORPORATE, retrieved 33 % of chats
+- `ewalia.com` – OTHER, retrieved 33 % of chats
 
 ## Suggested article
 

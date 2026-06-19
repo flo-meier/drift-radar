@@ -1,14 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
 
 ## Engine visibility
 
 - **ChatGPT:** 67 %
 - **Gemini:** 0 %
-- **AI Overview:** 67 %
+- **AI Overview:** 100 %
 
-**Divergence score:** 0.57  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.81  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 67 %
+### AI Overview – visibility 100 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,21 +49,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 3.7 %
-- **Competitor:** 2.4 %
-- **Editorial:** 2.4 %
-- **Ugc:** 3.7 %
-- **Reference:** 6.1 %
-- **Corporate:** 78.1 %
-- **Other:** 3.7 %
+- **Own:** 4.6 %
+- **Competitor:** 2.3 %
+- **Editorial:** 3.4 %
+- **Ugc:** 4.6 %
+- **Reference:** 4.6 %
+- **Corporate:** 75.9 %
+- **Other:** 4.6 %
 
 **Top cited domains**
 
-- `dochorse.de` – CORPORATE, retrieved 56 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
+- `pferde-gold.de` – OWN, retrieved 44 % of chats
+- `dochorse.de` – CORPORATE, retrieved 44 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article

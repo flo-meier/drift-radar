@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
 
 ## Engine visibility
 
@@ -14,23 +14,24 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Nösenberger** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.0 %
-- **Corporate:** 89.6 %
-- **Other:** 7.5 %
+- **Editorial:** 1.6 %
+- **Reference:** 1.6 %
+- **Corporate:** 87.1 %
+- **Other:** 9.7 %
 
 **Top cited domains**
 
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `krauterie.de` – CORPORATE, retrieved 33 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
+- `amazon.de` – CORPORATE, retrieved 22 % of chats
+- `equidocs.de` – CORPORATE, retrieved 22 % of chats
+- `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `nuvallo.de` – OTHER, retrieved 22 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

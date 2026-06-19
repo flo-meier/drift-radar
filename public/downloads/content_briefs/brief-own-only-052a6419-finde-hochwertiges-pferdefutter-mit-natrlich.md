@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
-**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
 
 ## Engine visibility
 
@@ -21,17 +21,19 @@
 
 ## Citation source mix
 
-- **Corporate:** 94.7 %
-- **Other:** 5.3 %
+- **Ugc:** 3.5 %
+- **Institutional:** 3.5 %
+- **Corporate:** 89.4 %
+- **Other:** 3.5 %
 
 **Top cited domains**
 
-- `semhof.de` – CORPORATE, retrieved 50 % of chats
-- `bieros.de` – CORPORATE, retrieved 50 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `panto-heimtier.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
+- `semhof.de` – CORPORATE, retrieved 43 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 43 % of chats
+- `bieros.de` – CORPORATE, retrieved 43 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 28 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 28 % of chats
+- `panto-heimtier.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

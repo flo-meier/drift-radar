@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
 
 ## Engine visibility
 
@@ -15,14 +15,15 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 4.2 %
-- **Ugc:** 4.2 %
-- **Corporate:** 91.5 %
+- **Own:** 4.1 %
+- **Competitor:** 4.1 %
+- **Corporate:** 91.9 %
 
 **Top cited domains**
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 1.5 %
-- **Ugc:** 3.0 %
-- **Reference:** 9.0 %
-- **Institutional:** 7.5 %
-- **Corporate:** 76.1 %
-- **Other:** 3.0 %
+- **Own:** 1.6 %
+- **Editorial:** 1.6 %
+- **Ugc:** 3.1 %
+- **Reference:** 12.5 %
+- **Institutional:** 10.9 %
+- **Corporate:** 65.7 %
+- **Other:** 4.7 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 44 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 56 % of chats
+- `go4vet.com` – REFERENCE, retrieved 33 % of chats
 - `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
+- `deganius.de` – CORPORATE, retrieved 33 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `medilutions.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `youtube.com` – UGC, retrieved 22 % of chats
 
 ## Suggested article
 

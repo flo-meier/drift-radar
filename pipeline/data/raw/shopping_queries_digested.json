@@ -1,103 +1,6 @@
 {
   "by_prompt": {
-    "pr_3b705cc9-5167-44e0-83c3-d105b97744ad": [
-      {
-        "query": "deutsches pferdefutter pellet",
-        "products": [
-          "Alpengrün Pellet",
-          "Top E"
-        ]
-      },
-      {
-        "query": "deutsches pferdefutter pferd müsli",
-        "products": [
-          "BodyForm-Müsli"
-        ]
-      },
-      {
-        "query": "pferdefutter deutschland hersteller",
-        "products": [
-          "Active"
-        ]
-      }
-    ],
-    "pr_47e52da7-8646-4683-846d-2af8c113a1fc": [
-      {
-        "query": "pferd gelenkpellets testsieger gelenkfutter pferd",
-        "products": [
-          "Arthral Horse Pellets 750 g",
-          "JointPower",
-          "Mobility"
-        ]
-      }
-    ],
-    "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933": [
-      {
-        "query": "magenpellets ohne zuckerzusatz pferd magenpellets zuckerfrei magensäure pferd ergänzungsfutter",
-        "products": [
-          "Gastric",
-          "Magen Ergänzung",
-          "Magen Kit Pellets",
-          "Magen-Perfekt Pellets",
-          "Pro Magen Pellets",
-          "Pronutrin Vet Pellets",
-          "Revitopur Prebiotic"
-        ]
-      }
-    ],
-    "pr_919e94f2-5a66-46fd-b425-6ae88721d518": [
-      {
-        "query": "ergänzungsfutter pferd magen niederlande maag supplement paard",
-        "products": [
-          "GastriAid"
-        ]
-      },
-      {
-        "query": "maagondersteuning paard",
-        "products": [
-          "Maag Balans"
-        ]
-      }
-    ],
-    "pr_ae44d933-64c5-4032-a0a0-74999632519b": [
-      {
-        "query": "audevard ekygard",
-        "products": [
-          "Ekygard Granulat"
-        ]
-      },
-      {
-        "query": "hilton herbs gastric",
-        "products": [
-          "GastriX"
-        ]
-      },
-      {
-        "query": "horse gastric ulcer supplement equine america gastriaid",
-        "products": [
-          "GastriAid",
-          "Gastric",
-          "Uls-Gard Solution"
-        ]
-      },
-      {
-        "query": "naf gastrivet",
-        "products": [
-          "GastriAid"
-        ]
-      }
-    ],
     "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": [
-      {
-        "query": "pellets für gestresste pferde deutschland magnesium kräuter nervenfutter pferd",
-        "products": [
-          "Anti Stress Kräuterpellets",
-          "Mag-T Pro Pellets für Pferde",
-          "Magnoquiet mehr Ruhe & Gelassenheit für nervöse Pferde",
-          "Relax Kräuterpellets Feedbox 3kg mit Baldrian & Magnesium",
-          "Silence Pellets"
-        ]
-      },
       {
         "query": "pellets für gestresste pferde deutschland magnesium kräuter nervenfutter pferd",
         "products": [
@@ -105,40 +8,6 @@
           "Nerven Eimer Pferde Ergänzungsmittel",
           "Relax",
           "Relax Kräuterpellets Feedbox 3kg mit Baldrian & Magnesium"
-        ]
-      }
-    ],
-    "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": [
-      {
-        "query": "beruhigungsfutter pferd pellets schweiz",
-        "products": [
-          "Anti Stress Kräuterpellets"
-        ]
-      },
-      {
-        "query": "nervenpellets pferd stress schweiz",
-        "products": [
-          "NervControl",
-          "Nerven",
-          "Relax"
-        ]
-      },
-      {
-        "query": "beruhigung pellets pferd schweiz",
-        "products": [
-          "Silence Pellets"
-        ]
-      },
-      {
-        "query": "nervenfutter pferd pellets",
-        "products": [
-          "NervControl"
-        ]
-      },
-      {
-        "query": "nervenpellets pferd stress schweiz",
-        "products": [
-          "Anti Stress Kräuterpellets"
         ]
       }
     ],
@@ -222,6 +91,36 @@
           "Herb Mineral Pellets",
           "Micro Kräuter Mineral"
         ]
+      },
+      {
+        "query": "natürliches ergänzungsfutter pferde kräuter mineralfutter",
+        "products": [
+          "Gemüse-Kräuter-Mineralien",
+          "Herb Mineral Pellets",
+          "Horse Herbs & Beetroot Mineral Cobs",
+          "Pferdefutter Kräuter-Mineral",
+          "TheMineral 6,5 kg"
+        ]
+      }
+    ],
+    "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": [
+      {
+        "query": "beruhigung pellets pferd schweiz",
+        "products": [
+          "Silence Pellets"
+        ]
+      },
+      {
+        "query": "nervenfutter pferd pellets",
+        "products": [
+          "NervControl"
+        ]
+      },
+      {
+        "query": "nervenpellets pferd stress schweiz",
+        "products": [
+          "Anti Stress Kräuterpellets"
+        ]
       }
     ],
     "pr_f430c245-6e0b-45f6-ae50-b96facca7aee": [
@@ -239,7 +138,18 @@
           "Gastrivet Pellets"
         ]
       }
+    ],
+    "pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83": [
+      {
+        "query": "magenpellets pferd ohne künstliche zusätze magenschutz pferd pellets natürlich",
+        "products": [
+          "Coolly 7 kg",
+          "Gastrivet Pellets",
+          "MagenWohl Kräuterpellets Magen & Magenschleimhaut",
+          "Magenschutz Ergänzungsfuttermittel"
+        ]
+      }
     ]
   },
-  "total_entries": 29
+  "total_entries": 17
 }

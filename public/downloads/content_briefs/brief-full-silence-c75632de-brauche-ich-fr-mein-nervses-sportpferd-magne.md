@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
-**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
 
 ## Engine visibility
 
@@ -14,22 +14,21 @@
 
 ## Citation source mix
 
-- **Own:** 7.8 %
-- **Editorial:** 1.9 %
-- **Ugc:** 7.8 %
-- **Reference:** 11.7 %
-- **Institutional:** 5.6 %
-- **Corporate:** 61.3 %
-- **Other:** 3.8 %
+- **Own:** 6.3 %
+- **Ugc:** 6.3 %
+- **Reference:** 10.4 %
+- **Institutional:** 6.0 %
+- **Corporate:** 67.1 %
+- **Other:** 4.0 %
 
 **Top cited domains**
 
-- `pferde-gold.de` – OWN, retrieved 50 % of chats
-- `askheltie.com` – UGC, retrieved 50 % of chats
-- `go4vet.com` – REFERENCE, retrieved 50 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 25 % of chats
+- `iwest.de` – CORPORATE, retrieved 38 % of chats
+- `pferde-gold.de` – OWN, retrieved 38 % of chats
+- `askheltie.com` – UGC, retrieved 38 % of chats
+- `go4vet.com` – REFERENCE, retrieved 38 % of chats
+- `equine74.com` – CORPORATE, retrieved 25 % of chats
 - `agrobs.de` – CORPORATE, retrieved 25 % of chats
-- `amazon.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

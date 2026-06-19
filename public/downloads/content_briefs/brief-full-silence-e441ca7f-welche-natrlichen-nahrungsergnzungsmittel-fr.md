@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 12.0 %
-- **Reference:** 19.9 %
-- **Institutional:** 12.0 %
-- **Corporate:** 52.2 %
-- **Other:** 4.1 %
+- **Editorial:** 3.9 %
+- **Reference:** 19.1 %
+- **Institutional:** 11.5 %
+- **Corporate:** 57.6 %
+- **Other:** 7.8 %
 
 **Top cited domains**
 
 - `pernaturam.de` – CORPORATE, retrieved 50 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 50 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 50 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 50 % of chats
 - `vet-tcm.de` – INSTITUTIONAL, retrieved 50 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
 - `go4vet.com` – REFERENCE, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

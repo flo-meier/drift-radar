@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesiumoxid, Magnesium-Fumarat oder Magnesium-Citrat fürs Pferd – was ist besser?«
 
-**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_b475eb61-bec0-4333-9479-ccafdcb07cf7`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Own:** 5.2 %
-- **Editorial:** 3.5 %
-- **Ugc:** 1.7 %
-- **Institutional:** 5.2 %
-- **Corporate:** 80.8 %
-- **Other:** 3.5 %
+- **Own:** 6.1 %
+- **Editorial:** 3.9 %
+- **Ugc:** 1.9 %
+- **Institutional:** 6.1 %
+- **Corporate:** 80.1 %
+- **Other:** 1.9 %
 
 **Top cited domains**
 
-- `care4vet.de` – CORPORATE, retrieved 67 % of chats
-- `calapo.com` – CORPORATE, retrieved 56 % of chats
-- `agrobs.de` – CORPORATE, retrieved 44 % of chats
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `care4vet.de` – CORPORATE, retrieved 62 % of chats
+- `agrobs.de` – CORPORATE, retrieved 50 % of chats
+- `calapo.com` – CORPORATE, retrieved 50 % of chats
+- `winnies.de` – CORPORATE, retrieved 38 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 38 % of chats
+- `einhuf.com` – CORPORATE, retrieved 38 % of chats
 
 ## Suggested article
 
