@@ -1,6 +1,6 @@
 # Drift Radar – »Suche Magnesium für Pferde aus Deutschland.«
 
-**Prompt ID:** `pr_57d9f7c7-d131-410d-80b1-d22d87d691dc`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-05 → 2026-06-07
+**Prompt ID:** `pr_57d9f7c7-d131-410d-80b1-d22d87d691dc`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -14,21 +14,23 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Marstall** – top visibility 100 %  (ChatGPT 100 %)
+- **Havens** – top visibility 33 %  (ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 8.2 %
-- **Corporate:** 91.8 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 50 % of chats
+- `meinpferd.de` – CORPORATE, retrieved 50 % of chats
 - `canina.de` – CORPORATE, retrieved 50 % of chats
-- `sleipnir-islandpferdebedarf.de` – CORPORATE, retrieved 50 % of chats
-- `winnies.de` – CORPORATE, retrieved 50 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -40,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Havens, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

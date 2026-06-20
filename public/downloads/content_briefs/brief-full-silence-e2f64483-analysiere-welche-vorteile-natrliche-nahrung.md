@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 7.8 %
-- **Ugc:** 3.9 %
-- **Reference:** 3.9 %
-- **Institutional:** 17.6 %
-- **Corporate:** 64.7 %
-- **Other:** 2.0 %
+- **Editorial:** 9.3 %
+- **Ugc:** 2.3 %
+- **Reference:** 2.3 %
+- **Institutional:** 18.6 %
+- **Corporate:** 65.1 %
+- **Other:** 2.3 %
 
 **Top cited domains**
 
-- `zeinpharma.de` – CORPORATE, retrieved 44 % of chats
-- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `gse.bio` – CORPORATE, retrieved 33 % of chats
 - `hannover96.de` – CORPORATE, retrieved 33 % of chats
+- `zeinpharma.de` – CORPORATE, retrieved 33 % of chats
 - `endala.cz` – INSTITUTIONAL, retrieved 22 % of chats
-- `gesundheit.com` – EDITORIAL, retrieved 22 % of chats
-- `gse.bio` – CORPORATE, retrieved 22 % of chats
+- `lebenskraftpur.de` – CORPORATE, retrieved 22 % of chats
+- `ndr.de` – EDITORIAL, retrieved 22 % of chats
 
 ## Suggested article
 

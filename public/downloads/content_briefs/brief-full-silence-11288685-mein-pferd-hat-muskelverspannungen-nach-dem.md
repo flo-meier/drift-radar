@@ -1,6 +1,6 @@
 # Drift Radar – »Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?«
 
-**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Citation source mix
 
-- **Own:** 7.0 %
-- **Editorial:** 3.5 %
-- **Ugc:** 3.5 %
-- **Reference:** 1.8 %
-- **Institutional:** 14.0 %
-- **Corporate:** 70.2 %
+- **Own:** 4.3 %
+- **Ugc:** 5.8 %
+- **Reference:** 1.4 %
+- **Institutional:** 4.3 %
+- **Corporate:** 81.2 %
+- **Other:** 2.9 %
 
 **Top cited domains**
 
-- `dochorse.de` – CORPORATE, retrieved 44 % of chats
-- `pferde-gold.de` – OWN, retrieved 44 % of chats
-- `agrobs.de` – CORPORATE, retrieved 44 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 44 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `equistro.de` – CORPORATE, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 56 % of chats
+- `equusvitalis.de` – CORPORATE, retrieved 56 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `dochorse.de` – CORPORATE, retrieved 33 % of chats
+- `barynesse.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 1 700 – 2 900 words
+- **Length:** 2 400 – 4 300 words
 - **Headline starting point:** »Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium? – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._

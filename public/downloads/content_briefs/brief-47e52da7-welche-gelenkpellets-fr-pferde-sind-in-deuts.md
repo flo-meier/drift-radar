@@ -1,14 +1,14 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
 - **Gemini:** 67 %
-- **AI Overview:** 0 %
+- **AI Overview:** 100 %
 
-**Divergence score:** 0.68  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.81  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -32,7 +32,7 @@
 - _function_ – Gelenk Premium is cost-effective for older horses
 - _brand_ – NAF Superflex is renowned in sport horse segment
 
-### AI Overview – visibility 0 %
+### AI Overview – visibility 100 %
 
 _Prompt did not run on AI Overview across the full 20 – 23 April sample window – absence is itself a drift signal._
 
@@ -42,19 +42,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 12.4 %
-- **Reference:** 9.4 %
-- **Corporate:** 75.1 %
-- **Other:** 3.2 %
+- **Editorial:** 5.7 %
+- **Reference:** 8.7 %
+- **Corporate:** 82.8 %
+- **Other:** 2.8 %
 
 **Top cited domains**
 
-- `louven-shop.de` – CORPORATE, retrieved 50 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 50 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 50 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 28 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 28 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 28 % of chats
+- `go4vet.com` – REFERENCE, retrieved 28 % of chats
+- `migocki.de` – CORPORATE, retrieved 28 % of chats
+- `ehorses.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

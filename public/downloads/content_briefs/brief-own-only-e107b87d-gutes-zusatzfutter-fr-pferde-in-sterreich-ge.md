@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Pferde in Österreich gesucht.«
 
-**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_e107b87d-d16a-46cd-a7cd-97643c2eecea`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
-- **Marstall** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %)
+- **Marstall** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 13.0 %
-- **Corporate:** 87.0 %
+- **Institutional:** 12.0 %
+- **Corporate:** 88.0 %
 
 **Top cited domains**
 
 - `kraemer.at` – CORPORATE, retrieved 50 % of chats
 - `alphahorse.at` – CORPORATE, retrieved 50 % of chats
+- `vetapo-austria.at` – CORPORATE, retrieved 50 % of chats
 - `marstall.at` – INSTITUTIONAL, retrieved 50 % of chats
-- `wahl-agrar.at` – CORPORATE, retrieved 50 % of chats
+- `sanovet.com` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

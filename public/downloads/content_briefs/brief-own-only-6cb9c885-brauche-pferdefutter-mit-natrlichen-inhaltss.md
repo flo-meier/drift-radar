@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -14,23 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (Gemini 67 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 4.5 %
-- **Institutional:** 2.3 %
-- **Corporate:** 90.9 %
-- **Other:** 2.3 %
+- **Editorial:** 2.2 %
+- **Institutional:** 2.2 %
+- **Corporate:** 93.5 %
+- **Other:** 2.2 %
 
 **Top cited domains**
 
-- `leimueller.info` – CORPORATE, retrieved 44 % of chats
+- `agrarzone.at` – CORPORATE, retrieved 44 % of chats
 - `aronialand.at` – CORPORATE, retrieved 33 % of chats
+- `leimueller.info` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.at` – CORPORATE, retrieved 33 % of chats
-- `agrarzone.at` – CORPORATE, retrieved 33 % of chats
 - `annimally.at` – CORPORATE, retrieved 33 % of chats
-- `praxmayer.at` – CORPORATE, retrieved 33 % of chats
+- `auer-garsten.at` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

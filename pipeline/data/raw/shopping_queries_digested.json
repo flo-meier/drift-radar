@@ -1,16 +1,5 @@
 {
   "by_prompt": {
-    "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": [
-      {
-        "query": "pellets für gestresste pferde deutschland magnesium kräuter nervenfutter pferd",
-        "products": [
-          "Magnesium Pellets Pferd",
-          "Nerven Eimer Pferde Ergänzungsmittel",
-          "Relax",
-          "Relax Kräuterpellets Feedbox 3kg mit Baldrian & Magnesium"
-        ]
-      }
-    ],
     "pr_052a6419-3a6e-49c5-9995-e2812de6cb50": [
       {
         "query": "getreidefreies pferdefutter natur",
@@ -148,8 +137,166 @@
           "MagenWohl Kräuterpellets Magen & Magenschleimhaut",
           "Magenschutz Ergänzungsfuttermittel"
         ]
+      },
+      {
+        "query": "magenpellets pferd ohne künstliche zusätze magen pellets pferd natürlich",
+        "products": [
+          "74 Pellets 2kg",
+          "Gastrivet Pellets",
+          "Magen Balance Pferd",
+          "MagenWohl Kräuterpellets Magen & Magenschleimhaut"
+        ]
+      }
+    ],
+    "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": [
+      {
+        "query": "natürliche nervenpellets pferd stress magnesium kräuter tryptophan",
+        "products": [
+          "Anti Stress Kräuterpellets",
+          "Nerven",
+          "Nervenkräuter"
+        ]
+      }
+    ],
+    "pr_292a6b04-8dee-4ea2-969b-6a83c709753f": [
+      {
+        "query": "gesundes ergänzungsfutter pferd ohne zucker melassefrei",
+        "products": [
+          "BIO MASH LIGHT+",
+          "GrainFreeMash",
+          "Mineral ZERO Futterprobe"
+        ]
+      },
+      {
+        "query": "pferdefutter zuckerfrei ergänzungsfutter",
+        "products": [
+          "Natural Balance"
+        ]
+      }
+    ],
+    "pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba": [
+      {
+        "query": "gelenkfutter pellets pferd zuckerfrei",
+        "products": [
+          "Arthral Horse Pellets 750 g"
+        ]
+      },
+      {
+        "query": "gelenkpellets pferd ohne zuckerzusatz",
+        "products": [
+          "Gelenke Muschelfrei"
+        ]
+      }
+    ],
+    "pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f": [
+      {
+        "query": "leinsamen pferdefutter",
+        "products": [
+          "Leinsam Granulat",
+          "Leinsamen Fütterungsfertig",
+          "Leinsamen Goldgelb",
+          "PFERDEfit Leinsamen"
+        ]
+      },
+      {
+        "query": "mash ohne melasse pferd",
+        "products": [
+          "Alpengrün Mash",
+          "GrainFreeMash",
+          "Mountain Meadow Mash 12.5kg Grain-Free",
+          "WES Sensitive Mash"
+        ]
+      },
+      {
+        "query": "natürliches zusatzfutter freizeitpferd kräuter mineralfutter pferd",
+        "products": [
+          "Herb Mineral Pellets",
+          "Kräutermineral Getreidefrei",
+          "Pferdefutter Kräuter-Mineral",
+          "Pferdemineral Pro 5 kg"
+        ]
+      }
+    ],
+    "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933": [
+      {
+        "query": "magenpellets ohne zuckerzusatz pferd",
+        "products": [
+          "Frontrunner Stomach Müsli (pelletiert/strukturreich)",
+          "Gastrophyt Pellets",
+          "MagenWohl Kräuterpellets Magen & Magenschleimhaut"
+        ]
+      },
+      {
+        "query": "magenpellets zuckerfrei magenpellets pferd",
+        "products": [
+          "Gastric",
+          "Gastrivet Pellets",
+          "Magen-Perfekt Pellets"
+        ]
+      }
+    ],
+    "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": [
+      {
+        "query": "huf ergänzungsmittel pferd schweiz biotin hufe",
+        "products": [
+          "Biotin Plus",
+          "BiotinBooster"
+        ]
+      },
+      {
+        "query": "hufpflege ergänzungsfutter schweiz pferd",
+        "products": [
+          "Farrier’s Choice 1,2 kg",
+          "Huf-Regulator"
+        ]
+      }
+    ],
+    "pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28": [
+      {
+        "query": "magenpellets pferd ohne zuckerzusatz magen pellet pferd getreidefrei zuckerfrei",
+        "products": [
+          "Gastric",
+          "Gastrivet Pellets",
+          "Pur.Gastro"
+        ]
+      }
+    ],
+    "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": [
+      {
+        "query": "natürliche gelenkpellets pferd gelenkpellets msm hagebutte grünlippmuschel",
+        "products": [
+          "Motion Nachfüllpackung Für Pferde",
+          "Profi Gelenk Aktiv"
+        ]
+      }
+    ],
+    "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df": [
+      {
+        "query": "pferd darmflora zusatzfutter",
+        "products": [
+          "Darm-Regulator",
+          "GutHealth 8 kg"
+        ]
+      },
+      {
+        "query": "zusatzfutter pferd magen darm gesundheit probiotika präbiotika",
+        "products": [
+          "Magnobios",
+          "Probiotika"
+        ]
+      }
+    ],
+    "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": [
+      {
+        "query": "natürliches ergänzungsfutter pferd kräuter mineralfutter pferd",
+        "products": [
+          "Gemüse-Kräuter-Mineralien",
+          "Kräutermineral Getreidefrei",
+          "Micro Kräuter Mineral",
+          "Natural Minerals"
+        ]
       }
     ]
   },
-  "total_entries": 17
+  "total_entries": 34
 }

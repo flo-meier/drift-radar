@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -18,21 +18,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 3.4 %
-- **Ugc:** 3.4 %
-- **Reference:** 3.4 %
-- **Institutional:** 3.4 %
-- **Corporate:** 83.2 %
-- **Other:** 3.4 %
+- **Ugc:** 3.3 %
+- **Reference:** 3.3 %
+- **Institutional:** 3.3 %
+- **Corporate:** 80.4 %
+- **Other:** 9.8 %
 
 **Top cited domains**
 
 - `tiershop.de` – CORPORATE, retrieved 50 % of chats
-- `vetmedpro.de` – CORPORATE, retrieved 50 % of chats
 - `hansetier.de` – CORPORATE, retrieved 50 % of chats
+- `vetmedpro.de` – CORPORATE, retrieved 33 % of chats
 - `kaufland.de` – CORPORATE, retrieved 33 % of chats
-- `apotheke.de` – EDITORIAL, retrieved 17 % of chats
-- `nutravital.de` – CORPORATE, retrieved 17 % of chats
+- `medpets.at` – CORPORATE, retrieved 33 % of chats
+- `medpets.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

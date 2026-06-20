@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (ChatGPT 100 %)
+- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 10.6 %
-- **Corporate:** 89.4 %
+- **Competitor:** 7.0 %
+- **Corporate:** 93.0 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `marstall.de` – COMPETITOR, retrieved 50 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `fuettern-mit-spass.de` – CORPORATE, retrieved 33 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 33 % of chats
-- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
+- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `salutaria.de` – CORPORATE, retrieved 33 % of chats
+- `alpurial.de` – CORPORATE, retrieved 33 % of chats
+- `barynesse.com` – CORPORATE, retrieved 33 % of chats
+- `petsbiotics.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -40,7 +41,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

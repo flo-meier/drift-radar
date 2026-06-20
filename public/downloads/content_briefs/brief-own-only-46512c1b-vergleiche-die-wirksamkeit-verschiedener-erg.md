@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -15,26 +15,25 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (AI Overview 100 %)
-- **Pavo** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.3 %
-- **Editorial:** 3.5 %
-- **Ugc:** 2.3 %
-- **Reference:** 7.0 %
-- **Institutional:** 3.5 %
-- **Corporate:** 75.6 %
-- **Other:** 5.8 %
+- **Competitor:** 2.5 %
+- **Editorial:** 2.5 %
+- **Ugc:** 3.7 %
+- **Reference:** 6.2 %
+- **Institutional:** 5.0 %
+- **Corporate:** 76.3 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 56 % of chats
-- `stroeh.de` – CORPORATE, retrieved 44 % of chats
+- `iwest.de` – CORPORATE, retrieved 44 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 33 % of chats
-- `ewalia.com` – OTHER, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
+- `agrarzone.de` – UGC, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -46,7 +45,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

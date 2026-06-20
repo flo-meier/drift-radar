@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd?«
 
-**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -14,19 +14,19 @@
 
 ## Citation source mix
 
-- **Own:** 10.7 %
-- **Competitor:** 3.6 %
-- **Reference:** 14.3 %
-- **Corporate:** 71.4 %
+- **Own:** 10.4 %
+- **Competitor:** 5.4 %
+- **Reference:** 15.8 %
+- **Corporate:** 68.5 %
 
 **Top cited domains**
 
-- `winnies.de` – CORPORATE, retrieved 50 % of chats
-- `pferde-gold.de` – OWN, retrieved 50 % of chats
-- `care4vet.de` – CORPORATE, retrieved 50 % of chats
-- `curafyt.com` – CORPORATE, retrieved 50 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 50 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `calapo.com` – CORPORATE, retrieved 33 % of chats
+- `care4vet.de` – CORPORATE, retrieved 33 % of chats
+- `curafyt.com` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -14,25 +14,25 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
-- **Pavo** – top visibility 33 %  (AI Overview 33 %)
+- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 13.1 %
-- **Reference:** 9.8 %
-- **Institutional:** 3.3 %
-- **Corporate:** 68.9 %
-- **Other:** 4.9 %
+- **Editorial:** 12.5 %
+- **Reference:** 10.9 %
+- **Institutional:** 3.1 %
+- **Corporate:** 71.9 %
+- **Other:** 1.6 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 44 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 67 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `go4vet.com` – REFERENCE, retrieved 33 % of chats
 - `laurelnature.com` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

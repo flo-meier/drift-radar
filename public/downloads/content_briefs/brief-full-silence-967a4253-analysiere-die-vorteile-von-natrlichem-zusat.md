@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Vorteile von natürlichem Zusatzfutter gegenüber synthetischen Produkten.«
 
-**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_967a4253-01c0-4020-8087-e088910e9456`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Ugc:** 7.1 %
-- **Reference:** 7.1 %
-- **Institutional:** 16.1 %
-- **Corporate:** 66.1 %
-- **Other:** 3.6 %
+- **Ugc:** 6.7 %
+- **Reference:** 6.7 %
+- **Institutional:** 11.1 %
+- **Corporate:** 71.1 %
+- **Other:** 4.4 %
 
 **Top cited domains**
 
+- `beneo.com` – CORPORATE, retrieved 33 % of chats
+- `hannover96.de` – CORPORATE, retrieved 33 % of chats
+- `laurelnature.com` – CORPORATE, retrieved 33 % of chats
 - `naturalis-barf.de` – CORPORATE, retrieved 33 % of chats
 - `naturavetal.de` – CORPORATE, retrieved 33 % of chats
-- `pinewoodhuskys.de` – CORPORATE, retrieved 33 % of chats
-- `tiergesundheit.net` – INSTITUTIONAL, retrieved 22 % of chats
-- `beneo.com` – CORPORATE, retrieved 22 % of chats
-- `facebook.com` – UGC, retrieved 22 % of chats
+- `pferdgerecht.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

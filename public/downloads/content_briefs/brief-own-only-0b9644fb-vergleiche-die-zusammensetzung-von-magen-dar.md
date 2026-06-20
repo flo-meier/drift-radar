@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
 
 ## Engine visibility
 
@@ -19,19 +19,19 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.4 %
+- **Competitor:** 1.5 %
 - **Editorial:** 2.9 %
-- **Corporate:** 90.0 %
-- **Other:** 5.7 %
+- **Corporate:** 88.2 %
+- **Other:** 7.4 %
 
 **Top cited domains**
 
-- `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `atcomhorse.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `care4vet.de` – CORPORATE, retrieved 33 % of chats
 - `derby.de` – OTHER, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
+- `atcomhorse.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
