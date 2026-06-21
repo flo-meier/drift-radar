@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
@@ -15,13 +15,13 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 1.5 %
-- **Editorial:** 2.9 %
-- **Corporate:** 88.2 %
+- **Competitor:** 2.9 %
+- **Editorial:** 4.4 %
+- **Corporate:** 85.3 %
 - **Other:** 7.4 %
 
 **Top cited domains**
@@ -30,8 +30,8 @@
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `care4vet.de` – CORPORATE, retrieved 33 % of chats
 - `derby.de` – OTHER, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
-- `atcomhorse.de` – CORPORATE, retrieved 22 % of chats
+- `drogerie-plappert.de` – CORPORATE, retrieved 33 % of chats
+- `equinepremium.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -43,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

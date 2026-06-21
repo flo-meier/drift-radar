@@ -1,6 +1,6 @@
-# Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
+# Drift Radar – »Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
@@ -14,28 +14,32 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 2.1 %
-- **Corporate:** 95.8 %
-- **Other:** 2.1 %
+- **Own:** 2.8 %
+- **Competitor:** 1.4 %
+- **Ugc:** 8.3 %
+- **Reference:** 1.4 %
+- **Institutional:** 2.8 %
+- **Corporate:** 79.2 %
+- **Other:** 4.2 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 44 % of chats
-- `naturanima.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `agrarshop-online.com` – CORPORATE, retrieved 33 % of chats
-- `aronialand-shop.de` – CORPORATE, retrieved 33 % of chats
-- `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 44 % of chats
+- `equusvitalis.de` – CORPORATE, retrieved 44 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `dochorse.de` – CORPORATE, retrieved 33 % of chats
+- `barynesse.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
-- **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
+- **Length:** 1 600 – 2 600 words
+- **Headline starting point:** »Pferdegold vs Pavo: Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

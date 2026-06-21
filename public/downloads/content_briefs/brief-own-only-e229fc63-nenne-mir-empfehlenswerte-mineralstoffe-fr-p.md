@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
@@ -14,26 +14,27 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %, ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.4 %
-- **Reference:** 13.0 %
-- **Institutional:** 17.1 %
-- **Corporate:** 52.2 %
-- **Other:** 13.2 %
+- **Editorial:** 2.3 %
+- **Ugc:** 2.3 %
+- **Reference:** 4.8 %
+- **Institutional:** 9.5 %
+- **Corporate:** 69.5 %
+- **Other:** 11.6 %
 
 **Top cited domains**
 
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
-- `ehorses.de` – CORPORATE, retrieved 33 % of chats
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `liebegg.ch` – INSTITUTIONAL, retrieved 33 % of chats
-- `pferdesport-deutschland.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `ehorses.de` – CORPORATE, retrieved 43 % of chats
+- `iwest.de` – CORPORATE, retrieved 43 % of chats
+- `winnies.de` – CORPORATE, retrieved 28 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 28 % of chats
+- `go4vet.com` – REFERENCE, retrieved 28 % of chats
+- `kornscheune.de` – OTHER, retrieved 28 % of chats
 
 ## Suggested article
 

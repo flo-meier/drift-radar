@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
@@ -18,22 +18,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 2.5 %
-- **Editorial:** 2.5 %
-- **Ugc:** 3.7 %
-- **Reference:** 6.2 %
-- **Institutional:** 5.0 %
-- **Corporate:** 76.3 %
-- **Other:** 3.7 %
+- **Competitor:** 3.5 %
+- **Editorial:** 2.3 %
+- **Ugc:** 3.5 %
+- **Reference:** 7.0 %
+- **Institutional:** 5.8 %
+- **Corporate:** 74.4 %
+- **Other:** 3.5 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
+- `stroeh.de` – CORPORATE, retrieved 44 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `vetapo-austria.at` – CORPORATE, retrieved 33 % of chats
-- `agrarzone.de` – UGC, retrieved 22 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `et-hoofcare.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
-**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
+**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
@@ -16,25 +16,25 @@
 
 - **Pavo** – top visibility 100 %  (Gemini 100 %)
 - **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Own:** 3.3 %
-- **Competitor:** 3.3 %
-- **Ugc:** 3.3 %
-- **Institutional:** 3.3 %
-- **Corporate:** 86.9 %
+- **Own:** 3.2 %
+- **Competitor:** 6.6 %
+- **Ugc:** 3.2 %
+- **Institutional:** 3.2 %
+- **Corporate:** 83.9 %
 
 **Top cited domains**
 
-- `bieros.de` – CORPORATE, retrieved 43 % of chats
+- `stroeh.de` – CORPORATE, retrieved 43 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 43 % of chats
 - `semhof.de` – CORPORATE, retrieved 28 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 28 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 28 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 28 % of chats
-- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `marstall.de` – COMPETITOR, retrieved 28 % of chats
+- `equifarm.de` – CORPORATE, retrieved 28 % of chats
+- `bieros.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

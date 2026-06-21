@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
@@ -14,25 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.5 %
-- **Editorial:** 7.0 %
-- **Ugc:** 1.2 %
-- **Reference:** 4.6 %
-- **Institutional:** 22.2 %
-- **Corporate:** 54.6 %
-- **Other:** 7.0 %
+- **Competitor:** 3.8 %
+- **Editorial:** 5.8 %
+- **Ugc:** 1.0 %
+- **Reference:** 4.8 %
+- **Institutional:** 21.2 %
+- **Corporate:** 53.8 %
+- **Other:** 9.6 %
 
 **Top cited domains**
 
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 56 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 67 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
+- `horsewellness.de` – OTHER, retrieved 44 % of chats
+- `ak-pferd.de` – INSTITUTIONAL, retrieved 33 % of chats
 - `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 33 % of chats
-- `horsewellness.de` – OTHER, retrieved 33 % of chats
 - `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
 
 ## Suggested article

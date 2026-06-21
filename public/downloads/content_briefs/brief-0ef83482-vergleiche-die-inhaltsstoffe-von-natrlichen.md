@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
-- **ChatGPT:** 67 %
+- **ChatGPT:** 100 %
 - **Gemini:** 0 %
-- **AI Overview:** 67 %
+- **AI Overview:** 33 %
 
-**Divergence score:** 0.57  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 67 %
+### ChatGPT – visibility 100 %
 
 **Brands cited (tracked):** _none_
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 67 %
+### AI Overview – visibility 33 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,22 +49,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 3.6 %
-- **Competitor:** 2.4 %
-- **Editorial:** 1.2 %
-- **Ugc:** 3.6 %
-- **Reference:** 6.0 %
-- **Corporate:** 79.5 %
-- **Other:** 3.6 %
+- **Own:** 5.3 %
+- **Competitor:** 2.6 %
+- **Editorial:** 1.3 %
+- **Ugc:** 1.3 %
+- **Reference:** 5.3 %
+- **Corporate:** 80.3 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
+- `pferde-gold.de` – OWN, retrieved 44 % of chats
 - `dochorse.de` – CORPORATE, retrieved 44 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
 - `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
 
 ## Suggested article
 

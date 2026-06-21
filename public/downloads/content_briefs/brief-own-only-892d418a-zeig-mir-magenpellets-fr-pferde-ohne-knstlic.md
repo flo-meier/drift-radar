@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets für Pferde ohne künstliche Zusätze.«
 
-**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.1 %
-- **Corporate:** 93.7 %
-- **Other:** 3.1 %
+- **Competitor:** 3.1 %
+- **Corporate:** 90.8 %
+- **Other:** 6.1 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
 - `carepet.de` – CORPORATE, retrieved 50 % of chats
-- `eqx.vet` – CORPORATE, retrieved 17 % of chats
-- `bukephalos-minerals.de` – CORPORATE, retrieved 17 % of chats
-- `cantagos-choice.de` – CORPORATE, retrieved 17 % of chats
-- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `deers-tackstore.de` – CORPORATE, retrieved 50 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `fundis-reitsport.de` – CORPORATE, retrieved 33 % of chats
+- `cantagos-choice.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
@@ -19,19 +19,19 @@
 
 ## Citation source mix
 
-- **Editorial:** 7.3 %
-- **Reference:** 25.8 %
-- **Corporate:** 63.1 %
-- **Other:** 3.8 %
+- **Editorial:** 7.1 %
+- **Reference:** 28.4 %
+- **Corporate:** 57.5 %
+- **Other:** 7.1 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `go4vet.com` – REFERENCE, retrieved 33 % of chats
 - `cavallo.de` – EDITORIAL, retrieved 33 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `trabland.de` – REFERENCE, retrieved 33 % of chats
+- `schaette-pferd.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

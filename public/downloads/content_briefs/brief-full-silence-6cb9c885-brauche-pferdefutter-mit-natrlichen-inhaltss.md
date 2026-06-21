@@ -1,6 +1,6 @@
-# Drift Radar – »Welche Magnesium-Form wird vom Pferd am besten aufgenommen?«
+# Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_98e0e5f1-08bd-482e-9632-7a31600a0d5b`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Citation source mix
 
-- **Own:** 5.5 %
-- **Competitor:** 1.8 %
-- **Corporate:** 92.6 %
+- **Editorial:** 2.1 %
+- **Institutional:** 2.1 %
+- **Corporate:** 95.8 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 56 % of chats
-- `horseadds.com` – CORPORATE, retrieved 56 % of chats
-- `winnies.de` – CORPORATE, retrieved 44 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `agradi.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `agrarzone.at` – CORPORATE, retrieved 44 % of chats
+- `aronialand.at` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.at` – CORPORATE, retrieved 33 % of chats
+- `leimueller.info` – CORPORATE, retrieved 33 % of chats
+- `onfarming.at` – CORPORATE, retrieved 33 % of chats
+- `annimally.at` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 2 400 – 4 300 words
-- **Headline starting point:** »Welche Magnesium-Form wird vom Pferd am besten aufgenommen? – the Pferdegold guide«
+- **Length:** 2 000 – 3 500 words
+- **Headline starting point:** »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich. – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
