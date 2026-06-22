@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -14,12 +14,13 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.6 %
-- **Corporate:** 88.7 %
+- **Editorial:** 5.6 %
+- **Ugc:** 5.6 %
+- **Corporate:** 83.2 %
 - **Other:** 5.6 %
 
 **Top cited domains**
@@ -27,8 +28,8 @@
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `votana-pferd.de` – CORPORATE, retrieved 33 % of chats
 - `deganius.de` – CORPORATE, retrieved 33 % of chats
-- `horseflex.de` – CORPORATE, retrieved 33 % of chats
-- `dasgesundetier.de` – CORPORATE, retrieved 17 % of chats
+- `krauterie.de` – CORPORATE, retrieved 17 % of chats
+- `agrarzone.de` – UGC, retrieved 17 % of chats
 - `equiva.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article

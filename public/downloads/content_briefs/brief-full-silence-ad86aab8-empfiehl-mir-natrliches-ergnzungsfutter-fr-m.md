@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -14,19 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 7.4 %
-- **Ugc:** 2.4 %
-- **Reference:** 22.0 %
-- **Institutional:** 2.4 %
-- **Corporate:** 65.7 %
+- **Editorial:** 6.4 %
+- **Ugc:** 3.1 %
+- **Reference:** 25.3 %
+- **Institutional:** 3.1 %
+- **Corporate:** 55.8 %
+- **Other:** 6.4 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 43 % of chats
-- `stroeh.de` – CORPORATE, retrieved 28 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 28 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 43 % of chats
 - `go4vet.com` – REFERENCE, retrieved 28 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 28 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 28 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 28 % of chats
+- `futterlegende.de` – REFERENCE, retrieved 28 % of chats
 - `trabland.de` – REFERENCE, retrieved 28 % of chats
 
 ## Suggested article

@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -18,22 +18,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 3.8 %
-- **Editorial:** 5.8 %
+- **Competitor:** 5.1 %
+- **Editorial:** 2.0 %
 - **Ugc:** 1.0 %
-- **Reference:** 4.8 %
-- **Institutional:** 21.2 %
-- **Corporate:** 53.8 %
-- **Other:** 9.6 %
+- **Reference:** 6.1 %
+- **Institutional:** 15.4 %
+- **Corporate:** 61.2 %
+- **Other:** 9.2 %
 
 **Top cited domains**
 
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 67 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 56 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
-- `horsewellness.de` – OTHER, retrieved 44 % of chats
-- `ak-pferd.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `horsewellness.de` – OTHER, retrieved 33 % of chats
+- `leroma.de` – CORPORATE, retrieved 33 % of chats
+- `wikipedia.org` – REFERENCE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?«
 
-**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (AI Overview 33 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %)
 
 ## Citation source mix
 
-- **Own:** 2.8 %
-- **Competitor:** 1.4 %
-- **Ugc:** 8.3 %
-- **Reference:** 1.4 %
-- **Institutional:** 2.8 %
-- **Corporate:** 79.2 %
-- **Other:** 4.2 %
+- **Own:** 2.7 %
+- **Competitor:** 1.3 %
+- **Ugc:** 9.3 %
+- **Reference:** 1.3 %
+- **Institutional:** 4.0 %
+- **Corporate:** 77.3 %
+- **Other:** 4.0 %
 
 **Top cited domains**
 
 - `agrobs.de` – CORPORATE, retrieved 44 % of chats
 - `equusvitalis.de` – CORPORATE, retrieved 44 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
 - `winnies.de` – CORPORATE, retrieved 33 % of chats
-- `dochorse.de` – CORPORATE, retrieved 33 % of chats
-- `barynesse.com` – CORPORATE, retrieved 33 % of chats
+- `emma-care.de` – CORPORATE, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `instagram.com` – UGC, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,14 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
 - **ChatGPT:** 100 %
 - **Gemini:** 0 %
-- **AI Overview:** 33 %
+- **AI Overview:** 0 %
 
-**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.91  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 33 %
+### AI Overview – visibility 0 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,22 +49,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 5.3 %
-- **Competitor:** 2.6 %
-- **Editorial:** 1.3 %
-- **Ugc:** 1.3 %
-- **Reference:** 5.3 %
-- **Corporate:** 80.3 %
-- **Other:** 3.9 %
+- **Own:** 4.1 %
+- **Competitor:** 1.4 %
+- **Ugc:** 1.4 %
+- **Reference:** 4.1 %
+- **Institutional:** 1.4 %
+- **Corporate:** 83.8 %
+- **Other:** 4.1 %
 
 **Top cited domains**
 
-- `pferde-gold.de` – OWN, retrieved 44 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
 - `dochorse.de` – CORPORATE, retrieved 44 % of chats
-- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 44 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Welches Magnesium-Produkt ist gut für mein Pferd?«
 
-**Prompt ID:** `pr_9237ba5c-707a-400b-8d7a-55e2a7757b61`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_9237ba5c-707a-400b-8d7a-55e2a7757b61`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -14,37 +14,39 @@
 
 ## Who is cited instead
 
+- **Havens** – top visibility 33 %  (ChatGPT 33 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **Nösenberger** – top visibility 33 %  (Gemini 33 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 2.5 %
-- **Competitor:** 2.5 %
-- **Corporate:** 95.0 %
+- **Own:** 4.4 %
+- **Competitor:** 4.4 %
+- **Corporate:** 89.1 %
+- **Other:** 2.1 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 38 % of chats
 - `cp-futter.de` – CORPORATE, retrieved 38 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 25 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 25 % of chats
+- `marstall.de` – COMPETITOR, retrieved 25 % of chats
 - `agrobs.de` – CORPORATE, retrieved 25 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 25 % of chats
+- `winnies.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Welches Magnesium-Produkt ist gut für mein Pferd?«
+- **Headline starting point:** »Pferdegold vs Havens: Welches Magnesium-Produkt ist gut für mein Pferd?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Nösenberger for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Havens, Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

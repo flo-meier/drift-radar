@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-15 → 2026-06-17
+**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -14,19 +14,16 @@
 
 ## Citation source mix
 
-- **Editorial:** 1.8 %
-- **Ugc:** 5.3 %
-- **Reference:** 1.8 %
-- **Corporate:** 89.5 %
-- **Other:** 1.8 %
+- **Corporate:** 98.0 %
+- **Other:** 2.0 %
 
 **Top cited domains**
 
+- `stroeh.de` – CORPORATE, retrieved 44 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 44 % of chats
 - `naturanima.de` – CORPORATE, retrieved 33 % of chats
-- `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
 - `aronialand-shop.de` – CORPORATE, retrieved 33 % of chats
-- `equiva.com` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
+- `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
 - `agrarshop-online.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article

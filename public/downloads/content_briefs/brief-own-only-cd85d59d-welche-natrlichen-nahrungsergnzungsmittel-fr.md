@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -18,21 +18,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 1.7 %
-- **Ugc:** 3.3 %
-- **Reference:** 6.7 %
-- **Institutional:** 11.7 %
-- **Corporate:** 71.7 %
-- **Other:** 5.0 %
+- **Ugc:** 4.3 %
+- **Reference:** 4.3 %
+- **Institutional:** 10.6 %
+- **Corporate:** 74.5 %
+- **Other:** 6.4 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 44 % of chats
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
 - `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `winnies.de` – CORPORATE, retrieved 22 % of chats
+- `youtube.com` – UGC, retrieved 22 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 22 % of chats
+- `care4vet.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

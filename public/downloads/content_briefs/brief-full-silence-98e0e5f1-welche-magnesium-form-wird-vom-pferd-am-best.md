@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Magnesium-Form wird vom Pferd am besten aufgenommen?«
 
-**Prompt ID:** `pr_98e0e5f1-08bd-482e-9632-7a31600a0d5b`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_98e0e5f1-08bd-482e-9632-7a31600a0d5b`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -14,18 +14,17 @@
 
 ## Citation source mix
 
-- **Own:** 5.5 %
-- **Competitor:** 1.8 %
-- **Corporate:** 92.6 %
+- **Own:** 4.3 %
+- **Corporate:** 95.7 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 56 % of chats
-- `horseadds.com` – CORPORATE, retrieved 56 % of chats
 - `winnies.de` – CORPORATE, retrieved 44 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `agradi.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 44 % of chats
+- `horseadds.com` – CORPORATE, retrieved 44 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 22 % of chats
+- `agradi.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

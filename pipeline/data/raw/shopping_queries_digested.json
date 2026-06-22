@@ -1,37 +1,5 @@
 {
   "by_prompt": {
-    "pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83": [
-      {
-        "query": "magenpellets pferd ohne künstliche zusätze magenschutz pferd pellets natürlich",
-        "products": [
-          "Coolly 7 kg",
-          "Gastrivet Pellets",
-          "MagenWohl Kräuterpellets Magen & Magenschleimhaut",
-          "Magenschutz Ergänzungsfuttermittel"
-        ]
-      },
-      {
-        "query": "magenpellets pferd ohne künstliche zusätze magen pellets pferd natürlich",
-        "products": [
-          "74 Pellets 2kg",
-          "Gastrivet Pellets",
-          "Magen Balance Pferd",
-          "MagenWohl Kräuterpellets Magen & Magenschleimhaut"
-        ]
-      }
-    ],
-    "pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5": [
-      {
-        "query": "natürliches ergänzungsfutter pferde kräuter mineralfutter",
-        "products": [
-          "Gemüse-Kräuter-Mineralien",
-          "Herb Mineral Pellets",
-          "Horse Herbs & Beetroot Mineral Cobs",
-          "Pferdefutter Kräuter-Mineral",
-          "TheMineral 6,5 kg"
-        ]
-      }
-    ],
     "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": [
       {
         "query": "natürliche nervenpellets pferd stress magnesium kräuter tryptophan",
@@ -155,6 +123,17 @@
         ]
       }
     ],
+    "pr_892d418a-dd4f-4098-9dc5-c2d0c8be6d83": [
+      {
+        "query": "magenpellets pferd ohne künstliche zusätze magen pellets pferd natürlich",
+        "products": [
+          "74 Pellets 2kg",
+          "Gastrivet Pellets",
+          "Magen Balance Pferd",
+          "MagenWohl Kräuterpellets Magen & Magenschleimhaut"
+        ]
+      }
+    ],
     "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": [
       {
         "query": "huf ergänzungsmittel pferd schweiz biotin hufe",
@@ -269,6 +248,19 @@
           "Horse Vitality Bucket",
           "Vitamin B-Komplex Liquid Pferde 1000 ml"
         ]
+      },
+      {
+        "query": "horse vitamins equine mineral feed supplements",
+        "products": [
+          "Daily Vitamins & Minerals",
+          "Everyday Vitamins & Minerals",
+          "Force Mineral 10 kg",
+          "Mineral (hochdosiert)",
+          "Mineralfutter",
+          "Natural Minerals",
+          "Reformin-Plus",
+          "Vital"
+        ]
       }
     ],
     "pr_76c76a27-2b6a-4e7c-9a05-7f270587a055": [
@@ -294,5 +286,5 @@
       }
     ]
   },
-  "total_entries": 33
+  "total_entries": 32
 }

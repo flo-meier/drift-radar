@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -17,25 +17,25 @@
 - **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.4 %
-- **Editorial:** 4.4 %
+- **Editorial:** 8.5 %
+- **Reference:** 4.4 %
 - **Institutional:** 4.4 %
-- **Corporate:** 82.5 %
+- **Corporate:** 78.2 %
 - **Other:** 4.4 %
 
 **Top cited domains**
 
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `pferdy.de` – EDITORIAL, retrieved 33 % of chats
+- `okapi-online.de` – CORPORATE, retrieved 33 % of chats
 - `eggersmann-shop.de` – CORPORATE, retrieved 17 % of chats
-- `meinpferd.de` – CORPORATE, retrieved 17 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
-- `pferdy.de` – EDITORIAL, retrieved 17 % of chats
 
 ## Suggested article
 

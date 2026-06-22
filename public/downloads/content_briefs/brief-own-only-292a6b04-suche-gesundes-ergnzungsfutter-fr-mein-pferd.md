@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -21,19 +21,19 @@
 
 ## Citation source mix
 
-- **Own:** 4.0 %
-- **Competitor:** 11.9 %
-- **Institutional:** 4.0 %
-- **Corporate:** 80.0 %
+- **Own:** 8.2 %
+- **Competitor:** 12.4 %
+- **Institutional:** 4.2 %
+- **Corporate:** 75.2 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 50 % of chats
 - `marstall.de` – COMPETITOR, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
 - `semhof.de` – CORPORATE, retrieved 33 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
 - `mambocare.de` – CORPORATE, retrieved 17 % of chats
-- `barynesse.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

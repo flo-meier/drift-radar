@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 8.6 %
-- **Corporate:** 91.4 %
+- **Competitor:** 6.0 %
+- **Corporate:** 94.0 %
 
 **Top cited domains**
 
-- `mambocare.de` – CORPORATE, retrieved 50 % of chats
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `carepet.de` – CORPORATE, retrieved 33 % of chats
 - `futter-und-tierbedarf.de` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
+- `eqx.vet` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
