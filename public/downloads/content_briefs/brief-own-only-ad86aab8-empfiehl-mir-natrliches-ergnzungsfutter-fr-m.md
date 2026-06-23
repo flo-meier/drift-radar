@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
 
 ## Engine visibility
 
@@ -19,19 +19,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 7.1 %
-- **Reference:** 28.4 %
-- **Corporate:** 57.5 %
-- **Other:** 7.1 %
+- **Editorial:** 3.3 %
+- **Ugc:** 3.3 %
+- **Reference:** 16.5 %
+- **Institutional:** 3.3 %
+- **Corporate:** 70.4 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
-- `schaette-pferd.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 28 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 28 % of chats
+- `schaette-pferd.de` – CORPORATE, retrieved 28 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 28 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 

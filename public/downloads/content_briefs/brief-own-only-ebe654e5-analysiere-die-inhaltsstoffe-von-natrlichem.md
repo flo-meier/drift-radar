@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.1 %
-- **Editorial:** 2.0 %
-- **Ugc:** 1.0 %
-- **Reference:** 6.1 %
-- **Institutional:** 15.4 %
-- **Corporate:** 61.2 %
-- **Other:** 9.2 %
+- **Competitor:** 4.9 %
+- **Editorial:** 1.2 %
+- **Ugc:** 1.2 %
+- **Reference:** 4.9 %
+- **Institutional:** 11.1 %
+- **Corporate:** 67.0 %
+- **Other:** 9.7 %
 
 **Top cited domains**
 
 - `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 56 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
-- `horsewellness.de` – OTHER, retrieved 33 % of chats
 - `leroma.de` – CORPORATE, retrieved 33 % of chats
-- `wikipedia.org` – REFERENCE, retrieved 33 % of chats
+- `metazoa.nl` – OTHER, retrieved 33 % of chats
+- `leimueller.info` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

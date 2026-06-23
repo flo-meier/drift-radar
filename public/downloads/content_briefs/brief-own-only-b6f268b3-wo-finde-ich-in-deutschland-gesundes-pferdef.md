@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in Deutschland gesundes Pferdefutter?«
 
-**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
+**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
 
 ## Engine visibility
 
@@ -14,24 +14,26 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, AI Overview 33 %, ChatGPT 33 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 5.3 %
-- **Corporate:** 93.0 %
-- **Other:** 1.8 %
+- **Own:** 1.5 %
+- **Institutional:** 4.6 %
+- **Corporate:** 89.2 %
+- **Other:** 4.6 %
 
 **Top cited domains**
 
-- `salvana-pferde.de` – CORPORATE, retrieved 56 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 67 % of chats
 - `agrobs.de` – CORPORATE, retrieved 44 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `meinpferd.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `furago.de` – CORPORATE, retrieved 33 % of chats
+- `okapi-online.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

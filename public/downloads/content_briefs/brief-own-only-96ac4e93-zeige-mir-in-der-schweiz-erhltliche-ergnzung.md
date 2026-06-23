@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-19 → 2026-06-21
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
 
 ## Engine visibility
 
@@ -15,27 +15,25 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
-- **Marstall** – top visibility 67 %  (AI Overview 67 %, ChatGPT 67 %, Gemini 33 %)
+- **Marstall** – top visibility 33 %  (AI Overview 33 %, Gemini 33 %, ChatGPT 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
 - **Competitor:** 1.7 %
-- **Ugc:** 1.7 %
-- **Institutional:** 6.8 %
-- **Corporate:** 81.4 %
-- **Other:** 8.5 %
+- **Institutional:** 8.6 %
+- **Corporate:** 84.5 %
+- **Other:** 5.2 %
 
 **Top cited domains**
 
 - `huf24.ch` – CORPORATE, retrieved 44 % of chats
-- `proequishop.ch` – CORPORATE, retrieved 33 % of chats
 - `felix-buehler.ch` – CORPORATE, retrieved 33 % of chats
-- `fundis-reitsport.ch` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `proequishop.ch` – CORPORATE, retrieved 33 % of chats
+- `agro-kessler.ch` – CORPORATE, retrieved 33 % of chats
 - `vitahorse.ch` – CORPORATE, retrieved 33 % of chats
+- `horze.ch` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

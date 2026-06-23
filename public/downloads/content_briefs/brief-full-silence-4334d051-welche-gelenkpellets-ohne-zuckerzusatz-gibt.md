@@ -1,6 +1,6 @@
-# Drift Radar – »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd?«
+# Drift Radar – »Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?«
 
-**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
 
 ## Engine visibility
 
@@ -14,25 +14,23 @@
 
 ## Citation source mix
 
-- **Own:** 10.7 %
-- **Reference:** 10.7 %
-- **Corporate:** 75.1 %
-- **Other:** 3.6 %
+- **Corporate:** 90.9 %
+- **Other:** 9.1 %
 
 **Top cited domains**
 
-- `winnies.de` – CORPORATE, retrieved 50 % of chats
-- `pferde-gold.de` – OWN, retrieved 50 % of chats
-- `annimally.de` – CORPORATE, retrieved 50 % of chats
-- `curafyt.com` – CORPORATE, retrieved 50 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 50 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `nuvallo.de` – OTHER, retrieved 50 % of chats
+- `equidocs.de` – CORPORATE, retrieved 50 % of chats
+- `alpurial.de` – CORPORATE, retrieved 50 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 50 % of chats
+- `hyjoint.de` – CORPORATE, retrieved 50 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 50 % of chats
 
 ## Suggested article
 
 - **Format:** Pillar / category-explainer guide
-- **Length:** 2 000 – 3 500 words
-- **Headline starting point:** »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd? – the Pferdegold guide«
+- **Length:** 2 400 – 4 300 words
+- **Headline starting point:** »Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde? – the Pferdegold guide«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
