@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %, ChatGPT 50 %)
 
 ## Citation source mix
 
-- **Editorial:** 7.5 %
-- **Reference:** 6.5 %
-- **Institutional:** 5.4 %
-- **Corporate:** 79.6 %
-- **Other:** 1.1 %
+- **Editorial:** 6.7 %
+- **Reference:** 4.5 %
+- **Institutional:** 3.4 %
+- **Corporate:** 83.2 %
+- **Other:** 2.2 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
 - `laurelnature.com` – CORPORATE, retrieved 44 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `annimally.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -10,7 +10,7 @@
 
 **Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
-**Silence type:** `full`
+**Silence type:** `own_only`
 
 ## What the engines say
 
@@ -46,25 +46,25 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `equanis.de` – CORPORATE, retrieved 50 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 50 % of chats
 - `stallbedarf24.de` – CORPORATE, retrieved 50 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `nikolaus-nature.com` – CORPORATE, retrieved 33 % of chats
-- `salvana-pferde.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `trittwerk.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
-- **Format:** Pillar / category-explainer guide
-- **Length:** 2 000 – 3 500 words
-- **Headline starting point:** »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen. – the Pferdegold guide«
+- **Format:** Head-to-head comparison page
+- **Length:** 1 200 – 1 800 words
+- **Headline starting point:** »Pferdegold vs Höveler: Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
-- **Full silence – free real estate.** Create a definitive answer page for this prompt before a competitor does.
+- **Own-only silence.** Höveler already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

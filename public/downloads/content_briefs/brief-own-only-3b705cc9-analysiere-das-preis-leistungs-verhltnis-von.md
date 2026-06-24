@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -14,30 +14,30 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 100 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 100 %, AI Overview 100 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %, AI Overview 33 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %)
-- **Pavo** – top visibility 33 %  (AI Overview 33 %, Gemini 33 %, ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 67 %, ChatGPT 25 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 50 %, AI Overview 50 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, AI Overview 25 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %, AI Overview 25 %, ChatGPT 25 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.9 %
-- **Editorial:** 14.3 %
-- **Ugc:** 1.4 %
-- **Reference:** 12.9 %
-- **Institutional:** 7.1 %
-- **Corporate:** 60.0 %
-- **Other:** 1.4 %
+- **Competitor:** 3.2 %
+- **Editorial:** 11.1 %
+- **Ugc:** 1.6 %
+- **Reference:** 15.9 %
+- **Institutional:** 9.5 %
+- **Corporate:** 57.1 %
+- **Other:** 1.6 %
 
 **Top cited domains**
 
-- `welt.de` – EDITORIAL, retrieved 44 % of chats
-- `idealo.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
 - `meinpferd.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `which.one` – REFERENCE, retrieved 22 % of chats
-- `josera.de` – CORPORATE, retrieved 22 % of chats
+- `sphericalinsights.com` – REFERENCE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `ble.de` – INSTITUTIONAL, retrieved 22 % of chats
 
 ## Suggested article
 

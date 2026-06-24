@@ -1,14 +1,14 @@
 # Drift Radar – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
-**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
 - **ChatGPT:** 100 %
-- **Gemini:** 0 %
+- **Gemini:** 33 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.91  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -21,7 +21,7 @@
 - _brand_ – Pavo Calm & Relax contains Magnesium and herbs
 - _substance_ – Magnesium supports nervous horse health
 
-### Gemini – visibility 0 %
+### Gemini – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -42,15 +42,16 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Own:** 4.6 %
+- **Corporate:** 95.4 %
 
 **Top cited domains**
 
 - `equidocs.de` – CORPORATE, retrieved 50 % of chats
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `equi-clic.de` – CORPORATE, retrieved 33 % of chats
-- `semhof.de` – CORPORATE, retrieved 33 % of chats
-- `louven-shop.de` – CORPORATE, retrieved 33 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 50 % of chats
+- `equi-clic.de` – CORPORATE, retrieved 17 % of chats
+- `pferde-gold.de` – OWN, retrieved 17 % of chats
 - `cdvet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article

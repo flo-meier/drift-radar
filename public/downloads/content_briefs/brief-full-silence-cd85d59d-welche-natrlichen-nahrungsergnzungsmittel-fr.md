@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
+**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -14,22 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 1.5 %
-- **Editorial:** 1.5 %
-- **Ugc:** 3.0 %
-- **Reference:** 9.1 %
+- **Ugc:** 9.1 %
+- **Reference:** 6.1 %
 - **Institutional:** 9.1 %
-- **Corporate:** 72.8 %
-- **Other:** 3.0 %
+- **Corporate:** 66.7 %
+- **Other:** 9.1 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 67 % of chats
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
-- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 33 % of chats
+- `youtube.com` – UGC, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
+- `medilutions.de` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `gstatic.com` – OTHER, retrieved 22 % of chats
 
 ## Suggested article
 

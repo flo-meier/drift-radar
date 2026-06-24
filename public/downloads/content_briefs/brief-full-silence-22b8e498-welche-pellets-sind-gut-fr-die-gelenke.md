@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -14,17 +14,18 @@
 
 ## Citation source mix
 
-- **Corporate:** 82.5 %
-- **Other:** 17.5 %
+- **Editorial:** 4.8 %
+- **Corporate:** 71.8 %
+- **Other:** 23.4 %
 
 **Top cited domains**
 
-- `argoa.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `hundpur.com` – CORPORATE, retrieved 33 % of chats
-- `annimally.de` – CORPORATE, retrieved 17 % of chats
-- `annimally.nl` – CORPORATE, retrieved 17 % of chats
-- `disapo.de` – OTHER, retrieved 17 % of chats
+- `hundefreuden.de` – OTHER, retrieved 33 % of chats
+- `windhundglueck.de` – OTHER, retrieved 33 % of chats
+- `apotheke.de` – EDITORIAL, retrieved 17 % of chats
+- `nutravital.de` – CORPORATE, retrieved 17 % of chats
+- `tiershop.de` – CORPORATE, retrieved 17 % of chats
+- `argoa.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

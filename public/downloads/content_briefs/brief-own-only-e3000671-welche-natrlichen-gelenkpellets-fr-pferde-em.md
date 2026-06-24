@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Gelenkpellets für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_e3000671-0e60-4be0-bd6d-4571ddc261ce`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -18,18 +18,17 @@
 
 ## Citation source mix
 
-- **Ugc:** 2.2 %
-- **Corporate:** 91.1 %
-- **Other:** 6.7 %
+- **Corporate:** 92.1 %
+- **Other:** 7.9 %
 
 **Top cited domains**
 
-- `equanis.de` – CORPORATE, retrieved 44 % of chats
 - `pharmahorse.de` – CORPORATE, retrieved 44 % of chats
-- `dr-hawes.de` – CORPORATE, retrieved 33 % of chats
 - `equidocs.de` – CORPORATE, retrieved 22 % of chats
-- `hyjoint.de` – CORPORATE, retrieved 22 % of chats
-- `kristallkraft-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `nuvallo.de` – OTHER, retrieved 22 % of chats
+- `dr-hawes.de` – CORPORATE, retrieved 22 % of chats
+- `equanis.de` – CORPORATE, retrieved 22 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

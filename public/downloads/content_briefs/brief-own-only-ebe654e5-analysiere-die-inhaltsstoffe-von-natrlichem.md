@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **Pavo** – top visibility 25 %  (AI Overview 25 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.9 %
-- **Editorial:** 1.2 %
-- **Ugc:** 1.2 %
-- **Reference:** 4.9 %
-- **Institutional:** 11.1 %
-- **Corporate:** 67.0 %
-- **Other:** 9.7 %
+- **Competitor:** 7.0 %
+- **Editorial:** 1.4 %
+- **Ugc:** 1.4 %
+- **Reference:** 4.2 %
+- **Institutional:** 7.0 %
+- **Corporate:** 74.6 %
+- **Other:** 4.2 %
 
 **Top cited domains**
 
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 56 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 44 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 44 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `dr-maroske.de` – CORPORATE, retrieved 33 % of chats
+- `hoeveler.com` – COMPETITOR, retrieved 33 % of chats
 - `leroma.de` – CORPORATE, retrieved 33 % of chats
-- `metazoa.nl` – OTHER, retrieved 33 % of chats
-- `leimueller.info` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

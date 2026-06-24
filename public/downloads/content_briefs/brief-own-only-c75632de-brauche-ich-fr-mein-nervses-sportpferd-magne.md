@@ -1,6 +1,6 @@
-# Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
+# Drift Radar – »Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -14,27 +14,32 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 75 %  (ChatGPT 75 %, Gemini 67 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %)
 
 ## Citation source mix
 
-- **Corporate:** 96.8 %
-- **Other:** 3.2 %
+- **Own:** 5.6 %
+- **Editorial:** 1.8 %
+- **Ugc:** 3.5 %
+- **Reference:** 16.5 %
+- **Institutional:** 5.5 %
+- **Corporate:** 61.7 %
+- **Other:** 5.5 %
 
 **Top cited domains**
 
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `zoolac.nl` – CORPORATE, retrieved 33 % of chats
-- `equine74.com` – CORPORATE, retrieved 17 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 50 % of chats
+- `go4vet.com` – REFERENCE, retrieved 50 % of chats
+- `pferde-gold.de` – OWN, retrieved 38 % of chats
+- `iwest.de` – CORPORATE, retrieved 38 % of chats
+- `lifedatalabs.de` – CORPORATE, retrieved 38 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 25 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
+- **Headline starting point:** »Pferdegold vs Pavo: Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 

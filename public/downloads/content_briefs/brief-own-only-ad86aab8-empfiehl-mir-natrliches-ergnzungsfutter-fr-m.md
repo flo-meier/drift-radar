@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -14,25 +14,23 @@
 
 ## Who is cited instead
 
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **Eggersmann** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.3 %
-- **Ugc:** 3.3 %
-- **Reference:** 16.5 %
-- **Institutional:** 3.3 %
-- **Corporate:** 70.4 %
-- **Other:** 3.3 %
+- **Ugc:** 3.7 %
+- **Reference:** 3.7 %
+- **Institutional:** 3.7 %
+- **Corporate:** 89.0 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `schaette-pferd.de` – CORPORATE, retrieved 28 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 28 % of chats
 - `pernaturam.de` – CORPORATE, retrieved 28 % of chats
-- `schaette-pferd.de` – CORPORATE, retrieved 28 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 28 % of chats
+- `krauterie.de` – CORPORATE, retrieved 28 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article

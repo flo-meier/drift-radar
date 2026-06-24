@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Zusammensetzung von Gelenkpellets für Pferde im Hinblick auf Qualität und Verzicht auf Füllstoffe.«
 
-**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_2b7a1b16-eabf-4447-a4ae-5fd09543b33f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 5.9 %
-- **Reference:** 4.4 %
-- **Institutional:** 2.9 %
-- **Corporate:** 80.9 %
-- **Other:** 5.9 %
+- **Editorial:** 3.9 %
+- **Reference:** 6.5 %
+- **Institutional:** 5.2 %
+- **Corporate:** 80.5 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
-- `pharmahorse.de` – CORPORATE, retrieved 56 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 67 % of chats
+- `migocki.de` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `drugs.com` – REFERENCE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
-- `foranequine.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

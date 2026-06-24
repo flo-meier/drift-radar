@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-20 → 2026-06-22
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
 
 ## Engine visibility
 
@@ -14,25 +14,24 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 50 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.2 %
-- **Institutional:** 4.2 %
-- **Corporate:** 91.6 %
+- **Institutional:** 9.0 %
+- **Corporate:** 91.0 %
 
 **Top cited domains**
 
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `carepet.de` – CORPORATE, retrieved 33 % of chats
-- `dm.de` – CORPORATE, retrieved 17 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `dm.de` – CORPORATE, retrieved 33 % of chats
+- `apotheke-grein.at` – CORPORATE, retrieved 33 % of chats
+- `central-apo.com` – CORPORATE, retrieved 33 % of chats
+- `gastrobalance.at` – INSTITUTIONAL, retrieved 33 % of chats
+- `ludwigs-apotheke.at` – CORPORATE, retrieved 33 % of chats
+- `purmeo.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

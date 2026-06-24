@@ -1,43 +1,6 @@
 {
   "by_prompt": {
-    "pr_292a6b04-8dee-4ea2-969b-6a83c709753f": [
-      {
-        "query": "ergänzungsfutter pferd melassefrei zuckerfrei",
-        "products": [
-          "Natural Balance"
-        ]
-      },
-      {
-        "query": "kräuterfutter pferd ohne zugesetzten zucker",
-        "products": [
-          "BIO MASH LIGHT+",
-          "GrainFreeMash"
-        ]
-      },
-      {
-        "query": "mineralfutter pferd ohne melasse",
-        "products": [
-          "HorseMineral OHNE M",
-          "Natural Minerals"
-        ]
-      }
-    ],
     "pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa": [
-      {
-        "query": "pferde vitaminpräparat",
-        "products": [
-          "Multivit 15",
-          "Natürliches Multivitamin"
-        ]
-      },
-      {
-        "query": "vitamine für pferde ergänzungsfutter pferd vitamine",
-        "products": [
-          "B Vitamine",
-          "Horse Vitality Bucket",
-          "Vitamin B-Komplex Liquid Pferde 1000 ml"
-        ]
-      },
       {
         "query": "horse vitamins equine mineral feed supplements",
         "products": [
@@ -52,91 +15,12 @@
         ]
       }
     ],
-    "pr_76c76a27-2b6a-4e7c-9a05-7f270587a055": [
-      {
-        "query": "pferd mineralfutter gelenke elektrolyte magenschoner",
-        "products": [
-          "Arthro Sport",
-          "Elektrolyte / Mineral",
-          "Elektrolyte Plus",
-          "Elektrolyte liquid",
-          "Force Mineral 10 kg",
-          "Gelenke Muschelfrei",
-          "Help SeniorBalancer",
-          "Magnolythe S100",
-          "Mix",
-          "Nutrilyt",
-          "Profi Elektrolyte",
-          "SemperCube",
-          "Top Elektrolyte",
-          "Vital",
-          "WES Sensitive Mash"
-        ]
-      }
-    ],
     "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933": [
-      {
-        "query": "magen darm pellets ohne zucker pferd",
-        "products": [
-          "Intestinal Regulator Pellets",
-          "Magen-Perfekt Pellets",
-          "Pferd Help GastroRelax"
-        ]
-      },
-      {
-        "query": "magenpellets ohne zucker pferd",
-        "products": [
-          "Gastrivet Pellets",
-          "MagenWohl Kräuterpellets Magen & Magenschleimhaut",
-          "Stomac Pellets"
-        ]
-      },
       {
         "query": "magenpellets ohne zuckerzusatz",
         "products": [
           "Gastrivet Pellets",
           "Vet-Line ProGastro Magenpellets"
-        ]
-      }
-    ],
-    "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df": [
-      {
-        "query": "magen darm zusatzfutter pferd probiotika pferd darmgesundheit",
-        "products": [
-          "Biotics 300g",
-          "GutHealth 8 kg",
-          "Probiotic"
-        ]
-      },
-      {
-        "query": "pferd magenschutz ergänzungsfutter",
-        "products": [
-          "Magnoguard"
-        ]
-      }
-    ],
-    "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": [
-      {
-        "query": "hagebutte pferd ergänzungsfutter",
-        "products": [
-          "Hagebutte",
-          "Hagebutten",
-          "Hagebutten gemahlen"
-        ]
-      },
-      {
-        "query": "leinsamen pferd ergänzungsfutter",
-        "products": [
-          "Leinsamen Pellets",
-          "PFERDEfit Leinsamen"
-        ]
-      },
-      {
-        "query": "natürliches ergänzungsfutter pferd kräuter mineralfutter",
-        "products": [
-          "Gemüse-Kräuter-Mineralien",
-          "Micro Kräuter Mineral",
-          "Vital"
         ]
       }
     ],
@@ -154,6 +38,16 @@
         "products": [
           "Magnesium Pur"
         ]
+      },
+      {
+        "query": "magnesium supplement horse magnesium citrate horse supplement",
+        "products": [
+          "Magnesium",
+          "Magnesium Chelat 5 L Flüssigkeit",
+          "Magnesium Pferd",
+          "Magnesium Pferde Ergänzungsmittel",
+          "Magnesium Pur"
+        ]
       }
     ],
     "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": [
@@ -167,7 +61,80 @@
           "Relax Kräuterpellets Feedbox 3kg mit Baldrian & Magnesium"
         ]
       }
+    ],
+    "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": [
+      {
+        "query": "gelenk pferd ergänzungsfutter glucosamin msm chondroitin",
+        "products": [
+          "Gelenk Pulver mit Kollagen",
+          "Glucosamine Chondroitin & MSM",
+          "Glucosamine HCI 12000 (Pouch)",
+          "Glucosamine HCI 12000 Xtra Strength",
+          "MSM Glucosamin Chondroitin Pulver",
+          "MSM Glucosamin Hyaluronsäure",
+          "Pferd & Pony Glucosamin + MSM + Chondroitin",
+          "Superflex Gelenk Support"
+        ]
+      }
+    ],
+    "pr_681fd3ba-565e-4f5e-a694-3c404cb5bfae": [
+      {
+        "query": "magnesium ergänzungsfutter pferd magnesium pferd hochwertig",
+        "products": [
+          "Magnesium",
+          "Magnesium 1,5 kg",
+          "Magnesium Pferde Ergänzungsmittel",
+          "Magnolythe S100"
+        ]
+      }
+    ],
+    "pr_9ff7ac49-9b59-4fcc-976d-59646e809e01": [
+      {
+        "query": "gesundes zusatzfutter pferde deutschland mash mineralfutter kräuter",
+        "products": [
+          "Alpengrün Mash",
+          "Herba Mash",
+          "Horse Herbs & Beetroot Mineral Cobs",
+          "MicroVital"
+        ]
+      }
+    ],
+    "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": [
+      {
+        "query": "gelenkpellets pferd natürlich glucosamin msm",
+        "products": [
+          "Glucosamin-MSM",
+          "MSM Fortissimo Pellets"
+        ]
+      },
+      {
+        "query": "horse joint supplement pellets natural",
+        "products": [
+          "Gelenk Pellets"
+        ]
+      }
+    ],
+    "pr_f4e212fe-a9a1-40dd-acc2-703f937ce744": [
+      {
+        "query": "leinsamen pferd ergänzungsfutter",
+        "products": [
+          "Leinöl fürs Pferd"
+        ]
+      },
+      {
+        "query": "natürliches ergänzungsfutter pferd kräuter gelenke verdauung",
+        "products": [
+          "Gelenk Kräuter No. 2 Pferde Futter",
+          "Kräutermischung Verdauung"
+        ]
+      },
+      {
+        "query": "natürliches mineralfutter pferd",
+        "products": [
+          "Natural Minerals"
+        ]
+      }
     ]
   },
-  "total_entries": 18
+  "total_entries": 14
 }
