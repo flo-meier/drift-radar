@@ -1,6 +1,6 @@
 # Drift Radar – »Nenne mir empfehlenswerte Mineralstoffe für Pferde.«
 
-**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_e229fc63-4622-49a9-99d3-65436ec2ee19`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -18,21 +18,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 2.6 %
-- **Ugc:** 2.6 %
-- **Reference:** 5.4 %
-- **Institutional:** 10.6 %
-- **Corporate:** 70.9 %
-- **Other:** 8.0 %
+- **Editorial:** 2.0 %
+- **Ugc:** 2.0 %
+- **Reference:** 6.3 %
+- **Institutional:** 10.4 %
+- **Corporate:** 75.0 %
+- **Other:** 4.2 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 43 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 43 % of chats
-- `ehorses.de` – CORPORATE, retrieved 28 % of chats
-- `equistro.de` – CORPORATE, retrieved 28 % of chats
-- `go4vet.com` – REFERENCE, retrieved 28 % of chats
-- `kornscheune.de` – OTHER, retrieved 28 % of chats
+- `iwest.de` – CORPORATE, retrieved 56 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 56 % of chats
+- `ehorses.de` – CORPORATE, retrieved 43 % of chats
+- `go4vet.com` – REFERENCE, retrieved 43 % of chats
+- `pferdesport-deutschland.de` – INSTITUTIONAL, retrieved 43 % of chats
+- `winnies.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

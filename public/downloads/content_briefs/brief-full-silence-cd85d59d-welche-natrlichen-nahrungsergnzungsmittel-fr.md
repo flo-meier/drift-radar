@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,11 +14,11 @@
 
 ## Citation source mix
 
-- **Ugc:** 9.1 %
-- **Reference:** 6.1 %
-- **Institutional:** 9.1 %
-- **Corporate:** 66.7 %
-- **Other:** 9.1 %
+- **Ugc:** 5.9 %
+- **Reference:** 5.9 %
+- **Institutional:** 7.8 %
+- **Corporate:** 76.5 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
@@ -27,7 +27,7 @@
 - `clipmyhorse.tv` – CORPORATE, retrieved 33 % of chats
 - `medilutions.de` – CORPORATE, retrieved 33 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `gstatic.com` – OTHER, retrieved 22 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

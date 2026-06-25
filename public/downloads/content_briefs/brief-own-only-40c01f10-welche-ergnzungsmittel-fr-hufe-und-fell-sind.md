@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Ergänzungsmittel für Hufe und Fell sind empfehlenswert?«
 
-**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_40c01f10-5541-49c6-90be-fec89294d3c5`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,24 +14,27 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 67 %  (Gemini 67 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
 - **Competitor:** 9.3 %
+- **Ugc:** 3.2 %
 - **Reference:** 3.2 %
-- **Institutional:** 9.3 %
-- **Corporate:** 75.0 %
-- **Other:** 3.2 %
+- **Institutional:** 6.2 %
+- **Corporate:** 78.2 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 50 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 50 % of chats
 - `marstall.de` – COMPETITOR, retrieved 50 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 50 % of chats
 - `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `equipro-intern.de` – CORPORATE, retrieved 33 % of chats
+- `deuka.de` – CORPORATE, retrieved 33 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -43,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

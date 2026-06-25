@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -20,22 +20,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 4.1 %
-- **Editorial:** 2.7 %
-- **Ugc:** 1.4 %
-- **Reference:** 6.8 %
-- **Institutional:** 2.7 %
-- **Corporate:** 78.4 %
-- **Other:** 4.1 %
+- **Competitor:** 2.9 %
+- **Editorial:** 2.9 %
+- **Ugc:** 1.5 %
+- **Reference:** 5.9 %
+- **Institutional:** 2.9 %
+- **Corporate:** 80.9 %
+- **Other:** 2.9 %
 
 **Top cited domains**
 
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `migocki.de` – CORPORATE, retrieved 33 % of chats
 - `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `migocki.de` – CORPORATE, retrieved 33 % of chats
+- `deuka.de` – CORPORATE, retrieved 33 % of chats
 - `madbarn.com` – CORPORATE, retrieved 33 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

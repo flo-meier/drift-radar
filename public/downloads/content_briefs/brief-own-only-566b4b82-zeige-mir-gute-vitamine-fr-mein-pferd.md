@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,8 +14,8 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 100 %  (ChatGPT 100 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 25 %)
+- **Höveler** – top visibility 75 %  (ChatGPT 75 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 25 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 - **Pavo** – top visibility 25 %  (ChatGPT 25 %)
@@ -27,12 +27,12 @@
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `horsesbestshop.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `horsesbestshop.de` – CORPORATE, retrieved 50 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 - `totalequipro.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 17 % of chats
+- `equiva.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

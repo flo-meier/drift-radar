@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -21,19 +21,19 @@
 
 ## Citation source mix
 
-- **Editorial:** 4.0 %
-- **Ugc:** 4.0 %
-- **Reference:** 4.0 %
-- **Corporate:** 87.9 %
+- **Editorial:** 4.4 %
+- **Ugc:** 8.5 %
+- **Reference:** 4.4 %
+- **Corporate:** 82.6 %
 
 **Top cited domains**
 
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `okapi-online.de` – CORPORATE, retrieved 50 % of chats
-- `semhof.de` – CORPORATE, retrieved 33 % of chats
+- `agrarzone.de` – UGC, retrieved 33 % of chats
+- `furago.de` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

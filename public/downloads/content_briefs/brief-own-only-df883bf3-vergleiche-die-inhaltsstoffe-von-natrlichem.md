@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -15,23 +15,24 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 100 %  (AI Overview 100 %, ChatGPT 50 %)
+- **St. Hippolyt** – top visibility 25 %  (ChatGPT 25 %)
 
 ## Citation source mix
 
-- **Editorial:** 6.7 %
-- **Reference:** 4.5 %
-- **Institutional:** 3.4 %
-- **Corporate:** 83.2 %
-- **Other:** 2.2 %
+- **Editorial:** 8.5 %
+- **Reference:** 4.9 %
+- **Institutional:** 3.7 %
+- **Corporate:** 79.3 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 56 % of chats
-- `laurelnature.com` – CORPORATE, retrieved 44 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 67 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `laurelnature.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -43,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

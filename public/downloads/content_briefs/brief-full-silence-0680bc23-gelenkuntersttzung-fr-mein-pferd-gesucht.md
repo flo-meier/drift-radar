@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,18 +14,22 @@
 
 ## Citation source mix
 
-- **Institutional:** 1.8 %
-- **Corporate:** 94.6 %
-- **Other:** 3.6 %
+- **Own:** 1.4 %
+- **Competitor:** 1.4 %
+- **Editorial:** 2.9 %
+- **Ugc:** 1.4 %
+- **Institutional:** 2.9 %
+- **Corporate:** 82.9 %
+- **Other:** 7.1 %
 
 **Top cited domains**
 
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `nuvallo.de` – OTHER, retrieved 33 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 33 % of chats
 - `vetripharm.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 22 % of chats
-- `care4vet.de` – CORPORATE, retrieved 22 % of chats
-- `equanis.de` – CORPORATE, retrieved 22 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

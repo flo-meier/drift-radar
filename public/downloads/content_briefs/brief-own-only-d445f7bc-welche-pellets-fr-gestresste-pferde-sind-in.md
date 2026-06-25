@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
-**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,21 +14,20 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (Gemini 100 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 75 %)
+- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %)
+- **Pavo** – top visibility 100 %  (Gemini 100 %, ChatGPT 25 %)
 
 ## Citation source mix
 
-- **Reference:** 4.0 %
-- **Corporate:** 91.9 %
-- **Other:** 4.0 %
+- **Reference:** 4.6 %
+- **Corporate:** 95.4 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 50 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
 - `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `nikolaus-nature.com` – CORPORATE, retrieved 17 % of chats
 - `emma-care.de` – CORPORATE, retrieved 17 % of chats
 - `equanis.de` – CORPORATE, retrieved 17 % of chats
 
@@ -36,13 +35,13 @@
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Pavo: Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
+- **Headline starting point:** »Pferdegold vs St. Hippolyt: Welche Pellets für gestresste Pferde sind in Deutschland erhältlich?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,14 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
 - **ChatGPT:** 75 %
 - **Gemini:** 0 %
-- **AI Overview:** 67 %
+- **AI Overview:** 100 %
 
-**Divergence score:** 0.63  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.81  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 67 %
+### AI Overview – visibility 100 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,23 +49,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 4.1 %
-- **Competitor:** 1.4 %
+- **Own:** 4.2 %
+- **Competitor:** 2.8 %
 - **Editorial:** 1.4 %
-- **Ugc:** 5.4 %
-- **Reference:** 5.4 %
-- **Institutional:** 1.4 %
-- **Corporate:** 77.0 %
-- **Other:** 4.1 %
+- **Ugc:** 5.6 %
+- **Reference:** 7.0 %
+- **Corporate:** 76.1 %
+- **Other:** 2.8 %
 
 **Top cited domains**
 
 - `amazon.de` – CORPORATE, retrieved 44 % of chats
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
 - `pandalis-tiergesundheit.de` – CORPORATE, retrieved 44 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
-- `krauterie.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

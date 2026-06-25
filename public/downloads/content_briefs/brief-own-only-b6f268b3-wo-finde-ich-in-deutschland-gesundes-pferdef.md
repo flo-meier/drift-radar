@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in Deutschland gesundes Pferdefutter?«
 
-**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,27 +14,27 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 75 %, AI Overview 67 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 25 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
-- **Höveler** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 25 %  (ChatGPT 25 %)
+- **St. Hippolyt** – top visibility 100 %  (AI Overview 100 %, Gemini 100 %, ChatGPT 75 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, AI Overview 33 %, ChatGPT 25 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (AI Overview 33 %, Gemini 33 %, ChatGPT 25 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %, AI Overview 33 %, ChatGPT 25 %)
 
 ## Citation source mix
 
-- **Own:** 1.9 %
-- **Institutional:** 5.7 %
-- **Corporate:** 88.7 %
-- **Other:** 3.8 %
+- **Own:** 2.3 %
+- **Institutional:** 7.0 %
+- **Corporate:** 83.7 %
+- **Other:** 7.0 %
 
 **Top cited domains**
 
-- `salvana-pferde.de` – CORPORATE, retrieved 56 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 44 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `tiergarten.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `semhof.de` – CORPORATE, retrieved 22 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -46,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

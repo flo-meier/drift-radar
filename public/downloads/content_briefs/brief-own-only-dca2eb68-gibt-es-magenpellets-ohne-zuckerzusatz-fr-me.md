@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,9 +14,10 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 100 %  (Gemini 100 %)
+- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 25 %)
 - **Eggersmann** – top visibility 67 %  (Gemini 67 %)
-- **St. Hippolyt** – top visibility 25 %  (ChatGPT 25 %)
+- **Pavo** – top visibility 25 %  (ChatGPT 25 %)
+- **Marstall** – top visibility 25 %  (ChatGPT 25 %)
 
 ## Citation source mix
 
@@ -42,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, Eggersmann, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, Eggersmann, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

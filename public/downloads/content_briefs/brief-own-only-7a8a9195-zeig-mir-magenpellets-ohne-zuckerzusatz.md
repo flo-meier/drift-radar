@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,8 +14,8 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 50 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %, ChatGPT 25 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 

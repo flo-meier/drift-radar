@@ -1,6 +1,6 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -50,8 +50,8 @@ _No claims overlap across two or more engines. Every engine answers with its own
 - `equanis.de` – CORPORATE, retrieved 50 % of chats
 - `salvana-pferde.de` – CORPORATE, retrieved 50 % of chats
 - `stallbedarf24.de` – CORPORATE, retrieved 50 % of chats
+- `carepet.de` – CORPORATE, retrieved 33 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `trittwerk.com` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,14 +1,16 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
-- **Gemini:** 33 %
+- **Gemini:** 0 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+
+**Silence type:** `own_only`
 
 ## What the engines say
 
@@ -23,7 +25,7 @@
 
 > All five product brands ChatGPT recommends are outside Peec's tracked competitor list – none of them are the peer set Pferdegold competes with in the SERP.
 
-### Gemini – visibility 33 %
+### Gemini – visibility 0 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -43,30 +45,31 @@ _No claims overlap across two or more engines. Every engine answers with its own
 ## Citation source mix
 
 - **Editorial:** 18.8 %
-- **Reference:** 9.5 %
-- **Corporate:** 65.4 %
-- **Other:** 6.3 %
+- **Reference:** 6.3 %
+- **Corporate:** 71.7 %
+- **Other:** 3.2 %
 
 **Top cited domains**
 
+- `pferde-heilkunde.com` – EDITORIAL, retrieved 50 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `migocki.de` – CORPORATE, retrieved 33 % of chats
 - `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `pferde-heilkunde.com` – EDITORIAL, retrieved 33 % of chats
 - `pferdefood.de` – CORPORATE, retrieved 33 % of chats
-- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
-- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
-- **Length:** 1 900 – 3 300 words
-- **Headline starting point:** »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet? – what Pferdegold actually does«
+- **Format:** Head-to-head comparison page
+- **Length:** 1 600 – 2 600 words
+- **Headline starting point:** »Pferdegold vs Eggersmann: Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
+- **Own-only silence.** Eggersmann already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

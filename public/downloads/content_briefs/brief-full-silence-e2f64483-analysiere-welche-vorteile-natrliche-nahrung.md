@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere, welche Vorteile natürliche Nahrungsergänzungsmittel gegenüber synthetischen Produkten bieten.«
 
-**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_e2f64483-3123-48e4-aaee-b034f609647d`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,21 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 4.8 %
-- **Ugc:** 7.1 %
-- **Reference:** 2.4 %
-- **Institutional:** 11.9 %
-- **Corporate:** 71.4 %
-- **Other:** 2.4 %
+- **Editorial:** 3.1 %
+- **Ugc:** 3.1 %
+- **Reference:** 3.1 %
+- **Institutional:** 9.4 %
+- **Corporate:** 81.2 %
 
 **Top cited domains**
 
 - `lebenskraftpur.de` – CORPORATE, retrieved 44 % of chats
 - `hannover96.de` – CORPORATE, retrieved 33 % of chats
 - `zeinpharma.de` – CORPORATE, retrieved 33 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
-- `verbraucherzentrale.de` – INSTITUTIONAL, retrieved 22 % of chats
 - `energybalance.com` – CORPORATE, retrieved 22 % of chats
+- `gigasnutrition.com` – CORPORATE, retrieved 22 % of chats
+- `gse.bio` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

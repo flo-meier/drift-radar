@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,25 +14,23 @@
 
 ## Who is cited instead
 
-- **Havens** – top visibility 25 %  (ChatGPT 25 %)
-- **Pavo** – top visibility 25 %  (ChatGPT 25 %)
-- **Marstall** – top visibility 25 %  (ChatGPT 25 %)
-- **Eggersmann** – top visibility 25 %  (ChatGPT 25 %)
+- **Havens** – top visibility 50 %  (ChatGPT 50 %)
+- **Marstall** – top visibility 50 %  (ChatGPT 50 %)
 - **Höveler** – top visibility 25 %  (ChatGPT 25 %)
 
 ## Citation source mix
 
-- **Own:** 5.9 %
-- **Competitor:** 5.9 %
-- **Corporate:** 88.1 %
+- **Own:** 5.6 %
+- **Competitor:** 10.9 %
+- **Corporate:** 83.5 %
 
 **Top cited domains**
 
+- `marstall.de` – COMPETITOR, retrieved 33 % of chats
 - `salutaria.de` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 17 % of chats
-- `marstall.de` – COMPETITOR, retrieved 17 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 17 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 17 % of chats
 - `alpurial.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
@@ -45,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Havens, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Havens, Marstall, Höveler for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-21 → 2026-06-23
+**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
 
 ## Engine visibility
 
@@ -14,36 +14,38 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %)
+- **Pavo** – top visibility 100 %  (AI Overview 100 %, Gemini 33 %)
+- **Marstall** – top visibility 75 %  (ChatGPT 75 %, Gemini 67 %)
 - **St. Hippolyt** – top visibility 75 %  (ChatGPT 75 %, Gemini 33 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Own:** 10.4 %
-- **Competitor:** 10.4 %
-- **Corporate:** 79.2 %
+- **Own:** 3.7 %
+- **Competitor:** 7.6 %
+- **Institutional:** 3.7 %
+- **Corporate:** 85.0 %
 
 **Top cited domains**
 
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `salutaria.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `einhuf.com` – CORPORATE, retrieved 33 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `marstall.de` – COMPETITOR, retrieved 28 % of chats
+- `mambocare.de` – CORPORATE, retrieved 28 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 14 % of chats
+- `salutaria.de` – CORPORATE, retrieved 14 % of chats
+- `barynesse.com` – CORPORATE, retrieved 14 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Marstall: Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
+- **Headline starting point:** »Pferdegold vs Pavo: Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.
