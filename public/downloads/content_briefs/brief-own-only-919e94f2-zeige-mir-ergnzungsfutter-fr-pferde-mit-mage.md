@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %, Gemini 33 %)
+- **Pavo** – top visibility 100 %  (ChatGPT 100 %)
 
 ## Citation source mix
 
+- **Institutional:** 3.1 %
 - **Corporate:** 96.9 %
-- **Other:** 3.1 %
 
 **Top cited domains**
 
-- `noeltgen.de` – CORPORATE, retrieved 50 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `dierapotheker.nl` – CORPORATE, retrieved 33 % of chats
 - `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `german-horse-fit.de` – CORPORATE, retrieved 33 % of chats
 - `horseproducts.nl` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

@@ -1,16 +1,14 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
 - **ChatGPT:** 0 %
-- **Gemini:** 0 %
+- **Gemini:** 33 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
-
-**Silence type:** `own_only`
+**Divergence score:** 0.44  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -25,7 +23,7 @@
 
 > All five product brands ChatGPT recommends are outside Peec's tracked competitor list – none of them are the peer set Pferdegold competes with in the SERP.
 
-### Gemini – visibility 0 %
+### Gemini – visibility 33 %
 
 **Brands cited (tracked):** #1 Pferdegold
 
@@ -44,32 +42,32 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 18.8 %
-- **Reference:** 6.3 %
-- **Corporate:** 71.7 %
-- **Other:** 3.2 %
+- **Editorial:** 22.5 %
+- **Ugc:** 3.3 %
+- **Reference:** 3.3 %
+- **Corporate:** 67.6 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
+- `fressnapf.de` – CORPORATE, retrieved 50 % of chats
 - `pferde-heilkunde.com` – EDITORIAL, retrieved 50 % of chats
+- `ehorses.de` – CORPORATE, retrieved 33 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `migocki.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefood.de` – CORPORATE, retrieved 33 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
-- **Format:** Head-to-head comparison page
-- **Length:** 1 600 – 2 600 words
-- **Headline starting point:** »Pferdegold vs Eggersmann: Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
+- **Format:** Narrative-anchor article (stabilises the engine where the brand drifts)
+- **Length:** 1 900 – 3 300 words
+- **Headline starting point:** »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet? – what Pferdegold actually does«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
-- **Own-only silence.** Eggersmann already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-16 → 2026-06-18
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -14,36 +14,39 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Ugc:** 1.5 %
-- **Reference:** 1.5 %
-- **Institutional:** 10.8 %
-- **Corporate:** 84.6 %
-- **Other:** 1.5 %
+- **Own:** 1.4 %
+- **Competitor:** 1.4 %
+- **Editorial:** 2.8 %
+- **Ugc:** 1.4 %
+- **Reference:** 1.4 %
+- **Institutional:** 1.4 %
+- **Corporate:** 84.5 %
+- **Other:** 5.6 %
 
 **Top cited domains**
 
-- `equanis.de` – CORPORATE, retrieved 56 % of chats
-- `kraemer.de` – CORPORATE, retrieved 44 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 44 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `hestevard.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 600 – 2 600 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Gelenkunterstützung für mein Pferd gesucht.«
+- **Headline starting point:** »Pferdegold vs Eggersmann: Gelenkunterstützung für mein Pferd gesucht.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

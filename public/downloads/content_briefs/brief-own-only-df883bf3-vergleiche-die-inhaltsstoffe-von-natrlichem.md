@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Ergänzungsfutter für Pferde.«
 
-**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_df883bf3-b98c-4bca-a389-2b4cab0aaca5`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -14,16 +14,16 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (AI Overview 100 %, ChatGPT 50 %)
-- **St. Hippolyt** – top visibility 25 %  (ChatGPT 25 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 8.5 %
-- **Reference:** 4.9 %
-- **Institutional:** 3.7 %
-- **Corporate:** 79.3 %
-- **Other:** 3.7 %
+- **Editorial:** 6.6 %
+- **Reference:** 5.3 %
+- **Institutional:** 5.3 %
+- **Corporate:** 77.7 %
+- **Other:** 5.3 %
 
 **Top cited domains**
 
@@ -31,8 +31,8 @@
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `cavallo.de` – EDITORIAL, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `laurelnature.com` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

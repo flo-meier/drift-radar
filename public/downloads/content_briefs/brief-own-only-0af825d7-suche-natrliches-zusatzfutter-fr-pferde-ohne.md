@@ -1,6 +1,6 @@
 # Drift Radar – »Suche natürliches Zusatzfutter für Pferde ohne Zucker.«
 
-**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -14,24 +14,25 @@
 
 ## Who is cited instead
 
-- **Havens** – top visibility 50 %  (ChatGPT 50 %)
-- **Marstall** – top visibility 50 %  (ChatGPT 50 %)
-- **Höveler** – top visibility 25 %  (ChatGPT 25 %)
+- **Havens** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 5.6 %
-- **Competitor:** 10.9 %
-- **Corporate:** 83.5 %
+- **Own:** 6.0 %
+- **Competitor:** 6.0 %
+- **Corporate:** 88.1 %
 
 **Top cited domains**
 
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
-- `salutaria.de` – CORPORATE, retrieved 33 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 17 % of chats
+- `natural-horse-care-schweiz.ch` – CORPORATE, retrieved 33 % of chats
+- `wiesenkraft.com` – CORPORATE, retrieved 33 % of chats
 - `louven-shop.de` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `marstall.de` – COMPETITOR, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -43,7 +44,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Havens, Marstall, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Havens, Marstall, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -14,28 +14,26 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 50 %  (ChatGPT 50 %)
-- **St. Hippolyt** – top visibility 50 %  (ChatGPT 50 %)
-- **Marstall** – top visibility 25 %  (AI Overview 25 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.9 %
-- **Editorial:** 2.9 %
-- **Ugc:** 1.5 %
-- **Reference:** 5.9 %
-- **Institutional:** 2.9 %
-- **Corporate:** 80.9 %
-- **Other:** 2.9 %
+- **Editorial:** 6.7 %
+- **Ugc:** 5.0 %
+- **Reference:** 5.0 %
+- **Institutional:** 5.0 %
+- **Corporate:** 75.0 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `migocki.de` – CORPORATE, retrieved 33 % of chats
-- `deuka.de` – CORPORATE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 33 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 38 % of chats
+- `madbarn.com` – CORPORATE, retrieved 38 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
+- `deuka.de` – CORPORATE, retrieved 25 % of chats
+- `hartog.eu` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 
@@ -47,7 +45,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, St. Hippolyt, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

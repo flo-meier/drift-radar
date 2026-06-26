@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen unter 50 Euro.«
 
-**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_a513316a-939f-4130-a4e6-e5361bba66f4`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -15,25 +15,27 @@
 ## Who is cited instead
 
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
-- **Eggersmann** – top visibility 50 %  (ChatGPT 50 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 4.4 %
-- **Ugc:** 8.5 %
-- **Reference:** 4.4 %
-- **Corporate:** 82.6 %
+- **Own:** 4.0 %
+- **Editorial:** 4.0 %
+- **Ugc:** 7.9 %
+- **Reference:** 4.0 %
+- **Corporate:** 80.0 %
 
 **Top cited domains**
 
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `okapi-online.de` – CORPORATE, retrieved 50 % of chats
 - `agrarzone.de` – UGC, retrieved 33 % of chats
 - `furago.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `okapi-online.de` – CORPORATE, retrieved 33 % of chats
+- `cdvet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -45,7 +47,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Eggersmann, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

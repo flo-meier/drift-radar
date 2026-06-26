@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
-**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -14,39 +14,38 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 25 %)
-- **Marstall** – top visibility 75 %  (ChatGPT 75 %, Gemini 67 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
 - **Pavo** – top visibility 67 %  (Gemini 67 %)
-- **Nösenberger** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 25 %  (ChatGPT 25 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Own:** 4.6 %
-- **Editorial:** 9.2 %
-- **Reference:** 4.6 %
-- **Corporate:** 81.6 %
+- **Own:** 4.4 %
+- **Editorial:** 8.8 %
+- **Reference:** 8.5 %
+- **Corporate:** 78.2 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `semhof.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `equifarm.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `mypferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 17 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
+- **Headline starting point:** »Pferdegold vs Marstall: Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Marstall, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

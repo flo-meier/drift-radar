@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -14,27 +14,27 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 25 %  (AI Overview 25 %)
-- **Höveler** – top visibility 25 %  (AI Overview 25 %)
+- **Marstall** – top visibility 33 %  (AI Overview 33 %)
+- **Höveler** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 7.3 %
-- **Editorial:** 2.4 %
-- **Ugc:** 1.2 %
-- **Reference:** 3.7 %
-- **Institutional:** 8.6 %
-- **Corporate:** 74.3 %
-- **Other:** 2.4 %
+- **Competitor:** 6.7 %
+- **Editorial:** 1.1 %
+- **Ugc:** 2.2 %
+- **Reference:** 7.8 %
+- **Institutional:** 11.1 %
+- **Corporate:** 64.4 %
+- **Other:** 6.7 %
 
 **Top cited domains**
 
-- `natuerlich-pferd.com` – CORPORATE, retrieved 56 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 56 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `hoeveler.com` – COMPETITOR, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 44 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
 - `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `youtube.com` – UGC, retrieved 22 % of chats
+- `futter-simon.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

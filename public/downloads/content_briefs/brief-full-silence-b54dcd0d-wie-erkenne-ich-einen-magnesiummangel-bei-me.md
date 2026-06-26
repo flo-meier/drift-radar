@@ -1,6 +1,6 @@
 # Drift Radar – »Wie erkenne ich einen Magnesiummangel bei meinem Pferd?«
 
-**Prompt ID:** `pr_b54dcd0d-29ab-441c-aafa-f45368ad3f1f`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_b54dcd0d-29ab-441c-aafa-f45368ad3f1f`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -14,9 +14,8 @@
 
 ## Citation source mix
 
-- **Own:** 1.8 %
-- **Institutional:** 1.8 %
-- **Corporate:** 94.6 %
+- **Reference:** 3.7 %
+- **Corporate:** 94.5 %
 - **Other:** 1.8 %
 
 **Top cited domains**
@@ -25,8 +24,8 @@
 - `agrobs.de` – CORPORATE, retrieved 67 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 67 % of chats
 - `equanis.de` – CORPORATE, retrieved 44 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
 - `einhuf.com` – CORPORATE, retrieved 33 % of chats
+- `equidocs.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

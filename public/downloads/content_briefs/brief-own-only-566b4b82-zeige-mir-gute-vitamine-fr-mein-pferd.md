@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-22 → 2026-06-24
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
 
 ## Engine visibility
 
@@ -14,37 +14,37 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 75 %  (ChatGPT 75 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 25 %)
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
-- **Pavo** – top visibility 25 %  (ChatGPT 25 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 96.0 %
-- **Other:** 4.0 %
+- **Institutional:** 3.4 %
+- **Corporate:** 93.3 %
+- **Other:** 3.4 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `horsesbestshop.de` – CORPORATE, retrieved 50 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `totalequipro.de` – CORPORATE, retrieved 33 % of chats
+- `horsesbestshop.de` – CORPORATE, retrieved 33 % of chats
+- `vetena.de` – CORPORATE, retrieved 33 % of chats
+- `canina.de` – CORPORATE, retrieved 33 % of chats
+- `lubical.de` – CORPORATE, retrieved 33 % of chats
 - `equiva.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Höveler: Zeige mir gute Vitamine für mein Pferd.«
+- **Headline starting point:** »Pferdegold vs Pavo: Zeige mir gute Vitamine für mein Pferd.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, Marstall, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.
