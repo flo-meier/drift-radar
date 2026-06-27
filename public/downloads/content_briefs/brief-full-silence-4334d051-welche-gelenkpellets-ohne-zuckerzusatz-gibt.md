@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?«
 
-**Prompt ID:** `pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_4334d051-e2d1-4913-8548-8ab8ffd9ccba`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -14,17 +14,20 @@
 
 ## Citation source mix
 
-- **Corporate:** 90.6 %
-- **Other:** 9.4 %
+- **Editorial:** 2.5 %
+- **Ugc:** 2.5 %
+- **Reference:** 5.0 %
+- **Corporate:** 84.7 %
+- **Other:** 5.2 %
 
 **Top cited domains**
 
-- `equidocs.de` – CORPORATE, retrieved 50 % of chats
-- `nuvallo.de` – OTHER, retrieved 50 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 50 % of chats
-- `hansetier.de` – CORPORATE, retrieved 50 % of chats
-- `hyjoint.de` – CORPORATE, retrieved 50 % of chats
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `equidocs.de` – CORPORATE, retrieved 43 % of chats
+- `stroeh.de` – CORPORATE, retrieved 43 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 43 % of chats
+- `nuvallo.de` – OTHER, retrieved 28 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 28 % of chats
+- `hansetier.de` – CORPORATE, retrieved 28 % of chats
 
 ## Suggested article
 

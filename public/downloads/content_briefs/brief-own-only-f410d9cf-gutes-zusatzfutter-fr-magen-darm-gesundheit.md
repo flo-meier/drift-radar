@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -22,18 +22,19 @@
 
 ## Citation source mix
 
-- **Institutional:** 3.1 %
-- **Corporate:** 93.9 %
-- **Other:** 3.1 %
+- **Ugc:** 3.0 %
+- **Institutional:** 5.9 %
+- **Corporate:** 88.1 %
+- **Other:** 3.0 %
 
 **Top cited domains**
 
 - `pferdperfekt.com` – CORPORATE, retrieved 50 % of chats
-- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
-- `drogerie-plappert.de` – CORPORATE, retrieved 33 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
+- `german-horse-fit.de` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `nutravital.de` – CORPORATE, retrieved 33 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `kraemer.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

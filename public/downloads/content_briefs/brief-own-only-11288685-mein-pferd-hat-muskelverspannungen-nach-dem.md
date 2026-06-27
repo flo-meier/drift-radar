@@ -1,6 +1,6 @@
 # Drift Radar – »Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?«
 
-**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -18,21 +18,21 @@
 
 ## Citation source mix
 
-- **Own:** 6.6 %
-- **Editorial:** 1.6 %
-- **Ugc:** 3.3 %
-- **Reference:** 4.9 %
-- **Institutional:** 6.6 %
-- **Corporate:** 77.0 %
+- **Own:** 5.8 %
+- **Editorial:** 1.4 %
+- **Ugc:** 1.4 %
+- **Reference:** 5.8 %
+- **Institutional:** 5.8 %
+- **Corporate:** 79.7 %
 
 **Top cited domains**
 
 - `pferde-gold.de` – OWN, retrieved 44 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 33 % of chats
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 22 % of chats
-- `annimally.de` – CORPORATE, retrieved 22 % of chats
+- `winnies.de` – CORPORATE, retrieved 22 % of chats
+- `equidocs.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

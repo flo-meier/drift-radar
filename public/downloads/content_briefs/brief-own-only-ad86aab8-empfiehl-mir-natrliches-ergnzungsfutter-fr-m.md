@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -14,36 +14,35 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 
 ## Citation source mix
 
-- **Editorial:** 7.2 %
-- **Reference:** 7.0 %
-- **Corporate:** 85.8 %
+- **Editorial:** 6.5 %
+- **Reference:** 3.3 %
+- **Corporate:** 90.2 %
 
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
-- `pernaturam.de` – CORPORATE, retrieved 50 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `schaette-pferd.de` – CORPORATE, retrieved 17 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `wiesenkraft.com` – CORPORATE, retrieved 33 % of chats
 - `carepet.de` – CORPORATE, retrieved 17 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
+- **Headline starting point:** »Pferdegold vs Pavo: Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt, Pavo, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

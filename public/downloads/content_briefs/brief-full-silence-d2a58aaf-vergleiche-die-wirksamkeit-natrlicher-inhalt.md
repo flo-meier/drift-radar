@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde.«
 
-**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_d2a58aaf-8320-4b6c-a4ca-7f7b8e0ff45f`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -14,20 +14,19 @@
 
 ## Citation source mix
 
-- **Own:** 1.4 %
-- **Editorial:** 16.1 %
-- **Reference:** 11.6 %
-- **Institutional:** 7.2 %
-- **Corporate:** 63.7 %
+- **Editorial:** 17.7 %
+- **Reference:** 11.8 %
+- **Institutional:** 13.7 %
+- **Corporate:** 56.7 %
 
 **Top cited domains**
 
-- `cavallo.de` – EDITORIAL, retrieved 67 % of chats
-- `emma-care.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
-- `foranequine.com` – CORPORATE, retrieved 33 % of chats
-- `hippoplus.de` – CORPORATE, retrieved 33 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 50 % of chats
+- `emma-care.de` – CORPORATE, retrieved 38 % of chats
+- `hippoplus.de` – CORPORATE, retrieved 38 % of chats
+- `pferde-heilkunde.com` – EDITORIAL, retrieved 38 % of chats
+- `votana-pferd.de` – CORPORATE, retrieved 38 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -14,25 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (AI Overview 67 %)
+- **Pavo** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 5.6 %
-- **Ugc:** 4.2 %
-- **Reference:** 4.2 %
-- **Institutional:** 7.0 %
-- **Corporate:** 74.6 %
-- **Other:** 4.2 %
+- **Editorial:** 3.0 %
+- **Ugc:** 4.5 %
+- **Reference:** 3.0 %
+- **Institutional:** 3.0 %
+- **Corporate:** 80.6 %
+- **Other:** 6.0 %
 
 **Top cited domains**
 
 - `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
 - `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 - `youtube.com` – UGC, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `tierheilkundezentrum.de` – CORPORATE, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

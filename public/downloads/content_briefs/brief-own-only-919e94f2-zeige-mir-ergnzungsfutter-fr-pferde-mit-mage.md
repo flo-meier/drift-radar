@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -18,17 +18,18 @@
 
 ## Citation source mix
 
-- **Institutional:** 3.1 %
-- **Corporate:** 96.9 %
+- **Institutional:** 8.5 %
+- **Corporate:** 88.6 %
+- **Other:** 2.9 %
 
 **Top cited domains**
 
-- `dierapotheker.nl` – CORPORATE, retrieved 33 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `german-horse-fit.de` – CORPORATE, retrieved 33 % of chats
-- `horseproducts.nl` – CORPORATE, retrieved 33 % of chats
-- `noeltgen.de` – CORPORATE, retrieved 33 % of chats
+- `dierapotheker.nl` – CORPORATE, retrieved 50 % of chats
+- `pavo.nl` – CORPORATE, retrieved 50 % of chats
+- `stalapotheek.nl` – CORPORATE, retrieved 33 % of chats
+- `agradi.nl` – CORPORATE, retrieved 33 % of chats
+- `mandapotheek.nl` – INSTITUTIONAL, retrieved 33 % of chats
+- `petsplace.nl` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

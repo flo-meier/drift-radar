@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -19,22 +19,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 6.7 %
-- **Editorial:** 1.1 %
-- **Ugc:** 2.2 %
-- **Reference:** 7.8 %
-- **Institutional:** 11.1 %
-- **Corporate:** 64.4 %
-- **Other:** 6.7 %
+- **Competitor:** 6.3 %
+- **Editorial:** 2.1 %
+- **Ugc:** 2.1 %
+- **Reference:** 9.5 %
+- **Institutional:** 11.6 %
+- **Corporate:** 60.0 %
+- **Other:** 8.4 %
 
 **Top cited domains**
 
-- `natuerlich-pferd.com` – CORPORATE, retrieved 44 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 44 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `purapep.de` – CORPORATE, retrieved 33 % of chats
+- `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
 - `youtube.com` – UGC, retrieved 22 % of chats
-- `futter-simon.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

@@ -1,34 +1,30 @@
-# Drift Radar · 2026-06-25
+# Drift Radar · 2026-06-26
 
 ## Summary
 
-15 of 63 tracked prompts drifted this week. Net movement: 3 prompts entered drifting range, 4 exited. Own-brand visibility remains at 5.6%.
+Pferdegold tracked 63 prompts across ChatGPT, Gemini, and AI Overview from 2026-06-24 to 2026-06-26. Drifting volume held at 14 prompts (≥0.3 visibility score). Two prompts entered drifting range while three exited, indicating marginal volatility. Own-brand visibility averaged 5.6%.
 
-## Movement In
+## Movement Analysis
 
-Three prompts crossed the 0.3 threshold into drifting territory:
+**Into drifting (2 prompts):**
+- "Suche gesundes Zusatzfutter für Pferde in Deutschland" – moved from own-only silence to 0.443 visibility
+- "Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen" – moved from full silence to 0.443 visibility
 
-- "Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?" (0.443) – moved from own-only silence
-- "Welche Pellets sind gut für die Gelenke?" (0.443) – moved from full silence
-- "Nenne mir gutes Ergänzungsfutter für mein Pferd." (0.443) – moved from own-only silence
+Both gains occurred in supplement-focused queries with geographic specificity (Germany, health conditions). The shift from silence to moderate drifting suggests competitor content surfaced in these verticals.
 
-All three concern joint supplements, with emphasis on product ratings and suitability. These entered active competitor visibility across at least one engine.
+**Out of drifting (3 prompts):**
+- "Empfiehl mir hochwertiges Magnesium-Ergänzungsfutter für mein Pferd" (0.443 → 0.0)
+- "Wo finde ich in der Schweiz gesundes Pferdefutter ohne Zucker?" (0.443 → 0.0)
+- "Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde" (0.443 → 0.0)
 
-## Movement Out
+All three reverted to own-only silence, indicating Pferdegold regained exclusive mention in these queries or competitor content deprioritized.
 
-Four prompts dropped below drifting threshold:
+## Silence Transitions
 
-- "Zeige mir gute Ergänzungsfutter für mein Pferd." (fell 0.562) – now full silence
-- "Was bewirkt Magnesium beim Pferd?" (fell 0.443) – now full silence
-- "Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?" (fell 0.387) – now full silence
-- "Vergleiche die Wirksamkeit natürlicher Inhaltsstoffe in Gelenkzusatzfutter für Pferde." (fell 0.387) – now full silence
+Six prompts shifted silence categories. Notably, "Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden" moved from own-only to full silence – a potential blind spot in recreational horse supplement positioning.
 
-The magnesium-focused prompts lost all competitor presence. The product recommendation prompt reverted to full silence despite similar phrasing to incoming drifters.
+## Priority Areas
 
-## Priority
+Monitor supplement queries with geographic qualifiers (Germany, Switzerland) and health conditions (stomach, hoof, coat). The seesaw in magnesium and digestive supplement prompts suggests algorithmic sensitivity to product category and modifier specificity.
 
-Focus on the three new drifters – all Germany-specific joint pellet queries. These represent fresh competitive appearance. Check which engines surfaced competitors and whether product rating pages or comparison content triggered visibility. The symmetrical 0.443 scores suggest synchronized indexing or ranking shifts across multiple engines rather than isolated changes.
-
-Watch whether magnesium-specific queries stabilize in silence or resume drifting; the sharp reversals may indicate content indexing cycles.
-
-Next week: monitor whether joint pellet queries hold drifting status or fall back to silence.
+**Forward look:** Track whether the two new drifting prompts stabilize or return to silence in next run.

@@ -1,6 +1,6 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -47,19 +47,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Editorial:** 2.2 %
-- **Institutional:** 4.3 %
-- **Corporate:** 82.6 %
-- **Other:** 10.9 %
+- **Editorial:** 3.7 %
+- **Ugc:** 1.9 %
+- **Reference:** 1.9 %
+- **Institutional:** 3.7 %
+- **Corporate:** 85.2 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
 - `masterhorse.de` – CORPORATE, retrieved 44 % of chats
-- `pferdperfekt.com` – OTHER, retrieved 44 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 44 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `equanis.de` – CORPORATE, retrieved 22 % of chats
-- `iwest.de` – CORPORATE, retrieved 22 % of chats
-- `carepet.de` – CORPORATE, retrieved 22 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 22 % of chats
+- `deers-tackstore.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

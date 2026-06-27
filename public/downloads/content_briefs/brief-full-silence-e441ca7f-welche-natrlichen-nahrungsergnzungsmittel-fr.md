@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -14,20 +14,21 @@
 
 ## Citation source mix
 
-- **Competitor:** 11.8 %
-- **Editorial:** 5.9 %
-- **Reference:** 5.9 %
-- **Corporate:** 70.6 %
-- **Other:** 5.9 %
+- **Competitor:** 8.4 %
+- **Editorial:** 4.2 %
+- **Reference:** 8.2 %
+- **Institutional:** 4.2 %
+- **Corporate:** 70.8 %
+- **Other:** 4.2 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 17 % of chats
+- `pernaturam.de` – CORPORATE, retrieved 33 % of chats
+- `krauterie.de` – CORPORATE, retrieved 33 % of chats
+- `pernaturam.ch` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
 - `die-kraeuterfibel.de` – CORPORATE, retrieved 17 % of chats
-- `krauterie.de` – CORPORATE, retrieved 17 % of chats
 - `bio-apo.de` – CORPORATE, retrieved 17 % of chats
-- `blackpaddock.com` – CORPORATE, retrieved 17 % of chats
-- `cdvet.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

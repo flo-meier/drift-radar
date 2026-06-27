@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -49,17 +49,16 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 5.6 %
+- **Own:** 7.2 %
 - **Competitor:** 4.2 %
-- **Editorial:** 1.4 %
 - **Ugc:** 2.8 %
 - **Reference:** 2.8 %
-- **Corporate:** 80.3 %
+- **Corporate:** 80.2 %
 - **Other:** 2.8 %
 
 **Top cited domains**
 
-- `pferde-gold.de` – OWN, retrieved 44 % of chats
+- `pferde-gold.de` – OWN, retrieved 56 % of chats
 - `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 - `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats

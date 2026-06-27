@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-22 → 2026-05-24
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
 
 ## Engine visibility
 
@@ -14,20 +14,22 @@
 
 ## Citation source mix
 
-- **Ugc:** 4.2 %
-- **Reference:** 12.3 %
-- **Institutional:** 24.9 %
-- **Corporate:** 50.1 %
-- **Other:** 8.4 %
+- **Own:** 1.3 %
+- **Editorial:** 6.8 %
+- **Ugc:** 8.1 %
+- **Reference:** 5.3 %
+- **Institutional:** 5.4 %
+- **Corporate:** 70.4 %
+- **Other:** 2.7 %
 
 **Top cited domains**
 
-- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `synovium.eu` – OTHER, retrieved 17 % of chats
-- `annimally.ch` – OTHER, retrieved 17 % of chats
-- `deuka.de` – CORPORATE, retrieved 17 % of chats
+- `madbarn.com` – CORPORATE, retrieved 50 % of chats
+- `hipposport.de` – CORPORATE, retrieved 38 % of chats
+- `iwest.de` – CORPORATE, retrieved 38 % of chats
+- `amazon.de` – CORPORATE, retrieved 25 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
+- `deuka.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 
