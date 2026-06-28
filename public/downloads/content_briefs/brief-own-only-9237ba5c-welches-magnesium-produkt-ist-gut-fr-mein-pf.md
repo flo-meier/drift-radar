@@ -1,6 +1,6 @@
 # Drift Radar – »Welches Magnesium-Produkt ist gut für mein Pferd?«
 
-**Prompt ID:** `pr_9237ba5c-707a-400b-8d7a-55e2a7757b61`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_9237ba5c-707a-400b-8d7a-55e2a7757b61`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -14,25 +14,26 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (Gemini 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
-- **Höveler** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Reference:** 4.0 %
-- **Corporate:** 96.0 %
+- **Own:** 2.8 %
+- **Reference:** 2.8 %
+- **Corporate:** 94.3 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 28 % of chats
+- `stroeh.de` – CORPORATE, retrieved 43 % of chats
+- `horseflex.de` – CORPORATE, retrieved 28 % of chats
+- `meinpferd.de` – CORPORATE, retrieved 28 % of chats
 - `winnies.de` – CORPORATE, retrieved 28 % of chats
 - `medpets.de` – CORPORATE, retrieved 14 % of chats
-- `amazon.de` – CORPORATE, retrieved 14 % of chats
-- `care4vet.de` – CORPORATE, retrieved 14 % of chats
-- `dochorse.de` – CORPORATE, retrieved 14 % of chats
+- `pferde-gold.de` – OWN, retrieved 14 % of chats
 
 ## Suggested article
 

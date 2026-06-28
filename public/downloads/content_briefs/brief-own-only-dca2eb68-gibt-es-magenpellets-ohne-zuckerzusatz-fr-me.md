@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -14,22 +14,21 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
 
 ## Citation source mix
 
-- **Competitor:** 5.1 %
-- **Corporate:** 94.9 %
+- **Competitor:** 3.5 %
+- **Corporate:** 93.0 %
+- **Other:** 3.5 %
 
 **Top cited domains**
 
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `mambocare.de` – CORPORATE, retrieved 50 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `equusvitalis.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 
@@ -43,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, Pavo, Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

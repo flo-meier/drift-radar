@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -15,25 +15,25 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %)
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
 - **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
 - **Pavo** – top visibility 33 %  (Gemini 33 %)
 - **Höveler** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 3.7 %
-- **Corporate:** 92.5 %
-- **Other:** 3.7 %
+- **Institutional:** 3.4 %
+- **Corporate:** 93.3 %
+- **Other:** 3.4 %
 
 **Top cited domains**
 
 - `dm.de` – CORPORATE, retrieved 33 % of chats
 - `mambocare.de` – CORPORATE, retrieved 33 % of chats
 - `dm.at` – CORPORATE, retrieved 33 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
-- `equidocs.de` – CORPORATE, retrieved 17 % of chats
 - `kaufland.at` – OTHER, retrieved 17 % of chats
+- `180kmh.de` – CORPORATE, retrieved 17 % of chats
+- `alpurial.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

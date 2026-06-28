@@ -1,6 +1,6 @@
 # Drift Radar – »Magnesium-Pellets, Pulver oder Liquid – welche Form empfiehlst du für mein Pferd?«
 
-**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_9d0b6e6c-5b10-4511-a4dc-d1f7f3c2f861`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -14,20 +14,19 @@
 
 ## Citation source mix
 
-- **Own:** 9.3 %
-- **Competitor:** 3.1 %
-- **Ugc:** 3.1 %
-- **Reference:** 12.6 %
-- **Corporate:** 71.9 %
+- **Own:** 8.5 %
+- **Ugc:** 4.4 %
+- **Reference:** 13.1 %
+- **Corporate:** 74.0 %
 
 **Top cited domains**
 
-- `winnies.de` – CORPORATE, retrieved 50 % of chats
-- `pferde-gold.de` – OWN, retrieved 50 % of chats
-- `agrobs.de` – CORPORATE, retrieved 50 % of chats
-- `care4vet.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `agrobs.de` – CORPORATE, retrieved 33 % of chats
 - `annimally.de` – CORPORATE, retrieved 17 % of chats
-- `curafyt.com` – CORPORATE, retrieved 17 % of chats
+- `care4vet.de` – CORPORATE, retrieved 17 % of chats
+- `forageplus.co.uk` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

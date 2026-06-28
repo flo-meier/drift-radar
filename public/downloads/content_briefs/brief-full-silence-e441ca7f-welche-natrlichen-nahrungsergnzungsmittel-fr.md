@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde empfiehlst du?«
 
-**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_e441ca7f-25e1-4dbf-b939-ff3d7195668b`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Competitor:** 8.4 %
-- **Editorial:** 4.2 %
-- **Reference:** 8.2 %
-- **Institutional:** 4.2 %
-- **Corporate:** 70.8 %
-- **Other:** 4.2 %
+- **Competitor:** 7.5 %
+- **Editorial:** 3.7 %
+- **Reference:** 14.8 %
+- **Institutional:** 7.5 %
+- **Corporate:** 62.8 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
+- `reiter-guide.de` – REFERENCE, retrieved 50 % of chats
 - `pernaturam.de` – CORPORATE, retrieved 33 % of chats
 - `krauterie.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.ch` – CORPORATE, retrieved 33 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `deganius.de` – CORPORATE, retrieved 33 % of chats
 - `die-kraeuterfibel.de` – CORPORATE, retrieved 17 % of chats
-- `bio-apo.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

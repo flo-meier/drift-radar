@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-05-25 → 2026-05-27
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 6.1 %
-- **Editorial:** 3.0 %
-- **Ugc:** 4.5 %
-- **Reference:** 12.1 %
-- **Institutional:** 15.2 %
-- **Corporate:** 54.5 %
-- **Other:** 4.5 %
+- **Competitor:** 4.9 %
+- **Editorial:** 1.2 %
+- **Ugc:** 1.2 %
+- **Reference:** 12.2 %
+- **Institutional:** 20.7 %
+- **Corporate:** 50.0 %
+- **Other:** 9.8 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `youtube.com` – UGC, retrieved 33 % of chats
-- `agrobs.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
+- `cerascreen.de` – CORPORATE, retrieved 33 % of chats
+- `dr-maroske.de` – CORPORATE, retrieved 33 % of chats
+- `umn.edu` – INSTITUTIONAL, retrieved 33 % of chats
 - `wikipedia.org` – REFERENCE, retrieved 33 % of chats
-- `madbarn.com` – CORPORATE, retrieved 22 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 22 % of chats
 
 ## Suggested article
 

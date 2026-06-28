@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Wirksamkeit von natürlichen Inhaltsstoffen in Magenpellets für Pferde.«
 
-**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_1a61366f-4ec1-46f7-b5c8-949393e84550`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 1.5 %
-- **Editorial:** 7.5 %
-- **Ugc:** 3.0 %
-- **Reference:** 4.5 %
-- **Institutional:** 10.4 %
-- **Corporate:** 65.7 %
-- **Other:** 7.5 %
+- **Own:** 2.0 %
+- **Editorial:** 7.8 %
+- **Ugc:** 5.9 %
+- **Reference:** 5.9 %
+- **Institutional:** 11.8 %
+- **Corporate:** 62.7 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
-- `equine74.com` – CORPORATE, retrieved 44 % of chats
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `masterhorse.de` – OTHER, retrieved 33 % of chats
+- `equine74.com` – CORPORATE, retrieved 33 % of chats
+- `iwest.de` – CORPORATE, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
+- `wiley.com` – INSTITUTIONAL, retrieved 22 % of chats
 
 ## Suggested article
 

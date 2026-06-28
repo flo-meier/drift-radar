@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -14,24 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 100 %  (ChatGPT 100 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 - **Marstall** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 6.3 %
-- **Corporate:** 90.4 %
-- **Other:** 3.3 %
+- **Editorial:** 3.1 %
+- **Reference:** 3.1 %
+- **Institutional:** 6.1 %
+- **Corporate:** 84.4 %
+- **Other:** 3.1 %
 
 **Top cited domains**
 
-- `vetena.de` – CORPORATE, retrieved 50 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
-- `canina.de` – CORPORATE, retrieved 33 % of chats
 - `drhoelter.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `horsesbestshop.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `vetena.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
+- `iwest.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

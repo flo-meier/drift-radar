@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_82801f08-92f8-41ec-aa0e-a5c0b5a8af5c`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 1.7 %
-- **Editorial:** 5.1 %
-- **Ugc:** 8.5 %
-- **Reference:** 3.4 %
-- **Institutional:** 5.1 %
-- **Corporate:** 69.5 %
-- **Other:** 6.8 %
+- **Own:** 2.2 %
+- **Editorial:** 4.6 %
+- **Ugc:** 9.0 %
+- **Reference:** 4.4 %
+- **Institutional:** 6.8 %
+- **Corporate:** 64.4 %
+- **Other:** 8.8 %
 
 **Top cited domains**
 
-- `youtube.com` – UGC, retrieved 33 % of chats
-- `cavallo.de` – EDITORIAL, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 22 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 22 % of chats
+- `stroeh.de` – CORPORATE, retrieved 38 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
+- `cavallo.de` – EDITORIAL, retrieved 25 % of chats
+- `kraemer.de` – CORPORATE, retrieved 25 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 25 % of chats
+- `tierheilpraktiker.de` – INSTITUTIONAL, retrieved 25 % of chats
 
 ## Suggested article
 

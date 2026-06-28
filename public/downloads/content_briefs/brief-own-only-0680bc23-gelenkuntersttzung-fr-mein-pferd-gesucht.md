@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -19,23 +19,19 @@
 
 ## Citation source mix
 
-- **Own:** 1.5 %
-- **Competitor:** 1.5 %
-- **Editorial:** 3.0 %
-- **Ugc:** 1.5 %
-- **Reference:** 1.5 %
-- **Institutional:** 1.5 %
-- **Corporate:** 83.6 %
-- **Other:** 6.0 %
+- **Own:** 1.6 %
+- **Reference:** 1.6 %
+- **Corporate:** 95.1 %
+- **Other:** 1.6 %
 
 **Top cited domains**
 
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
+- `totalequipro.de` – CORPORATE, retrieved 44 % of chats
+- `hestevard.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 22 % of chats
-- `hestevard.de` – CORPORATE, retrieved 22 % of chats
-- `hyjoint-gelenke.de` – CORPORATE, retrieved 22 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 22 % of chats
+- `annimally.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

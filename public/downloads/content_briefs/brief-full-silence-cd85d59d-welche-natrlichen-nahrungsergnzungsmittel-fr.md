@@ -1,6 +1,6 @@
 # Drift Radar – »Welche natürlichen Nahrungsergänzungsmittel für Pferde sind empfehlenswert?«
 
-**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
 
 ## Engine visibility
 
@@ -14,21 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 1.8 %
-- **Ugc:** 3.8 %
-- **Reference:** 7.3 %
-- **Institutional:** 1.8 %
-- **Corporate:** 83.4 %
-- **Other:** 1.8 %
+- **Editorial:** 3.0 %
+- **Ugc:** 6.3 %
+- **Reference:** 9.0 %
+- **Corporate:** 78.6 %
+- **Other:** 3.0 %
 
 **Top cited domains**
 
-- `pernaturam.de` – CORPORATE, retrieved 25 % of chats
-- `youtube.com` – UGC, retrieved 25 % of chats
-- `bio-apo.de` – CORPORATE, retrieved 25 % of chats
 - `kraemer.de` – CORPORATE, retrieved 25 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 25 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
+- `stroeh.de` – CORPORATE, retrieved 12 % of chats
+- `trittwerk.com` – CORPORATE, retrieved 12 % of chats
+- `winnies.de` – CORPORATE, retrieved 12 % of chats
+- `ayurveda-und-tiernaturheilkunde.de` – CORPORATE, retrieved 12 % of chats
 
 ## Suggested article
 
