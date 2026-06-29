@@ -1,6 +1,6 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -47,11 +47,11 @@ _No claims overlap across two or more engines. Every engine answers with its own
 **Top cited domains**
 
 - `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `raiffeisenmarkt.de` – CORPORATE, retrieved 50 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 50 % of chats
 - `stallbedarf24.de` – CORPORATE, retrieved 50 % of chats
-- `raiffeisenmarkt.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `hansetier.de` – CORPORATE, retrieved 33 % of chats
 - `mambocare.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -64,7 +64,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
-- **Own-only silence.** Eggersmann, St. Hippolyt, Pavo already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
+- **Own-only silence.** Eggersmann, Höveler, St. Hippolyt already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

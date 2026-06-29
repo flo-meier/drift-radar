@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir in der Schweiz erhältliche Ergänzungsmittel für Hufe.«
 
-**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,25 +14,25 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
-- **Höveler** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %, AI Overview 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 2.6 %
-- **Institutional:** 7.7 %
-- **Corporate:** 84.6 %
-- **Other:** 5.1 %
+- **Institutional:** 7.0 %
+- **Corporate:** 86.0 %
+- **Other:** 7.0 %
 
 **Top cited domains**
 
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `pernaturam.ch` – CORPORATE, retrieved 33 % of chats
-- `huf24.ch` – CORPORATE, retrieved 22 % of chats
+- `starhorse.ch` – OTHER, retrieved 22 % of chats
+- `decathlon.ch` – CORPORATE, retrieved 22 % of chats
+- `galaxus.ch` – CORPORATE, retrieved 22 % of chats
+- `landi.ch` – CORPORATE, retrieved 22 % of chats
 - `vitahorse.ch` – CORPORATE, retrieved 22 % of chats
-- `cavalor.com` – CORPORATE, retrieved 22 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 22 % of chats
+- `iwest.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

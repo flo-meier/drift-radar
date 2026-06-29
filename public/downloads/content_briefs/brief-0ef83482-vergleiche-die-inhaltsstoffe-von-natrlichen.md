@@ -1,18 +1,18 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
-- **ChatGPT:** 100 %
-- **Gemini:** 0 %
-- **AI Overview:** 100 %
+- **ChatGPT:** 67 %
+- **Gemini:** 33 %
+- **AI Overview:** 67 %
 
-**Divergence score:** 0.81  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.28  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 100 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -23,7 +23,7 @@
 
 > ChatGPT answers the question as stated – pure ingredient comparison – and never transitions to brand recommendations.
 
-### Gemini – visibility 0 %
+### Gemini – visibility 33 %
 
 **Brands cited (tracked):** _none_
 
@@ -34,7 +34,7 @@
 
 > Gemini responds in pure substance mode on this day – zero brand recommendations, no product names, only active-ingredient breakdown.
 
-### AI Overview – visibility 100 %
+### AI Overview – visibility 67 %
 
 **Brands cited (tracked):** #1 Pferdegold, #2 Pavo
 
@@ -49,22 +49,22 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 7.0 %
-- **Competitor:** 4.1 %
-- **Editorial:** 1.4 %
-- **Ugc:** 2.7 %
-- **Reference:** 4.1 %
-- **Corporate:** 79.4 %
-- **Other:** 1.4 %
+- **Own:** 3.7 %
+- **Competitor:** 3.7 %
+- **Editorial:** 1.2 %
+- **Ugc:** 6.2 %
+- **Reference:** 8.9 %
+- **Corporate:** 74.9 %
+- **Other:** 1.2 %
 
 **Top cited domains**
 
-- `pferde-gold.de` – OWN, retrieved 56 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
-- `amazon.de` – CORPORATE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `krauterie.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 56 % of chats
+- `amazon.de` – CORPORATE, retrieved 44 % of chats
+- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 44 % of chats
+- `pferde-gold.de` – OWN, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
+- `askheltie.com` – UGC, retrieved 33 % of chats
 
 ## Suggested article
 

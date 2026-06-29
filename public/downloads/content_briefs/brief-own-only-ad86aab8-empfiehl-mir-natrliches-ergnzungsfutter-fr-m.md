@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_ad86aab8-1689-4374-b2eb-816d091ee9ad`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,23 +14,24 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 10.8 %
-- **Reference:** 10.6 %
-- **Corporate:** 78.6 %
+- **Editorial:** 9.9 %
+- **Reference:** 13.2 %
+- **Corporate:** 70.2 %
+- **Other:** 6.7 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
 - `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
-- `wiesenkraft.com` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `welt.de` – EDITORIAL, retrieved 33 % of chats
 - `krauterie.de` – CORPORATE, retrieved 17 % of chats
+- `deganius.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

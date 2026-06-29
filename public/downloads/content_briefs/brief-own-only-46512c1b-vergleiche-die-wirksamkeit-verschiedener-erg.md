@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-23 → 2026-06-25
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,38 +14,39 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 50 %  (AI Overview 50 %)
 
 ## Citation source mix
 
-- **Editorial:** 6.7 %
-- **Ugc:** 5.0 %
-- **Reference:** 5.0 %
-- **Institutional:** 5.0 %
-- **Corporate:** 75.0 %
-- **Other:** 3.3 %
+- **Own:** 3.0 %
+- **Competitor:** 1.4 %
+- **Editorial:** 7.1 %
+- **Ugc:** 5.8 %
+- **Reference:** 5.7 %
+- **Institutional:** 2.9 %
+- **Corporate:** 68.4 %
+- **Other:** 5.7 %
 
 **Top cited domains**
 
-- `hipposport.de` – CORPORATE, retrieved 38 % of chats
-- `madbarn.com` – CORPORATE, retrieved 38 % of chats
-- `amazon.de` – CORPORATE, retrieved 25 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
+- `iwest.de` – CORPORATE, retrieved 38 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
+- `annimally.de` – CORPORATE, retrieved 25 % of chats
+- `cavalor.com` – CORPORATE, retrieved 25 % of chats
 - `deuka.de` – CORPORATE, retrieved 25 % of chats
-- `hartog.eu` – CORPORATE, retrieved 25 % of chats
+- `foranequine.com` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 600 – 2 600 words
-- **Headline starting point:** »Pferdegold vs Höveler: Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
+- **Headline starting point:** »Pferdegold vs Marstall: Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

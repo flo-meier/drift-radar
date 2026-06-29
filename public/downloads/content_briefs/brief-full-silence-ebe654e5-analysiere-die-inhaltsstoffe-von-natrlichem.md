@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Competitor:** 4.9 %
-- **Editorial:** 1.2 %
-- **Ugc:** 1.2 %
-- **Reference:** 12.2 %
-- **Institutional:** 20.7 %
-- **Corporate:** 50.0 %
-- **Other:** 9.8 %
+- **Competitor:** 5.1 %
+- **Editorial:** 2.6 %
+- **Ugc:** 1.3 %
+- **Reference:** 10.3 %
+- **Institutional:** 21.8 %
+- **Corporate:** 52.6 %
+- **Other:** 6.4 %
 
 **Top cited domains**
 
-- `nih.gov` – INSTITUTIONAL, retrieved 33 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 44 % of chats
 - `cerascreen.de` – CORPORATE, retrieved 33 % of chats
-- `dr-maroske.de` – CORPORATE, retrieved 33 % of chats
-- `umn.edu` – INSTITUTIONAL, retrieved 33 % of chats
+- `hoeveler.com` – COMPETITOR, retrieved 33 % of chats
 - `wikipedia.org` – REFERENCE, retrieved 33 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
 - `sciencedirect.com` – REFERENCE, retrieved 22 % of chats
 
 ## Suggested article

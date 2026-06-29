@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche Pferdefutter mit natürlichen Inhaltsstoffen für Österreich.«
 
-**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -19,18 +19,18 @@
 
 ## Citation source mix
 
-- **Institutional:** 4.3 %
-- **Corporate:** 87.2 %
-- **Other:** 8.5 %
+- **Institutional:** 3.8 %
+- **Corporate:** 88.5 %
+- **Other:** 7.7 %
 
 **Top cited domains**
 
+- `lexa-pferdefutter.at` – CORPORATE, retrieved 33 % of chats
 - `pegushorsefeed.at` – CORPORATE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
-- `lexa-pferdefutter.at` – CORPORATE, retrieved 22 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `agrarzone.at` – CORPORATE, retrieved 22 % of chats
+- `sonnenmoor.at` – CORPORATE, retrieved 22 % of chats
 - `auer-garsten.at` – CORPORATE, retrieved 22 % of chats
-- `calapo.com` – CORPORATE, retrieved 22 % of chats
-- `fixkraft.at` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

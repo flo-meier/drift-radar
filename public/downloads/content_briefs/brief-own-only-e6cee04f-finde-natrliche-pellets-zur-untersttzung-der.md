@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Pellets zur Unterstützung der Pferdegesundheit.«
 
-**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-24 → 2026-06-26
+**Prompt ID:** `pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,20 +14,21 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Editorial:** 2.3 %
+- **Corporate:** 97.7 %
 
 **Top cited domains**
 
-- `naturanima.de` – CORPORATE, retrieved 38 % of chats
-- `stroeh.de` – CORPORATE, retrieved 38 % of chats
-- `kraeuterwiese.de` – CORPORATE, retrieved 38 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 25 % of chats
-- `hipposport.de` – CORPORATE, retrieved 25 % of chats
-- `pferdekiosk.biz` – CORPORATE, retrieved 25 % of chats
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `agrarshop-online.com` – CORPORATE, retrieved 33 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
+- `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

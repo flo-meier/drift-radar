@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -15,7 +15,6 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
@@ -27,11 +26,11 @@
 **Top cited domains**
 
 - `totalequipro.de` – CORPORATE, retrieved 44 % of chats
-- `hestevard.de` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `equanis.de` – CORPORATE, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 22 % of chats
-- `annimally.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -43,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

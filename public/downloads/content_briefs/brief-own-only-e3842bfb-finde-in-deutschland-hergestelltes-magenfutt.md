@@ -1,6 +1,6 @@
 # Drift Radar – »Finde in Deutschland hergestelltes Magenfutter für mein Pferd.«
 
-**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_e3842bfb-9e30-414e-9765-88d2faadce04`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -15,25 +15,26 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (AI Overview 100 %, Gemini 100 %, ChatGPT 67 %)
-- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
+- **Nösenberger** – top visibility 67 %  (ChatGPT 67 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 4.9 %
+- **Competitor:** 6.2 %
 - **Editorial:** 1.6 %
-- **Ugc:** 1.6 %
-- **Corporate:** 88.5 %
-- **Other:** 3.3 %
+- **Ugc:** 3.1 %
+- **Reference:** 1.6 %
+- **Corporate:** 82.8 %
+- **Other:** 4.7 %
 
 **Top cited domains**
 
-- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 44 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 33 % of chats
+- `winnies.de` – CORPORATE, retrieved 33 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `furago.de` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `hipposport.de` – CORPORATE, retrieved 22 % of chats
-- `stroeh.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

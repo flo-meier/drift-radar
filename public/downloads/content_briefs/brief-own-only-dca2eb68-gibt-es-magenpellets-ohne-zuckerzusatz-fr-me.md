@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -15,11 +15,12 @@
 ## Who is cited instead
 
 - **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Competitor:** 3.5 %
+- **Own:** 3.5 %
 - **Corporate:** 93.0 %
 - **Other:** 3.5 %
 
@@ -27,10 +28,10 @@
 
 - `mambocare.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 33 % of chats
+- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pferdperfekt.com` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `chewy.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -42,7 +43,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Höveler, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Höveler, Eggersmann, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

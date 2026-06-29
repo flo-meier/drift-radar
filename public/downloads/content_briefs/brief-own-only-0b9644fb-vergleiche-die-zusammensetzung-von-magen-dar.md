@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
-**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_0b9644fb-0bec-4847-b388-b12ea14991da`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,39 +14,38 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %, AI Overview 33 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 33 %  (AI Overview 33 %, ChatGPT 33 %)
 
 ## Citation source mix
 
 - **Own:** 1.4 %
-- **Competitor:** 1.4 %
-- **Editorial:** 1.4 %
+- **Competitor:** 2.9 %
 - **Reference:** 1.4 %
-- **Institutional:** 4.2 %
-- **Corporate:** 83.4 %
-- **Other:** 6.9 %
+- **Institutional:** 4.3 %
+- **Corporate:** 84.3 %
+- **Other:** 5.7 %
 
 **Top cited domains**
 
-- `equine74.com` – CORPORATE, retrieved 56 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
+- `equine74.com` – CORPORATE, retrieved 67 % of chats
 - `atcomhorse.de` – CORPORATE, retrieved 33 % of chats
 - `derby.de` – OTHER, retrieved 33 % of chats
 - `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 33 % of chats
-- `equidocs.de` – CORPORATE, retrieved 33 % of chats
+- `inropharm.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Marstall: Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
+- **Headline starting point:** »Pferdegold vs Pavo: Vergleiche die Zusammensetzung von Magen-Darm-Ergänzungsfuttermitteln für sensible Sportpferde.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

@@ -1,6 +1,6 @@
 # Drift Radar – »Suche gesundes Ergänzungsfutter für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_292a6b04-8dee-4ea2-969b-6a83c709753f`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,24 +14,23 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 67 %  (ChatGPT 67 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 100 %  (ChatGPT 100 %)
 
 ## Citation source mix
 
-- **Own:** 7.9 %
-- **Competitor:** 4.1 %
-- **Corporate:** 88.1 %
+- **Own:** 7.0 %
+- **Competitor:** 3.6 %
+- **Reference:** 3.6 %
+- **Corporate:** 85.8 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 50 % of chats
+- `wiesenkraft.com` – CORPORATE, retrieved 50 % of chats
 - `einhuf.com` – CORPORATE, retrieved 50 % of chats
-- `semhof.de` – CORPORATE, retrieved 33 % of chats
-- `wiesenkraft.com` – CORPORATE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `pferde-gold.de` – OWN, retrieved 33 % of chats
-- `weber-reitsport.de` – CORPORATE, retrieved 33 % of chats
+- `semhof.de` – CORPORATE, retrieved 33 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -43,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

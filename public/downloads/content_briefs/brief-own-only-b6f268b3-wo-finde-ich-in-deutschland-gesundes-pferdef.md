@@ -1,6 +1,6 @@
 # Drift Radar – »Wo finde ich in Deutschland gesundes Pferdefutter?«
 
-**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_b6f268b3-2a12-4b2d-a6c8-6604a6487b4d`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -15,28 +15,27 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, AI Overview 33 %, ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (AI Overview 67 %, Gemini 33 %, ChatGPT 33 %)
+- **Eggersmann** – top visibility 67 %  (Gemini 67 %)
 - **Höveler** – top visibility 67 %  (Gemini 67 %)
-- **Pavo** – top visibility 33 %  (ChatGPT 33 %, AI Overview 33 %)
-- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %, AI Overview 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 1.7 %
-- **Ugc:** 1.7 %
-- **Reference:** 1.7 %
-- **Institutional:** 3.4 %
-- **Corporate:** 82.8 %
-- **Other:** 8.6 %
+- **Editorial:** 2.0 %
+- **Reference:** 2.0 %
+- **Institutional:** 8.0 %
+- **Corporate:** 82.0 %
+- **Other:** 6.0 %
 
 **Top cited domains**
 
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `tiergarten.de` – INSTITUTIONAL, retrieved 44 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `kraeuterwiese.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `salvana-pferde.de` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
-- `derby.de` – OTHER, retrieved 22 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
-- `furago.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
@@ -48,7 +47,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

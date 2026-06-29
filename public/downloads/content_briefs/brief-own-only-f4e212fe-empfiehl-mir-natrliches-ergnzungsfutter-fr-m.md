@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für mein Pferd.«
 
-**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_f4e212fe-a9a1-40dd-acc2-703f937ce744`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -15,23 +15,25 @@
 ## Who is cited instead
 
 - **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
+- **Nösenberger** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 5.6 %
-- **Reference:** 16.7 %
-- **Corporate:** 66.7 %
-- **Other:** 11.1 %
+- **Editorial:** 5.0 %
+- **Reference:** 15.0 %
+- **Corporate:** 70.0 %
+- **Other:** 10.0 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 17 % of chats
 - `go4vet.com` – REFERENCE, retrieved 17 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
 - `tiergesund.de` – EDITORIAL, retrieved 17 % of chats
-- `eggersmann-shop.de` – CORPORATE, retrieved 17 % of chats
+- `fleischwolf-minden.de` – CORPORATE, retrieved 17 % of chats
 - `fundis-reitsport.de` – CORPORATE, retrieved 17 % of chats
-- `futterlegende.de` – REFERENCE, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -43,7 +45,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Nösenberger for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

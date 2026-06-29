@@ -1,6 +1,6 @@
 # Drift Radar – »Finde natürliche Magnesium-Pellets für mein Pferd ohne Industriezucker.«
 
-**Prompt ID:** `pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-08 → 2026-06-10
+**Prompt ID:** `pr_5057ab13-6c5a-45cd-b8b9-9f9db267e702`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,17 +14,17 @@
 
 ## Citation source mix
 
-- **Own:** 3.6 %
-- **Corporate:** 96.4 %
+- **Own:** 3.5 %
+- **Corporate:** 96.5 %
 
 **Top cited domains**
 
-- `louven-shop.de` – CORPORATE, retrieved 50 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 50 % of chats
-- `winnies.de` – CORPORATE, retrieved 50 % of chats
-- `lexa-pferdefutter.ch` – CORPORATE, retrieved 33 % of chats
+- `inropharm.de` – CORPORATE, retrieved 33 % of chats
+- `annimally.de` – CORPORATE, retrieved 33 % of chats
+- `hipposport.de` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

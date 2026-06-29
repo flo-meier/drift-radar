@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,28 +14,28 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 67 %)
+- **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %, ChatGPT 33 %)
 - **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 33 %)
 - **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
-- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 67 %, AI Overview 33 %)
+- **St. Hippolyt** – top visibility 100 %  (ChatGPT 100 %, Gemini 100 %, AI Overview 33 %)
 - **Pavo** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 14.3 %
-- **Reference:** 14.3 %
-- **Institutional:** 7.1 %
-- **Corporate:** 62.5 %
-- **Other:** 1.8 %
+- **Editorial:** 14.0 %
+- **Ugc:** 1.8 %
+- **Reference:** 22.8 %
+- **Institutional:** 3.5 %
+- **Corporate:** 57.9 %
 
 **Top cited domains**
 
-- `meinpferd.de` – CORPORATE, retrieved 44 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `check24.de` – CORPORATE, retrieved 33 % of chats
 - `petonline.de` – EDITORIAL, retrieved 33 % of chats
 - `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
 - `sphericalinsights.com` – REFERENCE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `testbericht.de` – REFERENCE, retrieved 22 % of chats
+- `kraemer.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 

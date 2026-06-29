@@ -1,6 +1,6 @@
 # Drift Radar – »Gutes Zusatzfutter für Magen-Darm-Gesundheit beim Pferd gesucht.«
 
-**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,17 +14,18 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
 - **Marstall** – top visibility 33 %  (ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 - **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 3.0 %
-- **Ugc:** 3.0 %
-- **Institutional:** 9.0 %
-- **Corporate:** 84.9 %
+- **Own:** 3.1 %
+- **Editorial:** 3.1 %
+- **Ugc:** 3.1 %
+- **Reference:** 3.1 %
+- **Institutional:** 9.2 %
+- **Corporate:** 78.2 %
 
 **Top cited domains**
 
@@ -45,7 +46,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, Eggersmann for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

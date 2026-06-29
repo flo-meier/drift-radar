@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir Ergänzungsfutter für Pferde mit Magenproblemen in den Niederlanden.«
 
-**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-25 → 2026-06-27
+**Prompt ID:** `pr_919e94f2-5a66-46fd-b425-6ae88721d518`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
 
 ## Engine visibility
 
@@ -14,22 +14,23 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 67 %  (ChatGPT 67 %)
+- **Pavo** – top visibility 33 %  (ChatGPT 33 %)
+- **Marstall** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 10.3 %
-- **Corporate:** 82.9 %
-- **Other:** 6.8 %
+- **Institutional:** 10.6 %
+- **Corporate:** 73.9 %
+- **Other:** 15.5 %
 
 **Top cited domains**
 
-- `dierapotheker.nl` – CORPORATE, retrieved 33 % of chats
-- `stalapotheek.nl` – CORPORATE, retrieved 33 % of chats
-- `agradi.nl` – CORPORATE, retrieved 33 % of chats
-- `google.com` – OTHER, retrieved 33 % of chats
-- `mandapotheek.nl` – INSTITUTIONAL, retrieved 33 % of chats
-- `pavo.nl` – CORPORATE, retrieved 33 % of chats
+- `google.com` – OTHER, retrieved 50 % of chats
+- `stalapotheek.nl` – CORPORATE, retrieved 17 % of chats
+- `agradi.nl` – CORPORATE, retrieved 17 % of chats
+- `brandhofruitersport.nl` – CORPORATE, retrieved 17 % of chats
+- `dierapotheker.nl` – CORPORATE, retrieved 17 % of chats
+- `ej.nl` – INSTITUTIONAL, retrieved 17 % of chats
 
 ## Suggested article
 
@@ -41,7 +42,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Pavo, Marstall for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.
