@@ -1,18 +1,18 @@
 # Drift Radar – »Welche Gelenkpellets für Pferde sind in Deutschland am besten bewertet?«
 
-**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
+**Prompt ID:** `pr_47e52da7-8646-4683-846d-2af8c113a1fc`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
 
 ## Engine visibility
 
-- **ChatGPT:** 33 %
+- **ChatGPT:** 67 %
 - **Gemini:** 100 %
 - **AI Overview:** 0 %
 
-**Divergence score:** 0.84  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.81  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
-### ChatGPT – visibility 33 %
+### ChatGPT – visibility 67 %
 
 **Brands cited (tracked):** _none_
 
@@ -42,20 +42,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 4.1 %
-- **Editorial:** 4.1 %
-- **Reference:** 8.1 %
-- **Corporate:** 79.7 %
-- **Other:** 4.1 %
+- **Editorial:** 11.0 %
+- **Reference:** 18.5 %
+- **Corporate:** 66.7 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
-- `medpets.de` – CORPORATE, retrieved 50 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `meinpferd.de` – CORPORATE, retrieved 33 % of chats
-- `pferdedenker.de` – CORPORATE, retrieved 33 % of chats
-- `pferdefood.de` – CORPORATE, retrieved 33 % of chats
+- `ehorses.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 33 % of chats
+- `medpets.de` – CORPORATE, retrieved 33 % of chats
+- `pferde-heilkunde.com` – EDITORIAL, retrieved 33 % of chats
+- `fuetternundfit.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

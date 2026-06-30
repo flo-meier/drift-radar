@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 5.1 %
-- **Editorial:** 2.6 %
-- **Ugc:** 1.3 %
-- **Reference:** 10.3 %
-- **Institutional:** 21.8 %
-- **Corporate:** 52.6 %
+- **Competitor:** 3.3 %
+- **Editorial:** 1.6 %
+- **Ugc:** 3.1 %
+- **Reference:** 6.4 %
+- **Institutional:** 23.7 %
+- **Corporate:** 55.6 %
 - **Other:** 6.4 %
 
 **Top cited domains**
 
-- `natuerlich-pferd.com` – CORPORATE, retrieved 44 % of chats
-- `cerascreen.de` – CORPORATE, retrieved 33 % of chats
-- `hoeveler.com` – COMPETITOR, retrieved 33 % of chats
-- `wikipedia.org` – REFERENCE, retrieved 33 % of chats
-- `nih.gov` – INSTITUTIONAL, retrieved 22 % of chats
-- `sciencedirect.com` – REFERENCE, retrieved 22 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 38 % of chats
+- `hauser-pferdefutter.com` – CORPORATE, retrieved 25 % of chats
+- `cerascreen.de` – CORPORATE, retrieved 25 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 25 % of chats
+- `hoeveler.com` – COMPETITOR, retrieved 25 % of chats
+- `leroma.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

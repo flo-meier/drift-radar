@@ -1,6 +1,6 @@
 # Drift Radar – »Finde Nervenpellets für gestresste Pferde ohne Industriezucker.«
 
-**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
+**Prompt ID:** `pr_2ba844fe-a638-44f2-bc07-e04b26bc411b`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
 
 ## Engine visibility
 
@@ -42,17 +42,17 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 7.3 %
-- **Corporate:** 92.7 %
+- **Own:** 11.4 %
+- **Corporate:** 88.6 %
 
 **Top cited domains**
 
-- `alpurial.de` – CORPORATE, retrieved 33 % of chats
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
-- `cdvet.de` – CORPORATE, retrieved 33 % of chats
-- `mustax.eu` – CORPORATE, retrieved 33 % of chats
-- `pferde-gold.de` – OWN, retrieved 33 % of chats
-- `vetrigold.de` – CORPORATE, retrieved 33 % of chats
+- `cdvet.de` – CORPORATE, retrieved 50 % of chats
+- `pferde-gold.de` – OWN, retrieved 50 % of chats
+- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `louven-shop.de` – CORPORATE, retrieved 33 % of chats
+- `alpurial.de` – CORPORATE, retrieved 17 % of chats
+- `stroeh.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

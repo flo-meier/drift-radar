@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichem Zusatzfutter für Freizeitpferde.«
 
-**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
+**Prompt ID:** `pr_5897c16c-f47e-460c-9e3a-ef50963d2d5f`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
 
 ## Engine visibility
 
@@ -20,21 +20,21 @@
 
 ## Citation source mix
 
-- **Editorial:** 4.6 %
-- **Ugc:** 7.7 %
-- **Reference:** 7.7 %
-- **Institutional:** 4.6 %
-- **Corporate:** 69.2 %
-- **Other:** 6.2 %
+- **Editorial:** 7.9 %
+- **Ugc:** 6.3 %
+- **Reference:** 11.1 %
+- **Institutional:** 4.8 %
+- **Corporate:** 66.7 %
+- **Other:** 3.2 %
 
 **Top cited domains**
 
 - `pavo-futter.de` – CORPORATE, retrieved 44 % of chats
 - `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `kraemer.de` – CORPORATE, retrieved 33 % of chats
 - `muehldorfer-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
-- `pferdefuttershop.de` – CORPORATE, retrieved 33 % of chats
+- `reiter-guide.de` – REFERENCE, retrieved 22 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
 
 ## Engine visibility
 
@@ -52,19 +52,19 @@ _No claims overlap across two or more engines. Every engine answers with its own
 - **Own:** 3.7 %
 - **Competitor:** 3.7 %
 - **Editorial:** 1.2 %
-- **Ugc:** 6.2 %
-- **Reference:** 8.9 %
-- **Corporate:** 74.9 %
-- **Other:** 1.2 %
+- **Ugc:** 4.9 %
+- **Reference:** 8.7 %
+- **Corporate:** 74.0 %
+- **Other:** 3.7 %
 
 **Top cited domains**
 
 - `reiter-guide.de` – REFERENCE, retrieved 56 % of chats
 - `amazon.de` – CORPORATE, retrieved 44 % of chats
 - `pandalis-tiergesundheit.de` – CORPORATE, retrieved 44 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
 - `pferde-gold.de` – OWN, retrieved 33 % of chats
-- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
-- `askheltie.com` – UGC, retrieved 33 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

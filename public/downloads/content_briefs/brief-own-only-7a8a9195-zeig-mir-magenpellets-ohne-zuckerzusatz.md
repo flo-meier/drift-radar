@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
 
 ## Engine visibility
 
@@ -16,22 +16,20 @@
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %)
 - **St. Hippolyt** – top visibility 100 %  (Gemini 100 %)
-- **Pavo** – top visibility 33 %  (Gemini 33 %)
 - **Eggersmann** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Institutional:** 3.0 %
-- **Corporate:** 97.0 %
+- **Corporate:** 100.0 %
 
 **Top cited domains**
 
 - `dm.de` – CORPORATE, retrieved 33 % of chats
+- `shop-apotheke.com` – CORPORATE, retrieved 33 % of chats
 - `mambocare.de` – CORPORATE, retrieved 33 % of chats
 - `bodfeld-apotheke.de` – CORPORATE, retrieved 33 % of chats
-- `shop-apotheke.com` – CORPORATE, retrieved 17 % of chats
-- `alpurial.de` – CORPORATE, retrieved 17 % of chats
-- `apotheke-grein.at` – CORPORATE, retrieved 17 % of chats
+- `rennie.de` – CORPORATE, retrieved 33 % of chats
+- `rossmann.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 
@@ -43,7 +41,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Pavo for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, St. Hippolyt, Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

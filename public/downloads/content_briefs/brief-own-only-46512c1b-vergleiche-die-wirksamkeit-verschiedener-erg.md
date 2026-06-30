@@ -1,6 +1,6 @@
 # Drift Radar – »Vergleiche die Wirksamkeit verschiedener Ergänzungsmittel für Hufe und Fell bei Freizeitpferden.«
 
-**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
+**Prompt ID:** `pr_46512c1b-40cd-4b0b-ba0d-df3dc4fd74ad`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
 
 ## Engine visibility
 
@@ -14,27 +14,28 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 50 %  (AI Overview 50 %)
+- **Marstall** – top visibility 100 %  (AI Overview 100 %)
+- **Pavo** – top visibility 50 %  (AI Overview 50 %)
 
 ## Citation source mix
 
-- **Own:** 3.0 %
-- **Competitor:** 1.4 %
-- **Editorial:** 7.1 %
-- **Ugc:** 5.8 %
-- **Reference:** 5.7 %
+- **Own:** 1.5 %
+- **Competitor:** 1.5 %
+- **Editorial:** 4.4 %
+- **Ugc:** 2.9 %
+- **Reference:** 4.4 %
 - **Institutional:** 2.9 %
-- **Corporate:** 68.4 %
-- **Other:** 5.7 %
+- **Corporate:** 76.5 %
+- **Other:** 5.9 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 38 % of chats
-- `youtube.com` – UGC, retrieved 25 % of chats
-- `annimally.de` – CORPORATE, retrieved 25 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 25 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
 - `cavalor.com` – CORPORATE, retrieved 25 % of chats
 - `deuka.de` – CORPORATE, retrieved 25 % of chats
-- `foranequine.com` – CORPORATE, retrieved 25 % of chats
+- `equanis.de` – CORPORATE, retrieved 25 % of chats
+- `equistro.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 
@@ -46,7 +47,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Pavo for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

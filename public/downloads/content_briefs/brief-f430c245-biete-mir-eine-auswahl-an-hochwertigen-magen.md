@@ -1,6 +1,6 @@
 # Drift Radar – »Biete mir eine Auswahl an hochwertigen Magenpellets für sensible Pferde.«
 
-**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-26 → 2026-06-28
+**Prompt ID:** `pr_f430c245-6e0b-45f6-ae50-b96facca7aee`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
 
 ## Engine visibility
 
@@ -47,22 +47,21 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Competitor:** 3.5 %
-- **Editorial:** 1.8 %
-- **Ugc:** 1.8 %
-- **Reference:** 1.8 %
-- **Institutional:** 1.8 %
-- **Corporate:** 84.2 %
-- **Other:** 5.3 %
+- **Competitor:** 5.2 %
+- **Editorial:** 1.7 %
+- **Reference:** 3.4 %
+- **Institutional:** 3.4 %
+- **Corporate:** 82.8 %
+- **Other:** 3.4 %
 
 **Top cited domains**
 
-- `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
-- `iwest.de` – CORPORATE, retrieved 33 % of chats
-- `naturanima.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `marstall.de` – COMPETITOR, retrieved 33 % of chats
+- `stroeh.de` – CORPORATE, retrieved 22 % of chats
 - `amazon.de` – CORPORATE, retrieved 22 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 22 % of chats
 
 ## Suggested article
 
