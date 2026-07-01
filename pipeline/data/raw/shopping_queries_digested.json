@@ -1,18 +1,17 @@
 {
   "by_prompt": {
+    "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": [
+      {
+        "query": "gelenkunterstützung pferd ergänzungsfutter",
+        "products": [
+          "Cortaflex HA",
+          "Glucosamine 10,000 Plus",
+          "Gonex Granulat Vet. 750 g",
+          "JointPower"
+        ]
+      }
+    ],
     "pr_0b9644fb-0bec-4847-b388-b12ea14991da": [
-      {
-        "query": "equitop pronutrin",
-        "products": [
-          "Pronutrin Horse"
-        ]
-      },
-      {
-        "query": "st.hippolyt gastro",
-        "products": [
-          "WES Gastro Beet"
-        ]
-      },
       {
         "query": "magen darm ergänzungsfuttermittel pferd sensibel sportpferd",
         "products": [
@@ -28,86 +27,6 @@
           "Magen Pellets 1,5 kg",
           "Magnoguard",
           "Verdauungsglück"
-        ]
-      }
-    ],
-    "pr_40c01f10-5541-49c6-90be-fec89294d3c5": [
-      {
-        "query": "horse hoof coat supplement biotin zinc methionine germany",
-        "products": [
-          "Biotin & Zink",
-          "Biotin Hoof Mixture",
-          "EquiPower Biotin"
-        ]
-      },
-      {
-        "query": "huf fell pferd biotin zink ergänzungsfutter",
-        "products": [
-          "Huf-Regulator"
-        ]
-      }
-    ],
-    "pr_76c76a27-2b6a-4e7c-9a05-7f270587a055": [
-      {
-        "query": "pferd mineralfutter magnesium gelenke hufe",
-        "products": [
-          "Amino Mineral",
-          "Forte Magnesium",
-          "Gelenke",
-          "Kraut & Rüben Mineral",
-          "MagnePro",
-          "Magnesium Pur",
-          "Magnoarthro",
-          "Magnoflexal Gelenkpflege",
-          "Magnokollagen",
-          "Magnolythe S100",
-          "MineralOrganic+",
-          "PSSM Vital (Muskel & Stoffwechsel)",
-          "Reformin-Plus",
-          "Top Magnesium"
-        ]
-      }
-    ],
-    "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6": [
-      {
-        "query": "pferdefutter gelenkunterstützung ohne künstliche aromen",
-        "products": [
-          "Herbs Gelenk-Fit",
-          "Joint Herbs",
-          "Movicur",
-          "Profi Gelenk Aktiv"
-        ]
-      }
-    ],
-    "pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e": [
-      {
-        "query": "zuckerfreies pferdefutter schweiz",
-        "products": [
-          "Puritan Grain-Free"
-        ]
-      }
-    ],
-    "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df": [
-      {
-        "query": "pferd magen darm ergänzungsfutter",
-        "products": [
-          "Darm-Regulator",
-          "Digest Plus",
-          "Digest Pro Powder",
-          "GutHealth 8 kg",
-          "Magnoguard",
-          "Pferd Help GastroRelax"
-        ]
-      }
-    ],
-    "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": [
-      {
-        "query": "gelenkunterstützung pferd ergänzungsfutter",
-        "products": [
-          "Cortaflex HA",
-          "Glucosamine 10,000 Plus",
-          "Gonex Granulat Vet. 750 g",
-          "JointPower"
         ]
       }
     ],
@@ -127,6 +46,18 @@
           "Gelenk Pellets",
           "MSM Fortissimo Pellets",
           "Profi Gelenk Aktiv"
+        ]
+      },
+      {
+        "query": "gelenkpellets pferd glucosamin msm hyaluron",
+        "products": [
+          "Gelenk Pellets",
+          "Gelenke+ 2.0",
+          "Glucosamin-MSM",
+          "Glucosamine 12.000 + MSM & HA",
+          "Glucosamine Pellets",
+          "MSM Fortissimo Pellets",
+          "Superflex Gelenk Support"
         ]
       }
     ],
@@ -163,7 +94,7 @@
         "query": "magenpellets ohne zuckerzusatz",
         "products": [
           "Gastric",
-          "Magen-Perfekt Pellets"
+          "Magen-Perfekt"
         ]
       }
     ],
@@ -215,6 +146,15 @@
           "Magenschutz",
           "Pronutrin Vet Pellets"
         ]
+      },
+      {
+        "query": "natürliches ergänzungsfutter pferd magen",
+        "products": [
+          "Magen Balance Pferd",
+          "Magen-Darm Kräuter für Pferde",
+          "MagenRegulat",
+          "Magnoguard"
+        ]
       }
     ],
     "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": [
@@ -247,7 +187,7 @@
         "products": [
           "Frontrunner Stomach Müsli (pelletiert/strukturreich)",
           "Gastrophyt Pellets",
-          "Magen-Perfekt Pellets",
+          "Magen-Perfekt",
           "Magnoguard"
         ]
       },
@@ -255,6 +195,14 @@
         "query": "magenschutz pferd deutschland",
         "products": [
           "MagenRegulat"
+        ]
+      },
+      {
+        "query": "in deutschland hergestelltes magenfutter pferd magenschutz",
+        "products": [
+          "Magen-Mash Getreidefrei",
+          "Magen-Perfekt",
+          "Magnoguard"
         ]
       }
     ],
@@ -282,6 +230,15 @@
           "Herb Mineral Pellets",
           "ImmunKraft Kräuterpellets"
         ]
+      },
+      {
+        "query": "natürliche pellets pferdegesundheit kräuterpellets",
+        "products": [
+          "DarmFlora Kräuterpellets",
+          "EquiGreen Natural Power Getreidefrei Pellets",
+          "Kräuterpellets",
+          "MagenWohl Kräuterpellets Magen & Magenschleimhaut"
+        ]
       }
     ],
     "pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd": [
@@ -307,6 +264,13 @@
         "products": [
           "Gelenk Pellets"
         ]
+      },
+      {
+        "query": "gelenkpellets pferd ohne zuckerzusatz",
+        "products": [
+          "Gelenk Pellets",
+          "Gelenke"
+        ]
       }
     ],
     "pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa": [
@@ -316,6 +280,15 @@
           "Horse Fitform Biotin Forte",
           "Multivit 15",
           "Natürliches Multivitamin",
+          "Vital",
+          "Vitamin E Plus"
+        ]
+      },
+      {
+        "query": "pferde vitamin ergänzungsfutter",
+        "products": [
+          "Biotin Plus Zinc",
+          "Magnolythe S100",
           "Vital",
           "Vitamin E Plus"
         ]
@@ -379,7 +352,36 @@
           "Tryptomag"
         ]
       }
+    ],
+    "pr_292a6b04-8dee-4ea2-969b-6a83c709753f": [
+      {
+        "query": "melassefreies pferde ergänzungsfutter ohne zucker",
+        "products": [
+          "Force Mineral 10 kg",
+          "Mineral ZERO Futterprobe",
+          "Vital"
+        ]
+      }
+    ],
+    "pr_919e94f2-5a66-46fd-b425-6ae88721d518": [
+      {
+        "query": "maagsupplement paard nederland",
+        "products": [
+          "GastroComplex",
+          "Maag Balans",
+          "Stomac Pferd"
+        ]
+      }
+    ],
+    "pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e": [
+      {
+        "query": "zuckerfreies pferdefutter schweiz",
+        "products": [
+          "EMH Struktur Getreidefrei",
+          "Puritan Grain-Free"
+        ]
+      }
     ]
   },
-  "total_entries": 40
+  "total_entries": 41
 }

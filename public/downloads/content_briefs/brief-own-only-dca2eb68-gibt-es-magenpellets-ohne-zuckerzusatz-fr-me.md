@@ -1,6 +1,6 @@
 # Drift Radar – »Gibt es Magenpellets ohne Zuckerzusatz für mein Pferd?«
 
-**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
+**Prompt ID:** `pr_dca2eb68-de3d-438c-99ad-fb1f5d30bd28`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
 
 ## Engine visibility
 
@@ -14,24 +14,24 @@
 
 ## Who is cited instead
 
-- **Höveler** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %)
+- **Höveler** – top visibility 67 %  (ChatGPT 67 %, Gemini 67 %)
 - **St. Hippolyt** – top visibility 67 %  (ChatGPT 67 %)
 - **Eggersmann** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
-- **Own:** 3.5 %
-- **Corporate:** 93.0 %
-- **Other:** 3.5 %
+- **Own:** 3.3 %
+- **Corporate:** 93.5 %
+- **Other:** 3.3 %
 
 **Top cited domains**
 
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `bukephalos-minerals.de` – CORPORATE, retrieved 50 % of chats
+- `eohippos-pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `mambocare.de` – CORPORATE, retrieved 50 % of chats
-- `bukephalos-minerals.de` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `chewy.com` – CORPORATE, retrieved 17 % of chats
-- `equine74.com` – CORPORATE, retrieved 17 % of chats
+- `cdvet.de` – CORPORATE, retrieved 33 % of chats
+- `agrarshop-online.com` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

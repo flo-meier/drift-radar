@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
 
 ## Engine visibility
 
@@ -14,22 +14,22 @@
 
 ## Citation source mix
 
-- **Competitor:** 3.3 %
-- **Editorial:** 1.6 %
-- **Ugc:** 3.1 %
-- **Reference:** 6.4 %
-- **Institutional:** 23.7 %
+- **Competitor:** 1.6 %
+- **Editorial:** 3.1 %
+- **Ugc:** 4.8 %
+- **Reference:** 8.1 %
+- **Institutional:** 18.8 %
 - **Corporate:** 55.6 %
-- **Other:** 6.4 %
+- **Other:** 8.0 %
 
 **Top cited domains**
 
-- `natuerlich-pferd.com` – CORPORATE, retrieved 38 % of chats
 - `hauser-pferdefutter.com` – CORPORATE, retrieved 25 % of chats
+- `natuerlich-pferd.com` – CORPORATE, retrieved 25 % of chats
 - `cerascreen.de` – CORPORATE, retrieved 25 % of chats
-- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 25 % of chats
-- `hoeveler.com` – COMPETITOR, retrieved 25 % of chats
 - `leroma.de` – CORPORATE, retrieved 25 % of chats
+- `metazoa.nl` – OTHER, retrieved 25 % of chats
+- `sanoanimal.de` – REFERENCE, retrieved 25 % of chats
 
 ## Suggested article
 

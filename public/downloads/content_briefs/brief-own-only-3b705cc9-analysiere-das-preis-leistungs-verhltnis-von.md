@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere das Preis-Leistungs-Verhältnis von in Deutschland hergestelltem Pferdefutter.«
 
-**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
+**Prompt ID:** `pr_3b705cc9-5167-44e0-83c3-d105b97744ad`  ·  **Topic:** Pferde Nahrungsergänzung  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
 
 ## Engine visibility
 
@@ -15,26 +15,27 @@
 ## Who is cited instead
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 100 %  (Gemini 100 %, ChatGPT 67 %, AI Overview 33 %)
-- **Höveler** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %, AI Overview 33 %)
+- **Eggersmann** – top visibility 100 %  (Gemini 100 %, AI Overview 67 %, ChatGPT 67 %)
+- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %, ChatGPT 67 %)
+- **Pavo** – top visibility 33 %  (Gemini 33 %)
+- **Höveler** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
 
 ## Citation source mix
 
 - **Competitor:** 1.6 %
-- **Editorial:** 14.1 %
-- **Ugc:** 1.6 %
-- **Reference:** 20.3 %
-- **Institutional:** 9.4 %
-- **Corporate:** 53.1 %
+- **Editorial:** 10.9 %
+- **Ugc:** 3.1 %
+- **Reference:** 18.8 %
+- **Institutional:** 7.8 %
+- **Corporate:** 57.8 %
 
 **Top cited domains**
 
 - `check24.de` – CORPORATE, retrieved 44 % of chats
 - `sanoanimal.de` – REFERENCE, retrieved 33 % of chats
 - `sphericalinsights.com` – REFERENCE, retrieved 33 % of chats
-- `testbericht.de` – REFERENCE, retrieved 22 % of chats
 - `idealo.de` – CORPORATE, retrieved 22 % of chats
+- `testbericht.de` – REFERENCE, retrieved 22 % of chats
 - `furago.de` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
@@ -47,7 +48,7 @@ _The deterministic suggestion above is generated from silence type and search-vo
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann, Höveler for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Marstall, Eggersmann, St. Hippolyt for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

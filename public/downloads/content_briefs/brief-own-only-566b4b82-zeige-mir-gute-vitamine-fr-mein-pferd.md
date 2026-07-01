@@ -1,6 +1,6 @@
 # Drift Radar – »Zeige mir gute Vitamine für mein Pferd.«
 
-**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
+**Prompt ID:** `pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa`  ·  **Topic:** Pferde Vitamine und Mineralstoffe  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
 
 ## Engine visibility
 
@@ -14,26 +14,26 @@
 
 ## Who is cited instead
 
-- **Pavo** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
+- **Pavo** – top visibility 67 %  (ChatGPT 67 %, Gemini 33 %)
 - **Marstall** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
-- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %, Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (Gemini 33 %, ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Editorial:** 6.7 %
-- **Reference:** 10.1 %
-- **Institutional:** 3.4 %
-- **Corporate:** 79.8 %
+- **Editorial:** 3.3 %
+- **Reference:** 10.0 %
+- **Institutional:** 10.0 %
+- **Corporate:** 76.6 %
 
 **Top cited domains**
 
-- `stallbedarf24.de` – CORPORATE, retrieved 33 % of chats
 - `emma-care.de` – CORPORATE, retrieved 33 % of chats
-- `onovostore.de` – CORPORATE, retrieved 33 % of chats
 - `stroeh.de` – CORPORATE, retrieved 33 % of chats
 - `vetrigold.de` – CORPORATE, retrieved 17 % of chats
+- `go4vet.com` – REFERENCE, retrieved 17 % of chats
 - `zooplus.de` – CORPORATE, retrieved 17 % of chats
+- `agriatierversicherung.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

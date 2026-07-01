@@ -1,6 +1,6 @@
 # Drift Radar – »Gelenkunterstützung für mein Pferd gesucht.«
 
-**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-27 → 2026-06-29
+**Prompt ID:** `pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
 
 ## Engine visibility
 
@@ -14,19 +14,20 @@
 
 ## Citation source mix
 
-- **Own:** 1.7 %
-- **Reference:** 1.7 %
-- **Corporate:** 93.3 %
-- **Other:** 3.3 %
+- **Editorial:** 2.0 %
+- **Reference:** 3.9 %
+- **Institutional:** 2.0 %
+- **Corporate:** 88.2 %
+- **Other:** 3.9 %
 
 **Top cited domains**
 
-- `equanis.de` – CORPORATE, retrieved 33 % of chats
+- `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
-- `totalequipro.de` – CORPORATE, retrieved 33 % of chats
-- `ess-supplements.de` – CORPORATE, retrieved 22 % of chats
-- `fuetternundfit.de` – CORPORATE, retrieved 22 % of chats
-- `lexa-pferdefutter.de` – CORPORATE, retrieved 22 % of chats
+- `vetripharm.de` – CORPORATE, retrieved 33 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 22 % of chats
+- `german-horse-fit.de` – CORPORATE, retrieved 22 % of chats
+- `natural-horse-care.com` – CORPORATE, retrieved 22 % of chats
 
 ## Suggested article
 
