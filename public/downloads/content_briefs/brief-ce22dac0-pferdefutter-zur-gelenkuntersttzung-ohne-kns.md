@@ -1,6 +1,6 @@
 # Drift Radar – »Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
-**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
+**Prompt ID:** `pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6`  ·  **Topic:** Gelenkunterstützung für Pferde  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-29 → 2026-07-01
 
 ## Engine visibility
 
@@ -42,15 +42,15 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 3.8 %
-- **Corporate:** 96.2 %
+- **Own:** 3.6 %
+- **Corporate:** 96.4 %
 
 **Top cited domains**
 
 - `pferdefuttershop.de` – CORPORATE, retrieved 50 % of chats
-- `stallbedarf24.de` – CORPORATE, retrieved 50 % of chats
-- `naturanima.de` – CORPORATE, retrieved 50 % of chats
 - `raiffeisenmarkt.de` – CORPORATE, retrieved 50 % of chats
+- `stallbedarf24.de` – CORPORATE, retrieved 50 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
 - `migocki.de` – CORPORATE, retrieved 33 % of chats
 - `mainzoo.de` – CORPORATE, retrieved 33 % of chats
 
@@ -58,14 +58,14 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 - **Format:** Head-to-head comparison page
 - **Length:** 1 200 – 1 800 words
-- **Headline starting point:** »Pferdegold vs Höveler: Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
+- **Headline starting point:** »Pferdegold vs St. Hippolyt: Pferdefutter zur Gelenkunterstützung ohne künstliche Aromen kaufen.«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
 - **No stable concepts detected.** Decide which narrative to own, seed across owned (product page), editorial (blog) and citeable (study/PDF) assets in parallel.
-- **Own-only silence.** Höveler, St. Hippolyt already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
+- **Own-only silence.** St. Hippolyt already own this prompt. Priorities: (1) head-to-head page, (2) retailer placements on cited domains, (3) schema.org/Product markup matching competitor spec fields.
 
 ---
 Source: Peec AI MCP · Drift Radar · Built for the Peec AI MCP Challenge 2026 · #builtWithPeec

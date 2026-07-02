@@ -1,6 +1,6 @@
 # Drift Radar – »Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen.«
 
-**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
+**Prompt ID:** `pr_ae44d933-64c5-4032-a0a0-74999632519b`  ·  **Topic:** Magen-Darm-Gesundheit Pferd  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-29 → 2026-07-01
 
 ## Engine visibility
 
@@ -14,20 +14,20 @@
 
 ## Citation source mix
 
-- **Editorial:** 6.4 %
-- **Ugc:** 3.3 %
-- **Reference:** 6.6 %
-- **Institutional:** 3.3 %
-- **Corporate:** 80.5 %
+- **Editorial:** 9.1 %
+- **Ugc:** 3.1 %
+- **Reference:** 6.0 %
+- **Institutional:** 3.1 %
+- **Corporate:** 78.8 %
 
 **Top cited domains**
 
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `pferdefutter.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
+- `pferdy.de` – EDITORIAL, retrieved 50 % of chats
+- `krauterie.de` – CORPORATE, retrieved 33 % of chats
 - `equine74.com` – CORPORATE, retrieved 33 % of chats
-- `kraemer.de` – CORPORATE, retrieved 33 % of chats
+- `go4vet.com` – REFERENCE, retrieved 33 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
-- `natuerliche-pferdefuetterung.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

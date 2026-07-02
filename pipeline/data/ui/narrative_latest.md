@@ -1,21 +1,21 @@
-# Drift Radar · 2026-06-30
+# Drift Radar · 2026-07-01
 
 ## Summary
 
-Pferdegold tracking remains stable across the 2026-06-28 to 2026-06-30 window. No prompts crossed the 0.3 threshold in either direction. Two prompts shifted from own-only silence to full silence. Own-brand visibility holds at 9.1%, with drifting volume unchanged at 22 of 63 tracked prompts.
+Pferdegold's tracked prompt universe shifted modestly this week. Drifting prompts fell from 24 to 18 (–25%), driven by six exits and two entries. Own-brand visibility remains flat at 7.4%. Silence patterns fragmented across 10 prompts, indicating engine response volatility rather than stable positioning.
 
-## Key movements
+## Movement Details
 
-The largest swing involved "Welche Gelenkpellets ohne Zuckerzusatz gibt es für Pferde?" (+0.266, now 0.841). This jumped from moderate drift into high-risk territory, suggesting AI Overview or Gemini are increasingly confident about joint supplement alternatives that don't mention Pferdegold.
+**Out of drifting (6 prompts):** Four magnesium-specific product queries dropped to zero visibility – "Welches Magnesium-Produkt ist gut für mein Pferd?" (–0.443), "Empfehl mir hochwertiges Magnesium-Ergänzungsfutter" (–0.443), and two broader supplement queries. A general supplement recommendation prompt and joint-health pellet query also exited. All shifted to own-only or full silence.
 
-Three additional product-category prompts gained visibility for competitor content: nerve pellets for Swiss market (+0.238), stomach supplements for sensitive horses (+0.231), and natural joint supplements generally (moved to 0.681). These represent consistent upward pressure in the supplement recommendation space across multiple engines.
+**Into drifting (2 prompts):** "Finde natürliche Magnesium-Pellets für mein Pferd ohne Industriezucker" climbed 0.443 to 0.443 (entering from full silence). "Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde" entered at 0.337. Both signal emerging competitor visibility in narrow, specification-focused queries.
 
-One prompt reversed sharply – "Welche natürlichen Gelankpellets für Pferde empfiehlst du?" dropped 0.231 points to 0.681, indicating reduced competitor presence in that specific formulation.
+## Silence Transitions
 
-The silence shift of two ingredient-comparison prompts from own-only to full silence marks a notable change: AI systems are now returning no results for "Empfiehl mir natürliches Ergänzungsfutter für Pferde mit Magenproblemen" and its sister prompt. This suggests these queries may be falling outside current model knowledge cutoffs or training data.
+Ten prompts changed silence classification. Most notable: the new-drifting magnesium-pellets query moved from full silence to visible. Conversely, muscle-tension and broad supplement queries shifted into full silence, suggesting engines retracted coverage. Own-only silence expanded across three product recommendation prompts.
 
-## Where to look
+## Where to Look First
 
-Focus first on the high-drift prompts around sugar-free and stomach-health formulations. Cross-reference which engines are driving the +0.266 gain on joint pellets. Separately, investigate why stomach-health recommendation queries moved to full silence – this could indicate a data availability gap or indexing lag.
+Monitor "natürliche Magnesium-Pellets ohne Industriezucker" closely – it's now actively drifting and entered from zero, indicating engines are newly indexing this narrow segment. The exit of four product-recommendation queries into own-only silence warrants content audit: verify Pferdegold remains findable on those terms or confirm intentional deprioritization.
 
-**Next week: Monitor whether the new full-silence queries remain unindexed or if coverage returns.**
+**Forward:** Watch whether the stress-pellets query (0.337) sustains above 0.3 next week or retreats into silence.

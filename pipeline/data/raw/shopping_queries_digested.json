@@ -1,25 +1,6 @@
 {
   "by_prompt": {
-    "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": [
-      {
-        "query": "gelenkunterstützung pferd ergänzungsfutter",
-        "products": [
-          "Cortaflex HA",
-          "Glucosamine 10,000 Plus",
-          "Gonex Granulat Vet. 750 g",
-          "JointPower"
-        ]
-      }
-    ],
     "pr_0b9644fb-0bec-4847-b388-b12ea14991da": [
-      {
-        "query": "magen darm ergänzungsfuttermittel pferd sensibel sportpferd",
-        "products": [
-          "Digest Plus",
-          "Digest Pro Powder",
-          "Gastro Sensitive Comp. 1 kg"
-        ]
-      },
       {
         "query": "magen darm ergänzungsfuttermittel pferd sensible sportpferde",
         "products": [
@@ -27,217 +8,6 @@
           "Magen Pellets 1,5 kg",
           "Magnoguard",
           "Verdauungsglück"
-        ]
-      }
-    ],
-    "pr_47e52da7-8646-4683-846d-2af8c113a1fc": [
-      {
-        "query": "gelenkpellets pferd glucosamin msm hyaluron",
-        "products": [
-          "Gelenke+ 2.0",
-          "Glucosamin-MSM",
-          "Glucosamine Pellets",
-          "Profi Gelenk Aktiv"
-        ]
-      },
-      {
-        "query": "gelenkpellets pferd glucosamin msm hyaluron",
-        "products": [
-          "Gelenk Pellets",
-          "MSM Fortissimo Pellets",
-          "Profi Gelenk Aktiv"
-        ]
-      },
-      {
-        "query": "gelenkpellets pferd glucosamin msm hyaluron",
-        "products": [
-          "Gelenk Pellets",
-          "Gelenke+ 2.0",
-          "Glucosamin-MSM",
-          "Glucosamine 12.000 + MSM & HA",
-          "Glucosamine Pellets",
-          "MSM Fortissimo Pellets",
-          "Superflex Gelenk Support"
-        ]
-      }
-    ],
-    "pr_57d9f7c7-d131-410d-80b1-d22d87d691dc": [
-      {
-        "query": "magnesium pferd deutschland hergestellt",
-        "products": [
-          "Magnesium",
-          "Magnesium B12",
-          "Magnesium Pur",
-          "Mg Magnesium",
-          "Mono-Magnesium"
-        ]
-      },
-      {
-        "query": "magnesium für pferde deutschland hergestellt",
-        "products": [
-          "Magnesium",
-          "Magnesium Pur",
-          "Magnesiumcitrat",
-          "Magnocalm",
-          "Mono-Magnesium"
-        ]
-      }
-    ],
-    "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933": [
-      {
-        "query": "magenpellets ohne zuckerzusatz",
-        "products": [
-          "Hartkapseln mit magensaftresistenten Pellets"
-        ]
-      },
-      {
-        "query": "magenpellets ohne zuckerzusatz",
-        "products": [
-          "Gastric",
-          "Magen-Perfekt"
-        ]
-      }
-    ],
-    "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": [
-      {
-        "query": "hufergänzung pferd schweiz biotin zink methionin",
-        "products": [
-          "Biotin Plus 550 g Pulver",
-          "EquiPower Biotin",
-          "Hoof Power Plus Pulver"
-        ]
-      }
-    ],
-    "pr_a513316a-939f-4130-a4e6-e5361bba66f4": [
-      {
-        "query": "pferdefutter natürliche inhaltsstoffe unter 50 euro",
-        "products": [
-          "Bio GrünhaferQUICK",
-          "Fibre Basic",
-          "Frontrunner Stomach Müsli (pelletiert/strukturreich)",
-          "NaturPUR Balance"
-        ]
-      }
-    ],
-    "pr_ad86aab8-1689-4374-b2eb-816d091ee9ad": [
-      {
-        "query": "natürliches ergänzungsfutter pferd kräuter mineralfutter omega-3",
-        "products": [
-          "Gemüse-Kräuter-Mineralien",
-          "Leinöl",
-          "Vital"
-        ]
-      },
-      {
-        "query": "natürliches ergänzungsfutter pferd kräuter mineralfutter",
-        "products": [
-          "Gemüse-Kräuter-Mineralien",
-          "Herb Mineral Pellets",
-          "Horse Herbs & Beetroot Mineral Cobs",
-          "Pferdefutter Kräuter-Mineral"
-        ]
-      }
-    ],
-    "pr_ae44d933-64c5-4032-a0a0-74999632519b": [
-      {
-        "query": "pferde magen ergänzzungsfutter natürlich pektin lecithin",
-        "products": [
-          "Gastro Care Plus",
-          "Magenschutz",
-          "Pronutrin Vet Pellets"
-        ]
-      },
-      {
-        "query": "natürliches ergänzungsfutter pferd magen",
-        "products": [
-          "Magen Balance Pferd",
-          "Magen-Darm Kräuter für Pferde",
-          "MagenRegulat",
-          "Magnoguard"
-        ]
-      }
-    ],
-    "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": [
-      {
-        "query": "pellets gestresste pferde deutschland magnesium tryptophan kräuter",
-        "products": [
-          "Anti Stress Kräuterpellets",
-          "MAG-T Combi Pellets",
-          "Mag-T Pro Pellets für Pferde",
-          "Magnesium Pellets 1 kg",
-          "Stress-Mix",
-          "Super Mag"
-        ]
-      },
-      {
-        "query": "pellets für gestresste pferde deutschland magnesium tryptophan kräuter",
-        "products": [
-          "Anti Stress Kräuterpellets",
-          "MAG-T Combi Pellets",
-          "Mag-T Pro Pellets für Pferde",
-          "Magnesium Pellets 1 kg",
-          "Relax Kräuterpellets Feedbox 3kg mit Baldrian & Magnesium",
-          "Tryptomag"
-        ]
-      }
-    ],
-    "pr_e3842bfb-9e30-414e-9765-88d2faadce04": [
-      {
-        "query": "magenfutter pferd hergestellt in deutschland",
-        "products": [
-          "Frontrunner Stomach Müsli (pelletiert/strukturreich)",
-          "Gastrophyt Pellets",
-          "Magen-Perfekt",
-          "Magnoguard"
-        ]
-      },
-      {
-        "query": "magenschutz pferd deutschland",
-        "products": [
-          "MagenRegulat"
-        ]
-      },
-      {
-        "query": "in deutschland hergestelltes magenfutter pferd magenschutz",
-        "products": [
-          "Magen-Mash Getreidefrei",
-          "Magen-Perfekt",
-          "Magnoguard"
-        ]
-      }
-    ],
-    "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": [
-      {
-        "query": "mineralpellets pferd",
-        "products": [
-          "Mineral Basic Pellets",
-          "Natural Minerals"
-        ]
-      },
-      {
-        "query": "natürliche pellets pferdegesundheit kräuterpellets",
-        "products": [
-          "ImmunKraft Kräuterpellets",
-          "MuskelKraft Kräuterpellets"
-        ]
-      },
-      {
-        "query": "natürliche pellets pferdegesundheit kräuterpellets",
-        "products": [
-          "BewegungsFreude Kräuterpellets",
-          "DarmFlora Kräuterpellets",
-          "EquiGreen Natural Power Getreidefrei Pellets",
-          "Herb Mineral Pellets",
-          "ImmunKraft Kräuterpellets"
-        ]
-      },
-      {
-        "query": "natürliche pellets pferdegesundheit kräuterpellets",
-        "products": [
-          "DarmFlora Kräuterpellets",
-          "EquiGreen Natural Power Getreidefrei Pellets",
-          "Kräuterpellets",
-          "MagenWohl Kräuterpellets Magen & Magenschleimhaut"
         ]
       }
     ],
@@ -273,6 +43,28 @@
         ]
       }
     ],
+    "pr_47e52da7-8646-4683-846d-2af8c113a1fc": [
+      {
+        "query": "gelenkpellets pferd glucosamin msm hyaluron",
+        "products": [
+          "Gelenk Pellets",
+          "MSM Fortissimo Pellets",
+          "Profi Gelenk Aktiv"
+        ]
+      },
+      {
+        "query": "gelenkpellets pferd glucosamin msm hyaluron",
+        "products": [
+          "Gelenk Pellets",
+          "Gelenke+ 2.0",
+          "Glucosamin-MSM",
+          "Glucosamine 12.000 + MSM & HA",
+          "Glucosamine Pellets",
+          "MSM Fortissimo Pellets",
+          "Superflex Gelenk Support"
+        ]
+      }
+    ],
     "pr_566b4b82-53bb-4435-ac57-2a02e3eb88aa": [
       {
         "query": "pferd vitamin ergänzungsfutter",
@@ -292,6 +84,28 @@
           "Vital",
           "Vitamin E Plus"
         ]
+      },
+      {
+        "query": "pferd vitamin ergänzungsfutter vitamine",
+        "products": [
+          "Force Mineral 10 kg",
+          "Multivit 15",
+          "Pro-Pell Plus",
+          "Vital",
+          "Vitamin Liquid"
+        ]
+      }
+    ],
+    "pr_57d9f7c7-d131-410d-80b1-d22d87d691dc": [
+      {
+        "query": "magnesium für pferde deutschland hergestellt",
+        "products": [
+          "Magnesium",
+          "Magnesium Pur",
+          "Magnesiumcitrat",
+          "Magnocalm",
+          "Mono-Magnesium"
+        ]
       }
     ],
     "pr_6cb9c885-6bd8-4dad-91fa-1f9cacdf6c6f": [
@@ -304,6 +118,21 @@
           "Natur Pur-Mash",
           "Nature's Best",
           "Puritan Grain-Free"
+        ]
+      }
+    ],
+    "pr_7a8a9195-6c6b-417b-9340-ce1db1d99933": [
+      {
+        "query": "magenpellets ohne zuckerzusatz",
+        "products": [
+          "Gastric",
+          "Magen-Perfekt"
+        ]
+      },
+      {
+        "query": "magenpellets ohne zuckerzusatz",
+        "products": [
+          "Heilerde Magenfein"
         ]
       }
     ],
@@ -341,6 +170,90 @@
         "products": [
           "Omega3 PUR"
         ]
+      },
+      {
+        "query": "gesundes zusatzfutter pferd deutschland",
+        "products": [
+          "Force Mineral 10 kg",
+          "Multifit",
+          "Natur Pur-Mash",
+          "ProBalance"
+        ]
+      }
+    ],
+    "pr_ad86aab8-1689-4374-b2eb-816d091ee9ad": [
+      {
+        "query": "natürliches ergänzungsfutter pferd kräuter mineralfutter",
+        "products": [
+          "Gemüse-Kräuter-Mineralien",
+          "Herb Mineral Pellets",
+          "Horse Herbs & Beetroot Mineral Cobs",
+          "Pferdefutter Kräuter-Mineral"
+        ]
+      },
+      {
+        "query": "hagebutte pferd",
+        "products": [
+          "Hagebutten Pulver"
+        ]
+      },
+      {
+        "query": "leinsamen pferd",
+        "products": [
+          "PFERDEfit Leinsamen"
+        ]
+      },
+      {
+        "query": "seealgenmehl pferd",
+        "products": [
+          "Seealgenmehl"
+        ]
+      }
+    ],
+    "pr_d445f7bc-4999-4f1b-9f83-21db9c52bbe8": [
+      {
+        "query": "pellets für gestresste pferde deutschland magnesium tryptophan kräuter",
+        "products": [
+          "Anti Stress Kräuterpellets",
+          "MAG-T Combi Pellets",
+          "Mag-T Pro Pellets für Pferde",
+          "Magnesium Pellets 1 kg",
+          "Relax Kräuterpellets Feedbox 3kg mit Baldrian & Magnesium",
+          "Tryptomag"
+        ]
+      },
+      {
+        "query": "pellets für nervöse gestresste pferde magnesium tryptophan",
+        "products": [
+          "MAG-T Combi Pellets",
+          "Mag-T Pro Pellets für Pferde",
+          "Magnesium Pellets 1 kg",
+          "Magnesium Pellets Pferd",
+          "Magnoquiet mehr Ruhe & Gelassenheit für nervöse Pferde",
+          "Nerven",
+          "Silence Magnesium/Tryptophan"
+        ]
+      }
+    ],
+    "pr_e6cee04f-e646-4a7f-94c0-48fc4c85c592": [
+      {
+        "query": "natürliche pellets pferdegesundheit kräuterpellets",
+        "products": [
+          "BewegungsFreude Kräuterpellets",
+          "DarmFlora Kräuterpellets",
+          "EquiGreen Natural Power Getreidefrei Pellets",
+          "Herb Mineral Pellets",
+          "ImmunKraft Kräuterpellets"
+        ]
+      },
+      {
+        "query": "natürliche pellets pferdegesundheit kräuterpellets",
+        "products": [
+          "DarmFlora Kräuterpellets",
+          "EquiGreen Natural Power Getreidefrei Pellets",
+          "Kräuterpellets",
+          "MagenWohl Kräuterpellets Magen & Magenschleimhaut"
+        ]
       }
     ],
     "pr_ec467175-1c22-4484-8f1d-d818f7b40a5e": [
@@ -371,6 +284,24 @@
           "Maag Balans",
           "Stomac Pferd"
         ]
+      },
+      {
+        "query": "paarden maag supplement nederland",
+        "products": [
+          "Maag Balans",
+          "Stomac Pferd"
+        ]
+      }
+    ],
+    "pr_ae44d933-64c5-4032-a0a0-74999632519b": [
+      {
+        "query": "natürliches ergänzungsfutter pferd magen",
+        "products": [
+          "Magen Balance Pferd",
+          "Magen-Darm Kräuter für Pferde",
+          "MagenRegulat",
+          "Magnoguard"
+        ]
       }
     ],
     "pr_df6c13c4-5d9c-45f9-8971-cb9a61a20b5e": [
@@ -381,7 +312,162 @@
           "Puritan Grain-Free"
         ]
       }
+    ],
+    "pr_e3842bfb-9e30-414e-9765-88d2faadce04": [
+      {
+        "query": "in deutschland hergestelltes magenfutter pferd magenschutz",
+        "products": [
+          "Magen-Mash Getreidefrei",
+          "Magen-Perfekt",
+          "Magnoguard"
+        ]
+      },
+      {
+        "query": "magenfutter pferd hergestellt in deutschland",
+        "products": [
+          "Magen-Perfekt",
+          "Magen-Sticks",
+          "Magenkonzentrat",
+          "Magnoguard"
+        ]
+      }
+    ],
+    "pr_052a6419-3a6e-49c5-9995-e2812de6cb50": [
+      {
+        "query": "hochwertiges pferdefutter natürliche inhaltsstoffe",
+        "products": [
+          "Alpengrün Mash",
+          "Balance Pur",
+          "Kraut & Rüben Energie Pferd",
+          "Nature's Best"
+        ]
+      }
+    ],
+    "pr_0680bc23-ac9b-4fb2-8d46-7ae9bed12362": [
+      {
+        "query": "gelenkunterstützung pferd ergänzungsfutter",
+        "products": [
+          "Cortaflex Joint Supplement",
+          "Gelenk Pulver für Pferde",
+          "Gonex Granulat Vet. 750 g"
+        ]
+      }
+    ],
+    "pr_0af825d7-da11-43fa-81d1-d03d8efe1b8f": [
+      {
+        "query": "natürliches zusatzfutter pferd ohne zucker",
+        "products": [
+          "Balance Pur",
+          "Natural Minerals",
+          "Resistant Pellets"
+        ]
+      }
+    ],
+    "pr_22b8e498-4894-4fe3-b560-df45dca80819": [
+      {
+        "query": "gelenkpellets pferd glucosamin msm grünlippmuschel",
+        "products": [
+          "Glucosamin-MSM",
+          "Glucosamine Pellets",
+          "Profi Gelenk Aktiv"
+        ]
+      }
+    ],
+    "pr_2ba844fe-a638-44f2-bc07-e04b26bc411b": [
+      {
+        "query": "nervenpellets pferd ohne industriezucker",
+        "products": [
+          "Anti Stress Kräuterpellets",
+          "NervControl",
+          "Nerven",
+          "Nervenstabil",
+          "Silence Pellets"
+        ]
+      }
+    ],
+    "pr_4067771a-82c4-4549-93ce-c4b7e2296dc9": [
+      {
+        "query": "magnesium ergänzungsfutter pferd hochwertig",
+        "products": [
+          "MAG Silent",
+          "Magnesium B12",
+          "Magnesium Pur",
+          "Magnesium Triple",
+          "Magnocalm"
+        ]
+      }
+    ],
+    "pr_96ac4e93-069a-498b-aab4-3c1d7e425dd4": [
+      {
+        "query": "huf ergänzungsfutter pferd schweiz",
+        "products": [
+          "Hoof Power Plus Pulver",
+          "Hoofstrength",
+          "Huf-Additiv PLUS",
+          "Huf-Regulator"
+        ]
+      }
+    ],
+    "pr_9f26a21e-b794-4afa-965f-82573e3aafdd": [
+      {
+        "query": "mineralfutter pferd",
+        "products": [
+          "Natural Minerals"
+        ]
+      },
+      {
+        "query": "omega 3 pferd",
+        "products": [
+          "Omega3 PUR"
+        ]
+      },
+      {
+        "query": "pferde ergänzungsfutter gelenke",
+        "products": [
+          "Gelenk Pulver mit Kollagen"
+        ]
+      }
+    ],
+    "pr_cd85d59d-0c0b-4f1d-88f5-b8743632963a": [
+      {
+        "query": "natürliche nahrungsergänzungsmittel pferde",
+        "products": [
+          "Magnolythe S100",
+          "Natürliches Multivitamin",
+          "Vital"
+        ]
+      }
+    ],
+    "pr_ce22dac0-782c-42ea-a6e4-2c595108b4d6": [
+      {
+        "query": "pferdefutter gelenkunterstützung ohne künstliche aromen",
+        "products": [
+          "Joint Herbs",
+          "Movicur"
+        ]
+      }
+    ],
+    "pr_e3000671-0e60-4be0-bd6d-4571ddc261ce": [
+      {
+        "query": "natürliche gelenkpellets pferd",
+        "products": [
+          "BewegungsFreude Kräuterpellets",
+          "Gelenk Pellets mit Teufelskralle",
+          "Teufelskralle Pellet"
+        ]
+      }
+    ],
+    "pr_f410d9cf-503e-4fea-904b-f1fcc0ec70df": [
+      {
+        "query": "pferd magen darm ergänzungsfutter",
+        "products": [
+          "Darm-Regulator",
+          "Ekygard Granulat",
+          "GNF",
+          "GastriCover"
+        ]
+      }
     ]
   },
-  "total_entries": 41
+  "total_entries": 50
 }

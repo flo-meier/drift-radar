@@ -1,6 +1,6 @@
 # Drift Radar – »Analysiere die Inhaltsstoffe von natürlichem Pferdefutter hinsichtlich ihrer biologischen Wertigkeit.«
 
-**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
+**Prompt ID:** `pr_ebe654e5-8567-4eaa-b981-b302228a7121`  ·  **Topic:** Pferdefutter Ergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-29 → 2026-07-01
 
 ## Engine visibility
 
@@ -14,22 +14,21 @@
 
 ## Citation source mix
 
-- **Competitor:** 1.6 %
-- **Editorial:** 3.1 %
-- **Ugc:** 4.8 %
-- **Reference:** 8.1 %
-- **Institutional:** 18.8 %
-- **Corporate:** 55.6 %
-- **Other:** 8.0 %
+- **Editorial:** 3.8 %
+- **Ugc:** 5.9 %
+- **Reference:** 7.8 %
+- **Institutional:** 15.2 %
+- **Corporate:** 57.8 %
+- **Other:** 9.5 %
 
 **Top cited domains**
 
-- `hauser-pferdefutter.com` – CORPORATE, retrieved 25 % of chats
-- `natuerlich-pferd.com` – CORPORATE, retrieved 25 % of chats
-- `cerascreen.de` – CORPORATE, retrieved 25 % of chats
-- `leroma.de` – CORPORATE, retrieved 25 % of chats
-- `metazoa.nl` – OTHER, retrieved 25 % of chats
-- `sanoanimal.de` – REFERENCE, retrieved 25 % of chats
+- `np-horse-feed.com` – CORPORATE, retrieved 25 % of chats
+- `youtube.com` – UGC, retrieved 25 % of chats
+- `dr-maroske.de` – CORPORATE, retrieved 25 % of chats
+- `iwest.de` – CORPORATE, retrieved 25 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 25 % of chats
+- `wikipedia.org` – REFERENCE, retrieved 25 % of chats
 
 ## Suggested article
 

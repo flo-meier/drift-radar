@@ -1,6 +1,6 @@
 # Drift Radar – »Zeig mir Magenpellets ohne Zuckerzusatz.«
 
-**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
+**Prompt ID:** `pr_7a8a9195-6c6b-417b-9340-ce1db1d99933`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-29 → 2026-07-01
 
 ## Engine visibility
 
@@ -14,22 +14,23 @@
 
 ## Who is cited instead
 
-- **Marstall** – top visibility 100 %  (Gemini 100 %)
+- **Marstall** – top visibility 67 %  (Gemini 67 %)
 - **Eggersmann** – top visibility 67 %  (Gemini 67 %)
-- **St. Hippolyt** – top visibility 67 %  (Gemini 67 %)
+- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Institutional:** 3.5 %
+- **Corporate:** 96.5 %
 
 **Top cited domains**
 
+- `mambocare.de` – CORPORATE, retrieved 50 % of chats
 - `dm.de` – CORPORATE, retrieved 33 % of chats
-- `mambocare.de` – CORPORATE, retrieved 33 % of chats
-- `shop-apotheke.com` – CORPORATE, retrieved 33 % of chats
 - `bodfeld-apotheke.de` – CORPORATE, retrieved 33 % of chats
-- `rennie.de` – CORPORATE, retrieved 33 % of chats
-- `rossmann.de` – CORPORATE, retrieved 33 % of chats
+- `pferdefutter.de` – CORPORATE, retrieved 17 % of chats
+- `shop-apotheke.com` – CORPORATE, retrieved 17 % of chats
+- `zooplus.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

@@ -1,6 +1,6 @@
 # Drift Radar – »Welche Pellets sind gut für die Gelenke?«
 
-**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-18 → 2026-06-20
+**Prompt ID:** `pr_22b8e498-4894-4fe3-b560-df45dca80819`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-29 → 2026-07-01
 
 ## Engine visibility
 
@@ -14,34 +14,36 @@
 
 ## Who is cited instead
 
-- **St. Hippolyt** – top visibility 33 %  (Gemini 33 %)
+- **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Reference:** 3.1 %
-- **Corporate:** 84.7 %
-- **Other:** 12.3 %
+- **Editorial:** 3.9 %
+- **Reference:** 11.4 %
+- **Institutional:** 3.9 %
+- **Corporate:** 73.1 %
+- **Other:** 7.8 %
 
 **Top cited domains**
 
-- `tiershop.de` – CORPORATE, retrieved 33 % of chats
-- `fressnapf.de` – CORPORATE, retrieved 33 % of chats
-- `hansetier.de` – CORPORATE, retrieved 33 % of chats
-- `medpets.at` – CORPORATE, retrieved 33 % of chats
-- `medpets.de` – CORPORATE, retrieved 33 % of chats
-- `vetapotheke.de` – CORPORATE, retrieved 33 % of chats
+- `shop-apotheke.com` – CORPORATE, retrieved 33 % of chats
+- `zooplus.de` – CORPORATE, retrieved 33 % of chats
+- `darf-ich-mit.de` – REFERENCE, retrieved 33 % of chats
+- `pharmahorse.de` – CORPORATE, retrieved 33 % of chats
+- `drhoelter.de` – INSTITUTIONAL, retrieved 17 % of chats
+- `fressnapf.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 
 - **Format:** Head-to-head comparison page
 - **Length:** 900 – 1 200 words
-- **Headline starting point:** »Pferdegold vs St. Hippolyt: Welche Pellets sind gut für die Gelenke?«
+- **Headline starting point:** »Pferdegold vs Eggersmann: Welche Pellets sind gut für die Gelenke?«
 
 _The deterministic suggestion above is generated from silence type and search-volume bucket. Treat it as a starting point, not a brief lock-in._
 
 ## Concrete moves
 
-- **Head-to-head page.** Position Pferdegold directly against St. Hippolyt for this prompt.
+- **Head-to-head page.** Position Pferdegold directly against Eggersmann for this prompt.
 - **Retailer placement.** Inspect top-cited domains; ensure product assets and schema tags are present.
 - **Schema.org/Product markup** matching competitor-equivalent spec fields.
 - **Editorial earned mentions.** Pitch study-backed angles to domains in the Editorial source class.

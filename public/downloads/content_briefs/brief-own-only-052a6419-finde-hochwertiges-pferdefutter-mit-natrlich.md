@@ -1,6 +1,6 @@
 # Drift Radar – »Finde hochwertiges Pferdefutter mit natürlichen Inhaltsstoffen.«
 
-**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
+**Prompt ID:** `pr_052a6419-3a6e-49c5-9995-e2812de6cb50`  ·  **Topic:** Pferde Nahrungsergänzungsmittel  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-29 → 2026-07-01
 
 ## Engine visibility
 
@@ -16,22 +16,23 @@
 
 - **Marstall** – top visibility 100 %  (Gemini 100 %)
 - **St. Hippolyt** – top visibility 100 %  (Gemini 100 %, ChatGPT 33 %)
-- **Pavo** – top visibility 67 %  (Gemini 67 %)
+- **Pavo** – top visibility 67 %  (Gemini 67 %, ChatGPT 33 %)
 - **Eggersmann** – top visibility 33 %  (ChatGPT 33 %)
 - **Höveler** – top visibility 33 %  (ChatGPT 33 %)
 
 ## Citation source mix
 
-- **Corporate:** 100.0 %
+- **Editorial:** 4.0 %
+- **Corporate:** 96.0 %
 
 **Top cited domains**
 
-- `semhof.de` – CORPORATE, retrieved 50 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 50 % of chats
-- `furago.de` – CORPORATE, retrieved 50 % of chats
+- `semhof.de` – CORPORATE, retrieved 50 % of chats
+- `furago.de` – CORPORATE, retrieved 33 % of chats
 - `lexa-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
-- `eohippos-pferdefutter.de` – CORPORATE, retrieved 33 % of chats
 - `natuerlich-pferd.com` – CORPORATE, retrieved 33 % of chats
+- `check24.de` – CORPORATE, retrieved 17 % of chats
 
 ## Suggested article
 

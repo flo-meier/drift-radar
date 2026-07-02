@@ -1,6 +1,6 @@
 # Drift Radar – »Brauche ich für mein nervöses Sportpferd Magnesium pur oder ein Tryptophan-Komplex?«
 
-**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
+**Prompt ID:** `pr_c75632de-0882-4a7e-8c57-361e09589bec`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-29 → 2026-07-01
 
 ## Engine visibility
 
@@ -14,21 +14,21 @@
 
 ## Citation source mix
 
-- **Own:** 3.8 %
-- **Ugc:** 7.5 %
-- **Reference:** 11.3 %
-- **Institutional:** 1.9 %
-- **Corporate:** 60.4 %
-- **Other:** 15.1 %
+- **Own:** 5.5 %
+- **Ugc:** 8.1 %
+- **Reference:** 13.8 %
+- **Institutional:** 8.1 %
+- **Corporate:** 45.6 %
+- **Other:** 19.0 %
 
 **Top cited domains**
 
-- `iwest.de` – CORPORATE, retrieved 44 % of chats
-- `discountfutter.shop` – CORPORATE, retrieved 33 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 33 % of chats
-- `masterhorse.de` – CORPORATE, retrieved 33 % of chats
-- `askheltie.com` – UGC, retrieved 33 % of chats
-- `go4vet.com` – REFERENCE, retrieved 33 % of chats
+- `go4vet.com` – REFERENCE, retrieved 38 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 25 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
+- `wiley.com` – OTHER, retrieved 25 % of chats
+- `discountfutter.shop` – CORPORATE, retrieved 25 % of chats
+- `masterhorse.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 

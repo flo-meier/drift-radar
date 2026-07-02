@@ -1,14 +1,14 @@
 # Drift Radar – »Vergleiche die Inhaltsstoffe von natürlichen Nervenpellets für gestresste Pferde.«
 
-**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-28 → 2026-06-30
+**Prompt ID:** `pr_0ef83482-0bdc-4b69-b5e1-8d9fa4a354fd`  ·  **Topic:** Natürliche Pferdepflege  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-29 → 2026-07-01
 
 ## Engine visibility
 
 - **ChatGPT:** 33 %
-- **Gemini:** 33 %
+- **Gemini:** 0 %
 - **AI Overview:** 33 %
 
-**Divergence score:** 0.00  (range 0 – 1; 0 = engines agree, 1 = total divergence)
+**Divergence score:** 0.34  (range 0 – 1; 0 = engines agree, 1 = total divergence)
 
 ## What the engines say
 
@@ -23,7 +23,7 @@
 
 > ChatGPT answers the question as stated – pure ingredient comparison – and never transitions to brand recommendations.
 
-### Gemini – visibility 33 %
+### Gemini – visibility 0 %
 
 **Brands cited (tracked):** _none_
 
@@ -49,23 +49,23 @@ _No claims overlap across two or more engines. Every engine answers with its own
 
 ## Citation source mix
 
-- **Own:** 4.9 %
-- **Competitor:** 3.7 %
-- **Editorial:** 1.2 %
-- **Ugc:** 3.7 %
-- **Reference:** 7.3 %
-- **Institutional:** 1.2 %
-- **Corporate:** 76.8 %
-- **Other:** 1.2 %
+- **Own:** 7.8 %
+- **Competitor:** 3.8 %
+- **Editorial:** 1.3 %
+- **Ugc:** 1.3 %
+- **Reference:** 3.8 %
+- **Institutional:** 1.3 %
+- **Corporate:** 79.4 %
+- **Other:** 1.3 %
 
 **Top cited domains**
 
-- `pferde-gold.de` – OWN, retrieved 44 % of chats
-- `amazon.de` – CORPORATE, retrieved 44 % of chats
-- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 44 % of chats
+- `pferde-gold.de` – OWN, retrieved 67 % of chats
 - `pferdefutter.de` – CORPORATE, retrieved 44 % of chats
-- `reiter-guide.de` – REFERENCE, retrieved 44 % of chats
+- `amazon.de` – CORPORATE, retrieved 33 % of chats
 - `masterhorse.de` – CORPORATE, retrieved 33 % of chats
+- `pandalis-tiergesundheit.de` – CORPORATE, retrieved 33 % of chats
+- `pavo-futter.de` – CORPORATE, retrieved 33 % of chats
 
 ## Suggested article
 

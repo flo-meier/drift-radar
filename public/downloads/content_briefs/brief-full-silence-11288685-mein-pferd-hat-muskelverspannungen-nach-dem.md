@@ -1,6 +1,6 @@
 # Drift Radar – »Mein Pferd hat Muskelverspannungen nach dem Training – hilft Magnesium?«
 
-**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-17 → 2026-06-19
+**Prompt ID:** `pr_11288685-3e51-433b-a4aa-d849e1800ea1`  ·  **Topic:** ?  ·  **Volume:** – (Peec bucket)  ·  **Date range:** 2026-06-29 → 2026-07-01
 
 ## Engine visibility
 
@@ -14,21 +14,22 @@
 
 ## Citation source mix
 
-- **Own:** 4.3 %
-- **Ugc:** 5.8 %
-- **Reference:** 1.4 %
-- **Institutional:** 4.3 %
-- **Corporate:** 81.2 %
-- **Other:** 2.9 %
+- **Own:** 7.1 %
+- **Editorial:** 2.2 %
+- **Ugc:** 4.5 %
+- **Reference:** 18.2 %
+- **Institutional:** 20.6 %
+- **Corporate:** 45.2 %
+- **Other:** 2.2 %
 
 **Top cited domains**
 
-- `agrobs.de` – CORPORATE, retrieved 56 % of chats
-- `equusvitalis.de` – CORPORATE, retrieved 56 % of chats
-- `natural-horse-care.com` – CORPORATE, retrieved 44 % of chats
-- `winnies.de` – CORPORATE, retrieved 33 % of chats
-- `dochorse.de` – CORPORATE, retrieved 33 % of chats
-- `barynesse.com` – CORPORATE, retrieved 33 % of chats
+- `pferde-gold.de` – OWN, retrieved 38 % of chats
+- `dr-susanne-weyrauch.de` – INSTITUTIONAL, retrieved 38 % of chats
+- `nih.gov` – INSTITUTIONAL, retrieved 25 % of chats
+- `sciencedirect.com` – REFERENCE, retrieved 25 % of chats
+- `pferdperfekt.com` – CORPORATE, retrieved 25 % of chats
+- `winnies.de` – CORPORATE, retrieved 25 % of chats
 
 ## Suggested article
 
